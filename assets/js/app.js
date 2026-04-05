@@ -87,40 +87,8 @@
         });
     });
 
-    // Recipe Category Filter (Client-side)
-    const filterButtons = document.querySelectorAll('.filter-btn');
-    const recipeCards = document.querySelectorAll('.recipe-card');
-
-    if (filterButtons.length > 0 && recipeCards.length > 0) {
-        filterButtons.forEach(function(btn) {
-            btn.addEventListener('click', function() {
-                const category = this.dataset.category;
-
-                // Update active state
-                filterButtons.forEach(function(b) {
-                    b.classList.remove('is-active');
-                });
-                this.classList.add('is-active');
-
-                // Filter cards with animation
-                recipeCards.forEach(function(card) {
-                    const cardCategory = card.dataset.category;
-
-                    if (category === 'all' || cardCategory === category) {
-                        card.style.display = '';
-                        card.classList.remove('is-hidden');
-                    } else {
-                        card.classList.add('is-hidden');
-                        setTimeout(function() {
-                            if (card.classList.contains('is-hidden')) {
-                                card.style.display = 'none';
-                            }
-                        }, 300);
-                    }
-                });
-            });
-        });
-    }
+    // Recipe Category Filter is handled inline in recetas.php
+    // (supports comma-separated categories per card)
 
     // Search Functionality
     const searchInput = document.querySelector('.search__input');

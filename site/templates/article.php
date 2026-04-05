@@ -70,7 +70,7 @@
 
             <!-- Main Content (Blocks) -->
             <div class="article__body" itemprop="articleBody">
-                <?php foreach ($page->content()->toBlocks() as $block): ?>
+                <?php foreach ($page->content()->get('content')->toBlocks() as $block): ?>
                     <div class="block block-<?= $block->type() ?>">
                         <?= $block ?>
                     </div>

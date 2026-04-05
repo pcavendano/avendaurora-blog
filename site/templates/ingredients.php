@@ -33,7 +33,7 @@
         <!-- Ingredients Grid -->
         <div class="ingredient-grid">
             <?php
-            $ingredients = $page->children()->listed()->sortBy('title', 'asc');
+            $ingredients = $page->children()->sortBy('title', 'asc');
             foreach ($ingredients as $ingredient):
             ?>
             <article class="ingredient-card" data-category="<?= $ingredient->category() ?>">

@@ -27,9 +27,6 @@
             <?php endforeach ?>
         </div>
 
-        <!-- Debug: Show child count -->
-        <p style="background: #ffeb3b; padding: 10px;">Debug: Found <?= $page->children()->count() ?> child pages</p>
-
         <!-- Recipe Grid -->
         <div class="recipe-grid" id="recipe-grid">
             <?php
