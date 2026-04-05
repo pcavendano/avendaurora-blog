@@ -2,39 +2,55 @@ Title: Inicio
 
 ----
 
-Hero-title: Cocina Mexicana Auténtica
+Hero-title: Chef Aurora Avendano
 
 ----
 
-Hero-subtitle: Recetas tradicionales, ingredientes frescos y el sabor de México en tu mesa
+Hero-subtitle: Cocina Mexicana con Alma Veracruzana en Montreal
 
 ----
 
-Hero-cta-text: Explorar Recetas
+Hero-description: Con más de 15 años de experiencia en la industria culinaria, mi pasión es crear experiencias gastronómicas memorables que honren tanto las tradiciones como la innovación.
 
 ----
 
-Hero-cta-link: recetas
+Hero-cta-text: Conoce Mi Historia
 
 ----
 
-Hero-image: 
+Hero-cta-link: about
 
 ----
 
-Featured-title: Recetas Destacadas
+Hero-image:
 
 ----
 
-Featured-recipes: 
+About-title: Mi Historia
 
 ----
 
-Ingredient-highlight-title: Ingrediente del Mes
+About-subtitle: Chef Profesional | Montreal, Quebec
 
 ----
 
-Featured-ingredient: 
+About-text: Nacida en Veracruz, México, y establecida en Montreal desde hace más de dos décadas, he dedicado mi vida a perfeccionar el arte culinario. Mi formación combina la rica herencia de la cocina mexicana con las técnicas refinadas de la gastronomía francesa. Cada receta que comparto cuenta una historia — de tradición, de familia, de sabores que cruzan fronteras.
+
+----
+
+About-image:
+
+----
+
+Featured-title: Desde Mi Cocina
+
+----
+
+Featured-recipes:
+
+----
+
+Featured-ingredient:
 
 ----
 
@@ -42,11 +58,7 @@ Categories-title: Explora por Categoría
 
 ----
 
-Stores-title: Tiendas Asociadas
-
-----
-
-Featured-stores: 
+Show-categories: true
 
 ----
 

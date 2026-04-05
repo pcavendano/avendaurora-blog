@@ -12,7 +12,7 @@ columns:
             label: Título del Hero
             type: text
             translate: true
-            default: Avenda Aurora
+            default: Chef Aurora Avendano
 
           hero_subtitle:
             label: Subtítulo
@@ -23,57 +23,73 @@ columns:
             label: Descripción
             type: textarea
             translate: true
+            size: small
 
           hero_image:
-            label: Imagen del Hero
+            label: Foto de Aurora
             type: files
             max: 1
             layout: cards
+            help: Imagen principal del hero (recomendado 800x800px)
 
           hero_cta_text:
-            label: Texto del Botón
+            label: Texto del Botón Principal
             type: text
             translate: true
-            default: Ver Recetas
+            default: Conoce Mi Historia
 
           hero_cta_link:
-            label: Link del Botón
+            label: Link del Botón Principal
             type: pages
             max: 1
-
-      featured:
-        type: fields
-        fields:
-          featured_recipes:
-            label: Recetas Destacadas
-            type: pages
-            query: site.find('recetas').index.filterBy('is_featured', true)
-            max: 8
-
-          featured_ingredient:
-            label: Ingrediente Destacado (Sabías que...)
-            type: pages
-            query: site.find('ingredientes').index
-            max: 1
-            help: Se mostrará la relación con otros ingredientes
 
       about_section:
         type: fields
         fields:
           about_title:
-            label: Título Sección Chef
+            label: Título Sección Aurora
             type: text
             translate: true
-            default: Sobre el Chef
+            default: Mi Historia
+
+          about_subtitle:
+            label: Subtítulo (cargo/ubicación)
+            type: text
+            translate: true
+            help: "Ej: Chef Profesional | Montreal, Quebec"
 
           about_text:
-            label: Texto Breve
+            label: Texto de Presentación
             type: textarea
             translate: true
+            help: Breve biografía que aparece en la página principal
 
           about_image:
-            label: Foto del Chef
+            label: Foto de Aurora
             type: files
+            max: 1
+
+      featured:
+        type: fields
+        fields:
+          featured_title:
+            label: Título Sección Recetas
+            type: text
+            translate: true
+            default: Desde Mi Cocina
+            help: "Ej: Desde Mi Cocina, Mis Recetas, Mi Trabajo"
+
+          featured_recipes:
+            label: Recetas Destacadas
+            type: pages
+            query: site.find('recetas').children
+            max: 8
+            help: Selecciona las recetas que mejor representen tu trabajo
+
+          featured_ingredient:
+            label: Ingrediente Destacado (Sabías que...)
+            type: pages
+            query: site.find('ingredientes').children
             max: 1
 
   sidebar:
@@ -87,21 +103,8 @@ columns:
             type: toggle
             default: true
 
-          category_order:
-            label: Orden de Categorías
-            type: tags
-            options:
-              antojitos: Antojitos
-              platos-fuertes: Platos Fuertes
-              sopas-caldos: Sopas
-              mariscos: Mariscos
-              postres: Postres
-              bebidas: Bebidas
-
-      stores:
-        type: fields
-        fields:
-          show_stores:
-            label: Mostrar Tiendas Asociadas
-            type: toggle
-            default: true
+          categories_title:
+            label: Título Sección Categorías
+            type: text
+            translate: true
+            default: Explora por Categoría

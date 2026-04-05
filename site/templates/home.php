@@ -11,10 +11,15 @@
             <?php if ($page->hero_description()->isNotEmpty()): ?>
                 <p class="hero__description"><?= $page->hero_description() ?></p>
             <?php endif ?>
-            <a href="<?= $page->hero_cta_link()->toPage() ? $page->hero_cta_link()->toPage()->url() : url('recetas') ?>"
-               class="hero__cta btn btn--primary">
-                <?= $page->hero_cta_text()->or(t('nav.recipes')) ?>
-            </a>
+            <div class="hero__ctas">
+                <a href="<?= $page->hero_cta_link()->toPage() ? $page->hero_cta_link()->toPage()->url() : url('about') ?>"
+                   class="hero__cta btn btn--primary">
+                    <?= $page->hero_cta_text()->or('Conoce Mi Historia') ?>
+                </a>
+                <a href="<?= url('recetas') ?>" class="hero__cta btn btn--outline">
+                    <?= t('nav.mi_cocina') ?> &rarr;
+                </a>
+            </div>
         </div>
         <?php if ($heroImage = $page->hero_image()->toFile()): ?>
             <div class="hero__image">
@@ -24,11 +29,35 @@
     </div>
 </section>
 
-<!-- Featured Recipes -->
+<!-- About Chef Section -->
+<?php if ($page->about_title()->isNotEmpty()): ?>
+<section class="section section--about">
+    <div class="container">
+        <div class="about-preview">
+            <?php if ($aboutImage = $page->about_image()->toFile()): ?>
+                <div class="about-preview__image">
+                    <img src="<?= $aboutImage->thumb(['width' => 500, 'height' => 500, 'crop' => true])->url() ?>"
+                         alt="<?= $page->about_title() ?>">
+                </div>
+            <?php endif ?>
+            <div class="about-preview__content">
+                <h2 class="about-preview__title"><?= $page->about_title() ?></h2>
+                <?php if ($page->about_subtitle()->isNotEmpty()): ?>
+                    <p class="about-preview__subtitle"><?= $page->about_subtitle() ?></p>
+                <?php endif ?>
+                <div class="about-preview__text"><?= $page->about_text()->kt() ?></div>
+                <a href="<?= url('about') ?>" class="btn btn--outline"><?= t('general.read_more') ?> &rarr;</a>
+            </div>
+        </div>
+    </div>
+</section>
+<?php endif ?>
+
+<!-- Featured Recipes / Mi Cocina -->
 <section class="section section--recipes">
     <div class="container">
         <header class="section__header">
-            <h2 class="section__title">Recetas Recientes</h2>
+            <h2 class="section__title"><?= $page->featured_title()->or(t('home.from_my_kitchen')) ?></h2>
             <a href="<?= url('recetas') ?>" class="section__link"><?= t('general.view_all') ?> &rarr;</a>
         </header>
 
@@ -36,7 +65,7 @@
             <?php
             $recipes = $page->featured_recipes()->toPages();
             if ($recipes->isEmpty()) {
-                $recipes = page('recetas')->children()->listed()->sortBy('date', 'desc')->limit(8);
+                $recipes = page('recetas')->children()->sortBy('title', 'asc')->limit(8);
             }
             foreach ($recipes as $recipe):
                 snippet('recipe-card', ['recipe' => $recipe]);
@@ -46,7 +75,37 @@
     </div>
 </section>
 
-<!-- Featured Ingredient (Did You Know) -->
+<!-- Categories -->
+<?php if ($page->show_categories()->toBool(true)): ?>
+<section class="section section--categories">
+    <div class="container">
+        <header class="section__header">
+            <h2 class="section__title"><?= $page->categories_title()->or('Explora por Categoría') ?></h2>
+        </header>
+
+        <div class="category-grid">
+            <?php
+            $categories = [
+                'antojitos' => ['icon' => '🌮'],
+                'platos-fuertes' => ['icon' => '🍖'],
+                'sopas-caldos' => ['icon' => '🍲'],
+                'mariscos' => ['icon' => '🦐'],
+                'postres' => ['icon' => '🍮'],
+                'bebidas' => ['icon' => '🍹'],
+            ];
+            foreach ($categories as $slug => $data):
+            ?>
+            <a href="<?= url('recetas') ?>?category=<?= $slug ?>" class="category-card">
+                <span class="category-card__icon"><?= $data['icon'] ?></span>
+                <span class="category-card__title"><?= t('category.' . $slug) ?></span>
+            </a>
+            <?php endforeach ?>
+        </div>
+    </div>
+</section>
+<?php endif ?>
+
+<!-- Featured Ingredient -->
 <?php if ($featuredIngredient = $page->featured_ingredient()->toPage()): ?>
 <section class="section section--ingredient-highlight">
     <div class="container">
@@ -78,84 +137,6 @@
         </div>
     </div>
 </section>
-<?php endif ?>
-
-<!-- Categories -->
-<?php if ($page->show_categories()->toBool(true)): ?>
-<section class="section section--categories">
-    <div class="container">
-        <header class="section__header">
-            <h2 class="section__title">Explora por Categoría</h2>
-        </header>
-
-        <div class="category-grid">
-            <?php
-            $categories = [
-                'antojitos' => ['icon' => '🌮', 'image' => 'antojitos.jpg'],
-                'platos-fuertes' => ['icon' => '🍖', 'image' => 'platos-fuertes.jpg'],
-                'sopas-caldos' => ['icon' => '🍲', 'image' => 'sopas.jpg'],
-                'mariscos' => ['icon' => '🦐', 'image' => 'mariscos.jpg'],
-                'postres' => ['icon' => '🍮', 'image' => 'postres.jpg'],
-                'bebidas' => ['icon' => '🍹', 'image' => 'bebidas.jpg'],
-            ];
-            foreach ($categories as $slug => $data):
-            ?>
-            <a href="<?= url('recetas') ?>?category=<?= $slug ?>" class="category-card">
-                <span class="category-card__icon"><?= $data['icon'] ?></span>
-                <span class="category-card__title"><?= t('category.' . $slug) ?></span>
-            </a>
-            <?php endforeach ?>
-        </div>
-    </div>
-</section>
-<?php endif ?>
-
-<!-- About Chef Section -->
-<?php if ($page->about_title()->isNotEmpty()): ?>
-<section class="section section--about">
-    <div class="container">
-        <div class="about-preview">
-            <?php if ($aboutImage = $page->about_image()->toFile()): ?>
-                <div class="about-preview__image">
-                    <img src="<?= $aboutImage->thumb(['width' => 500, 'height' => 500, 'crop' => true])->url() ?>"
-                         alt="<?= $page->about_title() ?>">
-                </div>
-            <?php endif ?>
-            <div class="about-preview__content">
-                <h2 class="about-preview__title"><?= $page->about_title() ?></h2>
-                <p class="about-preview__text"><?= $page->about_text() ?></p>
-                <a href="<?= url('about') ?>" class="btn btn--outline"><?= t('general.read_more') ?></a>
-            </div>
-        </div>
-    </div>
-</section>
-<?php endif ?>
-
-<!-- Partner Stores -->
-<?php if ($page->show_stores()->toBool(true)): ?>
-<?php $stores = page('tiendas')->children()->listed(); ?>
-<?php if ($stores->isNotEmpty()): ?>
-<section class="section section--stores">
-    <div class="container">
-        <header class="section__header">
-            <h2 class="section__title">Tiendas Asociadas</h2>
-            <p class="section__subtitle">Compra tus ingredientes en estas tiendas</p>
-        </header>
-
-        <div class="store-logos">
-            <?php foreach ($stores as $store): ?>
-                <a href="<?= $store->url() ?>" class="store-logo">
-                    <?php if ($logo = $store->logo()->toFile()): ?>
-                        <img src="<?= $logo->thumb(['width' => 150])->url() ?>" alt="<?= $store->title() ?>">
-                    <?php else: ?>
-                        <span><?= $store->title() ?></span>
-                    <?php endif ?>
-                </a>
-            <?php endforeach ?>
-        </div>
-    </div>
-</section>
-<?php endif ?>
 <?php endif ?>
 
 <?php snippet('footer') ?>

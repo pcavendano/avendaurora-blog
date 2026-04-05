@@ -11,15 +11,15 @@ return [
         // Navigation
         'nav.home' => 'Inicio',
         'nav.recipes' => 'Recetas',
+        'nav.mi_cocina' => 'Mi Cocina',
         'nav.ingredients' => 'Ingredientes',
         'nav.stores' => 'Tiendas',
-        'nav.shop' => 'Tienda',
-        'nav.about' => 'Nosotros',
+        'nav.about' => 'Aurora',
         'nav.contact' => 'Contacto',
         'nav.search' => 'Buscar',
-        'nav.login' => 'Iniciar Sesión',
-        'nav.account' => 'Mi Cuenta',
-        'nav.cart' => 'Carrito',
+
+        // Home page
+        'home.from_my_kitchen' => 'Desde Mi Cocina',
 
         // Recipe categories
         'category.antojitos' => 'Antojitos y Botanas',

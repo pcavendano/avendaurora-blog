@@ -47,13 +47,13 @@
         <nav class="header__nav">
             <ul class="nav">
                 <li class="nav__item">
-                    <a href="<?= page('recetas')->url() ?>" class="nav__link <?= $page->is(page('recetas')) || $page->parent() && $page->parent()->is(page('recetas')) ? 'is-active' : '' ?>">
-                        <?= t('nav.recipes') ?>
+                    <a href="<?= page('about')->url() ?>" class="nav__link <?= $page->is(page('about')) ? 'is-active' : '' ?>">
+                        Aurora
                     </a>
                 </li>
                 <li class="nav__item">
-                    <a href="<?= page('ingredientes')->url() ?>" class="nav__link <?= $page->is(page('ingredientes')) ? 'is-active' : '' ?>">
-                        <?= t('nav.ingredients') ?>
+                    <a href="<?= page('recetas')->url() ?>" class="nav__link <?= $page->is(page('recetas')) || $page->parent() && $page->parent()->is(page('recetas')) ? 'is-active' : '' ?>">
+                        <?= t('nav.mi_cocina') ?>
                     </a>
                 </li>
                 <li class="nav__item">
@@ -62,8 +62,8 @@
                     </a>
                 </li>
                 <li class="nav__item">
-                    <a href="<?= page('about')->url() ?>" class="nav__link <?= $page->is(page('about')) ? 'is-active' : '' ?>">
-                        <?= t('nav.about') ?>
+                    <a href="<?= page('about')->url() ?>#contacto" class="nav__link">
+                        <?= t('nav.contact') ?>
                     </a>
                 </li>
             </ul>

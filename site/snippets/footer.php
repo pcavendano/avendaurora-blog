@@ -38,7 +38,7 @@
 
             <!-- Quick Links -->
             <div class="footer__links">
-                <h4 class="footer__title"><?= t('nav.recipes') ?></h4>
+                <h4 class="footer__title"><?= t('nav.mi_cocina') ?></h4>
                 <ul>
                     <li><a href="<?= url('recetas') ?>?category=antojitos"><?= t('category.antojitos') ?></a></li>
                     <li><a href="<?= url('recetas') ?>?category=platos-fuertes"><?= t('category.platos-fuertes') ?></a></li>

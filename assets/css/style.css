@@ -357,9 +357,50 @@ h4 { font-size: 1.25rem; }
     margin-bottom: var(--space-xl);
 }
 
+.hero__ctas {
+    display: flex;
+    gap: var(--space-md);
+    flex-wrap: wrap;
+}
+
 .hero__image img {
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-lg);
+}
+
+/* About Preview (Homepage) */
+.about-preview {
+    display: grid;
+    gap: var(--space-xl);
+    align-items: center;
+}
+
+@media (min-width: 768px) {
+    .about-preview {
+        grid-template-columns: 1fr 1.5fr;
+    }
+}
+
+.about-preview__image img {
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+}
+
+.about-preview__title {
+    font-size: 2rem;
+    margin-bottom: var(--space-sm);
+}
+
+.about-preview__subtitle {
+    color: var(--color-primary);
+    font-weight: 500;
+    margin-bottom: var(--space-lg);
+}
+
+.about-preview__text {
+    color: var(--color-text-light);
+    margin-bottom: var(--space-lg);
+    line-height: 1.8;
 }
 
 /* ----------------------------------------
