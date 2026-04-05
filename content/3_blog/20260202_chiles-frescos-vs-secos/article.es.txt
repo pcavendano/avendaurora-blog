@@ -10,57 +10,127 @@ Cover:
 
 ----
 
-Intro:
-
-En la cocina mexicana, los chiles son mucho más que un ingrediente picante. Son el alma de nuestros platillos, aportando profundidad, complejidad y carácter único. Pero ¿sabías que un mismo chile puede tener nombres completamente diferentes dependiendo de si está fresco o seco? Hoy exploraremos este fascinante mundo de transformación culinaria.
+Intro: En la cocina mexicana, los chiles son mucho más que un ingrediente picante. Son el alma de nuestros platillos, aportando profundidad, complejidad y carácter único. Pero ¿sabías que un mismo chile puede tener nombres completamente diferentes dependiendo de si está fresco o seco? Hoy exploraremos este fascinante mundo de transformación culinaria.
 
 ----
 
 Content:
 
 -
-  content: "<h2>La Magia de la Transformación</h2><p>Cuando un chile se seca, ya sea al sol, ahumado o deshidratado, ocurre una metamorfosis química asombrosa. Los azúcares se concentran, se desarrollan nuevos compuestos aromáticos, y el perfil de sabor cambia dramáticamente. Es como si naciera un ingrediente completamente nuevo.</p>"
+  content:
+    level: h2
+    text: La Magia de la Transformación
   id: 1a
   isHidden: false
+  type: heading
+-
+  content:
+    text: "<p>Cuando un chile se seca, ya sea al sol, ahumado o deshidratado, ocurre una metamorfosis química asombrosa. Los azúcares se concentran, se desarrollan nuevos compuestos aromáticos, y el perfil de sabor cambia dramáticamente. Es como si naciera un ingrediente completamente nuevo.</p><p>Este proceso no es exclusivo de México, pero ninguna otra cocina del mundo lo ha explorado con tanta profundidad y creatividad. Cada chile fresco tiene su contraparte seca, y cada uno tiene un nombre diferente, un sabor diferente, y un uso culinario completamente distinto.</p>"
+  id: 1b
+  isHidden: false
   type: text
 -
-  content: "<h2>Jalapeño → Chipotle</h2><p>El ejemplo más conocido de esta transformación es el jalapeño. Fresco, el jalapeño ofrece un picor medio con notas vegetales y frescas. Pero cuando se ahúma y se seca, se convierte en el famoso <strong>chipotle</strong>.</p><p>El chipotle tiene un sabor completamente diferente: ahumado, terroso, con notas de chocolate y tabaco. Es esencial en adobos, salsas y marinadas. La próxima vez que pruebes unos tacos con salsa de chipotle, recuerda que comenzó como un humilde jalapeño.</p>"
+  content:
+    level: h2
+    text: "Jalapeño → Chipotle"
   id: 2a
   isHidden: false
+  type: heading
+-
+  content:
+    text: "<p>El ejemplo más conocido de esta transformación es el jalapeño. Fresco, el jalapeño ofrece un picor medio con notas vegetales y frescas. Pero cuando se ahúma y se seca, se convierte en el famoso <strong>chipotle</strong>.</p><p>El chipotle tiene un sabor completamente diferente: ahumado, terroso, con notas de chocolate y tabaco. Es esencial en adobos, salsas y marinadas. La próxima vez que pruebes unos tacos con salsa de chipotle, recuerda que comenzó como un humilde jalapeño.</p><p>El proceso de ahumado tradicional usa leña de mezquite o encino, y puede tomar varios días. Los chiles se colocan en grandes parrillas sobre brasas a fuego bajo, hasta que pierden casi toda su humedad pero retienen los aceites esenciales que les dan su sabor característico.</p>"
+  id: 2b
+  isHidden: false
   type: text
 -
-  content: "<h2>Poblano → Ancho / Mulato</h2><p>El chile poblano es uno de los más versátiles de México. Fresco, es suave y perfecto para rellenar (¡chiles rellenos!). Tiene un sabor ligeramente dulce con un picor muy bajo.</p><p>Cuando se seca, el poblano se transforma en <strong>chile ancho</strong> (si era verde-rojo al secarse) o <strong>chile mulato</strong> (si era más oscuro). El ancho tiene notas de fruta seca, ciruela y un toque de chocolate. Es la base del mole poblano y muchas otras salsas tradicionales.</p>"
+  content:
+    level: h2
+    text: "Poblano → Ancho / Mulato"
   id: 3a
   isHidden: false
+  type: heading
+-
+  content:
+    text: "<p>El chile poblano es uno de los más versátiles de México. Fresco, es suave y perfecto para rellenar (¡chiles rellenos!). Tiene un sabor ligeramente dulce con un picor muy bajo.</p><p>Cuando se seca, el poblano se transforma en <strong>chile ancho</strong> (si era verde-rojo al secarse) o <strong>chile mulato</strong> (si era más oscuro). El ancho tiene notas de fruta seca, ciruela y un toque de chocolate. Es la base del mole poblano y muchas otras salsas tradicionales.</p><p>Para distinguirlos fácilmente: el ancho es de color rojo oscuro y al trasluz se ve rojizo. El mulato es casi negro y al trasluz se ve marrón chocolatoso. Ambos son indispensables en la cocina mexicana.</p>"
+  id: 3b
+  isHidden: false
   type: text
 -
-  content: "<h2>Serrano → Chile Seco / Morita</h2><p>El serrano fresco es más picante que el jalapeño, con un sabor brillante y herbáceo. Es perfecto para salsas verdes y pico de gallo.</p><p>Seco, se vuelve el <strong>chile seco</strong> o, si se ahúma ligeramente, <strong>morita</strong>. El morita es como el hermano pequeño del chipotle: ahumado pero más picante y con un tamaño menor.</p>"
+  content:
+    level: h2
+    text: "Serrano → Chile Seco / Morita"
   id: 4a
   isHidden: false
+  type: heading
+-
+  content:
+    text: "<p>El serrano fresco es más picante que el jalapeño, con un sabor brillante y herbáceo. Es perfecto para salsas verdes y pico de gallo.</p><p>Seco, se vuelve el <strong>chile seco</strong> o, si se ahúma ligeramente, <strong>morita</strong>. El morita es como el hermano pequeño del chipotle: ahumado pero más picante y con un tamaño menor. Es ideal para salsas donde quieres un toque ahumado sin dominar los demás sabores.</p>"
+  id: 4b
+  isHidden: false
   type: text
 -
-  content: "<h2>Mirasol → Guajillo</h2><p>El chile mirasol fresco rara vez se encuentra fuera de México. Tiene un picor medio y sabor afrutado.</p><p>Su versión seca, el <strong>guajillo</strong>, es uno de los chiles más usados en la cocina mexicana. Tiene un sabor ligeramente dulce, con notas de té verde y bayas. Es esencial para salsas rojas, adobos y el clásico mole rojo.</p>"
+  content:
+    level: h2
+    text: "Mirasol → Guajillo"
   id: 5a
   isHidden: false
+  type: heading
+-
+  content:
+    text: "<p>El chile mirasol fresco rara vez se encuentra fuera de México. Tiene un picor medio y sabor afrutado. Su nombre viene de que la planta crece con los chiles apuntando hacia el sol.</p><p>Su versión seca, el <strong>guajillo</strong>, es uno de los chiles más usados en la cocina mexicana. Tiene un sabor ligeramente dulce, con notas de té verde y bayas. Es esencial para salsas rojas, adobos y el clásico mole rojo. Por su color rojo intenso, también es popular para dar color a caldos y guisos sin agregar demasiado picor.</p>"
+  id: 5b
+  isHidden: false
   type: text
 -
-  content: "<h2>Chilaca → Pasilla / Negro</h2><p>El chile chilaca fresco es largo, delgado y de color verde oscuro. Tiene un sabor herbáceo con picor medio.</p><p>Seco, se convierte en <strong>chile pasilla</strong> (también llamado negro). Es casi negro, arrugado, con sabores de cocoa, pasas y hierbas. Junto con el ancho y el guajillo, forma la \"santísima trinidad\" de chiles secos para moles.</p>"
+  content:
+    level: h2
+    text: "Chilaca → Pasilla / Negro"
   id: 6a
   isHidden: false
+  type: heading
+-
+  content:
+    text: "<p>El chile chilaca fresco es largo, delgado y de color verde oscuro. Tiene un sabor herbáceo con picor medio.</p><p>Seco, se convierte en <strong>chile pasilla</strong> (también llamado negro). Es casi negro, arrugado, con sabores de cocoa, pasas y hierbas. Junto con el ancho y el guajillo, forma la \"santísima trinidad\" de chiles secos para moles. Esta triada es la base de innumerables salsas que definen la cocina mexicana.</p>"
+  id: 6b
+  isHidden: false
   type: text
 -
-  content: "<h2>Tabla Comparativa</h2><table><thead><tr><th>Chile Fresco</th><th>Chile Seco</th><th>Nivel de Picor</th><th>Notas de Sabor</th></tr></thead><tbody><tr><td>Jalapeño</td><td>Chipotle</td><td>Medio-Alto</td><td>Ahumado, terroso, chocolate</td></tr><tr><td>Poblano</td><td>Ancho</td><td>Bajo</td><td>Frutal, dulce, ciruela</td></tr><tr><td>Serrano</td><td>Morita</td><td>Alto</td><td>Ahumado, picante</td></tr><tr><td>Mirasol</td><td>Guajillo</td><td>Medio</td><td>Dulce, afrutado, té</td></tr><tr><td>Chilaca</td><td>Pasilla</td><td>Medio</td><td>Cocoa, pasas, hierbas</td></tr></tbody></table>"
+  content:
+    level: h2
+    text: Tabla Comparativa
   id: 7a
   isHidden: false
-  type: text
+  type: heading
 -
-  content: "<h2>Consejos para Usar Chiles Secos</h2><ol><li><strong>Tostar antes de usar:</strong> Tuesta los chiles secos en un comal seco por unos segundos de cada lado. Esto despierta sus aceites esenciales.</li><li><strong>Remojar correctamente:</strong> Remoja en agua caliente (no hirviendo) por 15-20 minutos hasta que estén suaves.</li><li><strong>No tires el agua:</strong> El agua de remojo tiene sabor. Úsala en tu salsa o guiso.</li><li><strong>Quita las semillas:</strong> Para un picor más controlado, retira las semillas y venas antes de remojar.</li><li><strong>Almacenamiento:</strong> Guarda los chiles secos en un lugar fresco, oscuro y seco. Duran meses o incluso años.</li></ol>"
-  id: 8a
+  content:
+    text: "<table><thead><tr><th>Chile Fresco</th><th>Chile Seco</th><th>Nivel de Picor</th><th>Notas de Sabor</th></tr></thead><tbody><tr><td>Jalapeño</td><td>Chipotle</td><td>Medio-Alto</td><td>Ahumado, terroso, chocolate</td></tr><tr><td>Poblano</td><td>Ancho</td><td>Bajo</td><td>Frutal, dulce, ciruela</td></tr><tr><td>Serrano</td><td>Morita</td><td>Alto</td><td>Ahumado, picante</td></tr><tr><td>Mirasol</td><td>Guajillo</td><td>Medio</td><td>Dulce, afrutado, té</td></tr><tr><td>Chilaca</td><td>Pasilla</td><td>Medio</td><td>Cocoa, pasas, hierbas</td></tr></tbody></table>"
+  id: 7b
   isHidden: false
   type: text
 -
-  content: "<h2>Conclusión</h2><p>Entender la relación entre chiles frescos y secos abre un mundo de posibilidades en tu cocina. No son sustitutos uno del otro, sino ingredientes completamente diferentes que pueden transformar tus platillos de maneras únicas.</p><p>La próxima vez que cocines, experimenta: prueba la misma receta con el chile fresco y luego con su versión seca. Notarás cómo cada uno aporta su propia personalidad al plato.</p><p>¿Tienes preguntas sobre algún chile específico? ¡Déjame un comentario!</p>"
+  content:
+    level: h2
+    text: Consejos para Usar Chiles Secos
+  id: 8a
+  isHidden: false
+  type: heading
+-
+  content:
+    text: "<ol><li><strong>Tostar antes de usar:</strong> Tuesta los chiles secos en un comal seco por unos segundos de cada lado. Esto despierta sus aceites esenciales y profundiza el sabor.</li><li><strong>Remojar correctamente:</strong> Remoja en agua caliente (no hirviendo) por 15-20 minutos hasta que estén suaves. El agua hirviendo puede volver los chiles amargos.</li><li><strong>No tires el agua:</strong> El agua de remojo tiene sabor concentrado. Úsala como parte del líquido en tu salsa o guiso.</li><li><strong>Quita las semillas:</strong> Para un picor más controlado, retira las semillas y venas antes de remojar. Las venas blancas son donde se concentra la capsaicina.</li><li><strong>Almacenamiento:</strong> Guarda los chiles secos en un lugar fresco, oscuro y seco en un recipiente hermético. Duran meses o incluso años sin perder sabor.</li></ol>"
+  id: 8b
+  isHidden: false
+  type: text
+-
+  content:
+    level: h2
+    text: "Conclusión"
   id: 9a
+  isHidden: false
+  type: heading
+-
+  content:
+    text: "<p>Entender la relación entre chiles frescos y secos abre un mundo de posibilidades en tu cocina. No son sustitutos uno del otro, sino ingredientes completamente diferentes que pueden transformar tus platillos de maneras únicas.</p><p>La próxima vez que cocines, experimenta: prueba la misma receta con el chile fresco y luego con su versión seca. Notarás cómo cada uno aporta su propia personalidad al plato.</p><p>Y recuerda: no hay chile \"mejor\" que otro. Cada uno tiene su lugar y su momento. La clave está en conocerlos, respetarlos, y saber cuándo usar cada uno para lograr el sabor que buscas.</p><p>¿Tienes preguntas sobre algún chile específico? ¡Déjame un comentario!</p>"
+  id: 9b
   isHidden: false
   type: text
 
