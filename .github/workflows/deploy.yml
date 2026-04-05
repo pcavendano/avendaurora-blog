@@ -1,0 +1,67 @@
+name: Deploy Avenda Aurora to Digital Ocean
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.2"
+          tools: composer:v2
+          coverage: none
+
+      - name: Validate composer.json
+        run: composer validate --no-check-publish
+
+      - name: Install composer dependencies (CI check)
+        run: composer install --no-dev --prefer-dist --no-progress --no-interaction
+
+      - name: Deploy to droplet
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.DO_DROPLET_IP }}
+          username: ${{ secrets.DO_SSH_USER }}
+          key: ${{ secrets.DO_SSH_PRIVATE_KEY }}
+          script: |
+            set -e
+
+            SITE_DIR="/home/ploi/avendaurora.pcavendano.com"
+            REPO_URL="https://github.com/${{ github.repository }}.git"
+
+            # First deploy: initialize git in the Ploi site directory.
+            # We init-in-place instead of `git clone` because Ploi pre-creates
+            # the site dir (so it isn't empty) when the site is added.
+            if [ ! -d "$SITE_DIR/.git" ]; then
+              mkdir -p "$SITE_DIR"
+              cd "$SITE_DIR"
+              git init -q
+              git remote add origin "$REPO_URL" 2>/dev/null || git remote set-url origin "$REPO_URL"
+            fi
+
+            cd "$SITE_DIR"
+            git fetch origin main
+            git reset --hard origin/main
+            git clean -fd -e storage -e media -e vendor
+
+            # Install PHP dependencies for production
+            composer install --no-dev --optimize-autoloader --no-interaction --no-progress
+
+            # Ensure runtime directories exist and are writable by PHP-FPM (ploi user)
+            mkdir -p storage/accounts storage/cache storage/sessions storage/logs media
+            chmod -R 775 storage media
+
+            # Clear Kirby page + thumb caches so config changes take effect.
+            # index.php already calls opcache_reset() on each request, so no
+            # PHP-FPM reload is needed.
+            rm -rf storage/cache/*
+            rm -rf media/pages/* media/site 2>/dev/null || true
+
+            echo "Avenda Aurora deploy complete!"
