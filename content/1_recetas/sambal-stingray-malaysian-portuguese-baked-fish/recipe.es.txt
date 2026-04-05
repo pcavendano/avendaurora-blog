@@ -1,0 +1,196 @@
+Title: Sambal Stingray (Malaysian-Portuguese Baked Fish)
+
+----
+
+Category: mariscos, platos-fuertes
+
+----
+
+Description: Bake your fish the Malaysian Portuguese way—with a spice paste and plenty of banana leaves.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: red onions or Asian shallots , peeled and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: ounce
+  ingredient: stemmed whole dried Kashmiri chilies , soaked for at least 20 minutes in hot water and drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: candlenuts
+  preparation: about 10 whole candlenuts ; see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: stalks lemongrass , bottom 4 to 5 inches only, outer leaves discarded, tender core thinly sliced
+  preparation: about 2 ounces ; 60 g sliced lemongrass
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: makrut lime leaves , roughly torn
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: bone-in, skinless skate wing or skin-on snapper fillets , cut into 2-by-4-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thawed frozen or fresh banana leaves , cut into about 3 2-foot strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: calamansi or Persian lime , halved and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked white rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and preheat oven to 350℉ (180℃). Line a quarter- or half-sheet pan or 10-inch cast-iron skillet with parchment paper or aluminum foil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the bowl of a food processor, add onions, soaked chiles, candlenuts, and lemongrass. Process until fairly smooth, 2 to 3 minutes, scraping down sides of food processor bowl if necessary.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a wok or 10-inch skillet, heat vegetable oil over medium-high heat. Once oil begins to shimmer (but not smoke), scrape contents of food processor bowl into oil along with the makrut lime leaves. Bring to a bubble, then reduce heat to medium-low and cook the spice paste, stirring and scraping occasionally, until it takes on a deep brown color and begins to look ever so slightly shiny, about 30 minutes. Stir in 2 teaspoons (6g) salt and cook for 1 minute longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place the banana leaves on the prepared baking sheet, darker side up, overlapping the leaves to fully cover the pan and overhang the sides. Sprinkle lightly with salt, then set the on top in a single even layer. Spoon cooked spice paste directly onto fish, spreading it to cover fish completely. Fold banana leaves over fish, then fold parchment or aluminum foil over all the ingredients, sealing edges into an airtight parcel (see notes).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bake fish for 15-20 minutes if pieces are thinner than 1 inch, or 20-25 minutes if pieces are thicker than 1 inch (an instant-read thermometer inserted through the banana leaves into the center of the thickest part of a piece of fish within should register 140 to 150°F (60-65°C). Let rest in packet for about 5 minutes, then gently unwrap the foil and banana leaves. Transfer banana leaves and fish to a platter, squeeze calamansi or lime juice over the fish and serve immediately with warm rice on the side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If skate is unavailable, a similar weight of red snapper or sea bass can be used instead. In this case, the freshness of the fish is more important than the species, so use your judgment.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Candlenuts are also known as kukui in Hawai’i, and are relatively common in Polynesian islands and Southeast Asia. They are macadamia-like in color and texture, though should be cooked before consumption as they are mildly toxic when raw.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: It&#39;s also possible to cook the fish in the banana-leaf package without having to seal it with foil or parchment. To do so, line the baking sheet as directed with banana leaves, then spread the cooked spice paste in an even layer on the banana leaves. Set the fish on to, lightly season with salt, and fold the overhanging banana leaves in to close the package. Carefully flip the package so that the folded-over side is now on the bottom (the package will now remain closed without the assistance of parchment or foil). Cook as directed.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: world-cuisine-guides, asian-cuisine-guides, southeast-asian-cuisine-guides
+
+----
+
+Seo_title: Sambal Stingray (Malaysian-Portuguese Baked Fish) | Avenda Aurora
+
+----
+
+Seo_description: Bake your fish the Malaysian Portuguese way—with a spice paste and plenty of banana leaves.
+
+----
+
+Original_author: Alia Ali
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/wXp55lreavow460kLy_EeffkYjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231204-SEA-SambalStingray-MichelleYip-00-83ccfbefbf5146c1ae95b51efe31d35f.jpg

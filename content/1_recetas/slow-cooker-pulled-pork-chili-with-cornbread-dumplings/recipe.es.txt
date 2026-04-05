@@ -1,0 +1,329 @@
+Title: Slow-Cooker Pulled Pork Chili With Cornbread Dumplings
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: For a meal that&#39;s perfect for Football Sundays or chilly-evening dinners, make this chili right in your slow cooker. It&#39;s not your traditional beef-based recipe, but pulled pork shoulder and tender cornbread dumplings make this version stand out among the rest.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3 1/2"
+  unit: pounds
+  ingredient: skinless, boneless pork shoulder , cut into 8 large pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: dried ancho chiles , stemmed and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: dried New Mexico chiles , stemmed and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: light brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: unsweetened cocoa powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: Spanish onion , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño , stemmed, seeded, and minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 28 - ounce can crushed tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 12 - ounce bottle light beer, such as lager
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Two 15-ounce cans dark kidney beans, drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Hot sauce, such as Frank&#39;s RedHot , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: all-purpose flour
+  preparation: 4.5 ounces; 128g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: yellow cornmeal
+  preparation: 5 ounces; 140g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: unsalted butter , melted
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: light brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: eggs , beaten
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: whole milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: shredded cheddar cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Jalapeño slices , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cilantro leaves , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Chili: Blot pork dry with paper towels. Heat oil in a large pot or Dutch oven over high heat until shimmering. Add pork and cook until browned on the bottom, about 4 minutes. Turn pork and brown opposite side. Transfer pork to slow cooker.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a clean pot, add dried ancho and New Mexico chilies and toast over high heat until fragrant, about 2 minutes. Add chicken stock and bring to a boil. Reduce to a simmer and cook until chilies are softened and almost falling apart, about 15 minutes. Transfer to blender and add tomato paste, light brown sugar, cocoa powder, cumin, and Worcestershire sauce. Blend to a smooth paste. Scrape paste into slow cooker with pork.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add onion, jalapeño, and garlic to slow cooker, arranging them on and around the pork. Pour crushed tomatoes on top.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium bowl, whisk together beer and cornstarch. Pour into slow cooker. Gently stir in kidney beans. Cover and cook on low until pork is fall-apart tender, about 6 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove pork from sauce and shred using 2 forks. Return pulled pork to slow cooker, stir well, and season with salt and pepper. Add hot sauce for additional heat, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Cornbread: In a large bowl, whisk together flour, cornmeal, baking powder, and salt. Set aside. In a small pan, brown the butter. Make a well in the center of the dry ingredients and add browned butter, light brown sugar, eggs, and milk. Mix until no dry streaks remain, being careful not to over-mix. Fold in cheddar cheese.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spoon the batter gently onto the chili. Cover and increase heat to high. Cook until dumplings are fully cooked through, about 1 hour. Top with jalapeño slices and cilantro leaves and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Slow cooker, blender
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, pork-recipes
+
+----
+
+Seo_title: Slow-Cooker Pulled Pork Chili With Cornbread Dumplings | Avenda Aurora
+
+----
+
+Seo_description: For a meal that&#39;s perfect for Football Sundays or chilly-evening dinners, make this chili right in your slow cooker. It&#39;s not your traditional beef-base
+
+----
+
+Original_author: Morgan Eisenberg
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/SA30TGa9QbbrSv-EOWrbtLqgNHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20151020-pulled-pork-chili-serving-morgan-eisenberg-4e418cc4281647129da8383d9638ca54.jpg

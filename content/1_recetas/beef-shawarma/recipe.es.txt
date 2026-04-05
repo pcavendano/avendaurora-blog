@@ -1,0 +1,391 @@
+Title: Beef Shawarma
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: Beef shawarma—paper-thin, spice-marinated beef with irresistible charred edges—is an Arabic classic. Wrapped in warm bread, drizzled with velvety tahini sauce, and brightened with a sharp hit of pickles, it&#39;s bold, savory, and downright delicous. Here&#39;s how to make it at home.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "5"
+  unit: 
+  ingredient: green cardamom pods
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 3/4"
+  unit: tablespoons
+  ingredient: allspice berries
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sweet paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: onion powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground sumac
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: red pepper flakes or Aleppo pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cinnamon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , peeled and quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: plain whole milk yogurt
+  preparation:  8 ounces ; 226 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: red wine vinegar or distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: lime juice from 1 to 2 medium limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: shawarma spice blend
+  preparation: from above
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/4"
+  unit: pounds
+  ingredient: flank steak or top-round cut into 1/4-inch strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: tahini
+  preparation:  8 ounces ; 226 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: plain whole milk yogurt
+  preparation:  4 ounces ; 113 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: lime juice from 1 medium lime , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "35"
+  unit: 
+  ingredient: g lamb fat , such as liyeh
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Roma tomato , seeded and diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh parsley , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil , such as canola or vegetable
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: charcoal briquette
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Bread, such as pita, shrak, lavash, or brioche buns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Tahini sauce
+  preparation: see above
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Harissa
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pickled cucumbers
+  preparation: khiar mekhalil
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pickled turnips
+  preparation: left mekhalil
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: French fries
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Shawarma Spice Blend: On a cutting board, use the flat side of a knife to crush cardamom pods. Carefully extract seeds; discard pods.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Marinade: In the bowl of a food processor, purée onion until smooth. Using a fine-mesh sieve set over a large bowl, strain puréed onion, using a spoon or flexible spatula to press pulp to extract juice. Add yogurt, vinegar, lime juice, olive oil, garlic, 2 tablespoons shawarma spice blend, and salt, whisking to combine. Add sliced steak, using your hands to massage and toss beef to evenly coat in marinade. Cover bowl with a large plate or plastic wrap and refrigerate for at least 3 hours or up to 8 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Tahini Sauce: In a medium bowl, whisk tahini, yogurt, lime juice, salt, and pepper to combine; sauce should be smooth and spreadable. If sauce is too thick, add warm water, 1 tablespoon at a time, until sauce is thick but spreadable. Refrigerate until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Shawarma: When ready to cook, remove beef from fridge. Using tongs, remove beef from marinade, letting any excess marinade drip back into the bowl, and set on a large plate. Let beef come to room temperature, about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large cast iron, carbon steel, or stainless steel skillet, melt liyeh (lamb fat) over medium-high heat. When lamb fat is melted, fragrant, and shimmering, add beef in a single layer, cooking in batches as needed to prevent the beef from overcooking. Cook, stirring occasionally, until beef is browned, 5 to 7 minutes per batch. Adjust seasoning to taste. Repeat with remaining beef, adjusting heat as necessary to keep skillet hot. Return cooked beef to pan, add tomatoes and onions, and cook until they soften slightly, about 2 minutes. Remove pan from heat and stir in chopped parsley.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set aside a piece of aluminum foil large enough to cover a small saucepan. In small saucepan, heat 1 tablespoon oil over high heat until hot and shimmering, about 2 minutes. Heat a piece of charcoal using a long-handled lighter or by holding it over the flame of your gas stove, until it turns gray on the edges, 1 to 2 minutes. Using tongs, place the hot charcoal in a small heatproof dish, such as a ceramic ramekin or a small bowl made of foil, and nestle it in the center of the skillet with the cooked shawarma. Carefully pour hot oil over the charcoal (it will release smoke immediately). Using aluminum foil, immediately tightly cover skillet to trap the smoke, and let beef &#34;smoke&#34; for 15 to 20 minutes in a turned-off oven.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Assemble: Spread bread with tahini sauce and harissa, if using, followed by pickled cucumbers and turnips. Top with about 1/2 cup shawarma. Serve with french fries, if desired, and extra tahini sauce and pickles.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Food processor; large cast iron, carbon steel, or stainless steel skillet; aluminum foil; small saucepan; tongs; small heatproof dish, such as a ceramic ramekin
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Lamb fat can be found at Halal butchers. Alternatively, equal amounts of beef tallow or 2 to 3 tablespoons of neutral oil, such as vegetable or canola, can be used.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- This recipe can easily be doubled.
+- The tahini sauce can be made up to 3 days in advance and refrigerated in an airtight container.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes
+
+----
+
+Seo_title: Beef Shawarma | Avenda Aurora
+
+----
+
+Seo_description: Beef shawarma—paper-thin, spice-marinated beef with irresistible charred edges—is an Arabic classic. Wrapped in warm bread, drizzled with velvety tahini sauce, 
+
+----
+
+Original_author: Nermine Mansour
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/qbd2XCf3PCxI-jAt6FmMq-Y771g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251006-SEA-20250922-SEA-beefshawarma-MelatiCitrawireja-HERO3-13f99ca0bfab4950b43d07d3792eea12.jpg

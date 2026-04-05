@@ -1,0 +1,54 @@
+# Nasi Lemak (Malaysian Coconut Rice)
+
+> Frequently served with toppings and condiments like sambal tumis and dried anchovies, this coconut rice is what many Malaysians crave when they wake up in the morning.
+
+**Author:** Alia Ali
+
+**Original Image:** https://www.seriouseats.com/thmb/jurw_XoUko0sLM17lhIWseKvsyM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230309-NasiLemak-MichelleYip-Option1-8d0b9468c998495f91ef4ff6d3b5ab6b.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, malaysian-recipes
+
+
+## Ingredients
+
+- 2 1/2 cups jasmine rice ( 1 pound 2 ounces , 500 g )
+- 7 ounces ( 200 ml ) coconut milk , preferably from a carton variety (see notes)
+- 2 pandan leaves , cut crosswise into 2-inch pieces
+- One 1-inch knob ( 25 g ) fresh peeled ginger , julienned
+- 1 1/2 teaspoons Diamond Crystal kosher salt , plus more to taste; for table salt use half as much by volume or the same weight
+- Sambal tumis
+- Fried ikan bilis ( dried anchovies ) (see notes)
+- Sliced hard-boiled eggs
+- Fried peanuts
+- Sliced cucumbers
+- Fresh or frozen banana leaf
+
+
+## Instructions
+
+1. Set up a tiered steamer (see notes), filling the bottom section with about 3 inches of water. Bring to a boil over high heat. Line the steamer tier with cheesecloth.
+
+2. Meanwhile, place the rice in a strainer and rinse the grains under running water until the water is almost clear. Drain rice, then transfer to a 10-inch nonstick skillet and add the coconut milk, 7 ounces (200ml) water, pandan leaves, ginger, and salt. Cook on medium heat, stirring continuously, until it thickens like rice pudding, 8-10 minutes.
+
+3. Transfer the rice mixture to the cheesecloth-lined steamer tier and spread it in a roughly even layer. Set steamer tier over bottom section of boiling water, cover, and steam over medium heat until the grains are fully cooked, about 45 minutes; start checking rice doneness after 35 minutes of steaming. Once the rice reaches your preferred texture, turn off the heat and leave it to continue steaming, covered, until the steaming stops. The rice should be just cooked, with separate grains and a rich flavor of coconut.
+
+4. Serve with sambal tumis and other nasi lemak accompaniments, depending on your preference (note that it&#39;s typical to leave the pandan leaves in the nasi lemak, as it&#39;s understood they will be removed at the table by the diner; do not eat them). If desired, nasi lemak can be served on a banana leaf, which will contribute its own fragrance to the dish as the rice and toppings are eaten.
+
+5. Tiered steamer (see notes), cheesecloth
+
+6. If you don’t have a tiered stovetop steamer, you can use a large pot with a steamer insert, or a wok with a bamboo steamer.
+
+7. This recipe was tested with boxed coconut milk, which comes in a variety of sizes. If using canned, stir the coconut cream and coconut milk together before measuring.
+
+8. Ikan bilis can be found at any good Asian grocery store, especially those specializing in Southeast Asian imports. Ask for ‘dried anchovies’—every Southeast Asian country has their own name for it. They are sometimes sold already cleaned and gutted, but those will be more expensive; if yours aren&#39;t cleaned, you&#39;ll need to prep them by removing the heads, then splitting the fish lengthways so you can gut and debone it. The bigger varieties tend to be quite salty, so seek out the smaller varieties. Ikan bilis are usually sold in their uncooked dried form, so you&#39;ll likely have to fry themyourself: for 50g cleaned ikan bilis, heat up 1 tablespoon neutral cooking oil in a skillet over medium heat, then fry the ikan bilis, turning occasionally, until golden brown (about 3-5 minutes). Remove and drain on a paper towel–lined sheet tray. Do not salt, they will be plenty salty.
+
+9. Because of the fatty nature of coconut milk, the cooked rice will not last for longer than 1-2 days in the fridge. Freezing is not recommended as the fat in the rice will split when thawed and result in oily rice.
+
+
+---
+
+*Extracted from Serious Eats*

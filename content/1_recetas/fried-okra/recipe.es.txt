@@ -1,0 +1,285 @@
+Title: Fried Okra
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: Here&#39;s how to make crispy, tender fried okra with zero slime, plus a creamy, tangy comeback sauce for dipping those tasty pods.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: mayonnaise
+  preparation:  4 ounces ; 113 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chopped yellow onion
+  preparation:  1/2 ounce ; 15 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chili sauce , such as Heinz
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ketchup
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: hot sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: fresh lemon juice from 1 medium lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: smoked paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: onion powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: buttermilk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: hot sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: fresh okra
+  preparation: halved lengthwise or cut crosswise into 1/2-inch coins
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cup
+  ingredient: yellow cornmeal
+  preparation:  8 ounces ; 227 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: all-purpose flour
+  preparation:  3 1/3 ounces ; 96 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: cornstarch
+  preparation:  1 ounce ; 30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Creole seasoning
+  preparation:  1/2 ounce ; 15 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Peanut oil for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Comeback Sauce: In a food processor, blend mayonnaise, onion, chili sauce, canola oil, ketchup, hot sauce, Worcestershire sauce, Dijon mustard, lemon juice, smoked paprika, freshly ground black pepper, salt, garlic powder, and onion powder until smooth, about 30 seconds. Transfer to a small bowl, cover, and refrigerate until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Fried Okra: In a large bowl, whisk buttermilk and hot sauce to combine. Add okra and toss to evenly coat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fill a large Dutch oven with 1 1/2 inches of oil and heat oil over medium-high to 350ºF (175ºC).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a shallow bowl, whisk cornmeal, flour, cornstarch, and Creole seasoning to combine. Working in batches, dredge okra in flour mixture, tossing and pressing gently to adhere. Shake off excess flour and transfer okra to a rimmed baking sheet, arranging them in a single layer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Line a separate 13- by 18-inch rimmed baking sheet with 2 layers of paper towels; set aside. Carefully add 1/3 of dredged okra to oil, and fry, using a spider skimmer or slotted spoon to gently stir to prevent sticking, until golden brown, about 3 minutes. Transfer okra to prepared baking sheet and sprinkle evenly with salt. Let oil return to 350°F (175ºC), and repeat with remaining okra in two more batches. Serve with comeback sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For a slightly spicier comeback sauce, substitute the chili sauce for chili-garlic sauce (such as Huy Fong) and reduce chopped onion to 1 tablespoon. Proceed with remainder of step 1.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Food processor, large Dutch oven, 2 rimmed baking sheets, instant read or deep-fry thermometer, spider skimmer or slotted spoon
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Comeback sauce can be refrigerated in an airtight container for up to 5 days.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The okra can be dredged and frozen in a single layer on a rimmed baking sheet, then transferred to an airtight container and frozen for up to 2 months. Fry from frozen and add 30 seconds to 1 minute to the frying time for each batch, if necessary.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Fried okra are best eaten immediately, but in a pinch you can store them in an airtight container in the refrigerator for up to 5 days and reheat them in an air fryer.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, okra-recipes
+
+----
+
+Seo_title: Fried Okra | Avenda Aurora
+
+----
+
+Seo_description: Here&#39;s how to make crispy, tender fried okra with zero slime, plus a creamy, tangy comeback sauce for dipping those tasty pods.
+
+----
+
+Original_author: Megan O. Steintrager
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/uYdzCoxRchhfArdBxmqYgFt06Zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241126-SEA-Fried-Okra-MorganHuntGlraze-Hero2-14-8f8e68cbd72f4405a4ea11db28214082.jpg

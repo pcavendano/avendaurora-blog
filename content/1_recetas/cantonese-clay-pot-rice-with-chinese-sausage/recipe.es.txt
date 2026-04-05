@@ -1,0 +1,238 @@
+Title: Cantonese Clay Pot Rice With Chinese Sausage
+
+----
+
+Category: salsas
+
+----
+
+Description: This comforting meal of rice steamed and crisped within a Cantonese clay pot is a favorite in Hong Kong, where it’s served with an assortment of savory toppings and a seasoned soy sauce.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: lard , schmaltz, or neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: scallion , root end trimmed, white and green parts cut into 1-inch segments
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: shallot , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: cilantro
+  preparation: about 1/2 bunch , cut into 1-inch segments (about 1/3 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: knob fresh peeled ginger , sliced thinly
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Shaoxing wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: light soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: dark soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: jasmine rice or an equal-parts mix of jasmine and short-grain rice , see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: boiling water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil, lard , or schmaltz, melted if solid
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: links Chinese sausage , sliced thinly on a bias
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: bunch Chinese greens , such as choi sum or gai lan, ends trimmed and blanched
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: egg yolk
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Seasoned Soy Sauce: In a small saucepan, melt lard over medium heat until shimmering, about 1 minute. Reduce heat to medium-low and add scallions, shallot, cilantro, garlic, and ginger, and cook, swirling the pan occasionally, until the aromatics are fragrant and begin to turn golden, about 2 minutes. Add Shaoxing wine, water, light soy sauce, dark soy sauce, and sugar. Bring to a boil over high heat, then reduce heat and simmer for 7 minutes, until thickened. The sauce should be dark, smooth, and slightly thicker than bottled light soy sauce. Pour seasoned soy sauce through a fine-mesh strainer set over a medium heatproof bowl. Refrigerate until chilled.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Clay Pot Rice: In a large bowl, combine short-grain and jasmine rice and add 3/4 cup water to cover. Using your hands, vigorously swish rice until water turns cloudy, about 30 seconds. Using a fine-mesh strainer, drain the rice, discarding the cloudy soaking water. Return rice to bowl and cover by 3 inches. Soak for at least 1 hour and up to 3 hours. (To check if the rice has been thoroughly soaked, break a grain in half. There shouldn’t be a visible hard, white center.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain rice through a fine-mesh strainer, making sure any excess water is allowed to drip off.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set the clay pot over medium-high heat for about 2 minutes. Add the rice to the pot and top with just enough boiling water, about 1 cup (240ml) to barely cover. Bring the rice and water to a boil, stirring occasionally. When the rice and water begin to bubble, give the rice a final stir to get rid of any clumps, then allow the rice to cook, undisturbed, until water is no longer visible above the rice, about 4 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reduce heat to low. Using a pair of chopsticks, ventilate the rice by poking a few shallow holes on the surface. Lay the Chinese sausage and blanched greens in the center of the clay pot in an even layer on top of the rice. Cover clay pot and cook over low heat until you can hear a consistent sizzling crackle, about 10 minutes. (Try not to open the lid to check; inconsistent pops mean that the heat is too high.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Without lifting the lid, drizzle lard, schmaltz, or oil all around the lid&#39;s rim, allowing it to trickle down into the rice. Position the clay pot so that a quarter of its base is sitting directly over the flame. Continue to cook, rotating the clay pot a quarter-turn every minute until the sizzling sound stops and the escaping steam slows to thin wisps of smoke, about 13 minutes. Be careful not to burn the rice; if the vapor escaping the pot becomes a single, slow wisp or you begin to smell smoke, remove from heat. Remove clay pot from heat and let stand, covered, for 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Serve: Remove the lid, place the egg yolk in the center of the rice, and drizzle with the desired amount of seasoned soy sauce, stirring to mix well. Serve in the clay pot itself, dividing portions up into smaller individual bowls. Once most of the rice has been served, use a metal spoon to scrape up the crispy rice on the bottom, optionally crumbling it into the fluffier rice mixture.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cantonese clay pot (about 1 quart in capacity and 18cm in diameter), gas stove
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, rice-grain-recipes
+
+----
+
+Seo_title: Cantonese Clay Pot Rice With Chinese Sausage | Avenda Aurora
+
+----
+
+Seo_description: This comforting meal of rice steamed and crisped within a Cantonese clay pot is a favorite in Hong Kong, where it’s served with an assortment of savory toppings
+
+----
+
+Original_author: Lucas Sin
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ojhjwApRpaUU8uuQw1uQ9Mw5ufo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230607-SEA-Claypot-AmandaSuarez51-b65ce0bdce6741668682d6e3ddfe540e.jpg

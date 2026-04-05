@@ -1,0 +1,150 @@
+Title: Peanut-Tamarind Dipping Sauce for Spring Rolls or Satay
+
+----
+
+Category: salsas, vegetarianos
+
+----
+
+Description: This peanut-tamarind sauce is great as a dip for spring rolls, or as a marinade and dip for satay.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: shelled peanuts
+  preparation:  3 ounces ; 85 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: palm or light brown sugar
+  preparation:  1/2 ounce ; 15 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: light soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegan Thai red or Massaman curry paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: tamarind concentrate
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Dry chile flakes , to taste
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: If You Have a Mortar and Pestle (Recommended): Toast peanuts on a rimmed baking sheet in a 375°F oven or toaster oven until deep golden brown, about 5 minutes. Transfer to a plate to cool. Combine sugar and garlic in the mortar and pound with the pestle into a smooth paste. Add peanuts and pound to form a chunky paste. Add soy sauce, curry paste, and tamarind concentrate and firmly stir with a circular motion until a homogeneous chunky mixture is formed. Add vegetable oil and stir to combine. Add water to thin to a pourable but still thick consistency. Adjust heat with chile flakes, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If You Have a Food Processor: Toast peanuts on a rimmed baking sheet in a 375°F oven or toaster oven until deep golden brown, about 5 minutes. Transfer to a plate to cool. Combine peanuts, sugar, and garlic in the bowl of a food processor and pulse until a chunky paste is formed. Add soy sauce, curry paste, tamarind concentrate, and oil and process until a chunky homogeneous mixture is formed. Pulse in water, 1 tablespoon at a time, until sauce reaches a pourable but thick consistency. Adjust heat with chile flakes, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Sauce can be stored in a sealed container in the refrigerator for several weeks.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes, dipping-sauce-recipes
+
+----
+
+Seo_title: Peanut-Tamarind Dipping Sauce for Spring Rolls or Satay | Avenda Aurora
+
+----
+
+Seo_description: This peanut-tamarind sauce is great as a dip for spring rolls, or as a marinade and dip for satay.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/bAFprMm-quq8VDk1vbwMd-F1rH4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__02__20160221-pea-shoot-crispy-tofu-spring-roll-kenji-08-f23833c4ffb844868c721b822ccd74b6.jpg

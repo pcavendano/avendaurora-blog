@@ -1,0 +1,302 @@
+Title: Asam Laksa (Spicy and Sour Noodle Soup)
+
+----
+
+Category: sopas-caldos, mariscos
+
+----
+
+Description: A strong spicy, sour, and savory fish soup served with thick rice noodles and a medley of aromatic herbs.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: chub mackerel , sardines , or other small, oily fish, gutted and cleaned
+  preparation: keep the heads on
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10 1/2"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: dried thick rice noodles, or 21 ounces fresh thick rice noodles
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: Asian shallots , peeled and sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: dried Kashmiri chiles , stemmed and sliced, soaked in hot water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: fresh medium-hot red chiles , such as fresnos, stemmed and sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: torch ginger flower buds
+  preparation: about 3 1/2 ounces / 100 g ; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: stalks lemongrass , pale bulbous bottom part only, outer leaves discarded, tender core thinly sliced
+  preparation: about 1 1/2 ounces ; 40 g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: ounce
+  ingredient: fresh or frozen galangal , peeled and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: shrimp paste , preferably Malaysian-style belacan
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: g fresh turmeric , peeled and thinly sliced
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: garlic cloves , peeled and smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tamarind concentrate
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: pieces
+  ingredient: asam gelugur or kokum
+  preparation: optional; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: About 1 cup Vietnamese mint leaves
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: tablespoons
+  ingredient: granulated sugar , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: kosher salt , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Neutral oil, such as vegetable or canola oil , as needed for noodles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Picked fresh spearmint leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pineapple , sliced into thin chunks
+  preparation: preferably fresh
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: to 5 Asian shallots , peeled and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh chiles , such as fresnos, stemmed and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Torch ginger flower buds , thinly sliced
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: calamansi oranges or Persian limes , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Petis udang , thinned with hot water to make about 1/2 cup of a thick, pourable consistency
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Soup: In a medium stock pot, bring the water to a boil over high heat. Add fish and cook for 5 minutes. Remove from heat. Using wire skimmer, transfer fish to a bowl and let cool for 10 minutes. Using a measuring cup, measure out 2 cups fish stock and set aside; leave remaining stock in pot. Debone fish, reserving heads and bones separate from fish meat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a food processor, combine fish heads and bones with 1 cup reserved stock. Process until it becomes a thick slurry, about 1 minute. Stir slurry back into stock, bring to a boil over medium-high heat, and cook, adjusting heat as needed to maintain simmer, for 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If using dried rice noodles, soak them in hot water and set aside while preparing spice paste and soup.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While fish stock is cooking, in a clean food processor, add shallots, soaked dried chiles, red chiles, torch ginger flower buds, lemongrass, galangal, fresh turmeric, garlic, shrimp paste, and remaining 1 cup measured fish stock. Process, scraping down sides as necessary, until the mixture becomes a smooth paste, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Strain fish-bone stock through a fine-mesh strainer into a large non-reactive bowl; discard crushed fish bones. Rinse stock pot clean, then pour strained stock back into pot. Add processed spice paste along with tamarind concentrate, asam gelugur (if using), Vietnamese mint leaves, and deboned fish meat. Stir. Bring to a simmer over medium heat and simmer, stirring occasionally, until broth is slightly viscous and intensely flavored, for 1 hour. Stir in 2 1/2 tablespoons sugar and 1 tablespoon kosher salt then adjust seasoning to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Serving: Divide noodles among serving bowls. Pour 2 to 3 ladles of soup straight over noodles, making sure to include chunks of fish. Garnish each serving with any combination of spearmint leaves, pineapple, shallots, chiles, and torch ginger flower buds. Squeeze half a calamansi lime and drizzle 1 tablespoon of petis udang over each bowl. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Torch ginger flower buds are available at Southeast Asian grocery stores under the names “bunga kantan” or “kecombrang,” and usually still on the stem. Choose buds that are bright pink and firm. Remove the thick stem from right underneath the bud before using. If you can&#39;t find torch ginger flower buds, you can use additional galangal in its place in the stock and omit it as a garnish.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fresh turmeric can be found in South Asian and Southeast Asian grocery stores. It gives an almost medicinal scent when fresh, and keeps well in the freezer for up to 3 months. If unavailable, omit entirely (do not use dried turmeric powder).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Asam gelugur is the dried slices of the Garcinia atroviridis fruit, native to Peninsular Malaysia. This is available in Southeast Asian grocery stores, also under the name “asam keping.” If asam gelugur is unavailable, substitute with the same amount of kokum (a fruit distantly related to asam gelugur, available at South Asian grocers), or 1 more tablespoon of tamarind concentrate.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Vietnamese mint is available at Southeast Asian grocery stores, and is also (confusingly) called “Vietnamese coriander,” “Cambodian mint,” “phak phai,” or “laksa leaf.” It wilts relatively quickly on the counter, so put it in the fridge as soon as you get it home from the market.
+- Rice noodles are available dried or fresh in East Asian and Southeast Asian grocery stores. Look for a high percentage of rice flour (at least 80 percent) with no wheat fillers.
+- Petis udang is available at Southeast Asian grocery stores or online. It’s also referred to as “shrimp paste” but is not the same thing as belacan or Filipino patis; petis udang is much sweeter in flavor, darker in color, and almost molasses-like in texture.
+- Store the prepared noodles and fish soup in airtight containers in the fridge for no longer than 1 week.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Asam Laksa (Spicy and Sour Noodle Soup) | Avenda Aurora
+
+----
+
+Seo_description: A strong spicy, sour, and savory fish soup served with thick rice noodles and a medley of aromatic herbs.
+
+----
+
+Original_author: Alia Ali
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/YxSNssLM-l9OiyWXgr9VLPei_YA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240129SEA-AsamLAska-MichelleYip-00-8a246d22253e4e929cfe963e644db56a.jpg

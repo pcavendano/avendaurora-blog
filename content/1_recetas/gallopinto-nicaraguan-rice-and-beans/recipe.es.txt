@@ -1,0 +1,182 @@
+Title: Gallopinto (Nicaraguan Rice and Beans)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Recipes differ from household to household, but rice and beans are served at every single meal in Nicaragua. Known as gallopinto (&#34;red rooster,&#34;) the name alludes to the color of the mixture of white rice and small red kidney beans.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: vegetable oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , finely chopped , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: long-grain white rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: water or homemade or store-bought chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: green bell pepper , cored and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: dried small red or black beans
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: garlic cloves , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Rice: In a large heavy-bottomed saucepan, heat 2 tablespoons oil over medium heat until shimmering. Add two-thirds of onion and cook, stirring, until softened and translucent, about 5 minutes. Add rice and cook, stirring, until grains are shiny and evenly coated with oil, 2 to 3 minutes. Add water or stock and salt, increase heat to high, and bring to a boil. Place bell pepper on top of rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Boil rice without stirring until most of the liquid has evaporated and you can see small bubbles bursting on the surface of the rice. Immediately reduce the heat to the lowest setting, cover, and cook for 15 minutes. Remove and discard bell pepper. Fluff rice with chopsticks or fork, then let cool. Transfer to an airtight container and refrigerate for 24 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Beans: Spread beans out in a rimmed baking sheet. Pick out any debris and broken beans. Transfer beans to colander and rinse under cold running water. Place rinsed beans in a large pot and cover with cold water; water should cover beans about 3 inches. Let soak for 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bring beans to a boil over high heat. Reduce heat to maintain a simmer and cook beans for 30 minutes. Turn off heat, cover beans, and let rest 1 hour. Bring beans back up to boil over high heat. Add salt and garlic, reduce heat to maintain a simmer, and cook until beans are tender, 30 to 60 minutes. Drain beans or, if desired, strain over a bowl and retain liquid for another use. You should have about 3 cups of cooked beans; measure out 2 cups of beans and reserve the rest for another use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Gallopinto: In large saucepan, heat remaining 2 tablespoons oil over medium-high heat until shimmering. Add remaining onion and cook, stirring, until softened and translucent, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add rice and beans, and cook, stirring, until rice is evenly coated. Continue to cook, stirring, to allow flavors to meld and gallopinto to become slightly crisp, about 10 minutes. Serve immediately with scrambled or fried eggs, a side of corn tortillas, and queso fresco. If desired, cover and cook over low heat for an additional 10 minutes (see note).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Goya sells &#34;Central American Beans,&#34; which are the small red kidney beans that are standard issue in Nicaragua. If you can&#39;t find them, use small black beans.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Gallopinto is served either soft or crisp—cook according to preference.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, central-american-recipes
+
+----
+
+Seo_title: Gallopinto (Nicaraguan Rice and Beans) | Avenda Aurora
+
+----
+
+Seo_description: Recipes differ from household to household, but rice and beans are served at every single meal in Nicaragua. Known as gallopinto (&#34;red rooster,&#34;) the na
+
+----
+
+Original_author: María del Mar Cuadra
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/gzww9hKFq0-D1oaZRQcb7wj8tec=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SEA-gallopinto-nicaraguan-rice-and-beans-recipe-hero-01_1-cd02f69002f44947ab42f29e6134aa03.JPG

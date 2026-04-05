@@ -1,0 +1,173 @@
+Title: Laab Moo Isan (Thai Isan-Style Minced Pork Salad)
+
+----
+
+Category: salsas
+
+----
+
+Description: A bright, spicy, and refreshing northeastern Thai meat salad.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: ground pork , preferably coarsely ground pork shoulder
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: plus 1 teaspoon fish sauce , plus extra as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: plus 1 teaspoon fresh lime juice from 1 lime , plus extra as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: optional, see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: to 1 tablespoon coarsely ground dried Thai chiles , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: shallot , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: sprigs fresh culantro leaves and tender stems, cut into 1-inch pieces
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: sprigs fresh cilantro leaves and tender stems, cut into 1-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , sliced into 1/8-inch-thick rounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: khao khua
+  preparation: Thai toasted- rice powder 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh mint leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked sticky rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: If your butcher counter takes requests, coarsely ground pork shoulder (sometimes referred to as a “butcher’s grind”) is ideal for laab as it most closely approximates the texture of hand-minced meat used in traditional laab. Regular ground pork will work for this recipe as well, but the texture will be more pebbly. Pork shoulder has great flavor and its high fat content helps balance the punch of the dressing.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This dish is best enjoyed immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, thai-recipes
+
+----
+
+Seo_title: Laab Moo Isan (Thai Isan-Style Minced Pork Salad) | Avenda Aurora
+
+----
+
+Seo_description: A bright, spicy, and refreshing northeastern Thai meat salad.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/NZsKrAyf3aVBo3bQYgoDPMKoO5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210928-Laab-Moo-thai-pork-laab-vicky-wasik-21-c44ca48b8a544addba2fe747b0ba4fef.jpg

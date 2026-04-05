@@ -1,0 +1,200 @@
+Title: Hot Spinach-Artichoke Dip
+
+----
+
+Category: antojitos
+
+----
+
+Description: Spinach-artichoke dip is the perfect party appetizer—our recipe nails the ideal proportion of spinach to artichokes, and a trifecta of cream cheese, mayo, and sour cream give the dip its ultra creamy texture. Baked until golden and bubbling, it&#39;s the perfect pairing for any cracker, chip, or tortilla chip.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooking spray
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: white miso , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: grated lemon zest
+  preparation: from 1 lemon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: plain, full-fat cream cheese , cut into 8 pieces and softened
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: ounces
+  ingredient: frozen cut-leaf spinach , thawed and squeezed dry
+  preparation: about 1 1/4 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can quartered artichoke hearts , rinsed, drained, patted dry, and coarsely chopped
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: Monterey Jack cheese or mild white cheddar cheese , shredded , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: Parmigiano-Reggiano cheese, grated , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crackers , pita chips, tortilla chips, or crudités, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and preheat oven to 375°F(190°C). Grease a 2-quart baking dish with cooking spray; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Whisk together mayonnaise, sour cream, mustard, miso (if using), lemon zest, and garlic in a large bowl. Stir in cream cheese until fully combined. Fold in spinach, artichokes, 2 1/2 cups of the Monterey Jack cheese and 1 3/4 cups of the Parmigiano until evenly distributed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer to the prepared baking dish and sprinkle evenly with the remaining 1/2 cup Monterey Jack and remaining 1/4 cup Parmigiano.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bake until the edges are bubbly and the cheese on top is light golden brown, 25 to 30 minutes. Let sit to cool slightly for 5 minutes. Serve hot with crackers, pita chips, tortilla chips, and/or crudités.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 2-quart baking dish
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The dip can be combined and assembled through step 2 and refrigerated for up to 2 days. Increase the baking time by about 15 minutes.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes, cheese-dip-recipes
+
+----
+
+Seo_title: Hot Spinach-Artichoke Dip | Avenda Aurora
+
+----
+
+Seo_description: Spinach-artichoke dip is the perfect party appetizer—our recipe nails the ideal proportion of spinach to artichokes, and a trifecta of cream cheese, mayo, and s
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/AgNavrF29KBbmMlrUIayqzvx9Wg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240507-SEA-SpinachArtichokeDip-MorganHuntGlaze-15-f05bfa4ca7fc4fa3b4c7c2e39bcf797b.jpg

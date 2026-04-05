@@ -1,0 +1,154 @@
+Title: Daqoos
+
+----
+
+Category: bebidas, mariscos
+
+----
+
+Description: Learn how to make daqoos, a quick, spicy tomato-chile condiment from the Arabian Peninsula that adds heat, tang, and balance to rice, meat, seafood, and vegetable dishes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: medium
+  ingredient: tomatoes , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano pepper , stemmed and finely chopped
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely chopped cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: clove
+  ingredient: garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume or same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh lemon juice
+  preparation: from 1 lemon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: If a less spicy daqoos is desired, remove the seeds from the serrano before chopping.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes
+
+----
+
+Seo_title: Daqoos | Avenda Aurora
+
+----
+
+Seo_description: Learn how to make daqoos, a quick, spicy tomato-chile condiment from the Arabian Peninsula that adds heat, tang, and balance to rice, meat, seafood, and vegetab
+
+----
+
+Original_author: Laila Ibrahim
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/TaqcJNnOhSMmRRxs1wPl7Np2o50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251024-SEA-Dakous-AmandaSuarez-14-b749b31598754441b17ab5d37c99b711.jpg

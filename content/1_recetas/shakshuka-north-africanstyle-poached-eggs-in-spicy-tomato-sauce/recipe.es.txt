@@ -1,0 +1,190 @@
+Title: Shakshuka (North African–Style Poached Eggs in Spicy Tomato Sauce)
+
+----
+
+Category: desayunos
+
+----
+
+Description: Shakshuka is a versatile and vegetarian one-pan egg and tomato dish that&#39;s perfect for breakfast, lunch, or dinner.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil , plus more for drizzling
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: red pepper , stems, seeds, and ribs removed, thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: fresh small hot chile , stems, seeds, and ribs removed, thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 cloves garlic , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: sweet Hungarian or smoked Spanish paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: whole or ground cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can whole peeled tomatoes , crushed by squeezing between your fingers or with a pastry blender
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Large
+  ingredient: handful minced cilantro , parsley, or a mix
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sliced oil-cured black olives , feta cheese, and/or artichoke hearts, for serving
+  preparation: all optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crusty bread , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat olive oil in a large, deep skillet or straight-sided sauté pan over high heat until shimmering. Add onion, red pepper, and chile and spread into an even layer. Cook, without moving, until vegetables on the bottom are deeply browned and beginning to char in spots, about 6 minutes. Stir and repeat. Continue to cook until vegetables are fully softened and spottily charred, about another 4 minutes. Add garlic and cook, stirring, until softened and fragrant, about 30 seconds. Add paprika and cumin and cook, stirring, until fragrant, about 30 seconds. Immediately add tomatoes and stir to combine (see notes). Reduce heat to a bare simmer and simmer for 10 minutes, then season to taste with salt and pepper and stir in half of cilantro or parsley.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a large spoon, make a well near the perimeter of the pan and break an egg directly into it. Spoon a little sauce over edges of egg white to partially submerge and contain it, leaving yolk exposed. Repeat with remaining 5 eggs, working around pan as you go. Season eggs with a little salt, cover, reduce heat to lowest setting, and cook until egg whites are barely set and yolks are still runny, 5 to 8 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Sprinkle with remaining cilantro or parsley, along with any of the optional toppings. Serve immediately with crusty bread.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To crush the tomatoes, transfer to a large bowl and squeeze through your fingers to create a chunky purée. Alternatively, leave whole, add to the pan, and use a pastry blender to cut the tomatoes directly in the pan.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, breakfast-brunch-recipes
+
+----
+
+Seo_title: Shakshuka (North African–Style Poached Eggs in Spicy Tomato Sauce) | Avenda Aurora
+
+----
+
+Seo_description: Shakshuka is a versatile and vegetarian one-pan egg and tomato dish that&#39;s perfect for breakfast, lunch, or dinner.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/GGe7ElpAahWNo9W6c6mAx0utvFg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__09__20160926-shakshuka-17-a2b1d35f5ce146d1b8f5e2851e73b487.jpg

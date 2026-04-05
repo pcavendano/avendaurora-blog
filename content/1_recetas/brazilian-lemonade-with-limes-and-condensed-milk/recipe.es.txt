@@ -1,0 +1,119 @@
+Title: Brazilian Lemonade (With Limes and Condensed Milk)
+
+----
+
+Category: bebidas
+
+----
+
+Description: Brazilian-style lemonade is made with fresh lime juice and sweetened with condensed milk. It&#39;s a richer, sweeter version of the lemonade we&#39;re used to, and excellent with a shot of Cachaça.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: juice from about 10 limes or 5 lemons
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: sweetened condensed milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: cold water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: ice
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine lemon or lime juice, condensed milk, salt, and water in a blender. Blend until homogenous and frothy, about 30 seconds. Transfer to a pitcher. Add ice. Serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, drink-recipes, non-alcoholic-recipes
+
+----
+
+Seo_title: Brazilian Lemonade (With Limes and Condensed Milk) | Avenda Aurora
+
+----
+
+Seo_description: Brazilian-style lemonade is made with fresh lime juice and sweetened with condensed milk. It&#39;s a richer, sweeter version of the lemonade we&#39;re used to, 
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Qyqozcy5J1OewdQgSvHS5UEjSVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__06__20120618-lemonade-variations-07-5f82488ee3d144d797c116120b98be9c.jpg

@@ -1,0 +1,334 @@
+Title: Pantrucas (Chilean Noodle Soup)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Pantrucas (Chilean Noodle Soup) is a comforting soup served piping hot and consisting of beef broth, fresh eggless noodles, and a balanced medley of spices and vegetables.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: bone-in beef short ribs , cut into single-bone sections, or cross-cut beef shanks
+  preparation: osso buco
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: carrots , cut into 2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: celery ribs with leaves , cut into 2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: white or yellow onion , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2/3"
+  unit: 
+  ingredient: red bell pepper , cut into chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: whole black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: grams
+  ingredient: salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: quarts
+  ingredient: cold water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: all-purpose flour , sifted, plus more for dusting
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: kosher salt ; for table salt use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: lukewarm water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: carrot , julienned
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: celery rib , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: white or yellow onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: 
+  ingredient: red bell pepper , julienned
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried oregano , preferably Chilean or good quality Italian
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Chilean ají de color or sweet paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: kosher salt ; for table salt use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: waxy potatoes , peeled and cut into 1-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: frozen peas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: large eggs , beaten
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: finely chopped cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chilean merken, a pinch per portion, or crushed red pepper flakes or a few drops hot sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Beef Broth: In a large stockpot, combine short ribs, carrots, celery, garlic, onion, bell pepper, peppercorns, bay leaf, and salt. Cover with water and bring to a boil over high heat. Adjust heat to medium-low and simmer, partially covered, adjusting heat as needed to maintain simmer, until short rib meat is tender and can be pierced easily with a fork, 60 to 90 minutes. (If meat takes longer than 1 hour to cook, and excessive evaporation occurs, add more water as needed.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using tongs, transfer meat to cutting board and let rest until cool enough to handle, about 10 minutes. Strain broth through a fine-mesh strainer set over a large empty pot. Discard cooked vegetables. Skim excess fat from surface of the broth. Pick meat from bones, discarding excess membrane and fat, and dice meat into bite-sized pieces; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Pantrucas Dough: Meanwhile, line a baking sheet with a clean, lightly floured kitchen towel.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium bowl, whisk together flour and salt. With a wooden spoon, stir in lukewarm water until combined and some lumps form. Knead dough in work bowl into a rough ball that separates from the bowl. Transfer dough to a floured working surface and knead until smooth and soft, 2 to 3 minutes. If dough feels too wet, dust lightly with flour as needed. Wrap dough in plastic wrap and rest for at least 30 minutes or up to 4 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cut rested dough into 3 equal sized pieces. Working with 1 piece of dough at a time (rewrap remaining dough), dust both sides lightly with flour, place cut side down on clean work surface, and press into a 3-inch square.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a rolling pin, roll into a 6-inch square. Dust both sides of dough lightly with flour. Starting at center of square, roll dough away from you in 1 motion. Return rolling pin to center of dough and roll toward you in 1 motion. Repeat rolling steps until dough sticks to work surface and measures roughly 12 inches long.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Release dough from counter (if sticking) and lightly dust both sides of dough with flour. Roll dough out, frequently lifting to release from work surface, until it measures roughly 20 inches long and 6 inches wide. Dough should be comparable in thickness to lasagne sheets, or 1/32 to 1/16 inch thick (1 to 1 1/2mm).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a knife or a pasta wheel cutter, cut dough sheet into 1 to 1 1/2-inch squares or diamonds.Transfer to prepared sheet and cover with a clean cloth. Repeat rolling and cutting with remaining dough pieces, lightly dusting with flour between each layer of cut dough pieces to avoid sticking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Soup Base: In a large Dutch oven or stockpot, heat oil over medium-high heat until shimmering. Add carrot, celery, garlic, onions, and bell pepper and cook, stirring occasionally, until vegetables are softened, 6 to 8 minutes. Add oregano, Chilean ají de color, cumin, salt, and freshly ground pepper to taste, and cook, stirring constantly, until fragrant, about 30 seconds. Pour the reserved strained broth into the soup base.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Add potatoes and diced beef and bring to a boil over high heat. Reduce heat to medium-low and simmer, adjusting heat as needed and stirring occasionally, until potatoes are almost cooked through but still meet slight resistance when poked with a paring knife, about 10 minutes.
+- Add peas and return to a boil over medium-high heat. Gently stir in pantrucas, making sure they do not stick together, and return to a boil. Cook, stirring occasionally, until pantrucas are just tender, about 2 minutes. Add more water if needed to thin soup.
+- For Serving: Pour beaten eggs into hot soup while stirring it into the broth with a fork. (Pour and stir slowly to produce thin distinct egg ribbons, or pour and stir quickly for the egg to fully emulsify in soup and thicken broth.) Simmer until egg is cooked and broth turns slightly opaque, about 1 minute, Season with salt to taste. Portion into preheated individual soup bowls. Top each bowl with cilantro and a pinch of merken. Serve.
+- Large stock pot, fine-mesh strainer, large Dutch oven or second stock pot, rolling pin, wheel pasta cutter
+- For a vegan version, substitute homemade or store-bought vegetable stock, omit beef, double amount of peas, and omit the beaten eggs.
+- The cooked beef broth can be refrigerated in an airtight container for up to 2 days or frozen for up to 1 month. Store cooked beef separately and cut beef before adding to the soup.
+- The wrapped pantruca dough can be refrigerated for up to 48 hours. Bring to room temperature before rolling out and cutting the dough.
+- Cut, raw pantrucas can be frozen: Spread them in a single layer on a parchment-lined baking sheet and freeze until solid, then transfer frozen pantrucas to freezer bags and store frozen. Cook from frozen, adding 1 minute to cooking time.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Pantrucas (Chilean Noodle Soup) | Avenda Aurora
+
+----
+
+Seo_description: Pantrucas (Chilean Noodle Soup) is a comforting soup served piping hot and consisting of beef broth, fresh eggless noodles, and a balanced medley of spices and 
+
+----
+
+Original_author: Isidora Díaz
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/6mJul4H4Sb0g5StV3u1f_8MDIZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230927-SEA-Pantrucas-EstudioComo-hero-31555818603647ff8c1cf8e9efc1651b.jpg

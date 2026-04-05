@@ -1,0 +1,209 @@
+Title: Kenyan Beef Wet Fry
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Beef wet fry—tender bite-size beef chunks coated in a thick tomato-based sauce—is a popular home-cooked dish throughout Kenya and this version comes together from start to finish in under 30 minutes. Serve it alongside rice or ugali (cooked cornmeal) for an easy weeknight dinner.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: extra-virgin oil or avocado oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: beef sirloin, sliced into 1/4-inch thin strips that are about 2-inches long
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: red onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: green bell pepper , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: garam masala
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: tablespoon
+  ingredient: freshly grated garlic or store-bought paste
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: tablespoon
+  ingredient: freshly grated ginger or store-bought paste
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: plum or R oma tomatoes , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Small
+  ingredient: handful fresh cilantro, finely chopped, for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Ugali or white rice for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a 12-inch stainless-steel skillet, heat 1 tablespoon oil over high heat until just smoking. Add half of the beef, spreading it out in a single layer. Season lightly with salt and pepper and cook without moving until lightly browned on first side, about 1 minute. Toss and continue to cook, stirring frequently, until fully browned, 2 to 4 minutes. Transfer to a large bowl. Repeat with 1 tablespoon oil and remaining beef.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: After all meat has been removed from the pan, lower the heat to medium and if skillet is dry, add the remaining 1 tablespoon of oil if necessary. Add onions and bell pepper and cook, stirring occasionally, until softened, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in the garam masala, garlic, and ginger and cook until fragrant, about 1 minute. Add the tomato paste and cook, stirring to incorporate, until paste darkens, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add tomatoes, stir to combine and cook, stirring frequently, until the tomatoes break down and vegetables soften into a cohesive, slightly chunky sauce, 7 to 8 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once the sauce has thickened and the vegetables are cooked down, toss the seared beef back into the skillet, stirring to coat the meat in the sauce. Cook until warmed through, 1 to 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in cilantro just before serving. Serve with ugali or white rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 12-inch stainless-steel skillet
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For extra richness, you can substitute a portion of the tomato with beef broth or finish the sauce with a few tablespoons of coconut milk.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For grating the garlic and ginger, I recommend using a microplane.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- For added spice, add a mild chili or chili flakes when adding the garlic.
+- Beef wet fry is best served fresh but can be stored in the refrigerator for up to 3 days. Reheat gently in a skillet on the stovetop, adding a splash of water or broth if needed to create a saucy texture.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, beef-main-recipes
+
+----
+
+Seo_title: Kenyan Beef Wet Fry | Avenda Aurora
+
+----
+
+Seo_description: Beef wet fry—tender bite-size beef chunks coated in a thick tomato-based sauce—is a popular home-cooked dish throughout Kenya and this version comes together fr
+
+----
+
+Original_author: Kiano Moju
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/XC6vjxiz8onodg3UtFES0Dt6esQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241027KenyanWetFryMaureenCelestine_-2422-4231e95a8ff44f17bc11d7e6f90a2be9.jpg

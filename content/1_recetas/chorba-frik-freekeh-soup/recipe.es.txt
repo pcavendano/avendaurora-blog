@@ -1,0 +1,264 @@
+Title: Chorba Frik (Freekeh Soup)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Chorba frik, a thick, hearty soup popular in Algeria and Tunisia, is made with tender lamb or beef, chickpeas, cracked freekeh, warm spices, and generous handfuls of cilantro.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: dried chickpeas
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided; for table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ghee
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: boneless lamb leg or shoulder, cut into 3/4-inch cubes
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: teaspoons
+  ingredient: dried mint
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cinnamon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: tomatoes , peeled , and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chopped cilantro , plus more to garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: cracked freekeh , picked over and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: water , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano pepper , whole
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lemon wedges , to serve
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium bowl, cover chickpeas with 1 inch of room temperature water. Add 2 1/2 teaspoons salt and baking soda, stirring briefly to combine, then cover loosely and let soak at room temperature at least 8 and up to 12 hours. Drain and rinse before using.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reduce heat to medium, add onion, and cook, stirring occasionally and scraping bottom of pot as needed, until onion is softened, about 5 minutes. Add tomato paste, coriander, ginger, paprika, mint, cinnamon, and black pepper and cook, stirring constantly, until spices are fragrant, about 30 seconds. Stir in tomatoes, cilantro, drained chickpeas, water, 2 1/2 teaspoons salt, and chile pepper, if using. Bring to a simmer, cover, then lower heat to medium-low and cook, adjusting heat as needed to maintain simmer, until lamb and beans are tender, 1 1/4 to 1 1/2 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in freekeh, bring to a simmer, and cook, covered, until freekeh is tender, 15 to 18 minutes. Soup should be hearty but still brothy enough to qualify as a chunky soup; add additional water to thin if needed. Season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Divide soup into individual bowls, sprinkle with more cilantro, and serve with lemon wedges.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Kitchen scale, large heavy-bottomed pot or Dutch oven, fine-mesh strainer
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Although less commonly used in chorba frik, canned chickpeas may be used instead of dried ones. If using canned chickpeas, omit step 1, and substitute with one 15-ounce can drained and rinsed chickpeas. Reduce salt to 2 teaspoons and add the canned chickpeas at the same time as the freekeh.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Beef chuck may be used in place of the lamb in the recipe, following the same steps as written.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Ghee can be purchased from Middle Eastern, Indian, and South Asian grocery stores. It is also increasingly found in many American grocery stores.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cracked freekeh can be purchased from Middle Eastern grocery stores and ordered online.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Chorba Frik (Freekeh Soup) | Avenda Aurora
+
+----
+
+Seo_description: Chorba frik, a thick, hearty soup popular in Algeria and Tunisia, is made with tender lamb or beef, chickpeas, cracked freekeh, warm spices, and generous handfu
+
+----
+
+Original_author: Laila Ibrahim
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/TAZL5ChhuAqYazCjVIavindL2C4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250311-SEA-ChobraFrik-MaiKakish-Beauty1-24-787a17975cc845efac3c58a310858f86.jpg

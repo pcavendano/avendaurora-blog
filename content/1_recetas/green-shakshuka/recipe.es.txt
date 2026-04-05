@@ -1,0 +1,265 @@
+Title: Green Shakshuka
+
+----
+
+Category: desayunos, sopas-caldos
+
+----
+
+Description: This shakshuka’s green sauce loaded with fresh herbs, spinach, and spices is the perfect foil for rich, runny eggs.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: quarts
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: , plus 2 teaspoons Diamond Crystal kosher salt , divided; for table salt use half the amount by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: lightly packed fresh cilantro leaves and tender stems, plus more for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: lightly packed fresh flat-leaf parsley leaves and tender stems, plus more for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano chile , stemmed, seeded , and chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: , plus 2 tablespoons extra-virgin olive oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic, finely chopped
+  preparation: about 3 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground cumin , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: ground coriander , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: baby spinach , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: homemade vegetable stock or or store-bought low-sodium vegetable stock or broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: heavy cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: thinly sliced celery
+  preparation:  3 1/4 ounces ; 92 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: thinly sliced leek
+  preparation:  4 3/4 ounces ; 135 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: thinly sliced green bell pepper
+  preparation:  3 3/4 ounces ; 106 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: large
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: grated lemon zest plus 1 teaspoon fresh juice
+  preparation: from 1 medium lemon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sliced avocado , pickled red onions , and crumbled creamy feta, for topping
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crusty bread or flatbread, such as naan, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In an 8-quart or larger pot or Dutch oven, bring water, baking soda, and 2 tablespoons salt to a boil over medium-high heat. Place a large bowl of ice water next to stovetop.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add cilantro and parsley to a fine-mesh strainer; dip strainer with herbs into water and cook, stirring constantly to ensure herbs are submerged, until herbs are bright green, about 10 seconds. Lift strainer and herbs out and transfer mixture in strainer to prepared ice bath and let sit until herbs are cold, 5 minutes. Drain and pat herbs dry, but do not squeeze (it should yield about 1/2 cup). Leave pot of water on stovetop on low heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To blender jar, add herbs, chile, 1/2 cup oil, 2 teaspoons garlic, 1 teaspoon salt, 1 teaspoon cumin, and 1/2 teaspoon coriander. Blend on high, scraping down sides of blender jar as needed, until smooth, about 1 minute. Transfer herb purée to a small bowl; set aside. (Do not clean blender.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return blanching water to a boil over medium-high heat. Add 8 cups (8 ounces; 226 g) spinach to boiling water; cook, stirring constantly, until bright green and wilted, about 10 seconds. In now-empty fine-mesh strainer, drain spinach, pressing out excess liquid with a silicone spatula (it should yield about 2/3 cup cooked leaves). Transfer spinach to blender; add broth and cream, and process until smooth, about 30 seconds to 1 minute. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large skillet, heat remaining 2 tablespoons oil over medium heat until shimmering. Add celery; cover and cook, stirring often, until starting to soften, about 3 minutes. Add leek and bell pepper; cover and cook, stirring often, until vegetables are crisp-tender, 5 to 8 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Uncover and stir in remaining fresh spinach and remaining 1 teaspoon garlic. Cook, stirring constantly, until spinach is wilted and garlic is fragrant, 1 to 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in spinach purée, 4 tablespoons of prepared herb purée, remaining 1 teaspoon salt, remaining 1/2 teaspoon cumin, and remaining 1/4 teaspoon coriander; cook over medium heat, stirring often, until simmering, 2 to 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove skillet from heat. In a small bowl, crack 1 egg. Using a rubber spatula or large spoon, clear a rough 2-inch diameter well in sauce. Immediately pour in the cracked egg. (The well will hold yolk in place but may not fully contain egg white; this is ok.) Gently spoon a little sauce over edges of egg white to help contain it. Repeat with remaining eggs, evenly spacing them around the skillet. Cover, return to heat, and cook until egg whites are set but yolks are still jiggly, 3 to 6 minutes, or until desired doneness.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Uncover and top with feta, avocado, and pickled red onion. Sprinkle with cilantro and parsley. Stir lemon zest and juice into reserved cilantro mixture. Serve immediately, drizzling cilantro mixture on each portion. Serve bread on the side.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Large pot, blender, fine-mesh strainer, large skillet, silicone spatula
+- The final dish is best served immediately, but the sauce can be cooked through step 6, cooled, and refrigerated for up to 1 day. To serve, gently reheat the sauce over medium heat in a large skillet until simmering, then remove from heat and proceed with steps 7 and 8 of the recipe.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, breakfast-brunch-recipes
+
+----
+
+Seo_title: Green Shakshuka | Avenda Aurora
+
+----
+
+Seo_description: This shakshuka’s green sauce loaded with fresh herbs, spinach, and spices is the perfect foil for rich, runny eggs.
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/NE9AlURxpA69hmdLCAb-tVEMOXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250406-SEA-SpringGreenShakshuka-RobbyLozano-Beauty1-57-946c3a50a8e448308d5771cde8bab2e6.jpg

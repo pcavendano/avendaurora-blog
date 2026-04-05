@@ -1,0 +1,133 @@
+Title: Melon-Mint Smoothie
+
+----
+
+Category: bebidas
+
+----
+
+Description: This mellow breakfast smoothie brings together ripe cantaloupe with a squeeze of lime and a dollop of yogurt.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh lime juice , from 1 whole lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: cubed ripe cantaloupe , from about half a medium melon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: plain yogurt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: mint leaves , plus more for garnish if desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: to 1 tablespoon honey
+  preparation: adjust to taste
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: ice cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Add lime juice, cantaloupe cubes, yogurt, mint, honey, salt, and ice to blender. Blend until completely smooth, about 30 seconds. Serve immediately, garnished with mint if desired.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, drink-recipes, smoothie-recipes
+
+----
+
+Seo_title: Melon-Mint Smoothie | Avenda Aurora
+
+----
+
+Seo_description: This mellow breakfast smoothie brings together ripe cantaloupe with a squeeze of lime and a dollop of yogurt.
+
+----
+
+Original_author: Maggie Hoffman
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/4ojFElQ44RpVdfoFSrQJQiJmzS4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__01__20140122melonsmoothie-17d4105e939a40bbaf73b9dfb81bc1be.jpg

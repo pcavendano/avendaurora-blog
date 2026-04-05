@@ -1,0 +1,134 @@
+Title: The Best Frozen Lime Margaritas
+
+----
+
+Category: bebidas
+
+----
+
+Description: What&#39;s better than a brain-freezing margarita to cool off on a hot day? To create the best slushy, restaurant-style frozen margaritas at home, just freeze your margarita base the night before.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: silver tequila
+  preparation: 100% agave
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: high-quality triple sec, such as Cointreau
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: ounces
+  ingredient: lime juice , from 4 to 5 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: simple syrup
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: ice
+  preparation: about 3 cups 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: At Least 8 Hours Before Serving: Combine tequila, triple sec, lime juice, and simple syrup in a sealable container that will fit in your freezer. Seal and place in freezer for at least 8 hours and up to 1 week (the mixture will remain completely liquid).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When you are ready to serve, add ice and tequila mixture to blender. Blend on highest setting, pulsing and scraping down sides as necessary, until completely smooth. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For best results, chill the base for the margaritas at least eight hours before blending. The base mixture can be doubled before it&#39;s placed in the freezer, but you&#39;ll need to work in two separate batches when blending. To make simple syrup, combine equal volumes of sugar and water in a small saucepan and heat until the sugar is dissolved.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The mixture can be made up to a week in advance and stored in the freezer.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, drink-recipes, cocktail-recipes, tequila-recipes
+
+----
+
+Seo_title: The Best Frozen Lime Margaritas | Avenda Aurora
+
+----
+
+Seo_description: What&#39;s better than a brain-freezing margarita to cool off on a hot day? To create the best slushy, restaurant-style frozen margaritas at home, just freeze y
+
+----
+
+Original_author: Maggie Hoffman
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ctizNJ3rOERHTrQAnn825hi14xc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__04__20120422-margarita5-71f040fbce5b4f7da5612d3a34ca58c4.jpg

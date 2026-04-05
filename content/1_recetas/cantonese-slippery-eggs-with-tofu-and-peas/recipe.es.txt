@@ -1,0 +1,221 @@
+Title: Cantonese Slippery Eggs with Tofu and Peas
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: If you love egg drop soup, you’ll love its comforting, meal-worthy cousin.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: homemade or store-bought low-sodium chicken stock , dashi , or water, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and ground white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: peanut , rice bran, or other neutral oil , plus more for greasing wok
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: coin-sized fresh ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , chopped into 1/4-inch segments, greens reserved separately
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , finely minced
+  preparation: about 2 teaspoons ; 10 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Shaoxing wine , dry sherry, or sake
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: thawed frozen peas
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: block firm silken tofu , cut into 1/2-inch cubes
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: White pepper , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: MSG , to taste
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Small
+  ingredient: handful roughly chopped cilantro , for garnish
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Steamed rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a small bowl, combine the cornstarch with 1/4 cup (60ml) of the stock, stirring to dissolve the starch. Reserve the remaining stock.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium bowl, whisk together 1 tablespoon of the cornstarch slurry with the eggs and a pinch of salt and white pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a paper towel, rub a thin film of oil into a wok and set it over high heat until smoking. Add the 1 tablespoon oil and swirl to coat. Add the ginger and let it sizzle for 10 seconds. Immediately add the scallion whites and garlic and stir-fry until fragrant, about 15 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the wine and cook, swirling as it sizzles, for a few seconds, then add the reserved chicken stock and peas. Stir the cornstarch slurry to redistribute, then stir it into the stock. Add the tofu and stir in very gently to avoid breaking it. Bring to a simmer, stirring gently, then reduce heat to maintain a simmer and cook until the sauce is thick enough to coat the back of a spoon, about 45 seconds. Adjust the seasoning to taste with salt, white pepper, and MSG (if using).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drizzle the egg mixture into the sauce, then very slowly stir it with a ladle or wok spatula until the eggs form tender ribbons, about 30 seconds, being careful not to break the tofu pieces. Sprinkle with the reserved scallion greens and chopped cilantro (if using). Divide the mixture evenly over bowls of steamed rice and serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you can’t find firm silken tofu, soft tofu will work as well.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, quick-dinner-recipes
+
+----
+
+Seo_title: Cantonese Slippery Eggs with Tofu and Peas | Avenda Aurora
+
+----
+
+Seo_description: If you love egg drop soup, you’ll love its comforting, meal-worthy cousin.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/r1nii8h7NhBbzwguUff0mRd6fts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cantonese-Slippery-Eggs-with-Tofu-and-Peas-AndrewValantine-Beauty-ed1151ee3c4243a98077107d7141354c.JPG

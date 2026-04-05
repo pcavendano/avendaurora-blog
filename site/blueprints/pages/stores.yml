@@ -1,0 +1,47 @@
+title: Tiendas
+icon: 🏪
+
+options:
+  delete: false
+  changeSlug: false
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          title:
+            label: Título
+            type: text
+            translate: true
+            default: Tiendas Asociadas
+
+          description:
+            label: Descripción
+            type: textarea
+            translate: true
+
+      stores:
+        type: pages
+        headline: Tiendas
+        template: store
+        layout: cards
+        info: "{{ page.website }}"
+        image:
+          query: page.logo.toFile
+          cover: true
+
+  sidebar:
+    width: 1/3
+    sections:
+      info:
+        type: fields
+        fields:
+          partnership_info:
+            label: Info de Asociaciones
+            type: info
+            text: |
+              Las tiendas asociadas permiten a los usuarios
+              comprar kits de ingredientes directamente.

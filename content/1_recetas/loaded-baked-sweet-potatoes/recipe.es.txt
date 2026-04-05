@@ -1,0 +1,144 @@
+Title: Loaded Baked Sweet Potatoes
+
+----
+
+Category: postres, platos-fuertes
+
+----
+
+Description: Loaded up with melted cheddar, crispy bacon, minced chives, and sour cream, baked potatoes—whether you choose to use starchy russets or sweet garnets—are a simple and filling dinner.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: medium
+  ingredient: sweet potatoes , washed, scrubbed, and dried
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Canola, vegetable, or extra-virgin olive oil , for rubbing
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Toppings of your choice, such as grated cheddar cheese , crispy diced bacon bits, minced chives, sour cream, and store-bought homemade chili
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and preheat to 375ºF (190ºC). Using a fork or paring knife, puncture sweet potatoes in several spots. Rub each sweet potato all over with a light coating of oil. Arrange on a wire rack set on a rimmed baking sheet and bake until a fork can easily be inserted into the center of each sweet potato and skin is crisp and lightly browned, about 1 hour 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Let sweet potatoes rest 5 minutes. Slice each open lengthwise almost all the way through, open like a book, and scoop flesh into a mixing bowl. Add butter, season with salt and pepper, and using a potato masher, mash until butter is incorporated but potatoes are still slightly chunky.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Scoop mashed sweet potatoes back into skins. (You can refill each skin, making 4 smaller potatoes, or use all the mashed sweet potatoes to refill only half the skins, making 2 overstuffed sweet potatoes.) Using your hands, reshape each stuffed sweet potato back into a classic baked potato shape.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Top with toppings of your choice. To melt cheese, add it first, then return sweet potatoes to oven until cheese is melted, about 1 minute. If topping with chili, place about 1/2 cup chili onto potato, top with grated cheddar, then return stuffed sweet potatoes to oven until cheese is melted, about 1 minute. Serve right away.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you’re baking four potatoes, you can refill each skin to make four smaller sweet potatoes, or fill two of the skins for two big, overstuffed sweet potatoes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe can be doubled.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, potato-recipes, sweet-potato-recipes
+
+----
+
+Seo_title: Loaded Baked Sweet Potatoes | Avenda Aurora
+
+----
+
+Seo_description: Loaded up with melted cheddar, crispy bacon, minced chives, and sour cream, baked potatoes—whether you choose to use starchy russets or sweet garnets—are a simp
+
+----
+
+Original_author: Genevieve Yam
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/b2lDm4n-xtwqQgz8am4_6624fwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250127-BakedSweetPotatoes-AmandaSuarez-09-9efeb456c7974c29a390a1af3e4a4bcd.jpg

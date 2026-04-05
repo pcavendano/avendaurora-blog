@@ -1,0 +1,265 @@
+Title: Cazuelitas (Fried Masa Pockets with Caramelized Onion and Mushroom Filling)
+
+----
+
+Category: sopas-caldos, salsas
+
+----
+
+Description: One of the best features of these Mexican hand-held fried masa pockets is that they can be filled with almost anything. This version of cazuelitas features a rich mushroom, caramelized onion, and crème frâiche filling. Once assembled, they’re dunked into a buttery chicken stock glaze before serving.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: unsalted butter, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: yellow onions , halved and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: cremini or white button mushrooms , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: crème fraîche
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: pounds
+  ingredient: russet potatoes , peeled and cut into 1-inch chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/4"
+  unit: cups
+  ingredient: masa harina
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: kosher salt ; for table salt use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: neutral oil such as vegetable or peanut oil , for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: teaspoons
+  ingredient: powdered gelatin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: unsalted butter, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: garlic cloves , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: red pepper flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: lime juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: minced fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Grated Parmesan , to serve
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Uncover, and use rubber spatula to gently press onions into the skillet. Cook, without stirring, until the bottom of onions are lightly browned, about 30 seconds. Stir onions, scraping fond from the skillet, then gently press onions into skillet again. Repeat pressing, cooking, and stirring until onions are softened, well browned, and slightly sticky, 15 to 20 minutes. Season to taste with salt. Transfer to a bowl and set aside. Rinse and wipe the skillet clean with paper towels.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return now-empty skillet to medium-high heat and melt the remaining 1 tablespoon butter in skillet. Add mushrooms, cover and cook until the mushrooms have released their liquid, about 8 minutes. Uncover, and continue to cook, stirring occasionally, until mushrooms are browned, 5 to 10 minutes. Return caramelized onions to the skillet and stir to combine. Stir in crème fraîche, and cook until the mixture is warmed through, about 2 minutes. Season with salt and pepper to taste; remove from heat and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the cazuelitas: In a large saucepan, cover potatoes with cold water by at least 2 inches. Bring water to a boil over high heat, then reduce heat to medium and simmer until potatoes are softened and can be pierced easily with a paring knife, about 15 minutes. Drain potatoes. Set a ricer over the now-empty pot and pass the potatoes through it (or use a potato masher to mash the potatoes until smooth).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large bowl, whisk together masa harina and salt to combine then stir in the 1 1/2 cups (360ml) water to form a dough. Add mashed potatoes and use a wooden spoon or your hands to mix until homogenous. Divide the mixture into 15 equal pieces and shape into balls.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Working with 1 dough ball at a time, use your finger to make an indentation about halfway through at the top of the ball. Gently tap your finger around the interior as you rotate the cazuelita to form a cup shape with thick walls. The finished cazuelita should have a thick rim and deep crater that’s about 1-inch in diameter. It’s OK if the shaped cazuelitas have some small cracks. Set aside on a large plate or baking sheet and repeat with the remaining balls.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and heat oven to 200℉. In a large Dutch oven or pot, heat oil over medium-high heat to 325℉ (175°C) (oil should measure about 1 1/2 inches deep). Working in batches of 5 at a time, carefully add cazuelitas, crater side up, and fry until light golden brown, 4 to 6 minutes. While frying, the cazuelitas should be almost completely submerged in oil. Flip and continue to fry until golden brown and center of dough registers 200℉ (93°C) on an instant-read thermometer, 2 more minutes. Transfer cazuelitas to a paper towel-lined baking sheet and keep warm in the oven. Repeat frying with the remaining cazuelitas. Hold warm in the oven while preparing the glaze.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the glaze: In a large bowl, add chicken stock and sprinkle gelatin on top and let sit for 10 minutes. In a small skillet, heat 1 tablespoon butter over medium heat until shimmering. Add garlic and red pepper flakes and cook, stirring frequently, until softened and fragrant, about 30 seconds. Pour stock mixture into skillet, bring to a boil, and cook until the sauce is reduced to a glaze that coats the back of a spoon, 6 to 10 minutes. Lower heat to low and whisk in remaining 1 tablespoon butter until emulsified, about 15 seconds. Turn off the heat and whisk in lime juice and cilantro. Season with salt and pepper to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To assemble, briefly roll each cazuelita in the glaze. Add 2 tablespoons of filling to each and sprinkle with Parmesan cheese, using. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 12-inch nonstick or cast-iron skillet, ricer or potato masher, instant-read thermometer, large saucepan, Dutch oven or large pot, rimmed baking sheet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Cazuelitas should not be confused with cazuelas, which are a type of dish prepared in a clay pot. They are, however, identical in shape to chocoyotes, which are masa dumplings served in soup.
+- The cooked filling can be refrigerated in an airtight container for up to 4 days before using.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, hors-doeuvre-recipes
+
+----
+
+Seo_title: Cazuelitas (Fried Masa Pockets with Caramelized Onion and Mushroom Filling) | Avenda Aurora
+
+----
+
+Seo_description: One of the best features of these Mexican hand-held fried masa pockets is that they can be filled with almost anything. This version of cazuelitas features a ri
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/2KG3X4UOGdqwyxfWml6W2QlvXWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240425-SEA-Cazuelitas-48-c3c755841e594111883ea298b8c5c597.jpg

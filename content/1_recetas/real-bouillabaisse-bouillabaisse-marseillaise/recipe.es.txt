@@ -1,0 +1,335 @@
+Title: Real Bouillabaisse (Bouillabaisse Marseillaise)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: This bouillabaisse recipe will allow you to make a fish stew that&#39;s much closer to the classic Provençal version, no matter where you live.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: yellow onion , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: leek , washed of any grit and diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: fennel bulb , cored and diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic , crushed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: whole fennel seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: pinches saffron threads
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One strip zest from 1 orange
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Large
+  ingredient: pinch cayenne pepper or other red chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: sprigs thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: plum tomatoes , cored, seeded, and diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: whole fish or fish bones and heads
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: dry white wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: Pernod or pastis
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: boiling water , or more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: sprigs fresh flat-leaf parsley
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher or sea salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: crumbled stale bread or panko bread crumbs
+  preparation:  1/2 ounce ; 15 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Large
+  ingredient: pinch cayenne pepper or other red chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch saffron threads
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: egg yolk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher or sea salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: to 5 pounds mixed whole and/or filleted fish
+  preparation:  1.3 to 2.25 kg ; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: mussels and/or crabs
+  preparation: optional; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher or sea salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Baguette toasts , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Broth: In a 7-quart Dutch oven, heat olive oil over medium heat until shimmering. Add onion, leek, fennel, garlic, fennel seeds, saffron, orange zest, cayenne pepper, and thyme sprigs. Cook, stirring occasionally, until vegetables have softened, about 10 minutes; lower heat if necessary to prevent browning.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in tomato paste and cook, stirring, for 2 minutes. Add diced tomatoes and cook, stirring, until tomatoes begin to soften, about 3 minutes longer. Layer in whole fish and/or fish bones and heads, stirring to mix.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add white wine and Pernod or pastis (if using), stirring to scrape up any bits from the bottom of the pot. Bring to a boil over medium-high heat, then boil until raw alcohol smell has cooked off, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add enough boiling water to fully cover all ingredients in the pot. Add parsley and bay leaf, increase heat to high, and bring broth to a vigorous boil. Allow to boil rapidly for 5 minutes. Lower heat to a simmer and continue to cook until broth is flavorful, about 45 minutes. Season with salt and pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While pounding with the pestle, or with the blender or processor running at its lowest speed, drizzle in the olive oil. If the mixture seems too thick at any point, add fish broth, 1 tablespoon (15ml) at a time, until a thick, mayonnaise-like consistency is reached. Refrigerate the rouille until ready to use, up to 3 days.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer blended soup to a fine-mesh strainer set over a clean pot and, using a wooden spoon, work the broth through the strainer, scraping and pressing, until only bones and very dry fibrous material are left. Repeat with remaining broth and bones. Season strained broth with salt and pepper. Alternatively, you can work the broth and all the bones and solids through the fine disk of a food mill, but this will only work with a high-quality, commercial-grade food mill (see the &#34;Special Equipment&#34; section for a link).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return broth to heat and bring to a very gentle simmer over medium. Working in batches if necessary, season the whole and filleted fish and fully submerge in broth. Poach until just cooked through, starting with the larger whole fish that will take the longest to cook and finishing with the fillets; feel free to check doneness by cutting into the thickest part of each fish or fillet. As each is done, transfer it to a serving platter and keep warm.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If using mussels or crabs, add to gently simmering broth and cook until mussels have just opened or crabs are cooked through. (This will depend on the size of your crabs; ask your fishmonger for advice if you need it.) Transfer to the serving platter.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bring the platter of fish to the table along with the broth in the soup pot or a tureen. Guests can eat the soup and fish separately, or together in the same bowl. The soup is best served with baguette toasts smeared with the rouille.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- For the Broth: If you can find inexpensive whole rockfish, such as red mullet, or other whole fish, such as monkfish or conger eel, you can use any combination of them to make the soup base. If the fish are large, cut them into sections before adding to the pot. Otherwise, use a selection of fish bones and heads from your fishmonger; many types of fish can work for this, including red snapper, sea bass, and more.
+- For the Poaching Fish: Select the best variety of fish you can find in your area—whole when possible, fillets when not. If you use only fillets, you will need about 3 pounds total; if you use only whole fish, you will need about 5 pounds total; if you use a combination, about 4 pounds total will work. This can include a variety of delicate, firm, oily, and lean fish, such as daurade or porgy (both types of sea bream), branzino (or another type of sea bass), snapper, monkfish, whiting, turbot, John Dory, and Dover sole. You can also add some shellfish, such as mussels and/or crabs, but make sure the shellfish do not take over the soup.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: Real Bouillabaisse (Bouillabaisse Marseillaise) | Avenda Aurora
+
+----
+
+Seo_description: This bouillabaisse recipe will allow you to make a fish stew that&#39;s much closer to the classic Provençal version, no matter where you live.
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/n-oqt2lTHSkgpOiVOpfNe1BMFVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__09__20180823-bouillabaisse-french-fish-soup-liz-clayman-in-bowl-fd66dfd246574977bfcbd5186ff316f5.jpg

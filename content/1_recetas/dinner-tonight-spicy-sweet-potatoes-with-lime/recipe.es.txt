@@ -1,0 +1,179 @@
+Title: Dinner Tonight: Spicy Sweet Potatoes with Lime
+
+----
+
+Category: postres, salsas
+
+----
+
+Description: Crispy baked sweet potato wedges with a tangy yogurt sauce.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: medium
+  ingredient: sweet potatoes , scrubbed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt and pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: plain yogurt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: cilantro, chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh lime juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Sweet Potatoes: Preheat the oven to 400°F. Set a baking sheet in the oven while warming.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Halve the potatoes length-wise, and cut each piece into three wedges.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Mix together the cumin, paprika and ground ginger. Coat the potato wedges quickly with the oil, and then toss with the spices and season with salt and pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place the potatoes on the preheated baking sheet, in one layer. Set in the oven and cook for 15 minutes. Flip the wedges with a spatula and cook for another 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Sauce: Meanwhile, mix together the yogurt, cilantro, lime juice, and cumin to make the yogurt dipping sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Serve: When the potatoes are done, remove from oven and serve with the sauce.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, potato-recipes, sweet-potato-recipes
+
+----
+
+Seo_title: Dinner Tonight: Spicy Sweet Potatoes with Lime | Avenda Aurora
+
+----
+
+Seo_description: Crispy baked sweet potato wedges with a tangy yogurt sauce.
+
+----
+
+Original_author: Nick Kindelsperger
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/lNe-7FHJZmBPbkCIXpnfQlIxx1E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20080314-dintonight-a6cc48dfb47849d8b4cb2da50acaf7f0.jpg

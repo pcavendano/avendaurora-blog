@@ -1,0 +1,47 @@
+# Noodles with Flank Steak, Bok Choy, and Black Bean Sauce
+
+> Chinese black bean sauce has the power to make anything it touches taste meatier and more robust. More importantly, it does this almost instantly, without any long simmering required. This is especially welcome on a busy weeknight, because all I have to do is prep and cook some vegetables and meat, boil some noodles, mix in sauce, and serve.
+
+**Author:** Nick Kindelsperger
+
+**Original Image:** https://www.seriouseats.com/thmb/08fBaiyuaDzBoWpQ0Ont6nEHhU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__09__20130925-267579-dinner-tonight-noodles-steak-bok-choy-mushrooms-black-bean-sauce-8e9cf8d44b4a4b42882958de36be0829.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-ingredient-recipes, beef-recipes, steak-recipes, flank-steak-recipes
+
+
+## Ingredients
+
+- 3 tablespoons canola oil , divided
+- 1 garlic clove , minced (about 1 teaspoon )
+- 1 tablespoon fresh ginger , minced
+- 2 scallions , ends trimmed, thinly sliced
+- 2 tablespoons Chinese fermented black bean sauce
+- 1 tablespoon Shaoxing wine
+- 1/2 cup homemade or store-bought low sodium chicken broth
+- 1 pound flank steak or skirt steak
+- 1 pound bok choy , ends trimmed
+- 1/2 pound cremini mushrooms , stems removed
+- 12 ounces Chinese egg noodles
+- Chili oil (optional)
+
+
+## Instructions
+
+1. Bring a large pot of water to a boil over high heat. While the water warms up, season flank steak with salt on both sides. Heat a large cast-iron grill pan over medium-high heat. When hot, brush with a tablespoon of canola oil and add the steak. Cook until nicely browned on the bottom, 4 to 5 minutes. Flip and cook until steak registers 125°F on an instant read thermometer, 4 to 5 minutes longer. Transfer to a large plate and set aside to rest.
+
+2. Add mushroom caps and cook until lightly browned on both sides and tender, 2 to 3 minutes per side. Season with salt and set aside. Brush pan with another tablespoon of canola oil if necessary. Add bok choy leaves and cook until leaves wilt and stems brown and become tender, 1 to 2 minutes per side. Turn off heat an set aside. Season bok choy with salt
+
+3. Heat 1 tablespoon oil in a medium saucepan over medium heat. Add garlic, ginger, and scallions and cook, stirring, until fragrant, 30 seconds to 1 minute. Add black bean sauce, rice wine, and chicken broth and stir until combined. Bring to a simmer and cook until thickened, about 2 minutes.
+
+4. Add noodles to the boiling water and cook according directions on the packaging. Drain in a colander and then divide the noodles between four large bowls. Spoon over a couple tablespoons of the sauce. Cut the flank steak against the grain into 1/2-inch thick slices. Divide the steak slices, mushrooms, and bok choy between the four bowls. Drizzle on more of the sauce and some chili oil (optional). Serve immediately.
+
+5. Black bean sauce and Shaoxing wine can be found in most Asian grocers.
+
+
+---
+
+*Extracted from Serious Eats*

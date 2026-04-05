@@ -1,0 +1,216 @@
+Title: Taiwanese Beef Noodle Soup
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: This savory, slightly spicy, winter comfort food is often hailed as the national dish of Taiwan. Its Sichuan influence is conspicuous, yet you won&#39;t find this dish in Sichuan province.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: vegetable , canola , or peanut oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: boneless beef shank or chuck , cut into 1-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: large
+  ingredient: slices fresh ginger root
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: cloves
+  ingredient: garlic , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: -3 small red chilies , such as Thai chiles , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: plum tomato , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Sichuan chili bean sauce
+  preparation:  doubanjiang 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: Chinese rice wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Sichuan peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole star anise cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: dark soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: light soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: quarts
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: Asian wheat flour noodles
+  preparation: any width you like
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh spinach leaves , baby bok choy , broccolini , or other small greens , as desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat 1 tablespoon vegetable oil in a large, heavy-bottomed pot or Dutch oven over medium-high heat until shimmering. Add the beef and cook without moving until well browned on first side, about 4 minutes. Stir and cook until well browned all over, about 10 minutes total. Transfer beef to a large bowl and repeat with 1 more tablespoon oil and remaining beef.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining tablespoon of oil to the same pan and heat until shimmering. Add the sliced ginger, garlic cloves, and chilies. Cook, stirring, until fragrant, about 30 seconds. Add the chopped tomato and stir stir for another minute. Add the sugar and stir until dissolved, about 30 seconds. Add the chili bean sauce, and stir until the mixture just begins to bubble.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return the beef to the pot. Stir to warm up and coat the meat with the spices. Add the rice wine and cook for 1 minute, scraping up browned bits from bottom of pot. Add the star anise, Sichuan peppercorns, dark soy sauce, light soy sauce, and the water. Bring to a boil. Then reduce heat to a simmer and cover. Cook until beef is tender, about 2 1/2 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using tongs, carefully remove the beef cubes from the stew and set aside in a bowl. Carefully strain the soup over a colander or mesh strainer to catch the ginger, peppercorns, and other stray solids. Retain any solids or small beef pieces from the strained mixture that you may want to keep, and return to the soup. Return the beef to the soup and add greens to wilt if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cook the noodles according to the directions on their package. Strain noodles, and divide into serving bowls. Ladle the warm soup and beef chunks into each bowl and serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Taiwanese Beef Noodle Soup | Avenda Aurora
+
+----
+
+Seo_description: This savory, slightly spicy, winter comfort food is often hailed as the national dish of Taiwan. Its Sichuan influence is conspicuous, yet you won&#39;t find th
+
+----
+
+Original_author: Cathy Erway
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/khm4E9ebrNkRhM0ugXPowyOTtFc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__12__20131219-taiwan-eats-beef-noodle-soup-finished-38075b663810491fad31c06f7d9e22c5.jpg

@@ -1,0 +1,185 @@
+Title: Easy Mexican Chorizo Tacos
+
+----
+
+Category: salsas
+
+----
+
+Description: Fresh homemade Mexican chorizo with warm spices and a vinegary tang gets stuffed into soft warm corn tortillas and topped with salsa verde, cilantro, and a slew of other garnishes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: white onion , finely diced , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: poblano pepper , finely diced
+  preparation: about 1 cup
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: fresh Mexican chorizo
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: chipotle chile in adobo sauce , minced
+  preparation: about 1 tablespoon
+  optional: false
+  ingredient_link: 
+-
+  quantity: "24"
+  unit: 
+  ingredient: warm corn tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped fresh cilantro leaves and fine stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe salsa verde
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: Mexican crema or sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: limes , cut into 12 wedges each
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: crumbled queso fresco
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: radishes , scrubbed clean
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: avocado , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat vegetable oil in a large cast iron or stainless steel skillet over medium-high heat until shimmering. Add half of onion and all of poblano and cook, stirring, until softened and starting to color, about 6 minutes. Add chorizo and cook, stirring and breaking up meat with a spoon, until completely cooked through and starting to crisp and char in bits, about 15 minutes total. Stir in chipotle chile and remove from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer chorizo to a warm serving bowl, draining excess oil if desired. Combine remaining onion with cilantro. Serve chorizo immediately with warm tortillas, salsa, cilantro and onions, crema, queso fresco, radishes, avocado, and lime wedges
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Store-bought fresh Mexican chorizo can be used in place of the homemade. Remove from casings before using. Store-bought salsa verde can be used in place of homemade.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+----
+
+Seo_title: Easy Mexican Chorizo Tacos | Avenda Aurora
+
+----
+
+Seo_description: Fresh homemade Mexican chorizo with warm spices and a vinegary tang gets stuffed into soft warm corn tortillas and topped with salsa verde, cilantro, and a slew
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/UMST5k_jgEu_FxuW-1etko2oNU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210710-chorizo-tacos-rice-diana-chistruga-seriouseats-1-4e85bbb2046a44f1996cfff899e9de40.jpg

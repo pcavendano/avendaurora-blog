@@ -1,0 +1,48 @@
+# Arepa de Huevo (Colombian Egg-Stuffed Arepas)
+
+> Colombia&#39;s arepa de huevo is an ultra-crispy fried corn-flour cake with an egg tucked inside. This recipe offers step-by-step instructions on making them at home.
+
+**Author:** Daniel Gritzer
+
+**Original Image:** https://www.seriouseats.com/thmb/bls1b0cO8YQmAcaK8KRa2cEnue8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250307-ArepasdeHuevo-AmandaSuarez-28-4223103fa3574a0b8573aa6a15b16182.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-course, breakfast-brunch-recipes
+
+
+## Ingredients
+
+- 1 cup yellow or white masarepa ( 5 3/4 ounces ; 163 g ); see notes
+- 1 cup ( 236 g ) water , plus more if needed
+- 1/2 teaspoon Diamond Crystal kosher salt (for table salt, use half as much by volume), plus more as needed
+- Vegetable or other neutral oil , for frying
+- 8 large eggs
+
+
+## Instructions
+
+1. In a large mixing bowl, stir together masarepa, water, and salt. Using a clean hand, knead dough until evenly mixed and cohesive, about 1 minute. Let stand 5 minutes.
+
+2. Using a sharp knife or scissors, cut the sides of a 1-quart or 1-gallon zipper-lock bag so that it is attached only at the bottom fold. In a large Dutch oven or pot, heat at least 2 inches of oil to 330°F (165°C) on an instant-read or fry thermometer. Meanwhile, divide dough into 8 even portions (about 1 3/4 ounces each); if dough is very brittle, mix in an additional 1 tablespoon water to moisten, then divide into balls and cover loosely with a kitchen towel,
+
+3. Working with one ball of arepa dough at a time, roll between moistened hands to form a uniform ball. Set ball on the opened zipper-lock bag, then fold the bag closed over it. Using a tortilla press or a flat, heavy object like a cutting board or cast iron pan, evenly press down on the dough ball to flatten it into an even circle, roughly 3 inches in diameter and just under 1/4 inch thick. Smooth any jagged edges of the arepa (this can be done by smoothing the edges with a fingernail through the plastic, or with a wet finger directly on the arepa).
+
+4. Crack 1 large egg into a small (preferably spouted) vessel or cup, being careful not to break the yolk. Season lightly with salt. Very carefully peel arepa from the plastic, taking care not to tear it, and gently lower it into the oil (this is the trickiest part, and it is easy to accidentally tear the uncooked arepa at this point; if you do, just roll it into a ball again, press it between the plastic back into a round, smooth the edges, and try again). Fry the arepa, gently spooning hot oil on top after it rises to the surface, until inflated, about 2 minutes. Carefully flip arepa and fry on second side 1 minute longer. Using a spider or slotted spoon, carefully transfer arepa to towels to drain.
+
+5. When cool enough to handle, use a sharp knife to carefully cut slit into the arepa near the edge and large enough to slide the egg through. While holding the arepa in one hand and gently squeezing it to keep the slit open, very carefully slide the egg into the arepa.
+
+6. Carefully lower the arepa back into the oil, using the spider or spoon to keep the slit-open side of the arepa slightly elevated until egg beings to set, then lower arepa fully into the oil. Fry until egg is cooked to your desired doneness, 1 to 2 minutes for a runnier yolk and 3 to 4 minutes for a more set one. Transfer to towels to drain once more. Repeat with remaining area dough and eggs. Serve warm.
+
+7. Zipper-lock bag; tortilla press or heavy flat object such as a cutting board or cast iron pan; large Dutch oven or pot (for frying); instant-read or fry thermometer
+
+8. Masarepa is a type of corn flour that has been pre-cooked and then dehydrated. The ratio of water to masarepa here should work for most brands, but if the package instructions suggest a different ratio for arepas (and specifically arepas de huevo), feel free to follow the product&#39;s directions.
+
+9. Arepas de huevo are best when freshly fried.
+
+
+---
+
+*Extracted from Serious Eats*

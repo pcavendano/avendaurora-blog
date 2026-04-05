@@ -1,0 +1,31 @@
+# Claude Code local config
+.claude/
+
+# IDE
+.idea/
+*.iml
+
+# Kirby CMS framework (installed via composer)
+/kirby
+
+# Composer dependencies
+/vendor
+
+# Kirby regenerated/runtime dirs
+/media
+/storage/cache
+/storage/sessions
+/storage/logs
+
+# Kirby user accounts (contain password hashes)
+/storage/accounts
+
+# Scraped source HTML (already extracted into /content by scripts/extract-recipes.py)
+/www.seriouseats.com*.html
+
+# Project submission archive
+/projet-web-scrapping-pedro-colbert.zip
+
+# OS junk
+.DS_Store
+Thumbs.db

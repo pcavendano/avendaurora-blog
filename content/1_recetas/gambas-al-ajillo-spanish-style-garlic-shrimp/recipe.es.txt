@@ -1,0 +1,155 @@
+Title: Gambas al Ajillo (Spanish-Style Garlic Shrimp)
+
+----
+
+Category: mariscos
+
+----
+
+Description: This recipe calls for juicy, tender shrimp packed with plenty of garlic, yielding a simple-yet-perfect version of this traditional classic.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "12"
+  unit: cloves
+  ingredient: garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: large shrimp , peeled, shells reserved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch red pepper flakes , or 1 piece dried guajillo chile
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: sherry vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chopped fresh parsley leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Finely mince 4 garlic cloves and place in large bowl. Smash 4 cloves under the flat side of a knife and place in a large skillet. Thinly slice remaining four garlic cloves and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add shrimp to bowl with minced garlic. Add 3 tablespoons olive oil, 3/4 teaspoon kosher salt, and baking soda. Toss to combine thoroughly and set aside at room temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add shrimp shells to skillet with smashed garlic and add remaining olive oil and pepper flakes. Set over medium-low to low heat and cook, stirring and tossing occasionally, until shells are deep ruby red, garlic is pale golden brown, and oil is intensely aromatic, about 10 minutes. Oil should be gently bubbling the whole time. When ready, strain through a fine-mesh strainer into a small bowl, tossing and pressing the shrimp shells to extract as much oil as possible. Discard shells and garlic.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return flavored oil to skillet and heat over medium-high heat until shimmering. Add sliced garlic and cook, stirring constantly, until pale golden brown, about 1 minute. Add shrimp and cook, tossing and stirring constantly until shrimp are barely cooked through, about 2 minutes. Add sherry vinegar and parsley and toss to combine. Season to taste with salt. Serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, shrimp-recipes
+
+----
+
+Seo_title: Gambas al Ajillo (Spanish-Style Garlic Shrimp) | Avenda Aurora
+
+----
+
+Seo_description: This recipe calls for juicy, tender shrimp packed with plenty of garlic, yielding a simple-yet-perfect version of this traditional classic.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/BxnmKTu3011FnjOEYaKlqGbRUzE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spanish-style-garlic-shrimp-gambas-al-ajillo-recipe_hero-01_1-ecd4c168c99541afaa7106b1f957020c.JPG

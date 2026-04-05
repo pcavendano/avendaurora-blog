@@ -1,0 +1,180 @@
+Title: Palomilla (Cuban Steak and Onions)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: The hallmark of palomilla, a Cuban American favorite, is its pencil-thin steaks that are marinated with plenty of lime, garlic, and salt. This simple savory dish takes less than 15 minutes to cook, and pairs well with classic Cuban sides like rice and beans, plantains, or even a simple side salad.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: boneless top sirloin steak roast or 6 to 8 store-bought pre-sliced thin top sirloin steaks
+  preparation: about 2 pounds ; 907 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: teaspoon
+  ingredient: kosher salt, divided; for table salt , use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: plus 1 teaspoon fresh lime juice from 2 limes , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: garlic cloves , grated or finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plus 1 teaspoon neutral oil such as canola or vegetable , divided, plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: white onion ; sliced crosswise into 1/4-inch-thick rings
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cuban black beans and rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: If using a top sirloin roast, slice roast against the grain into six 1/2-inch-thick slices.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Lay steak slices 3 inches apart on a cutting board and cover with plastic wrap. Using a meat pounder, flatten slices to an even 1/4-inch thickness. If using pre-sliced beef, pound lightly just to tenderize.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place steaks in a large shallow baking dish or glass storage container. Sprinkle one side of the steaks evenly with 1/2 teaspoon salt and 1/2 teaspoon pepper, and half of the garlic. Drizzle with 1 tablespoon lime juice and rub seasonings into the meat. Flip the steaks and repeat with 1/2 teaspoon salt, 1/2 teaspoon pepper, remaining garlic, and 1 tablespoon lime juice, making sure meat is evenly coated.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cover dish tightly with plastic wrap or a lid and refrigerate for at least 30 minutes and up to 4 hours before cooking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large stainless-steel skillet, heat 1 tablespoon oil over high heat until just smoking. Working in batches to prevent crowding the pan, add the steaks and cook until browned on each side, 45 to 60 seconds per side. If needed, add an additional 1 tablespoon oil to the skillet between batches. Transfer cooked steaks to a platter and cover with foil or place in a low oven to keep warm. Repeat with remaining steaks.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the now-empty skillet, add remaining 1 teaspoon oil and heat over medium-low heat until shimmering. Add the onion, remaining 1 teaspoon lime juice, remaining 1/4 teaspoon salt, and 1 tablespoon water, and cook, lowering heat as needed to avoid scorching, until the onions begin to soften and brown, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Arrange steaks on serving plates and top with browned onions. Serve immediately, preferably with Cuban black beans and rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meat pounder, large stainless-steel skillet
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you do not have a meat pounder, you can use a blunt object such as a rolling pin, heavy bottomed skillet, or pestle to pound the meat into 1/4-inch slices.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, beef-main-recipes
+
+----
+
+Seo_title: Palomilla (Cuban Steak and Onions) | Avenda Aurora
+
+----
+
+Seo_description: The hallmark of palomilla, a Cuban American favorite, is its pencil-thin steaks that are marinated with plenty of lime, garlic, and salt. This simple savory dis
+
+----
+
+Original_author: Patricia Ysabella Suarez
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Nn5_BWK0NzZWyU0iP8nXSn8Arlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240905-SEA-Pallomilla-TwoBites-Hero1-56-2e3e3ad871c44bb7a41a797e200f3e3c.jpg

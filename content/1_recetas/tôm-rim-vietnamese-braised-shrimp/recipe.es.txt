@@ -1,0 +1,202 @@
+Title: Tôm Rim (Vietnamese Braised Shrimp)
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: This plump shrimp braised in a bold caramel-and–coconut water sauce is so good, you&#39;ll want extra rice to eat it all up.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: unsweetened coconut water or water
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: headless shrimp , deveined, preferably shell-on
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: shallo t , finely chopped, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , finely chopped, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt
+  preparation: for table salt, use half as much by volume
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: to 2 bird’s-eye chiles , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral oil, such as vegetable or canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fish sauce , preferably Vietnamese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Steamed jasmine rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vegetables of your choice, such as raw cucumber cut into thin slices, or steamed cabbage or spinach
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Caramel Sauce: In a 2-quart saucepan, combine sugar and water and set over medium-high heat. Cook, swirling the pan to ensure even caramelization, until the mixture bubbles vigorously and becomes slightly golden, about 5 minutes. Continue cooking until light smoke comes off the pan and color changes from light to dark amber very quickly, about 2 minutes longer. Remove pan from heat and stir in coconut water. If the mixture looks like it’s seizing, return pan to low heat and stir gently until sugar is fully dissolved. Transfer to a heatproof bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, for the Braise: In a large mixing bowl, combine shrimp, half of shallot, half of garlic, sugar, salt, chiles, and pepper, and marinate in the refrigerator for 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Wipe out pan and return to medium-high heat. Heat oil until shimmering, then add remaining shallot and garlic. Cook, stirring occasionally, until softened and fragrant, 30 to 45 seconds. Add caramel sauce and fish sauce and let simmer until sauce has reduced by half, 7 to 8 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add shrimp and marinade ingredients and toss to coat. Continue cooking on medium-high heat until shrimp turn opaque and are cooked through, about 7 minutes. Remove from heat, season with more freshly ground black pepper, and let rest for 5 minutes before serving with rice and vegetables.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you don’t have coconut water, water works just fine. (Do not substitute with sweetened or flavored coconut water.)
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, vietnamese-recipes
+
+----
+
+Seo_title: Tôm Rim (Vietnamese Braised Shrimp) | Avenda Aurora
+
+----
+
+Seo_description: This plump shrimp braised in a bold caramel-and–coconut water sauce is so good, you&#39;ll want extra rice to eat it all up.
+
+----
+
+Original_author: Giao Châu
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/95Vr7wEzbmtqu6VJK4jDm7EjOy8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230221-VyTran-Braisedshrimp-VyTran-hero-6e7415666b15494f8df80b6dd8d2030c.JPG

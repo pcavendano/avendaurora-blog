@@ -1,0 +1,188 @@
+Title: Breakfast Tacos With Crispy Potatoes, Chorizo, and Fried Egg
+
+----
+
+Category: salsas, antojitos
+
+----
+
+Description: Breakfast tacos with crispy potatoes fried in chorizo fat and a soft fried egg on top.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: large
+  ingredient: russet potato , cut into 1/2-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: Mexican-style raw chorizo
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , thinly sliced, whites and greens reserved separately
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano pepper , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: soft flour or corn tortillas , warm
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: homemade or store-bought roasted tomato salsa
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped cilantro , sour cream or Mexican crema, and lime wedges for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place potatoes in a small saucepan and cover with cold water by 1-inch. Add 1 tablespoon kosher salt and the vinegar. Bring to a boil over high heat, reduce to a simmer, and cook until potatoes are softed, about 8 minutes. Drain and let rest for 5 minutes to dry.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While potatoes cook, heat 2 teaspoons of vegetable oil in a medium non-stick or cast iron skillet over medium-high heat until shimmering. Add chorizo and cook, breaking it up with a wooden spoon, until cooked through. Transfer chorizo to a small bowl, leaving oil behind.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When potatoes have dried, reheat chorizo oil over high heat until shimmering. Add potatoes and cook, tossing occasionally, until crisp and golden brown all over, about 15 minutes. Add scallion whites and serranos and continue to cook, tossing, until softened and aromatic, about 1 minute longer. Stir in chorizo and season to taste with salt and pepper. Transfer to a plate and keep warm. Wipe out skillet.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining teaspoon oil and heat over medium-high heat until shimmering. Add eggs, season with salt and pepper, and cook until whites are set but yolks are still runny, about 1 1/2 minutes. Remove from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Divide potato mixture between tortillas. Top each with a fried egg and some salsa. Serve immediately with chopped cilantro, scallion greens, sour cream or Mexican crema, and lime wedges.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+----
+
+Seo_title: Breakfast Tacos With Crispy Potatoes, Chorizo, and Fried Egg | Avenda Aurora
+
+----
+
+Seo_description: Breakfast tacos with crispy potatoes fried in chorizo fat and a soft fried egg on top.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/FTjzJNVx9D1fU2L-wMb2Vjgx5nE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__09__20130910-breakfast-tacos-recipes-8-fa1dd081313e4b1b9729c73208c7d176.jpg

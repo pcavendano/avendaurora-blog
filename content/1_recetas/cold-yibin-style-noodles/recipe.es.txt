@@ -1,0 +1,176 @@
+Title: Cold Yibin-Style Noodles
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: A nutty Sichuanese-style Chinese noodle dish with chile oil and preserved mustard greens.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chili oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: pea shoots or spinach
+  preparation: about 4 loosely packed quarts 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: Sichuan ya cai or preserved/pickled mustard green
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: dried Chinese noodles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: toasted chopped walnuts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: toasted chopped peanuts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: sesame seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: scallions , green parts only, chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine chili oil, sesame oil, and soy sauce in a small bowl. Set aside. Bring a large pot of water to boil. Blanch pea shoots or spinach until leaves are just wilted, about 5 seconds. Immediately transfer to a bowl of cold water. Wring out excess moisture, then divide greens among 4 small bowls. Add 1 tablespoon vegetable oil to each bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat 1 tablespoon oil in a large wok over high heat until shimmering. Add preserved vegetable and stir-fry until fragrant, about 30 seconds. Transfer to a small bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cook noodles according to instructions on package. Drain and rinse under cold running water. Divide noodles among serving bowls. Drizzle each bowl with a quarter of the chlii oil/soy mixture. Sprinkle stir-fried mustard greens, walnuts, peanuts, sesame seeds, and scallions evenly between the bowls.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve immediately, allowing your guests to mix their own noodles at the table.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, noodle-recipes
+
+----
+
+Seo_title: Cold Yibin-Style Noodles | Avenda Aurora
+
+----
+
+Seo_description: A nutty Sichuanese-style Chinese noodle dish with chile oil and preserved mustard greens.
+
+----
+
+Original_author: Chichi Wang
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/AwhSlFAZn-ag0K6037Y3v9N9mlI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__05__20120524-chichi-chinese-yibin-noodle-primary-ee60f1c7b8b34c8b9797b22474f6922f.jpg

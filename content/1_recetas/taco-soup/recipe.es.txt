@@ -1,0 +1,245 @@
+Title: Taco Soup
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: Thick and hearty, this taco-inspired ground beef soup is spiced with taco seasoning, studded with corn and pinto beans, and finished with a broiled layer of tortilla chips and cheese for a crunchy, melty Tex Mex taco–like topping.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: small
+  ingredient: yellow onion , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Two 5- to 6-inch Cubanelle chiles or banana peppers
+  preparation: 3 ounces each; 85 g each
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: garlic cloves , unpeeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: jalapeño peppers , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Two 14.5-ounce cans fire-roasted diced tomatoes, undrained, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral cooking oil such as vegetable or canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: tablespoons
+  ingredient: h omemade taco seasoning or store-bought taco seasoning
+  preparation:  21 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: ground beef, 93% lean
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: cups
+  ingredient: homemade chicken stock or store bought lower-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Two 15.5-ounce cans pinto beans , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: frozen corn
+  preparation: 5 ounces ; 140 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: crushed tortilla chips , plus whole chips for topping
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt, divided, plus more to taste; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: fresh tomatoes , seeded and chopped
+  preparation: 1 cup
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped fresh cilantro
+  preparation: 1 ounce; 29g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh lime juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: medium Cheddar cheese , shredded
+  preparation: about 1 1/2 cups
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Soup: Halve onion. Cut 1 onion half through root end to create two quarters. Set aside remaining onion half.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat a large cast-iron skillet over high until hot and just smoking. Place the 2 onion quarters, Cubanelle chiles or banana peppers, garlic, and 1 of the jalapeños in hot skillet; cook, turning occasionally, until onion, garlic, and chiles are blistered and charred in spots, 3 to 8 minutes for garlic and onions and 5 to 10 minutes for chiles. Use tonga to transfer to a plate as they finish cooking; set aside, and let cool slightly, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Peel garlic and discard skins. Remove and discard stems, skins, and seeds from chiles. Transfer the charred onion, peeled garlic, and peeled chiles to a blender, along with 1 can of the tomatoes. Process until smooth, about 30 seconds; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large Dutch oven, heat oil over medium heat until shimmering. Add taco seasoning; cook, stirring constantly, until fragrant and sizzling, about 45 seconds. Add ground beef, and increase heat to high. Cook, stirring and breaking up meat with a wooden spoon, until browned, about 3 to 6 minutes. Add tomato paste; cook, stirring constantly, until tomato paste fully coats and slightly thickens beef mixture, about 1 to 2 minutes. Stir in stock, puréed chile-garlic mixture, beans, corn, crushed tortilla chips, 1 1/2 teaspoons of the salt, and remaining 1 can tomatoes. Bring to a simmer over medium-high heat; reduce heat to medium, and cook, maintaining a simmer and stirring occasionally, until flavors meld, about 10 minutes. Season with additional salt to taste, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Salsa: While soup is simmering, adjust oven rack to middle position and preheat broiler in oven. Chop the remaining onion half to equal 1/4 cup; finely chop remaining jalapeño chile to equal 1 tablespoon. (Reserve any remaining onion and jalapeño chile for another use.) In a small bowl, stir together measured chopped onion, jalapeño chile, fresh tomatoes, cilantro, lime juice, and remaining 1/2 teaspoon salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a ladle, divide soup evenly among 6 broiler-safe soup bowls, and place on a rimmed baking sheet. Top each bowl with a few whole tortilla chips and 1/4 cup cheese. Broil until cheese is melted, about 2 minutes. Top with prepared tomato-chile salsa before serving.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large cast iron skillet, blender, large Dutch oven, 6 broiler-safe soup bowls
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The soup can be cooked through step 4, cooled and refrigerated in an airtight container for up to 4 days. To serve soup, reheat until simmering on the stovetop, then continue with step 4 in the recipe.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Taco Soup | Avenda Aurora
+
+----
+
+Seo_description: Thick and hearty, this taco-inspired ground beef soup is spiced with taco seasoning, studded with corn and pinto beans, and finished with a broiled layer of tor
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/a3lbx58mw73G0LFRJ-5Mg9ubTQ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250102-SEA-TacoSoup-FredHardy-Hero-31-41aab51cc4484633b8441931d8c980f9.jpg

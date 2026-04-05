@@ -1,0 +1,272 @@
+Title: Jamaican Oxtail
+
+----
+
+Category: sopas-caldos, salsas
+
+----
+
+Description: This deeply flavorful Jamaican stew is loaded with tender oxtail, butter beans, and broth-thickening dumplings.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: yellow onion , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: scallions , root ends trimmed and cut into 2-inch segments
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: Scotch bonnet pepper , stemmed, seeded, and chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: pounds
+  ingredient: oxtail
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: picked fresh thyme leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil or other neutral oil , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: yellow onion , cut into large chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: scallion , root end trimmed and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: sprigs fresh thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole Scotch bonnet pepper , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: browning, such as Grace brand, or soy sauce
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: all-purpose flour
+  preparation:  6 3/4 ounces ; 191 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans butter beans or broad beans, drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked white rice or rice and peas, fried plantain, sliced avocado, and/or green salad, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Remove oxtail from marinade and scrape off excess marinade. Reserve marinade for later use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Stew: In a Dutch oven, heat oil over medium-high heat until shimmering. Working in batches to avoid crowding the pot, add oxtail and cook until browned all over, about 5 minutes per side (oxtail will brown more quickly and deeply due to the marinade, but turn down heat if it threatens to burn). Transfer oxtail to a platter and repeat with remaining oxtail, adding more oil to the pot if necessary.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add 1 cup (240ml) water to Dutch oven and bring to a simmer, scraping bottom of pot to remove any browned bits. Return oxtail and any juices to the pot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add onions, scallion, garlic, thyme, Scotch bonnet pepper, and browning or soy sauce to oxtail. Add just enough water to cover meat, bring to a simmer, then reduce heat, cover, and let simmer for 40 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add reserved oxtail marinade to pot and stir to combine. Continue to gently simmer, uncovered, adding a little water from time to time to ensure oxtail remains just barely covered, until oxtail is tender, about 2 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Spinners (Optional) and to Finish: If making spinners: In a small bowl, whisk together flour and a large pinch of salt. Add 1/2 cup (118ml) cold water and knead until a sticky dough ball forms. Cover and let rest 15 minutes. Tear off small pieces of dough and roll them into cigarette-sized strips. Stir into oxtail.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in butter or broad beans and let simmer until stew is thickened, about 30 minutes. Remove thyme sprigs.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add black pepper, season with salt, and serve with white rice or rice and peas, plantain, sliced avocado, and a nice fresh green salad.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Browning, the Jamaican kitchen pantry staple, is a sauce made of caramelized sugar and is used to lend color and scorchy-sweet-umami flavor to this recipe. You can use a bottled version of browning in this recipe, such as Grace brand. In a pinch, soy sauce may be substituted.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- In Jamaica, the oxtails are small and the meat is not very thick on the bone. It can be quite tough, so many prefer to use a pressure cooker to prepare it. While our recipe does not require that, it is an option. If using a pressure cooker, reduce cooking time of oxtail by about 1 hour; seal the pressure cooker after adding marinade in Step 6 and bring to high pressure, then cook for 1 hour. Once pressure is released, oxtail should be tender and you can proceed with recipe as written.
+- The finished oxtail can be frozen for up to 2 months. To freeze, separate meat from liquid, then seal in an airtight container and freeze separately; to reheat, bring liquid to a boil and add frozen meat as needed. Adjust sauce with more liquid if necessary.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, caribbean-recipes, jamaican-recipes
+
+----
+
+Seo_title: Jamaican Oxtail | Avenda Aurora
+
+----
+
+Seo_description: This deeply flavorful Jamaican stew is loaded with tender oxtail, butter beans, and broth-thickening dumplings.
+
+----
+
+Original_author: Michelle and Suzanne Rousseau
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/3d8lcwXW9RaT8PCZf4y264qqcws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230531-SEA-Oxtail-KarinaMatalon-hero-24a6a91d87cd4cefa8dc43adf4b456af.jpg

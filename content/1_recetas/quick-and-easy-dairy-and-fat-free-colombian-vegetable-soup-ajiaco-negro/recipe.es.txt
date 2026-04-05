@@ -1,0 +1,150 @@
+Title: Quick and Easy Dairy- and Fat-Free Colombian Vegetable Soup (Ajiaco Negro)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: This quick and easy dairy-free, fat-free Colombian vegetable soup comes out creamy and comforting thanks to the natural thickening power of potatoes. No added cream, milk, or butter means that the soup shines with vegetable flavor from peas, fava beans, carrots, and carrots.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: large
+  ingredient: russet potatoes , peeled and cut into 3/4-inch dice
+  preparation: about 1 1/4 pounds 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: carrot , peeled and cut into medium dice
+  preparation: about 5 ounces 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: fresh or frozen peas , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: cooked dried or canned fava beans , or 1 1/2 cups raw fresh fava beans , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: ear yellow corn , shucked and cut into 6 pieces crosswise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: quarts
+  ingredient: homemade vegetable stock or an equivalent amount made with Better Than Bouillon vegetable base or No Chicken Base
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: minced fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine potatoes, carrots, half of peas, half of favas, corn, and vegetable stock (or water with stock base) in a pressure cooker. Bring to high pressure and cook for 15 minutes. Release pressure by running a stovetop pressure cooker under cold tap water or by using the quick steam release on an electric pressure cooker.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bring soup to a simmer. Using a potato masher or a stick whisk, mash vegetables until broth is thickened but some large pieces still remain. Add remaining fresh peas and fava beans and simmer until cooked through, about 5 minutes. Season to taste with salt and pepper and serve, making sure to include one piece of corn in each bowl (along with a fork to pick it up), and sprinkline each serving with cilantro.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Electric or stovetop pressure cooker
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Quick and Easy Dairy- and Fat-Free Colombian Vegetable Soup (Ajiaco Negro) | Avenda Aurora
+
+----
+
+Seo_description: This quick and easy dairy-free, fat-free Colombian vegetable soup comes out creamy and comforting thanks to the natural thickening power of potatoes. No added c
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/y9mh5JjfOrOqeBtyQ89EEDLHEnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__02__20150215-ajiaco-negro-vegan-colombian-soup-recipe-4-e439faea2ada48898df16c24c5823587.jpg

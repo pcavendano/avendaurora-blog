@@ -1,0 +1,167 @@
+Title: Broccoli and Chickpea Salad
+
+----
+
+Category: salsas, vegetarianos
+
+----
+
+Description: This five-ingredient broccoli and chickpea salad comes together in under 30 minutes in one skillet. Serve it as a hearty main dish or an easy side.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: large
+  ingredient: shallot , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: pickled jalapeño slices , chopped, plus 3 tablespoons brine from jar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: avocados , halved, pitted , and cut into ½-inch pieces, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: broccoli florets , cut into 2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , plus more to taste; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans chickpeas , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped fresh cilantro leaves for garnish, optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large bowl, add shallot and reserved jalapeño brine and let sit for 10 minutes. Add half of avocado pieces and 3 tablespoons oil and use a fork or potato masher to mash until smooth and combined; set dressing aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 12-inch skillet, heat 2 tablespoons oil over medium heat until shimmering. Add broccoli, 2 tablespoons water, 1 teaspoon kosher salt, and 1/4 teaspoon pepper. Cover and cook undisturbed for 5 minutes, until broccoli is bright green. Uncover and continue to cook, stirring occasionally, until broccoli is dark brown and crispy in spots and water has evaporated, 10 to 13 minutes. Add to bowl with prepared dressing.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To now-empty skillet, add 1 tablespoon oil and heat over medium-high until shimmering. Add chickpeas, 1/4 teaspoon salt, and 1/4 teaspoon pepper and cook, tossing chickpeas in skillet occasionally, until lightly browned, 6 to 10 minutes. Add to bowl with broccoli and dressing.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add pickled jalapenos and remaining avocado pieces and gently stir to combine. Season with salt and pepper to taste. Garnish with cilantro, if using. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 12-inch skillet and lid
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, broccoli-recipes
+
+----
+
+Seo_title: Broccoli and Chickpea Salad | Avenda Aurora
+
+----
+
+Seo_description: This five-ingredient broccoli and chickpea salad comes together in under 30 minutes in one skillet. Serve it as a hearty main dish or an easy side.
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ydEj-i6eqLXJnP0AxAHLJDfbFR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250905-SEA-WarmBroccoliChickpea-QiAi-HERO-b2a6dbe1a4a34b07b6b4ac95b05d8d05.jpg

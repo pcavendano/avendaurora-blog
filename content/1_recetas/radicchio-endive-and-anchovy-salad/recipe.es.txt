@@ -1,0 +1,244 @@
+Title: Radicchio, Endive, and Anchovy Salad
+
+----
+
+Category: salsas
+
+----
+
+Description: Bitter greens like radicchio, Belgian endive, and parsley take on a surprising sweetness when paired with fennel and celery dressed in an aggressively savory anchovy vinaigrette.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: panko-style bread crumbs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: shallot , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: oil-packed anchovy fillets
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh lemon juice , from half a lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sherry vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: stalk celery , peeled and sliced thinly on a bias
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: fennel bulb , trimmed, cored, and sliced thinly
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: head radicchio , leaves separated, large ones torn into 3-inch pieces, small ones left whole, rinsed and spun dry
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: Belgian endive , leaves separated and cut crosswise into 1-inch pieces , rinsed and spun dry
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Handful of flat-leaf parsley leaves , rinsed and spun dry
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh lemon juice , from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: Parmigiano-Reggiano , shaved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Flaky salt , such as Maldon , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Bread Crumbs: Heat oil in a small nonstick skillet over medium heat. Add bread crumbs and toast, stirring frequently, until golden brown, about 3 minutes. Transfer to a paper towel–lined plate and season with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Anchovy Vinaigrette: Combine ingredients in the cup of an immersion blender or canister of a blender and blend until a smooth emulsion is formed. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Assemble the Salad: Combine celery, fennel, and anchovy vinaigrette in a serving bowl. (If using multiple plates, divide celery, fennel, and anchovy vinaigrette evenly among bowls/plates. If you like, you can spoon the vinaigrette into the serving vessel to create a line of dressing around the rim, but this is entirely optional.) Toss vegetables until they are thoroughly coated in vinaigrette—they will appear overdressed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large mixing bowl, combine radicchio, Belgian endive, and parsley. Season with salt, tossing to ensure even distribution. Add lemon juice and olive oil incrementally, tossing until vegetables are well-dressed but not dripping (you may not need all the lemon juice and oil).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Distribute dressed radicchio, Belgian endive, and parsley salad in even layer over dressed celery and fennel. Sprinkle layer with flaky salt, toasted bread crumbs, and cheese. Repeat the process, creating another even layer of dressed radicchio, Belgian endive, and parsley salad, topped with coarse salt, toasted bread crumbs, and cheese. Serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes, quick-salad-recipes
+
+----
+
+Seo_title: Radicchio, Endive, and Anchovy Salad | Avenda Aurora
+
+----
+
+Seo_description: Bitter greens like radicchio, Belgian endive, and parsley take on a surprising sweetness when paired with fennel and celery dressed in an aggressively savory an
+
+----
+
+Original_author: Sho Spaeth
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ay6CJZJZWQ4YwN85OlwWgwhrjdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__02__20190114-radicchio-chicory-anchovy-salad-vicky-wasik-9-dcb3f1bd631c4944b72280e4e050b7bd.jpg

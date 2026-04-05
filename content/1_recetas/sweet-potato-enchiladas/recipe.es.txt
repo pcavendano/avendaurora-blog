@@ -1,0 +1,233 @@
+Title: Sweet Potato Enchiladas
+
+----
+
+Category: antojitos, platos-fuertes
+
+----
+
+Description: These hearty vegetarian enchiladas layer roasted sweet potatoes, black beans, and a smoky chipotle sauce under a blanket of melted cheese and sour cream.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: sweet potato , peeled and cut into 1/2-inch pieces
+  preparation: about 2 1/3 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: poblano chiles , stemmed, seeded, and chopped
+  preparation: about 3/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: yellow onion , chopped
+  preparation: about 2/3 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: extra-virgin olive oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: plus 1 teaspoon chili powder , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plus 1 teaspoon ground cumin , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: garlic powder , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: tomato paste
+  preparation:  4 ounces , 113 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: minced chipotle chiles in adobo sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: homemade vegetable stock or store-bought low-sodium vegetable broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can black beans , rinsed and drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: sour cream , plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: Monterey Jack cheese , shredded , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "16"
+  unit: 
+  ingredient: corn tortillas , warmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh cilantro , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to upper-middle position, and preheat oven to 425°F (220°C). On a large rimmed baking sheet, toss sweet potato, poblanos, and onion with salt, 2 tablespoons oil, 1 teaspoon chili powder, 1 teaspoon cumin, and 1/2 teaspoon garlic powder until evenly coated. Bake until tender and browned, about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While vegetables roast make the enchilada sauce: In a medium saucepan, heat remaining 2 tablespoons oil over medium heat until shimmering. Add tomato paste, chipotles in adobo, oregano, remaining 2 tablespoons chili powder, remaining 1 tablespoon cumin, and remaining 1 teaspoon garlic powder. Cook, stirring constantly, until fragrant, about 1 minute. Whisk in broth and bring to a boil over medium-high heat. Reduce heat to medium-low to maintain a simmer and cook, whisking occasionally, until slightly thickened and reduced to about 3 1/2 cups enchilada sauce, 15 to 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer sweet potato mixture to a large bowl. Stir in black beans, sour cream, and 1 cup cheese until evenly distributed. Reduce oven temperature to 375°F (190°C).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour 3/4 cup enchilada sauce in the bottom of a 9- x 13-inch baking dish, and tilt to coat bottom of dish. Lay a large piece of parchment paper on a clean work surface. Pour 1 cup enchilada sauce into a shallow dish. Working with 1 tortilla at a time, dip the tortilla into the sauce until both sides are lightly coated. Place flat on parchment paper, and top tortilla with a scant 1/4 cup sweet potato mixture in a line down the center. Roll up tightly, and place seam side down, crosswise, in prepared baking dish; continue process until all tortillas and sweet potato mixture are used (the casserole will be tightly packed).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour remaining 1 3/4 cups sauce over the prepared enchiladas. Sprinkle remaining 1 cup cheese down the middle of the enchiladas.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cover tightly with aluminum foil, and bake until cheese has melted and sauce is bubbly, 25 to 30 minutes. Remove foil, and turn broiler onto high. Broil until cheese is browned, 4 to 5 minutes. Let sit for 5 minutes. Serve hot, sprinkled with cilantro and dolloped with additional sour cream.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Rimmed baking sheet, medium saucepan, parchment paper, 9- x 13-inch baking dish
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, vegetable-main-recipes
+
+----
+
+Seo_title: Sweet Potato Enchiladas | Avenda Aurora
+
+----
+
+Seo_description: These hearty vegetarian enchiladas layer roasted sweet potatoes, black beans, and a smoky chipotle sauce under a blanket of melted cheese and sour cream.
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/iHyU1kVO-3kaqXn_f0_yyAE1Y-E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251016-SEA-20250922-SEA-SweetPotatoEnchiladas-MorganHuntWard-01-0a493acf357348fba7b835633bc75171.jpg

@@ -1,0 +1,145 @@
+Title: Italian Salsa Verde With Parsley and Capers
+
+----
+
+Category: salsas
+
+----
+
+Description: This bright green sauce made from parsley, olive oil, and garlic is thick and rich, with a briny kick. It&#39;s delicious with poached and simmered meats, eggs, and on sandwiches.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch flat-leaf parsley leaves and tender stems , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: salted capers , soaked in cold water for 10 minutes to remove excess salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: oil-packed anchovy fillets
+  preparation: about 1/2 ounce ; 15 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: hard boiled egg
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh juice from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: plus 2 tablespoons extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a blender jar, or using an immersion blender, purée together parsley, capers, anchovies, garlic, boiled egg, and lemon juice until creamy; scrape down sides as necessary to blend everything evenly. Add olive oil and pulse briefly to emulsify. Season with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Salsa verde can be refrigerated in an airtight container for up to 5 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes, dipping-sauce-recipes
+
+----
+
+Seo_title: Italian Salsa Verde With Parsley and Capers | Avenda Aurora
+
+----
+
+Seo_description: This bright green sauce made from parsley, olive oil, and garlic is thick and rich, with a briny kick. It&#39;s delicious with poached and simmered meats, eggs,
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/8A-ySkiY4mh0_iWrh5YucJnjftw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__01__20171219-bollito-misto-vicky-wasik-13-f7d020be060b450cb666bb2b5466e99d.jpg

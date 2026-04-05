@@ -1,0 +1,195 @@
+Title: Bistec Encebollado (Puerto Rican Steak and Onions)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: This popular savory Puerto Rican steak and onion dish takes less than 15 minutes to cook, and pairs well with classic Puerto Rican sides such as steamed rice and stewed beans.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: sliced cube steaks or boneless top or bottom round steaks or roast
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: yellow onion , halved and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: neutral high-smoke-point oil , such as canola, avocado, or grapeseed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Steamed white rice , fo r serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Stewed pink, pinto, or black beans for serving
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: If using pre-sliced cube steak, proceed to step 2. If using top or bottom round, slice roast against the grain into six 1/2-inch-thick slices.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Lay steak slices 3 inches apart on a cutting board and cover with plastic wrap. Using a meat pounder, flatten slices to an even 1/4-inch thickness. If using pre-sliced cube beef, pound lightly just to even thickness. Season both sides of each steak with salt and pepper. Sprinkle steaks evenly with garlic powder and dried oregano and rub all over meat, then place in a large zipper-lock bag or shallow baking dish.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour vinegar over steaks, and use hands to toss together until well-combined.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Toss onions with steaks and their marinade until onions are well coated, then place onions on the top of steaks and seal bag or cover container tightly and refrigerate for at least 1 hour or up to 12 hours, flipping steaks at least once halfway through.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to cook, remove onions from marinade and set aside in a small bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large stainless steel, cast iron, or carbon steel skillet, heat 1 tablespoon oil over medium-high heat until just smoking. Working in batches to prevent crowding the pan, add the steaks and cook until browned on each side, 45 to 60 seconds per side. If needed, add an additional 1 tablespoon oil to the skillet between batches. Transfer cooked steaks to a platter. Repeat with remaining steaks.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In now-empty skillet, heat 1 tablespoon oil over medium-high heat until shimmering, add onions and cook, stirring and scraping up all browned bits of fond, until onions are translucent and beginning to soften and edges begin to brown, 4 to 5 minutes (the onions should still have a bit of crunch).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Arrange steaks on serving platter or individual plates and top with browned onions. Serve immediately, preferably with white rice and stewed beans.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large zipper-lock bag or shallow baking dish, large stainless steel, cast iron, or carbon steel skillet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- I prefer using already prepped cubed steaks in this recipe. The cube steaks that I’m able to find at my local grocery store often come in family packs of 6 to 8 steaks per package, which makes it easy to put this dinner together in no time. But if pre-sliced cube steak is unavailable, I’ve included instructions for using top or bottom round steak.
+- The steaks and onion can be marinated for up to 12 hours ahead of cooking.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes, steak-recipes
+
+----
+
+Seo_title: Bistec Encebollado (Puerto Rican Steak and Onions) | Avenda Aurora
+
+----
+
+Seo_description: This popular savory Puerto Rican steak and onion dish takes less than 15 minutes to cook, and pairs well with classic Puerto Rican sides such as steamed rice an
+
+----
+
+Original_author: Reina Gascón-López
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/vmfvaKt6K8TjTaZgiP0DtBvLomA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250415-SEA-BistecEncebollado-LorenaMasso-Beauty2-34-885ac1d554ca44aabc005d4bfef2cf06.jpg

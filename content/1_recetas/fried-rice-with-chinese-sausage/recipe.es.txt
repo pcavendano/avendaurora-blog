@@ -1,0 +1,150 @@
+Title: Fried Rice With Chinese Sausage
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: Chinese sausage brings tons of flavor and texture to this simple fried rice.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: 
+  ingredient: or 3 links Chinese sausage , cut into 1/4 inch slices
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cloves
+  ingredient: garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: cold cooked rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: light soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Finely chopped green onion or cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Add slices of Chinese sausage to wok and slowly cook over medium-low heat to render as much fat as possible. Move slices of sausage around in the wok, taking care they don&#39;t scorch.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove sausage and all but 1 teaspoon of the rendered lard from wok. The extra lard can be discarded or set aside for another use. Add minced garlic and stir around to brown over low heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add rice and the rest of the ingredients to wok and stir around until the grains are evenly mixed and heated. Add sausage slices back to wok and stir to mix. Serve immediately, garnishing with green onion or cilantro.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, rice-grains-main-recipes
+
+----
+
+Seo_title: Fried Rice With Chinese Sausage | Avenda Aurora
+
+----
+
+Seo_description: Chinese sausage brings tons of flavor and texture to this simple fried rice.
+
+----
+
+Original_author: Chichi Wang
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/jsfvb5RyxampT3ZdqOgZTEV4j88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/stir-fried-rice-with-chinese-sausage-recipe-hero-03_1-96ea47b756444693ae3cbd60ec7afe02.JPG

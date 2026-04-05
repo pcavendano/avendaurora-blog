@@ -1,0 +1,195 @@
+Title: Dan Dan Noodles
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: This recipe is part of Chinese Restaurant Appetizer Week. Perhaps the biggest key to making excellent Dan Dan Noodles is to make your own roasted chili oil. When done right, it get a rich, fruity, smoky flavor that none of...
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: roasted chile oil , store-bought or homemade
+  preparation: see above
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: Chinkiang vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cloves
+  ingredient: garlic , grated on a microplane grater
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: fresh Chinese noodles
+  preparation: or 6 ounces dried noodles 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: ground pork
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely chopped preserve Sichuan vegetable
+  preparation: zha cai
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: roasted peanuts , lightly crushed in a mortar and pestle
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Sichuan peppercorns , finely ground in a mortar and pestle
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cloves
+  ingredient: garlic , grated on a microplane
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely sliced scallion greens
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Roasted Chile Vinaigrette : Combine all vinaigrette ingredients in a bowl and stir vigorously to mix.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Finish : Bring a large pot of salted water to a boil. Add noodles and cook according to package directions. Drain. While noodles are cooking, heat oil in a wok or a small skillet over high heat until smoking. Add pork and preserved vegetable and cook, stirring and shaking constantly, using a spatula or a spoon to break up pork until cooked through, about 1 minute. Transfer to a small bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer noodles to serving bowl and top with pork mixture. Stir vinaigrette and spoon over and around the noodles (you may not want to use all of it). Sprinkle with roasted peanuts, Sichuan peppercorn, grated garlic, and scallion greens. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can find Sichuan peppercorns online. Carefully remove any dark seeds or stems from Sichuan peppercorns before using. Use only the textured husks.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Mortar and pestle
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, noodle-recipes
+
+----
+
+Seo_title: Dan Dan Noodles | Avenda Aurora
+
+----
+
+Seo_description: This recipe is part of Chinese Restaurant Appetizer Week. Perhaps the biggest key to making excellent Dan Dan Noodles is to make your own roasted chili oil. Whe
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/MDAmsY3X1Tv1VAvlIKDhy0vtH04=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20110406-chinese-appetizers-dan-dan-noodle-5-2af33cd5faa24bb7919bce845f012c7e.jpg

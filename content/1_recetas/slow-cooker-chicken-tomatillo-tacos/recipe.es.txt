@@ -1,0 +1,183 @@
+Title: Slow-Cooker Chicken Tomatillo Tacos
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Spicy tomatillo chicken is cooked in the slow cooker and tucked into corn tortillas topped with red onions and cilantro.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: 
+  ingredient: serrano peppers
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can tomatillos , drained, or 15 fresh husked tomatillos broiled until charred
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: handful cilantro , including stems, plus additional 1/4 cup leaves , chopped for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: onion , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh juice from 1 lime , plus additional lime wedges for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: cider vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: pounds
+  ingredient: chicken thighs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can diced jalapeños , preferably fire-roasted, drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Corn tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Medium
+  ingredient: red onion , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place peppers in a small pot of boiling water and simmer until color goes from bright green to green-gray, about 7 minutes. Drain and transfer to a blender or food processor. Add tomatillos, cilantro, onion, garlic, lime juice, and vinegar. Season with to taste with salt. Blend or puree until just combined but some texture remains.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place chicken in the bowl of a slow cooker. Add jalapeños and prepared tomatillo mixture. Set to low and cook for eight hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove chicken thighs from slow cooker and let cool slightly. Discard skin and bones. Shred chicken using two forks, return to slow cooker, and stir to combine. Season to taste with salt. Serve with warm tortillas, chopped red onions, chopped cilantro leaves, and lime wedges.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Blender, slow cooker
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, chicken-main-recipes
+
+----
+
+Seo_title: Slow-Cooker Chicken Tomatillo Tacos | Avenda Aurora
+
+----
+
+Seo_description: Spicy tomatillo chicken is cooked in the slow cooker and tucked into corn tortillas topped with red onions and cilantro.
+
+----
+
+Original_author: Jennifer Olvera
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/tEGkFBbMVsuT_c-aZMBNTuc58PA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__12__122013-277827-Serious-Eats-Sunday-Supper-Tomatillo-Chicken-TacosB-882561da63134639a5ed7c5f33db495f.jpg

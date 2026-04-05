@@ -1,0 +1,84 @@
+title: Tienda
+icon: 🏪
+num: '{{ page.title.slug }}'
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          title:
+            label: Nombre de la Tienda
+            type: text
+            required: true
+
+          logo:
+            label: Logo
+            type: files
+            max: 1
+            layout: cards
+
+          description:
+            label: Descripción
+            type: textarea
+            translate: true
+
+          website:
+            label: Sitio Web
+            type: url
+
+          locations:
+            label: Ubicaciones
+            type: structure
+            fields:
+              name:
+                label: Nombre de Sucursal
+                type: text
+              address:
+                label: Dirección
+                type: textarea
+              city:
+                label: Ciudad
+                type: text
+                width: 1/2
+              phone:
+                label: Teléfono
+                type: tel
+                width: 1/2
+              hours:
+                label: Horario
+                type: textarea
+
+  sidebar:
+    width: 1/3
+    sections:
+      affiliate:
+        type: fields
+        fields:
+          affiliate_enabled:
+            label: Afiliado Activo
+            type: toggle
+
+          affiliate_link:
+            label: Link de Afiliado Base
+            type: url
+
+          affiliate_code:
+            label: Código de Afiliado
+            type: text
+
+          commission_rate:
+            label: Comisión (%)
+            type: number
+            step: 0.1
+
+      availability:
+        type: fields
+        fields:
+          available_ingredients:
+            label: Ingredientes Disponibles
+            type: pages
+            query: site.find('ingredientes').index
+            multiple: true

@@ -1,0 +1,196 @@
+Title: Indonesian Peanut Sauce
+
+----
+
+Category: bebidas, mariscos
+
+----
+
+Description: With a rich nuttiness and bold flavor from shallots, garlic, red chiles, palm sugar, and tamarind paste, peanut sauce is a delicious staple in Indonesia and other parts of Southeast Asia. Here’s how to make it at home.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: heaping cup roasted peanuts , see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: Asian shallots , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic , crushed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: medium-hot, finger-length red chiles like Fresno, cayenne, or serrano , stemmed, seeded, and chopped
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: bird’s eye chiles or Thai chiles , stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: shaved palm sugar ; see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: terasi , optional
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: fresh makrut lime leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: “wet” tamarind pulp , or 1 tablespoon fresh lime juice, preferably key lime
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: If using roasted peanuts, process in a high-speed blender or food processor until a paste the texture of wet sand forms, 3 to 4 minutes. (It will be coarser than peanut butter; you will get about 1 cup. If using a mortar and pestle, grind roasted) Transfer peanut paste to a small bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add shallots, garlic, red chiles, bird’s eye chiles, palm sugar, salt, and shrimp paste (if using) to the now empty food processor or blender and pulse, stopping to scrape down the sides of the bowl as needed with a flexible spatula, until the mixture resembles cooked oatmeal, 30 seconds to 1 minute. If paste is too thick and not turning in the food processor, add water, 1 teaspoon at a time, until it loosens to your desired consistency.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small saucepan, bring lime leaves, tamarind, and 1 cup (240 ml) water to a gentle boil over medium heat. Simmer, using a spoon or spatula to break up the tamarind pulp as much as possible and infuse the flavors, about 5 minutes. Remove the lime leaves and remaining tamarind solids.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in ground peanuts and chile paste, and cook over medium heat. When the mixture starts bubbling, reduce heat to medium-low and simmer until thick and creamy, stirring often to prevent sauce from sticking to bottom of the pot, 4 to 6 minutes If you prefer a looser sauce, add water 1 tablespoon at a time until you reach your desired consistency. Adjust seasoning to taste. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The texture and flavor of peanut butter cannot compare to that of whole peanuts, but if you’d prefer the convenience of peanut butter, use 2/3 cup natural unsalted crunchy peanut butter (6 ounces; 170g). Try to look for the freshly ground peanut butter in grocery stores, as it’s the closest in taste and texture to freshly ground peanuts. Use creamy if that’s what you prefer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Almonds or cashews can be substituted for peanuts.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 1 tablespoon (1/2 ounce; 15g) sambal oelek can be substituted for 2 red chiles.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Indonesian palm sugar, known as gula merah, gula Jawa or gula aren, is less processed than the more ubiquitous pale yellow version used in Thai cooking. Gula Malacca from Malaysia is similar. Gula merah can be found at Asian grocery stores, especially those specializing in Southeast Asian ingredients. Coconut sugar or dark brown sugar can be substituted for palm sugar.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Shrimp paste, makrut lime leaves and kecap manis are often available at Asian grocery stores, especially those specializing in Southeast Asian ingredients.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Tamarind concentrate sold in jars and tubs is not my first choice because they vary in quality. You will likely have to use two to three times the amount listed in my recipe. Just taste as you go.
+- The recipe can easily be doubled if desired.
+- To make peanut sauce with a mortar and pestle: Grind roasted, unsalted peanuts until they have the texture of coarse sand. Transfer peanut paste to a small bowl and set aside. Using the now empty mortar and pestle, pound shallots, garlic, red chiles, bird’s eye chiles, palm sugar, salt, and shrimp paste (if using) until the mixture is thick like oatmeal. Proceed with step 3.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes
+
+----
+
+Seo_title: Indonesian Peanut Sauce | Avenda Aurora
+
+----
+
+Seo_description: With a rich nuttiness and bold flavor from shallots, garlic, red chiles, palm sugar, and tamarind paste, peanut sauce is a delicious staple in Indonesia and oth
+
+----
+
+Original_author: Pat Tanumihardja
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/9Z5k7rPYOq7iQlYtnyq_8ralk-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240503-SEA-PeanutSauce-MelatiCitrawireja-10-1a884405c52f48208ea199e9fd2ed98d.jpg

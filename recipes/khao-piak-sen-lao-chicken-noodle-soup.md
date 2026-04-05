@@ -1,0 +1,92 @@
+# Khao Piak Sen (Lao Chicken Noodle Soup)
+
+> An aromatic Lao chicken noodle soup that can be customized to taste at the table.
+
+**Author:** Jenny Dorsey
+
+**Original Image:** https://www.seriouseats.com/thmb/RD66WCnAomxAw6BrlTrPuCr4O_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__07__20190718-Khao-piak-sen-laotian-noodle-soup-liz-clayman-25-9ed0f66181f440bdacbd24f99bb852c5.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, laotian-recipes
+
+
+## Ingredients
+
+- 1 cup ( 240 ml ) vegetable oil
+- 24 cloves garlic ( 120 g ), sliced thinly crosswise, preferably with a mandoline
+- 3 medium shallots ( 150 g ), sliced thinly crosswise into rounds, preferably with a mandoline
+- 1 medium yellow onion ( 10 ounces ; 280 g ), peeled and quartered through the root end
+- 3 large knobs ginger ( 3 ounces ; 90 g ), peeled and sliced crosswise into 1/4 inch thick rounds
+- 3 tablespoons ( 45 ml ) garlic and shallot oil , from above
+- 1 stalk lemongrass ( 2 3/4 ounces ; 80 g ), outer layer discarded then roughly chopped
+- 6 medium cloves garlic ( 1 ounce ; 30 g ), peeled and thinly sliced crosswise
+- 5 makrut lime leaves
+- Stems from 1 bunch cilantro ( 2 ounces ; 60 g ), chopped (see note)
+- 1 (3- to 4-pound; 1.3 to 1.8 kg) whole chicken , blotted dry (see note)
+- 2 tablespoons kosher salt ( 3/4 ounce ; 25 g ), plus more as needed
+- 2 tablespoons soy sauce ( 1 ounce ; 30 g )
+- 2 tablespoons Asian fish sauce ( 1 ounce ; 30 g )
+- 1 teaspoon sugar
+- 7 ounces ( 200 g ) plus 3/4 ounce ( 20 g ) white rice flour , divided (see note)
+- 7 ounces ( 200 g ) plus 3/4 ounces ( 20 g ) tapioca flour , divided
+- 1 3/4 cups ( 415 ml ) boiling water
+- 2 scallions , sliced thinly on the bias
+- 2 fresh bird’s eye chiles , stemmed and minced
+- 5 sprigs morning glory , pulled through a morning glory shredder (optional; see note)
+- Lime wedges
+- Fried garlic , from above
+- Fried shallots , from above
+- Picked cilantro leaves and tender stems
+
+
+## Instructions
+
+1. For the Fried Garlic and Shallot: Line a plate with paper towels and set a fine-mesh strainer over a medium heatproof bowl. In a medium frying pan, heat oil over medium heat until shimmering. Add garlic and fry, swirling and stirring frequently, until golden brown all over, approximately 4 minutes. Pour garlic and oil into prepared strainer and allow to drain. Transfer garlic to the prepared paper towels, spreading it out in an even layer, and allow to drain further.
+
+2. Return oil to pan, then set fine-mesh strainer over the same heatproof bowl. Line a second plate with clean paper towels.
+
+3. Add shallots to pan and cook over high heat, stirring frequently, until shallots begin to bubble, about 1 minute. Continue cooking, stirring constantly as the shallots fry to ensure even cooking, until shallots turn pale golden brown, about 3 minutes longer. Working quickly, pour contents of saucepan into strainer set over bowl. (Shallots will continue cooking for a brief period after draining, so do not allow them to get too dark.) Reserve garlic-shallot oil.
+
+4. For the Broth and Chicken: If desired, grill or sear (in a cast iron pan without oil) two of the onion quarters and two-thirds of the sliced ginger until well charred, about 2 minutes per cut side (this will add depth and complexity to the broth, but is optional).
+
+5. Roughly chop all of the onion and ginger, whether charred or not.
+
+6. In a large 8-quart Dutch oven or soup pot, heat garlic-shallot oil over medium heat until shimmering. Add chopped onion and ginger, lemongrass, sliced garlic, lime leaves, and cilantro stems. Season lightly with salt, then cook, stirring, until onions are softened, about 7 minutes.
+
+7. Add chicken to pot and top with at least 5 quarts (5L) cold water, or enough to cover. Add the 2 tablespoons kosher salt along with the soy sauce, fish sauce, and sugar. Bring to a simmer, then lower heat to maintain a gentle simmer. Cook, covered, for 2 hours, lifting lid occasionally to skim the surface of broth of any foam or scum that accumulates.
+
+8. Carefully remove chicken from the pot and transfer to a work surface (it may fall apart after this long cooking; simply fish out all the parts and bones). When cool enough to handle, pull meat from bones and shred with your hands or a fork. Discard bones and skin. Reserve chicken meat.
+
+9. Meanwhile, bring broth to a rolling boil and cook, uncovered, for 30 minutes. Strain broth, discarding solids, then return to cleaned pot. Season with salt.
+
+10. For the Noodles: While the broth simmers, make the noodles. In a stand mixer fitted with the dough hook, add 7 ounces rice flour and 7 ounces tapioca flour. Turn mixer to medium-low speed and drizzle in boiling water. Continue to mix, pausing occasionally to scrape down the sides with a flexible spatula, until a moist dough ball forms, about 3 minutes.
+
+11. Whisk together remaining rice and tapioca flours, then sprinkle on a work surface. Turn dough ball out onto floured work surface. Knead dough by hand until all of the flour on the board has been fully incorporated into a supple dough, about 4 minutes.
+
+12. Roll dough into a thick log and divide into 8 equal portions. Roll each portion into a small ball, then flatten with the palm of your hand.
+
+13. Working one dough disc at a time, and keeping the remainder covered with a kitchen towel to prevent drying, roll using a rolling pin until roughly 1/8 inch thick and about 6 inches long.
+
+14. Using a sharp knife, slice into noodles roughly 1/4 inch wide. Transfer to a rimmed baking sheet, dusting and tossing gently with rice flour to prevent sticking. Keep noodles covered with a damp towel so they don’t dry out. Repeat with remaining dough.
+
+15. To Finish and Serve the Soup: Add noodles to boiling finished broth and cook, stirring very minimally to prevent them from breaking (they&#39;re brittle until they cook through), until noodles float to the surface, 1 to 2 minutes.
+
+16. Transfer noodles to soup bowls. Add shredded chicken to each bowl. Ladle broth into bowls. Serve hot, allowing diners to garnish their soup with scallions, chiles, morning glory (if using), lime, fried garlic, fried shallots, and cilantro leaves and tender stems.
+
+17. If you can find it, you can also use cilantro roots. An old hen, if you can find it, works well in this recipe; otherwise, any whole chicken will be good.
+
+18. This recipe uses finely milled white rice flour, commonly found in Asian grocery stores. These are different than those available at most chain grocery stores, such as Bob’s Red Mill, because the finer rice flour is much more absorbent. If you are using a brand such as Bob’s Red Mill, add an additional 30g of rice flour to the original mixture and increase the amount of both rice flour and tapioca flour for the second step of the kneading process to 50g.
+
+19. Morning glory, also known as water spinach , can be found at Asian markets.
+
+20. The fried garlic and shallots and the broth can be made up to five days in advance; refrigerate the broth until ready to use, and keep the fried garlic and shallots in airtight containers at room temperature.
+
+21. The noodles can be frozen for up to one month: To freeze, arrange in thin, even layers on parchment on a rimmed baking sheet, stacking more parchment between each layer; wrap well in plastic, then freeze. To cook frozen noodles, place directly into boiling broth without thawing and let cook 1 to 2 minutes longer than fresh noodles until they float to the surface.
+
+
+---
+
+*Extracted from Serious Eats*

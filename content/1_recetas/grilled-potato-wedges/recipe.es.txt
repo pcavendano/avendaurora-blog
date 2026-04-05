@@ -1,0 +1,126 @@
+Title: Grilled Potato Wedges
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: These easy grilled potato wedges are crunchy on the outside, and fluffy on the inside.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ancho chile
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: large
+  ingredient: russet potatoes , scrubbed and cut into 1-inch thick wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place cooked potato wedges in a large bowl. Sprinkle with spice mixture to taste and toss to evenly coat. Serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, grilling-recipes
+
+----
+
+Seo_title: Grilled Potato Wedges | Avenda Aurora
+
+----
+
+Seo_description: These easy grilled potato wedges are crunchy on the outside, and fluffy on the inside.
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/LJ4OTn3or16YFog64AqzXGiTzAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250819-SEA-GrilledPotatoWedges-LorenaMasso11-a12bd8d9b86c4c0e86b874a61bf15d6c.jpg

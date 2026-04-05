@@ -1,0 +1,256 @@
+Title: Sopa de Albóndigas de Pollo (Nicaraguan Chicken Meatball Soup)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: This Nicaraguan version of chicken soup has tender corn masa–based chicken dumplings infused with culantro and mint.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: chicken , cut into 8 pieces
+  preparation: backbone reserved
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , peeled and quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: green bell pepper , stemmed, seeded, and quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: garlic cloves , peeled and smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: sour orange , split in half
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: packed culantro
+  preparation:  3/4 ounce ; 21 g ; see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: packed fresh mint leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: quarts
+  ingredient: cold water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume or same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: whole black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , coarsely chopped
+  preparation: about 1 3/4 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: stemmed and seeded medium green bell pepper , coarsely chopped
+  preparation: about 3/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: garlic cloves , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: achiote paste or powdered annatto
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: corn masa mix , such as Maseca
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: culantro , finely chopped
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh mint leaves , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: sour orange juice
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh herbs, such as torn culantro, cilantro, and/or mint, for ganish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Chicken Soup: Place chicken pieces and backbone in large Dutch oven or large soup pot. Add onion, pepper, garlic, sour orange, culantro, and mint. Cover with water; stir in salt and black pepper. Bring to a boil over high heat. Reduce heat to medium and simmer, skimming surface occasionally, until chicken is cooked through, about 15 minutes. Using a slotted spoon, transfer chicken pieces to large plate. When cool enough to handle, use paper towels to remove chicken skin; discard. Shred chicken finely. Strain broth into a large bowl. Discard solids and return broth to Dutch oven.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Chicken Meatballs: In the bowl of a food processor, pulse onion, bell pepper, and garlic cloves until mixture is a fine paste, 15 to 20 one-second pulses. In a large skillet, melt butter over medium heat. Add onion mixture and annatto and cook, stirring occasionally, until most of the liquid has evaporated and mixture has cooked down into a thick paste, 5 to 7 minutes. Transfer to a large bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add corn masa mix, 1 teaspoon salt, 1 1/2 cups (355ml) strained broth, culantro, mint, sour orange juice, and half the shredded chicken. Stir until thoroughly combined. To test seasoning, form a single 1/2-inch ball of dough. Bring broth to simmer over medium-low heat. Cook dumpling until it floats to surface, 4 to 5 minutes. Taste and add additional salt to masa mixture if needed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using lightly oiled hands, shape dough into 1 1/2–inch balls (you should have about 30). Working in 2 batches, add shaped meatballs to simmering broth. Cook until meatballs float to surface, about 8 minutes. Transfer cooked meatballs to a plate, then repeat with remaining meatballs, setting all cooked meatballs on plate as they are ready. Add remaining shredded chicken to broth to heat through, about 1 minute. If serving immediately, divide meatballs between bowls (about 4 meatballs per bowl) and ladle broth over. Serve, garnished with herbs.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Dutch oven or large soup pot, strainer, slotted spoon, paper towels, food processor
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If preparing ahead or storing leftovers, combine meatballs and broth into one container to prevent meatballs from drying out; cover and refrigerate up to 1 day.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Sopa de Albóndigas de Pollo (Nicaraguan Chicken Meatball Soup) | Avenda Aurora
+
+----
+
+Seo_description: This Nicaraguan version of chicken soup has tender corn masa–based chicken dumplings infused with culantro and mint.
+
+----
+
+Original_author: María del Mar Cuadra
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/_hcaveZbT8j73dRfs-sydZ6xUww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sopa-de-albondigas-de-pollo-chicken-meatball-soup-photo-10-Fred-Hardy-09-de882d8c9cea4d40a2a4f3bbdf6436fa.JPG

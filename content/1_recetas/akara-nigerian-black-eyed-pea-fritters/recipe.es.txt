@@ -1,0 +1,170 @@
+Title: Akara (Nigerian Black-Eyed Pea Fritters)
+
+----
+
+Category: desayunos, antojitos
+
+----
+
+Description: With their crunchy shells and creamy interiors, these black-eyed pea fritters are the quintessential Nigerian Saturday breakfast.
+
+----
+
+Cover: 
+
+----
+
+Prep-time: 
+
+----
+
+Cook-time: 
+
+----
+
+Total-time: 
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+
+-
+  quantity: "1"
+  unit: cup
+  ingredient: dried black eyed peas , picked of any debris and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: large
+  ingredient: red onion , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: 
+  ingredient: fresh habanero or Scotch bonnet pepper , stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vegetable oil , for frying
+  preparation: about 2 cups ; 475 ml 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Soft white bread , for serving
+  preparation: 
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: ""
+  instruction: In a medium bowl, cover peas with 2 inches cold water. Let soak at room temperature for at least 15 minutes and up to 1 hour (this short soaking time helps loosen the skins without overly softening the peas).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain soaked peas, then transfer to a countertop blender or food processor along with 1 quart (945ml) water. Pulse to slightly break up peas, about ten 1-second pulses. Pour into a medium bowl and let stand at room temperature for up to 30 minutes (skins will float to top as they separate from the peas).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set a colander over a large bowl. Slowly pour soaking water into the colander while using a free hand to keep the peas in the soaking bowl; the goal is to pour off as many of the floating skins as possible while leaving the peas behind. Pick out any peas that landed in the colander and return them to the bowl, then discard skins and soaking water. Cover peas with water, and repeat process until peas are nearly free of skins (you may need to gently massage the peas with your hands to separate any stubborn skins).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer skinned peas to a clean colander, rinse under cool running water, then return to medium bowl. Add fresh water to cover and let stand at room temperature for 10 minutes (this will further soften the peas for blending).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain peas, then transfer to a countertop blender or food processor. Add 1/2 cup (120ml) water, onion, chile pepper, and salt. Blend, scraping down sides occasionally with a flexible spatula, until a smooth, thick paste has formed, about 3 minutes. Transfer paste to a medium bowl and whisk until light and fluffy, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Line a rimmed baking sheet with paper towels. In a wok or Dutch oven, heat two inches of oil over medium-high heat to 350°F (175°C). Dip a heatproof spoon into the hot oil, scoop up roughly 1 tablespoon of batter, then carefully lower spoonful of batter into oil until batter is submerged and releases from spoon. It can be formed into a little football shape by molding the batter as it slides off the side of the spoon into the hot oil (rather than allowing the batter to spread as it slides off the spoon). Working quickly, repeat the process with 7 more scoops of batter (for a batch of 8). Fry, using a slotted spoon or spider to turn pieces halfway through, until akara are slightly puffed and golden brown on both sides, about 6 minutes. Transfer to prepared baking sheet to drain.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return oil to 350°F (175°C), and repeat with remaining batter. Serve fritters warm with soft white bread.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Countertop blender or food processor.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Akara batter can be refrigerated in an airtight container for up to 3 days or frozen for up to 1 month. To defrost, transfer to the refrigerator at least 6 hours before using. When ready to fry, whisk to loosen and aerate batter, then proceed as directed in Step 6.
+  tip: ""
+  step_image:
+
+----
+
+Tips: - Fried akara can be refrigerated in an airtight container for up to 5 days, or frozen for up to 1 month (defrost in the refrigerator overnight). To reheat, preheat oven to 320°F (160°C). Transfer akara to a rimmed baking sheet and heat until warm, about 10 minutes if refrigerated, or about 20 minutes if previously frozen.
+
+----
+
+History: 
+
+----
+
+Enable-kits: false
+
+----
+
+Store-kits: 
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, african-recipes, west-african-recipes, nigerian-recipes
+
+----
+
+Seo-title: Akara (Nigerian Black-Eyed Pea Fritters) | Avenda Aurora
+
+----
+
+Seo-description: With their crunchy shells and creamy interiors, these black-eyed pea fritters are the quintessential Nigerian Saturday breakfast.
+
+----
+
+Original-author: Ozoz Sokoh
+
+----
+
+Original-image: https://www.seriouseats.com/thmb/XatL3EHJ5m5Exlr_40wLsM_rhMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220705-AkaraMaureen-Celestine-21-33c5c15fdedf4de49d6f0be2222e8666.JPG
+
+----
+
+Uuid: t2Vv0UxzRIHc7NnA

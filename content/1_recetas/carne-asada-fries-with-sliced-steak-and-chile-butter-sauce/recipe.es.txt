@@ -1,0 +1,223 @@
+Title: Carne Asada Fries With Sliced Steak and Chile Butter Sauce
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Carne asada fries get the steak frites treatment with sliced steak, crisp shoestring fries, melted cheese, and a rich chile-butter sauce.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: 
+  ingredient: bone-in or boneless ribeye or New York strip steaks , about 1 1/2 inches thick, trimmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: chiltepin chiles , plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: masa harina or all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cups
+  ingredient: brandy
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: neutral oil , such as peanut, vegetable, or canola, for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: frozen french fries , preferably shoestring, or homemade shoestring fries
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: grated full-fat, low-moisture mozzarella or other melting cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: plum tomato , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: small
+  ingredient: red onion , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh cilantro leaves, minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Pat steaks dry with paper towels. Season liberally with salt. Place on a plate or on a rack over a rimmed baking sheet in the refrigerator for at least 30 minutes or up to 48 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Medium skillet, spice grinder or mortar and pestle, 12-inch skillet, Dutch oven, spider skimmer
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Chiltepin are small, peppercorn-shaped dried chiles with a bold kick of heat and smoky flavor. They're sometimes referred to as tepin chiles. If you can't find them, you can substitute pequin or chiles de arbol, but you'll need to adjust the amount to tailor the heat accordingly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The sauce can be made ahead and refrigerated in an airtight container for up to 5 days.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This dish is best enjoyed right away, but leftovers can be refrigerated in an airtight container for up to 4 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes, steak-recipes
+
+----
+
+Seo_title: Carne Asada Fries With Sliced Steak and Chile Butter Sauce | Avenda Aurora
+
+----
+
+Seo_description: Carne asada fries get the steak frites treatment with sliced steak, crisp shoestring fries, melted cheese, and a rich chile-butter sauce.
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/TuW6WSmSUDBb-6RI8cF0uWO8j6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20260116-SEA-CarneAsadaFries-LorenaMasso-20-a697f4363be6490f88a1ded491c0b48f.jpg

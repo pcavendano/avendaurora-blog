@@ -1,0 +1,347 @@
+Title: Phở Đuôi Bò (Vietnamese Noodle Soup with Oxtail)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Phở đuôi bò. [Photographs: Tam Ngo] Since we&#39;ll be stuck in dark drizzle for months to come, let&#39;s talk about phở, a perfect food for chasing away the doldrums of winter. Phở bò is a Vietnamese beef noodle soup;...
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "10"
+  unit: 
+  ingredient: star anise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: whole cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: inches
+  ingredient: of cassia bark or cinnamon stick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: green cardamom pods
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Sichuan peppercorn
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: slices
+  ingredient: of dried tangerine peel
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: yellow onions , outer skin peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: daikon , peeled and cut into 4-inch segments
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: carrots , peeled and halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: ginger , peel-on and lightly smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7 1/2"
+  unit: pounds
+  ingredient: oxtail , cut in cross-sections of roughly the same size and thickness
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: sea salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: plus 2 tablespoons fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Yellow rock sugar , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: 
+  ingredient: -2 pounds pho noodles , fresh or dried
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: sweet yellow onion , sliced paper-thin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Scallions , cut into thin rings
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cilantro chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Oxtail meat , brought to room temperature, removed from bones, and broken into chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pho broth
+  preparation: recipe above
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: knob of ginger , lightly smashed and thickly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Yellow rock sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Spearmint
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thai basil
+  preparation: rau que
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thorny cilantro
+  preparation: ngo gai
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: pound
+  ingredient: bean sprouts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: -4 red Thai bird chilis , deseeded and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: limes , cut into wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Toast Spices: Toast the spices in a wide skillet over a low flame for approximately 2 minutes. Remove them from heat as they become fragrant. Cool before wrapping the spices in cheesecloth and tying off with twine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Roast Aromatics: Balance ginger knobs on the cooking grate of a gas stove. On medium-low heat, use tongs or chopsticks to char the ginger against the open flame of the stove. After 4 minutes, they should soften and brown. Do the same for the onions. These aromatics are what sweeten the broth so don&#39;t worry too much about blackening the entire surface. Allow the aromatics to cool, then peel the skins, rinse, and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Parboil Meat and Bones: Place oxtail sections in the large stockpot and cover with cold water. Boil vigorously over high heat for 2 to 3 minutes. (This frees the oxtail of marrow and other impurities that cloud the flavor of the soup.) Drain and rinse the oxtail. Scrub the stockpot of scum and return the oxtail to the cleaned pot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Prepare Broth with Oxtail:
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the oxtail stockpot, add 7 1/2 quarts of cold water along with the spice sachet, onions, ginger, daikon, carrots, sea salt, and fish sauce. Over high heat, bring the ingredients to a boil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reduce the flame, and keep the broth bubbling lightly at the lowest possible simmer. Simmer for 7 to 8 hours until the meat is deeply aromatic and shrugs off the bone in hunks.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove the oxtail and submerge them in a clean pot of cold water for approximately 10 minutes. (This prevents the meat from drying out as it cools.) Drain the sections and bring them to room temperature. Then, secure them in plastic and refrigerate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Discard all remaining solids, aromatics, and the spice sachet. Use a chinois or a fine strainer double-lined with cheesecloth to strain the broth into a second, clean stockpot. Cool the pot of broth in a sink of cold water, then store in the refrigerator overnight to allow the flavors to develop. The fat will separate to the top and the gelatin-rich broth will congeal.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Day 2: Bowl Assembly To ensure the spring of the noodles don&#39;t get sodden in the broth, arrange the dry ingredients (noodles, onions, and oxtail meat) in bowls and seat guests before ladling on the liquid. Guests will enjoy plunging through the heady steam as the soup is slurped.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Tableside Garnishes: Rinse, drain, spin (or pat) dry the final garnishes before arranging on a plate.
+- Mise en Place: If using dry pho noodles, submerge the noodles in hot water for 20 minutes until softened; drain. (If using fresh noodles, simply rinse the noodles under cold water and drain.)
+- In a clean stockpot, bring 4 quarts of water to a boil. Place the noodles in a long-handled strainer and blanch just until the noodles lose their stiffness. (Depending on the noodle and its thickness, this can take anywhere between 10 seconds to 2 minutes.) Drain.
+- Fill each serving bowl a quarter of the way up with noodles. Top with oxtail meat, onions, scallions, and cilantro.
+- Broth Seasoning: Remove the stockpot of broth from the refrigerator. Scoop off the white crust of fat but reserve some for flavor. Place the pot of gelatinous broth on heat. The broth will liquefy as it&#39;s brought to a rolling boil.
+- Refresh the flavor of the broth by adding ginger slices. Adjust the flavor of the broth with fish sauce and yellow rock sugar. (If the broth tastes a little strong, don&#39;t worry. The noodles and herbal garnishes will temper the flavor.)
+- Serving Guests: Ladle the broth into each prepared bowl and fully submerge the noodles. (The proportion of broth to noodles should be roughly 3:1.) Serve immediately. Invite guests to hand-shred tableside garnishes into their bowls and to add lime, fish sauce, and/or chili pepper to taste.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Phở Đuôi Bò (Vietnamese Noodle Soup with Oxtail) | Avenda Aurora
+
+----
+
+Seo_description: Phở đuôi bò. [Photographs: Tam Ngo] Since we&#39;ll be stuck in dark drizzle for months to come, let&#39;s talk about phở, a perfect food for chasing away the d
+
+----
+
+Original_author: Tam Ngo
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/qwlvisxa5cIklbmnQfmy0Mqpxig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20091022-pho-thumb-46aa53e2430147db9471badaf9fd455d.jpg

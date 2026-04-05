@@ -1,0 +1,167 @@
+Title: Easy Teriyaki-Glazed Salmon, Cucumber, and Avocado Rice Bowls
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: Having a batch of teriyaki sauce in your fridge at all times (it lasts forever) allows you to pull together a dinner like this rice bowl with teriyaki-glazed salmon and avocado in the amount of time it takes to steam a pot of rice. Once you have the rice on, all you&#39;ve got to do is sear the salmon, dice up some avocado and cucumber, slice a couple of scallions, and pull that leftover teriyaki sauce out of the fridge.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: salmon fillets , about 5 ounces each
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable or canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: cooked white or brown rice
+  preparation: about 680 g cooked rice 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: avocado , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Persian or Japanese cucumber , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: to 8 scallions , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: homemade or store-bought teriyaki sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Furikake and/or toasted sesame seeds , for serving
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Press salmon fillets between paper towels to dry surfaces thoroughly. Season on all sides with salt and pepper. Heat oil in a large stainless steel skillet over medium-high heat until shimmering. Add salmon fillets, skin side down. Immediately reduce heat to medium-low. Cook, pressing gently on back of fillets to ensure good contact between the skin and the pan, until skin is rendered and crisp, about 6 minutes. If skin shows resistance when you attempt to lift with a spatula, allow it to continue to cook until it lifts easily.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Flip salmon and cook on second side until a thermometer inserted into the thickest part registers 120°F (49°C) for medium-rare or 130°F (54°C) for medium, about 1 minute longer. Transfer salmon to a paper towel–lined plate to drain.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Divide rice evenly between 4 serving bowls. Top with diced avocado, cucumber, and scallions. Top each with a salmon fillet and spoon sauce on top, using the back of a spoon to evenly glaze each fillet. Sprinkle with furikake and/or sesame seeds. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Instant-read thermometer
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Furikake is a blend of seasonings typically used to flavor rice. It is available in multiple flavors at Japanese groceries or online.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, fish-recipes, salmon-recipes
+
+----
+
+Seo_title: Easy Teriyaki-Glazed Salmon, Cucumber, and Avocado Rice Bowls | Avenda Aurora
+
+----
+
+Seo_description: Having a batch of teriyaki sauce in your fridge at all times (it lasts forever) allows you to pull together a dinner like this rice bowl with teriyaki-glazed sa
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/S7BwhQQuT6Sg7cH1QRetw7b7e6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__06__20160702-salmon-rice-bowl3-16d8c0d079e04d0c8f185574887dd6d4.jpg

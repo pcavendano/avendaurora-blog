@@ -1,0 +1,204 @@
+Title: Black Bean, Avocado, and Egg Tostadas
+
+----
+
+Category: antojitos
+
+----
+
+Description: If you&#39;ve never had tostadas, then you&#39;re in for a treat. That is, if you like things that are crunchy, salty, and topped with eggs and avocados.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , finely chopped
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: jalapeño pepper , finely chopped
+  preparation: about 1 tablespoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: chopped fresh cilantro leaves , plus more for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: dried black beans , soaked overnight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: juice from about 1 whole lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: About 2 cups vegetable , canola , or peanut oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: corn tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: avocados , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: scallions , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime , cut into wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Hot sauce , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Black Beans : Heat vegetable oil in a medium saucepan over medium high heat until shimmering. Add onion, jalapeño, cilantro, and cumin. Cook, stirring, until the onions are soft, about 4 minutes. Add the soaked black beans, then add water until the beans are covered by 2 inches and bring to a simmer. Cover and cook, adding water if necessary to keep the beans just covered, until the beans are soft and the liquid has begun to slightly thicken, about 40 minutes. Season to taste with salt, pepper, and lime juice. Beans can be made up to 3 days in advance and reheated before serving.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Tostadas : Heat 1/4 inch of oil in a medium saucepan until shimmering, add a tortilla and cook until golden and puffed, then flip and continue to cook until both sides are golden. Transfer to a paper towel-lined plate and immediately season with salt. Repeat with remaining tortillas. Once cooled, tostadas can be kept in a sealed container for up to 3 days.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to serve divide tostadas between 4 plates, have the beans warm and the avocado and garnishes at hand before you start to fry the eggs. Heat a drizzle of vegetable oil in a large non-stick or cast iron skillet over medium-high heat, when oil just begins to smoke add as many eggs as your pan will allow without overcrowding. Fry the eggs until the whites are set and the yolks are runny. Top as many tostadas as you have fried eggs with beans, then top each one with an egg, followed by sliced avocado, cilantro, and scallions. Serve immediately with sliced lime and hot sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Non-stick skillet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, frying-recipes, fried-egg-recipes
+
+----
+
+Seo_title: Black Bean, Avocado, and Egg Tostadas | Avenda Aurora
+
+----
+
+Seo_description: If you&#39;ve never had tostadas, then you&#39;re in for a treat. That is, if you like things that are crunchy, salty, and topped with eggs and avocados.
+
+----
+
+Original_author: Sydney Oland
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/0sZqxiaps0uL8BWqQ8UyXU4AEq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__12__274700-20131130-sunday-brunch-black-bean-egg-avocado-tostada-edit-e22b66fa97874448bd6082bb9181c6a3.jpg

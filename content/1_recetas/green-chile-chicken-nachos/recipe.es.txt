@@ -1,0 +1,327 @@
+Title: Green Chile Chicken Nachos
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: A chile verde with chicken gives these nachos a hefty fruity, tangy, and spicy start, but it&#39;s the addition of a creamy pepper Jack sauce, cooling avocado salsa, and fresh cilantro, onion, jalapeños, and radish that makes them incredible.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 cups canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "20"
+  unit: 
+  ingredient: tortilla corn tortillas , cut into 6 wedges each
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: poblano peppers
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: cubanelle pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño pepper , halved, steemed, and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: tomatillos , husked, washed, and halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: bone-in, skin on chicken thighs
+  preparation: about 8 thighs
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: finely diced onion
+  preparation: about 1 small 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: finely chopped fresh cilantro leaves and fine stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: White sugar, kosher salt, and freshly ground black pepper to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: pepper Jack cheese , grated on large holes of a box grater
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can evaporated milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: finely chopped pickled jalapeños
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: ripe Haas avocados , seeded and roughly diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: Mexican crema or sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: roughly chopped fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: lime juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: finely chopped white onion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: roughly chopped cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: radish , very thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño or serrano pepper , very thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: cotija cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: To make the chips: Heat oil in a 12-inch cast iron skillet, Dutch oven, or wok over medium-high heat until it registers 375°F. Adjust flame to maintain temperature. Working in batches, add tortillas and fry, agitating with a metal spider, until edges just start to brown. Flip chips over and continue to cook until crisp and light golden brown. Transfer chips to a paper towel-lined tray, sprinkle with salt to taste, and let sit for 2 to 3 minutes to drain. Repeat with remaining batches. Set aside until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To make the chile: Roast poblano and cubanelle peppers directly over the flame of a gas stove, grill, or under a hot broiler, turning occasionally, until skin is completely charred and blackened all over. Place in a bowl, cover with plastic wrap, and let sit until cool enough to handle, 10 to 15 minutes. Remove charred outer skin, then stem and seed peppers. Transfer to the work bowl of a food processor fitted with a steel blade.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Preheat broiler. Place tomatillos and jalapeño on a baking sheet, cut side down. Broil until tomatillos have charred and softened, about 10 minutes. Transfer to food processor with peppers, along with any exuded liquid.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat oil in a Dutch oven over high heat until shimmering. Season chicken all over with salt and pepper; place in Dutch oven, skin side down. Cook until skins have deeply browned and crisped, 6 to 8 minutes. Flip chicken and cook until second side has browned, about 4 minutes longer. Transfer chicken to a plate and pour out all but 1 tablespoon of fat from Dutch oven. Add onion and garlic and cook until onion has softened and lightly browned around the edges, about 5 minutes. Stir in cumin and cook until fragrant, about 30 seconds. Transfer to food processor with chiles and tomatillos and pulse until roughly puréed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return Dutch oven to high heat. Add chicken stock and scrape bottom of pan to release browned bits. Stir in chile mixture and bring to a boil. Reduce to a simmer. Nestle chicken in sauce, cover, and cook until thickest part of thigh registers between 175-185°F on an instant-read thermometer, about 30 minutes. Transfer chicken to plate and let sit until cool enough to handle.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While chicken is cooling, increase heat to medium-high heat and let sauce boil until slightly thickened. Remove from heat and stir in cilantro and lime juice. Remove and discard chicken skins. Using hands, pull chicken from bone into thin shreds. Add chicken back to sauce and stir to combine. Season with sugar, salt, and pepper to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To make the cheese sauce: Place cheese in a medium bowl and toss with cornstarch until evenly coated. Transfer cheese to small sauce pan and add 1 cup evaporated milk. Place over low heat and cook, stirring constantly, until melted and thickened, about 5 minutes. Stir in pickled jalapeños and thin out with additional evaporated milk to desired consistency. For a smoother, shinier cheese sauce, blend with immersion blender or in standard blender for 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To make the avocado salsa: Place avocados, garlic, crema, cilantro, and lime juice in the work bowl of a food processor fitted with a steel blade. Process until completely smooth. Season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To serve: Spread single layer of chips out on large baking sheet or serving platter. Spoon on cheese sauce, chile, and avocado salsa. Top with another layer of chips and spoon on additional sauce, chile, and salsa. Top with diced onion, cilantro, radish, pepper slices, and cotija cheese. Serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Dutch oven, food processor
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, holiday-season-recipes, winter-recipes, super-bowl-recipes, nacho-recipes
+
+----
+
+Seo_title: Green Chile Chicken Nachos | Avenda Aurora
+
+----
+
+Seo_description: A chile verde with chicken gives these nachos a hefty fruity, tangy, and spicy start, but it&#39;s the addition of a creamy pepper Jack sauce, cooling avocado s
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/i3qSSgaZvDVBPRC8aoDPBzQ_4No=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__01__20150115-green-chile-nachos-josh-bousel-200266f24fb441a19fb38a637cbdb9b4.jpg

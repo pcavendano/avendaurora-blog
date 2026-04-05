@@ -1,0 +1,265 @@
+Title: Okinawan Taco Rice
+
+----
+
+Category: salsas
+
+----
+
+Description: The iconic flavors of Tex-Mex-style taco filling—all piled on top of Japanese short-grain rice. Despite its Tex-Mex appearance, the dish is a signature Okinawan meal that tells a deeper story of how war and the US military have influenced local cuisine.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral oil , such as vegetable or canola
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: white or yellow onion , finely diced
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: ground beef , preferably 80% lean
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: smoked paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: ketchup
+  preparation: about 1 ounce ; 25 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: extra-sharp cheddar cheese , grated on large holes of a box grater
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: cornstarch or potato starch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: cups
+  ingredient: evaporated milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: smoked paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: cooked short-grain white rice
+  preparation:  25 ounces ; 700 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: shredded iceberg lettuce
+  preparation:  6 1/2 ounces ; 180 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: tomato , halved and sliced
+  preparation: about 1/8-inch-thick slices
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salsa , homemade or store-bought, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Tortilla chips , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large nonstick skillet over medium-high, heat oil until shimmering. Add onion and garlic and cook, stirring constantly to avoid browning, until tender and fragrant, about 3 minutes. Add ground beef and cook, using a wooden spoon to break up meat into small pieces, until the beef starts to brown, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add chile powder, salt, ground cumin, black pepper, smoked paprika, dried oregano, ketchup, and 1 cup (240 ml) water. Cook, using a wooden spoon to scrape and stir bottom of the skillet. Bring to a boil over high heat and cook until liquid slightly thickens, about 3 minutes. Remove from heat, season to taste, and cover to keep warm; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Cheese Sauce: In a medium saucepan, toss grated cheddar with cornstarch to evenly coat. Add 1 1/4 cups (300 ml) evaporated milk, salt, black pepper, and smoked paprika. Cook on low heat, whisking constantly, until melted and smooth, about 5 minutes. Remove from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Divide cooked rice equally among 4 plates. Top each with taco meat, followed by the cheese sauce, lettuce, and sliced tomato. Garnish with salsa and crushed tortilla chips.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the cheese, if you want to keep it classic, you can skip making the cheese sauce and use 1 cup of shredded sharp cheddar instead. To serve, add 1/4 cup of cheddar on top of each serving of beef. The residual heat of the meat will slightly melt the cheese. To get the best melty texture, use freshly grated cheddar, preferably on the thicker grated side. Pregrated, store-bought cheddar has extra ingredients that prevent it from as easily melting compared to the freshly grated stuff.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes, ground-beef-recipes
+
+----
+
+Seo_title: Okinawan Taco Rice | Avenda Aurora
+
+----
+
+Seo_description: The iconic flavors of Tex-Mex-style taco filling—all piled on top of Japanese short-grain rice. Despite its Tex-Mex appearance, the dish is a signature Okinawan
+
+----
+
+Original_author: Kiera Wright-Ruiz
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/yK8uwKpxMKEWsvLcMtYG69DXZBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250520-SEA-TacoRice-MelatiCitrawireja-Beauty1-14-182bd212af894f4793a92b04ada6450a.jpg

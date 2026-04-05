@@ -1,0 +1,207 @@
+Title: Ghanaian Goat and Tripe Peanut Stew (Groundnut Soup)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Slow-cooked goat and tripe are key to the savory, earthy intensity of this traditional Ghanaian stew. A rich and creamy peanut butter- and tomato-based sauce balances the tripe&#39;s assertive flavor, though the latter can be omitted for a milder dish.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: bleached honeycomb tripe , cut into 2-by-1-inch pieces
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: yellow onions , halved and ends trimmed, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: homemade or store-bought low-sodium chicken broth , plus more as needed, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: fresh ginger , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: goat stew meat , cut into 2- to 3-inch cubes
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: hot chile pepper , such as bird&#39;s eye, habanero, or Scotch bonnet
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: creamy peanut butter
+  preparation:  9 ounces ; 255 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can plum tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole smoke-dried fish , such as tilapia
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Hot cooked white rice or fufu , to serve
+  preparation: see note
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Rinse tripe under cold running water, squeezing to expel liquid and remove any bleached flavors. Fill a large saucepan two-thirds full of water, salt generously, and bring to a boil over high heat. Add tripe and boil for 10 minutes. Drain and rinse. If the tripe retains a bleached odor, repeat blanching a second time.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a blender, purée 2 onion halves, 1 cup (240ml) chicken stock, 3 cloves garlic, 1/2 ounce ginger, and tomato paste. In a Dutch oven, combine cubed goat and boiled tripe with the purée over medium-low heat. When purée begins to simmer, cover Dutch oven and reduce heat to low. Simmer meat for 30 minutes, stirring occasionally. Add another 1/2 cup (120ml) chicken stock if mixture begins to stick to the bottom of the pot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Preheat oven to 250°F (120°C). Add remaining 2 onion halves to Dutch oven, nestling them into the purée. Add remaining 1/2 ounce ginger and 2 cloves garlic, along with hot pepper and bay leaves. Return cover to Dutch oven, reduce heat to low, and cook until halved onion is soft and translucent, about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer halved onion, ginger, garlic cloves, and pepper to a blender. Add peanut butter, canned tomatoes and their juices, and remaining 2 cups (480ml) chicken stock and purée until smooth. Pass blended mix through a fine-mesh strainer into Dutch oven, stirring to incorporate, and bring to a simmer. Cover Dutch oven and transfer to oven.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cook in oven, stirring occasionally and adding chicken stock if mixture reduces by more than one-third, until goat is tender and oils have surfaced, approximately 4 hours. Remove from oven and transfer to stovetop. Add whole smoked fish, reduce heat to low, and cook an additional 5 minutes. (If omitting the fish, you can skip this 5-minute covered-cooking step.) Remove and discard smoked fish and bay leaves, season with salt and pepper to taste, and serve hot over white rice or fufu.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Goat can be found at most halal butcher shops, as well as many supermarkets. For the most tender meat, ask your butcher to cube a forequarter cut, such as shoulder or chuck, preferably from a young spring goat. If you do not wish to include tripe, simply increase the volume of goat by an additional half pound. For a milder dish, cut the pepper in half and remove its seeds. Alternatively, use just half a pepper, or choose a less spicy pepper, such as a jalapeño. Hot-smoked fish is a traditional ingredient in groundnut soup and adds a savory, fishy, smoked undercurrent of flavor to the dish. It can be found in most West African and Caribbean markets, but can be omitted if you&#39;re unable to find it or prefer to leave it out. Fufu is a starchy dish made from pounded and boiled cassava root and green plantains.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Ghanaian Goat and Tripe Peanut Stew (Groundnut Soup) | Avenda Aurora
+
+----
+
+Seo_description: Slow-cooked goat and tripe are key to the savory, earthy intensity of this traditional Ghanaian stew. A rich and creamy peanut butter- and tomato-based sauce ba
+
+----
+
+Original_author: The Serious Eats Team
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/RlxyVRR_JeCXwqZh7J3-RrntUB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__06__20170511-groundnut-soup-vicky-wasik-2-2-e832005ef69c473f8f45a0a2a91f7775.jpg

@@ -1,0 +1,194 @@
+Title: Vegan Key Lime Pie
+
+----
+
+Category: postres, vegetarianos
+
+----
+
+Description: A lime custard pie that hits all the same flavor notes as a Key lime pie, but entirely vegan.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8 3/4"
+  unit: ounces
+  ingredient: vegan graham crackers
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: sugar
+  preparation:  45 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use about half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: vegan buttery sticks or spread, melted
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: silken tofu , drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can sweetened condensed coconut milk
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7"
+  unit: ounces
+  ingredient: sugar
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: ounce
+  ingredient: lime zest , from about 4 small limes
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: ounces
+  ingredient: fresh lime juice , from about 5 small limes
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoon
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt
+  preparation: if using table salt, use half as much by volume
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: vanilla extract
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: rosewater
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vegan Aquafaba Meringue Frosting , 1 recipe
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: vanilla extract
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: This recipe was tested with Let’s Do Organic Sweetened Condensed Coconut Milk ; if using other brands, be sure to measure it out by weight, as they may be packaged in differently sized cans. Sweetened condensed coconut milk has a firm fat cap on the surface that needs to be gently broken through to reach the thinner contents underneath; empty the contents of the can over a bowl to catch any liquid that might squirt out.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Not all refined white sugar is considered vegan compliant , but organic cane sugar always is. This recipe was tested with both, and the difference was only apparent in the aquafaba meringue, which has a reduced shelf life when made with organic cane sugar, owing to its natural molasses content. For that reason, a pie topped with aquafaba meringue should be made and served on the same day. The pie, bare or topped with white sugar frosting, can last in the refrigerator for 3 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, tofu-recipes
+
+----
+
+Seo_title: Vegan Key Lime Pie | Avenda Aurora
+
+----
+
+Seo_description: A lime custard pie that hits all the same flavor notes as a Key lime pie, but entirely vegan.
+
+----
+
+Original_author: Jennifer Callister
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/-veFQrfOojubgwpZEo_CGRDdlx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/KEYLIME-Beauties-2-ac9d514eab384cc1b695fae65273a718.jpg

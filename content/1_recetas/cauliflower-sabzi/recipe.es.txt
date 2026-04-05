@@ -1,0 +1,216 @@
+Title: Cauliflower Sabzi
+
+----
+
+Category: vegetarianos, platos-fuertes
+
+----
+
+Description: This quick and easy sabzi features tender cauliflower florets tossed and simmered with a Punjabi-style spice blend of ground cumin, coriander, turmeric, and garam masala.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral oil such as vegetable or sunflower oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: black mustard seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , coarsely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: garlic cloves, finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: knob fresh ginger, peeled and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: plum tomato , coarsely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: garam masala
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: chile powder, such as Kashmiri
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: kosher salt, plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: head cauliflower , cut into florets
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Handful of fresh cilantro , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Handful of roasted peanuts , coarsely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked basmati rice and dal , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large skillet, sauté pan, or wok, heat oil over medium-high heat until shimmering. Add cumin and mustard seeds and cook until they start to pop. Add onion and cook, stirring, until golden, about 8 minutes. Add ginger and garlic and cook until fragrant, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reduce heat to medium-low, add tomato, cover, and cook until softened, about 10 minutes. Stir in coriander, garam masala, turmeric, chili powder, and salt. Add 1/2 cup (120ml) water and bring to a boil over medium-high heat. Once boiling add the cauliflower and stir to combine. Cover and cook over medium-high heat until the cauliflower is translucent and soft, 10 to 20 minutes. Adjust heat to high and continue to cook, uncovered, until liquid has evaporated, about 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Sprinkle cilantro and peanuts over cauliflower and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large skillet, sauté pan, or wok
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cauliflower sabzi can be refrigerated in an airtight container for up to 5 days. Reheat before serving (sabzi is also great at room temperature, but I don&#39;t recommend eating it cold straight from the fridge).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, quick-dinner-recipes
+
+----
+
+Seo_title: Cauliflower Sabzi | Avenda Aurora
+
+----
+
+Seo_description: This quick and easy sabzi features tender cauliflower florets tossed and simmered with a Punjabi-style spice blend of ground cumin, coriander, turmeric, and gar
+
+----
+
+Original_author: Chetna Makan
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/onB2fn18wOmB58R2yEroUR4Yf54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240207-SEA-CauliflowerSabzi-KanikaandJatinSharma-hero-338d9c05a7dc4ca08d3e56c769e111cb.jpg

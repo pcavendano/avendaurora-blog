@@ -1,0 +1,37 @@
+title: Miembro
+icon: 👤
+
+permissions:
+  access:
+    panel: false
+    site: true
+
+fields:
+  display_name:
+    label: Nombre para Mostrar
+    type: text
+
+  avatar:
+    label: Avatar
+    type: files
+    max: 1
+
+  favorites:
+    label: Recetas Favoritas
+    type: pages
+    query: site.find('recetas').index
+    multiple: true
+
+  language:
+    label: Idioma Preferido
+    type: select
+    options:
+      es: Español
+      en: English
+      fr: Français
+    default: es
+
+  newsletter:
+    label: Suscrito al Newsletter
+    type: toggle
+    default: true

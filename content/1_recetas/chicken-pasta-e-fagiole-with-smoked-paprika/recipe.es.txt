@@ -1,0 +1,199 @@
+Title: Chicken Pasta e Fagiole with Smoked Paprika
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: See CMS notes for recipe time calculations. Even better, it&#39;s on the table in 30 minutes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: olive oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: pancetta , finely chopped
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: onions , finely chopped
+  preparation: about 1 3/4 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 2 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: ground chicken thigh meat
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans diced tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans red kidney beans , drained and rinsed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: low-sodium homemade or store-bought chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: smoked paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: chile flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: small pasta
+  preparation: such as shells or elbow macaroni
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped fresh parsley
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Parmigiano-Reggiano for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In large saucepan or Dutch oven, heat 1 tablespoon oil and pancetta over medium heat. Cook, stirring, until pancetta is cooked and crispy, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining 2 tablespoons oil, onions, and bay leaf to pan. Cook, stirring occasionally, until onions have softened, 6 to 8 minutes. Add garlic and cook until fragrant, about 30 seconds. Add chicken and cook until cooked through, 4 to 5 minutes. Stir in tomatoes, kidney beans, broth, paprika, 1 teaspoon salt, 1/4 teaspoon black pepper, and chile flakes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Increase heat to medium high and bring to high simmer. Add pasta and cook until al dente. Season to taste with salt and pepper, stir in parsley, and serve with grated Parmigiano-Reggiano.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, pasta-main-recipes
+
+----
+
+Seo_title: Chicken Pasta e Fagiole with Smoked Paprika | Avenda Aurora
+
+----
+
+Seo_description: See CMS notes for recipe time calculations. Even better, it&#39;s on the table in 30 minutes.
+
+----
+
+Original_author: Yvonne Ruperti
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/CtesuMnRPoQYfh1ttlOPjaILLD8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__03__20130227-242476-chicken-pasta-fagiole-smoked-paprika-edit-94623c76efd0480585b2092f41543488.jpg

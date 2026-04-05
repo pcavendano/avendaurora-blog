@@ -1,0 +1,203 @@
+Title: Camarones a la Diabla (Mexican Deviled Shrimp)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Make fiery, flavorful camarones a la diabla in under 30 minutes with juicy seared shrimp and a bold red chile.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: cup
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: canned plain tomato sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: chicken bouillon powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: árbol chiles , stemmed and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: guajillo chiles , stemmed and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: fresh habanero , stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: small
+  ingredient: yellow onion thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cloves
+  ingredient: garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: shell-on jumbo shrimp , butterflied
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Hot sauce , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crusty bread or tortillas , for serving, optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Blender, medium saucepan, large skillet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, shrimp-recipes
+
+----
+
+Seo_title: Camarones a la Diabla (Mexican Deviled Shrimp) | Avenda Aurora
+
+----
+
+Seo_description: Make fiery, flavorful camarones a la diabla in under 30 minutes with juicy seared shrimp and a bold red chile.
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/XmjE2_g6KftgBpwfp6dIZoWwKPg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251212-SEA-Camaronesaladiabla-LorenaMasso-16-042bec544f764ba4890b6e19485d55ba.jpg

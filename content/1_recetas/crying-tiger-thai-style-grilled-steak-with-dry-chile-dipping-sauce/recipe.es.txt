@@ -1,0 +1,197 @@
+Title: Crying Tiger (Thai-Style Grilled Steak With Dry Chile Dipping Sauce)
+
+----
+
+Category: platos-fuertes, mariscos
+
+----
+
+Description: The grilled aroma of the steak and the smokiness of the piquant dipping sauce contribute to the appeal of this classic dish.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: dark soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: oyster sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: light or dark brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plain vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: rib eye or New York strip steaks , about 1 1/2-inches thick
+  preparation: about 12 ounces or 342 g each
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh lime juice
+  preparation: about 6 to 10 limes 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: Thai fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely-chopped fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely-chopped green onions
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: toasted rice powder
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried red pepper powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: plum tomatoes
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Warm sticky rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Mix together the soy sauce, oyster sauce, brown sugar, and vegetable oil in a medium mixing bowl. Coat the steaks with the soy sauce mixture and let them marinate while you work on the dipping sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Combine all ingredients for the dipping sauce in a small bowl and mix. If using, peel and deseed the tomatoes. Chop the pulp finely, and add it to prepared dried chile dipping sauce; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Grill the steaks, turning frequently, until desired doneness is reached (medium-rare is recommended—steaks should register 125°F on an instant read thermometer when removed from grill). Remove from grill and let rest for 5 minutes. (See the importance of resting meat ).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cut the steaks into 1/4-inch slices and serve with the dipping sauce. Warm sticky rice on the side is highly recommended.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, thai-recipes
+
+----
+
+Seo_title: Crying Tiger (Thai-Style Grilled Steak With Dry Chile Dipping Sauce) | Avenda Aurora
+
+----
+
+Seo_description: The grilled aroma of the steak and the smokiness of the piquant dipping sauce contribute to the appeal of this classic dish.
+
+----
+
+Original_author: Leela Punyaratabandhu
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/kM69XEn91VPhY_1KupatTtVTit0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crying-tiger-thai-steak-salad-recipe-hero-01-7e360382a88b4bd0bd733dcd1e89729f.jpg

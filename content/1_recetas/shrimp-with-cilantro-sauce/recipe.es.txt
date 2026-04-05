@@ -1,0 +1,226 @@
+Title: Shrimp With Cilantro Sauce
+
+----
+
+Category: salsas, mariscos
+
+----
+
+Description: Plump shrimp swimming in a spicy chutney made of cilantro, chiles, and ample garlic is one of my favorite ways to enjoy this seafood. It’s an easy weeknight-friendly recipe that cooks in under 15 minutes
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: fresh cilantro leaves and tender stems , washed, trimmed, and roughly chopped, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: garlic cloves , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: -3 Thai bird chiles, stemmed, to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: fresh lime or lemon juice, divided
+  preparation: from 3 large limes or lemons
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: water, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: large or medium shrimp , peeled and deveined
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: neutral oil, such as grapeseed or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: white or yellow onion , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Remaining cilantro chutney, from above
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe cooked easy basmati rice, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the cilantro chutney and marinating the shrimp: In a blender, add 1/3 of the cilantro along with the garlic, chiles, 3 tablespoons lime juice, salt, and 1/4 cup water and blend, scraping down the sides of blender as needed, into a fine, soft paste, 30 to 60 seconds. Add remaining 2/3 of the cilantro, 1/4 cup water, remaining 3 tablespoons lime juice, cumin seeds, and sugar, and blend until smooth, scraping down the sides of the blender jar as needed, about 60 seconds. Season to taste with salt. The chutney should be smooth.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium bowl, whisk together 3/4 cup (180ml) chutney with the baking soda; add the shrimp and toss until well coated. Refrigerate for 45 to 60 minutes. Store the remaining (about 1 cup) chutney separately. Before washing the blender, pour the remaining 1/4 cup water into it and briefly pulse to collect any remaining chutney in the jar. Add this to the reserved chutney.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For cooking the shrimp: In a large sautée pan, heat oil over medium heat until shimmering. Add the cumin seeds and cook until they pop and are fragrant, about 10 seconds, then immediately stir in onion and turmeric. Cook over medium-high heat, stirring occasionally, until the onion begins to soften, 3 to 5 minutes, then transfer to a small bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a slotted spoon, remove shrimp from marinade, letting excess marinade drip back into the bowl, and add to the now-empty pan in one even layer. Cook shrimp for 30 seconds without moving, then stir and continue to cook until beginning to brown, 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reduce heat to low, add the cooked onions back to the pan and pour in the remaining reserved cilantro chutney mixture. Stir to combine and bring to a boil over medium heat while stirring occasionally; reduce heat to medium-low and simmer until the shrimp are just pink and opaque, about 1 minute longer. Serve the shrimp and the sauce immediately over steamed Basmati white rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: High-powered blender, large sautée pan
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The chutney can be refrigerated in an airtight container for 5 days or frozen for 4 weeks. When freezing the chutney, I like to use an ice cube tray to store it in portions. That way you can remove only as much chutney as you need.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, shrimp-recipes
+
+----
+
+Seo_title: Shrimp With Cilantro Sauce | Avenda Aurora
+
+----
+
+Seo_description: Plump shrimp swimming in a spicy chutney made of cilantro, chiles, and ample garlic is one of my favorite ways to enjoy this seafood. It’s an easy weeknight-fri
+
+----
+
+Original_author: Kaumudi Marathé
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/zsFD4r9E1WteLDGypex1NPAStco=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240723-Cilantro-Shrimp-Larisa-Niedle-SEA-hero-152e05a5bc28471b9e596549ec229ab8.jpg

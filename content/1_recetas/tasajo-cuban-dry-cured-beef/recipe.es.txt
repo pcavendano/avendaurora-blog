@@ -1,0 +1,211 @@
+Title: Tasajo (Cuban Dry-Cured Beef)
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: This traditional Cuban tasajo recipe transforms dry-cured beef into a bold, savory dish flavored with garlic and onion, boasting a satisfying chew. Try it fried for crispy edges or stewed for a tender and saucy dish.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: tasajo
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: white onion , halved and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: lime juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: garlic cloves , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: olive oil , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: green bell pepper , stemmed, seeded, and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: red bell pepper , stemmed, seeded, and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can Spanish-style or plain unseasoned tomato sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: dry white wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cuban black beans with rice for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Beef: Remove the outer layer of fat and salt with a spoon or butter knife and discard. Cut beef into 4 to 6 smaller pieces. Place cut beef in a large bowl and fill with warm (120℉) water and soak for 10 minutes. Using gloves, if desired, massage meat to remove as much remaining fat and salt as possible. Repeat soaking and massaging process 2 more times.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in beef and return to a simmer; cook until sauce thickens and reduces slightly and coats beef, about 15 to 20 minutes. Serve with white rice and black beans, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large pot or Dutch oven, spider skimmer or large slotted spoon, fine-mesh strainer, large skillet, lid for skillet if stewing the tasajo
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Tasajo isn&#39;t available in every grocery store, but you can usually find it in Latin markets, especially in cities with large Caribbean or Central American communities. It can also be found for purchase online.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, beef-main-recipes
+
+----
+
+Seo_title: Tasajo (Cuban Dry-Cured Beef) | Avenda Aurora
+
+----
+
+Seo_description: This traditional Cuban tasajo recipe transforms dry-cured beef into a bold, savory dish flavored with garlic and onion, boasting a satisfying chew. Try it fried
+
+----
+
+Original_author: Patricia Ysabella Suarez
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Tx3hhICUsO7mgDmZPI58Yd2kRIw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250320-SEA-LorenaMasso-Tasajo-Beauty1-42-c76fde0e77464c8983552b26d1eb4359.jpg

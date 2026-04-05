@@ -1,0 +1,247 @@
+Title: Baked Eggs With Creamy Greens, Mushrooms, and Cheese
+
+----
+
+Category: desayunos
+
+----
+
+Description: Three kinds of leafy greens combine with mushrooms, garlic, leeks, mustard, and spices to form the base for a baked-egg dish that&#39;s a bit like an omelette turned inside out. It&#39;s an ideal recipe for brunch, or really any meal of the day.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: bunch lacinato kale , tough stems removed, leaves roughly chopped
+  preparation: about 6 ounces ; 180 g after stemming
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: bunch Swiss chard , tough stems removed, leaves roughly chopped
+  preparation: about 7 ounces ; 200 g after stemming
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: ounces
+  ingredient: baby spinach
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: unsalted butter , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: button or cremini mushrooms , stems trimmed and caps sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: leeks , white and light green parts only, washed well and thinly sliced
+  preparation: about 9 ounces ; 250 g total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , 2 minced or grated and 1 left whole for toast, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: half-and-half
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: dry white wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: freshly grated nutmeg
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: grated Gruyère cheese
+  preparation:  2 1/2 ounces ; 75 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: to 6 large eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch of red chile flakes , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: to 6 slices toasted and buttered bread , such as from a baguette
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat oven to 375°F (190°C). Bring a large pot of salted water to a boil. Working in batches if necessary, add kale, chard, and spinach to pot and cook for 1 minute. Using a spider or strainer, lift greens from water and transfer to a colander. Immediately run under cold water to stop the cooking. Repeat with remaining greens if necessary. Using your hands, squeeze greens to remove as much excess liquid as possible. Roughly chop greens and set aside. You should have about 10 1/2 ounces (300g) of cooked, squeezed greens.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large skillet, melt 1 tablespoon (15g) butter over medium-high heat until foaming. Add mushrooms and cook, stirring only occasionally, until well browned, about 6 minutes. Season with salt and pepper, then transfer to a plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining 2 tablespoons (30g) butter to skillet and melt over medium-high heat until foaming. Add leeks and cook, stirring often, until softened but not browned. Stir in minced garlic and cook 30 seconds. Sprinkle flour over leeks and cook, stirring, until raw flour smell has cooked off, about 1 minute. Stir in half and half and milk. Bring to a simmer and cook until sauce thickens, 1 to 2 minutes. Stir in wine, nutmeg, mustard, reserved mushrooms, and reserved greens and return to a simmer. Season with salt and pepper. Remove skillet from heat. If mixture is very thick, add a bit more water or milk to thin slightly (this will depend on how much water you squeezed out of the greens). You should have about 4 cups of creamed greens.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If baking in the same skillet, sprinkle Gruyère on top of greens. (You can also divide greens into smaller individual skillets or baking dishes.) If using a baking dish, scrape creamy greens into it, smooth into an even layer, and sprinkle Gruyère on top.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a spoon, make egg-sized indentations in greens, one for each egg. Crack an egg into each well and season with salt. Bake until egg whites are just set and yolks are still runny, 10 to 20 minutes. Check eggs frequently to make sure they don’t overcook. Remove from oven and sprinkle a pinch of red chili flakes over each egg.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While toast is still warm, gently rub one side of each slice with remaining clove of garlic. Serve, using toast to scoop up greens and eggs.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Baking dish or large ovenproof skillet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, breakfast-brunch-recipes
+
+----
+
+Seo_title: Baked Eggs With Creamy Greens, Mushrooms, and Cheese | Avenda Aurora
+
+----
+
+Seo_description: Three kinds of leafy greens combine with mushrooms, garlic, leeks, mustard, and spices to form the base for a baked-egg dish that&#39;s a bit like an omelette t
+
+----
+
+Original_author: Emily and Matt Clifton
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/fRJWCtmBt1cS8He4Rew_kU43KVU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-creamy-kale-eggs-emily-matt-clifton-3-9d39be6b3f614c388faa9633b67711fa.jpg

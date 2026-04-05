@@ -1,0 +1,298 @@
+Title: Cincinnati Chili
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: Cincinnati Chili is comforting noodles, Mediterranean-spiced meat sauce, and a mound of cheese. What&#39;s not to love?
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: ground beef , preferably 80% lean
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: sweet onions , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: cloves
+  ingredient: garlic , finely minced or grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: tomato paste
+  preparation: one 6-ounce can
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: red wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: Diamond Crystal kosher salt; for table salt, use half as much by volume or the same weight, plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: active dry yeast
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chili powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: sweet paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground allspice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: cayenne pepper, plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cinnamon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground white pepper
+  preparation: can substitute black pepper if necessary
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: dried spaghetti
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: sweet onion , grated
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 1 5 - ounce can kidney beans , warmed and drained
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: medium cheddar , finely shredded using the small holes on a box grater
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thin , vinegary hot sauce , such as Frank’s Red Hot or Crystal
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Oyster crackers
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Chili: In a large Dutch oven, combine 1 quart (1L) cold water with the beef. Using a stiff whisk or potato masher, stir vigorously until beef is broken up and a thick slurry forms, about 2 minutes. Add 1 more quart (1L) water along with the onions, garlic, tomato paste, vinegar, Worcestershire sauce, bay leaves, salt, yeast, chili powder, paprika, allspice, cayenne, cinnamon, cumin, oregano, white pepper, cloves, and ground ginger and mix well.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set Dutch oven over high heat and bring to a boil, stirring frequently. Lower heat to maintain a gentle simmer and cook, stirring and scraping occasionally, until chili has thickened to a coherent texture, no longer soupy but not yet thick enough to stand a spoon in, and the flavors have melded, about 3 hours. Season with additional salt, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Serve: In a large pot of salted boiling water, cook spaghetti until softened and no longer al dente, about 2-3 minutes longer than box directions. Meanwhile, in a large bowl, whisk together olive oil and tomato paste. Using tongs, transfer cooked spaghetti to tomato paste mixture, allowing excess water to drain back into the pasta pot each time. Toss until evenly coated.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Divide spaghetti among (preferably oval; see notes) serving plates, then top with a few generous ladles of chili, a scattering of onion and/or beans (if desired), and a generous pile of shredded cheddar cheese (about 3 ounces per serving). Serve with hot sauce and oyster crackers at the table, for diners to add as desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cincinnati chili just doesn&#39;t look right on a round plate. It doesn&#39;t eat right, either. Native Cincinnatians start at one (short) side and methodically work our way to the other, cutting the noodles with the sides of our forks and scattering oyster crackers as we go. On a round plate, the chili feels formless. But, you know, use what you’ve got.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The chili can be refrigerated for up to 5 days in an airtight container. Reheat gently before serving.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, chili-recipes
+
+----
+
+Seo_title: Cincinnati Chili | Avenda Aurora
+
+----
+
+Seo_description: Cincinnati Chili is comforting noodles, Mediterranean-spiced meat sauce, and a mound of cheese. What&#39;s not to love?
+
+----
+
+Original_author: Jed Portman
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/1zK1T9D0N0GN__YFV5A_2Ikfa3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231115-SEA-CincinnatiChili-AmandaSuarez-hero-a514c4778b1a4050b7fea964b8e3b373.jpg

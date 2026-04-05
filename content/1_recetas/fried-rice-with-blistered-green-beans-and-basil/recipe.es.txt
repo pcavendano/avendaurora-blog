@@ -1,0 +1,214 @@
+Title: Fried Rice With Blistered Green Beans and Basil
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: Lighten up carb-heavy fried rice with a good dose of green beans in this easy recipe. The beans get blistered in the wok until smoky and charred, while fresh basil adds a ton of flavor and color to the finished dish.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: cooked white or jasmine rice
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: green beans , trimmed and cut into 3/4-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , thinly sliced
+  preparation: 1 ounce; 30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 2 teaspoons; 5 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: to 3 Thai bird chiles , thinly sliced, plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Asian fish sauce , plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: egg
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: roughly torn Thai or sweet Italian basil leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sugar , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime , cut into 4 wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: cucumber , thinly sliced, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: If using day-old rice, transfer to a medium bowl and break rice up with your hands into individual grains before proceeding. Heat 1/2 tablespoon vegetable oil in a large wok over high heat until smoking. Add half of rice and cook, stirring and tossing, until rice is pale brown, toasted, and has a lightly chewy texture, about 3 minutes. Transfer to a medium bowl. Repeat with another 1/2 tablespoon oil and remaining rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add 1/2 tablespoon oil to now-empty wok and heat over high heat until smoking. Add green beans and cook, stirring and tossing occasionally, until deeply blistered and charred. Add scallions, garlic, and chiles and cook, stirring and tossing constantly, until aromatic, about 30 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return rice to wok. Add soy sauce and fish sauce and toss to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Push rice to the side of wok and add remaining 1/2 tablespoon oil. Break egg into oil and season with a little salt. Use a spatula to scramble egg, breaking it up into small bits. Toss egg and rice together.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in basil leaves. Season to taste with salt, white pepper, and sugar, and serve immediately with lime, cucumber, and extra fish sauce and sliced chiles if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For best results, use Chinese-style medium-grain rice, jasmine rice, or sushi rice. Rice should either be cooked fresh, spread on a tray, and allowed to cool for 5 minutes, or, alternatively, transferred to a loosely covered container and refrigerated for at least 12 hours and up to 3 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, rice-grains-main-recipes
+
+----
+
+Seo_title: Fried Rice With Blistered Green Beans and Basil | Avenda Aurora
+
+----
+
+Seo_description: Lighten up carb-heavy fried rice with a good dose of green beans in this easy recipe. The beans get blistered in the wok until smoky and charred, while fresh ba
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/kSlykwMOizugl-MTXDUy5b-T2qo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__01__20160206-fried-rice-food-lab-36-6334f9ad14a949cd86994a8ae2f4c1c6.jpg

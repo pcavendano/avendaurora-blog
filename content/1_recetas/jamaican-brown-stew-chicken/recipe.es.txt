@@ -1,0 +1,227 @@
+Title: Jamaican Brown Stew Chicken
+
+----
+
+Category: sopas-caldos, salsas
+
+----
+
+Description: Tender pieces of marinated and seared chicken in a rich and silky mahogany gravy.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole chicken
+  preparation: about 5 pounds ; 2.25kg 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh lime juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Jamaican browning sauce , such as Grace or Gravy Master brands, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Chinese dark soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: onion powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: neutral oil , such as vegetable or canola
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , peeled, halved, and sliced 1/4 inch thick
+  preparation: about 2 cups
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red, orange, or yellow bell pepper , cored, seeded, and sliced 1/4-inch thick
+  preparation: about 1 1/2 cups
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: ripe plum tomatoes , cored and diced
+  preparation: about 1 cup
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: whole scallions , ends trimmed, white and green parts sliced crosswise 1/4 inch thick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: sprigs fresh thyme or 1 teaspoon dried thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: granulated sugar
+  preparation:  1 ounce ; 30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole Scotch bonnet pepper
+  preparation: optional, see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: allspice berries
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: ketchup
+  preparation:  1 ounce ; 30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: White rice , rice and peas, and/or cooked cabbage, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, caribbean-recipes, jamaican-recipes
+
+----
+
+Seo_title: Jamaican Brown Stew Chicken | Avenda Aurora
+
+----
+
+Seo_description: Tender pieces of marinated and seared chicken in a rich and silky mahogany gravy.
+
+----
+
+Original_author: Jillian Atkinson
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/BrtAL6nxZA3IhIrKchnqV5RDXX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210717-BROWN-STEW-CHICKEN-JILLIAN-ATKINSON-seriouseats-15-33d4615ce31e46a5a2bde22b733775d3.jpg

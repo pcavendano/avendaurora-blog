@@ -1,0 +1,17 @@
+Title: Blog
+
+----
+
+Description: Artículos sobre cocina mexicana, técnicas culinarias, ingredientes y más.
+
+----
+
+Seo-title: Blog | Avenda Aurora
+
+----
+
+Seo-description: Descubre artículos sobre cocina mexicana, técnicas culinarias, ingredientes tradicionales y consejos del chef.
+
+----
+
+Uuid: JETXuGp1SCIBH36z

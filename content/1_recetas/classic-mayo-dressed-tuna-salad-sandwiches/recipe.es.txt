@@ -1,0 +1,169 @@
+Title: Classic Mayo-Dressed Tuna Salad Sandwiches
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: The tuna salad on these sandwiches is packed with bits of celery, rapid-pickled red onion, parsley, and a small dose of fish sauce (or anchovy) for a deeper, more savory flavor.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , cut into 1/4-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: red wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: cans oil-packed tuna , drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: mayonnaise , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: stalks celery , cut into 1/4-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: flat-leaf parsley leaves and tender stems, minced
+  preparation: about 1/4 packed cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Asian fish sauce or very finely minced oil-packed anchovy fillets
+  preparation: about 2 small fillets 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: slices
+  ingredient: sandwich bread , very lightly toasted
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Romaine lettuce leaves , torn, for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a small bowl, combine onion and vinegar (vinegar should just cover onion; add more if it does not) and let stand 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a medium bowl, combine tuna and mayonnaise and mix very well with a spoon until tuna is reduced to very small shreds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain onion well, then add to tuna along with celery, parsley, and fish sauce or anchovy. Mix until well incorporated, then season with salt and pepper. Add more mayo, 1 tablespoon at a time, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spoon tuna salad onto 4 bread slices, top with lettuce leaves, then close sandwiches. Serve right away.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, fish-recipes, tuna-recipes
+
+----
+
+Seo_title: Classic Mayo-Dressed Tuna Salad Sandwiches | Avenda Aurora
+
+----
+
+Seo_description: The tuna salad on these sandwiches is packed with bits of celery, rapid-pickled red onion, parsley, and a small dose of fish sauce (or anchovy) for a deeper, mo
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/GZugYzqPDyxxus1i15oKSE_rlK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230822-SEA-classic-tuna-salad-sandwich-recipe-hero-02-Qi-Ai-2bfb755449e749c7aab432d0e3b0062b.jpg

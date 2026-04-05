@@ -1,0 +1,238 @@
+Title: Crispy Mexican Fried Chicken Wings
+
+----
+
+Category: antojitos
+
+----
+
+Description: These crispy, juicy fried chicken wings are tossed with a chile sauce right before serving for an unparalleled fiery bite. The recipe from recipe developer Octavio Peña is perfect for a game-day party or any other time you want excellent wings.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "16"
+  unit: 
+  ingredient: chiles de árbol, stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: puya or guajillo chiles , stems and seeds removed
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: dried habanero chiles, stems and seeds removed
+  preparation: optional, see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chicken bouillon powder such as Knorr brand
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: onion powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried Mexican oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: pounds
+  ingredient: chicken wings, cut at joints, wing tips discarded or reserved for another use
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: pickled serrano or jalapeño brine ; see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: buttermilk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: all purpose flour
+  preparation:  6.75 ounces ; 190 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: masa harina
+  preparation:  6 ounces ; 171 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: neutral oil such vegetable or canola for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Working in batches, wearing gloves, crumble árbol, puya, and habanero chiles with your fingertips into a spice grinder so chiles fit into grinder. Add chicken bouillon powder, garlic powder, onion powder, cumin seeds, coriander seeds, dried oregano, and sugar. Grind until chiles are finely ground. (Alternatively a mortar and pestle may be used to grind the mixture.) Set aside in a small heatproof bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a zip-top bag, combine chicken wings and pickled chile brine. Refrigerate for at least 4 hours and up to 8 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set a wire rack in a rimmed baking sheet; set aside. In a large bowl, whisk flour and masa harina to combine. In a medium bowl, add buttermilk. Remove wings from pickle brine, shake excess liquid back into the bag, transfer wings to buttermilk, and toss to coat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Working with 1 wing at a time, transfer to flour mixture, turning to thoroughly coat in flour and pressing to adhere, then shake off excess flour mixture and transfer dredged wings to prepared wire rack. Let wings rest on wire rack at room temperature for at least 15 or up to 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to fry, set a separate wire rack in a rimmed baking sheet and line with paper towels. Add oil to large Dutch oven or stock pot. Heat over medium-high heat until oil reaches 150℉ (65℃), then carefully transfer 3/4 cup of hot frying oil to spice mix blend in bowl. Whisk to combine; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Continue to heat oil until it reaches 350℉ (175℃). Fry 1/3 of the wings, adjusting temperature as needed to maintain oil around 350℉ (175℃), until chicken is crispy, deep golden brown, and registers 175℉ (80°C) on an instant-read thermometer, 6 to 9 minutes. Using a spider skimmer or slotted spoon, transfer to prepared rack. Repeat with the remaining 2 batches of wings, keeping cooked chicken warm in a 200℉ (95°C) oven while frying remaining wings.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add fried wings to a large bowl. Whisk chili oil to recombine and pour over the wings. Gently toss until wings are thoroughly coated. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Digital instant-read thermometer or candy/frying thermometer, large Dutch oven or stock pot, spice grinder or mortar and pestle, spider or large slotted spoon for removing wings from hot oil
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Dried habaneros are available at many Latin grocery markets. If unavailable, you may substitute with an equal number chiltepin chiles or just bump up the amount of chiles de árbol to a total of 20. Or prefer your wings less spicy, it’s OK to just omit them.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The unused pickled serranos or jalapeños can be reserved in an airtight container in the fridge to use for sandwiches or tacos.
+- The wings can be brined for up to 8 hours ahead of frying them.
+- The fried wings are best eaten immediately and do not store well, but leftovers can be safely stored for up to 3 days in a tightly sealed container in the refrigerator.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes
+
+----
+
+Seo_title: Crispy Mexican Fried Chicken Wings | Avenda Aurora
+
+----
+
+Seo_description: These crispy, juicy fried chicken wings are tossed with a chile sauce right before serving for an unparalleled fiery bite. The recipe from recipe developer Octa
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/yZkh1caZ2bEm0N5wkIXIL4MtV-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2025-SEA-MexicanChickenWings-LorenaMasso-Hero1-22-38a9f9c6368549e6a4872cb597184a63.jpg

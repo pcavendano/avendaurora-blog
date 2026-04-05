@@ -1,0 +1,266 @@
+Title: Lamb and Prune Tagine
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: Traditionally prepared for celebrations and gatherings, this lamb and prune tagine is a Moroccan classic that showcases tender savory lamb, succulent sweet prunes, and a blend of aromatic spices for a comforting meal.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: yellow onions , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt, plus more to taste; for table salt use half by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: pounds
+  ingredient: boneless lamb neck or lamb stew meat , trimmed of excess fat and cut into 2- to 3-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: bunch cilantro , stems and leave separated, stems tied into a bundle with kitchen twine and leaves reserved for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: homemade chicken stock or homemade vegetable stock or store-bought chicken broth or vegetable broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: soft pitted prunes
+  preparation:  10.5 ounces ; 300 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: homemade chicken stock or homemade vegetable stock or store-bought chicken broth or vegetable broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: honey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: ground cinnamon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Reserved cilantro leaves from above
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Loaf of crusty bread , couscous , or cooked rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Toasted sesame seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Lamb: In a large Dutch oven or heavy-bottomed pot, heat oil over medium-low until shimmering. Add onions, cover, and cook, stirring occasionally, until onions are soft and translucent, 10 to 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add garlic, turmeric, ginger, coriander, salt, and pepper and cook, stirring occasionally, until fragrant, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add lamb pieces and stir to combine with onions and spices, then add stock or broth and cilantro bunch. Increase heat to medium-high and bring to a boil, then cover pot, reduce heat to low, and simmer, adjusting heat as needed to maintain a gentle simmer and stirring every 30 minutes to prevent sauce from sticking to bottom of pot, until meat is tender and separates easily when pressed with a fork, 2 to 2 1/2 hours. Sauce may thicken slightly during cooking, but pan should not be dry; if necessary, add more stock or water, 1 tablespoon at a time, until there is at least half an inch of sauce in pan. Season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Caramelized Prunes: Once meat is cooked, in a medium saucepan, add prunes, vegetable stock, honey, olive oil, cinnamon, salt, and pepper and bring to a simmer over medium-low heat. Gently simmer until sauce thickens slightly into a dark syrup, about 7 minutes. Season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Serve: Discard cilantro bouquet from the lamb. Transfer lamb tagine to a serving bowl then arrange prunes with their syrup over lamb. Garnish with toasted sesame seeds and cilantro leaves. Serve with your choice of bread, couscous, or rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Kitchen twine, large Dutch oven or heavy-bottomed pot, medium saucepan
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In traditional Moroccan tagine preparation, browning the meat is not typically done. However, if desired, you can brown the meat in 2 tablespoons of olive oil at the beginning of the recipe.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The cooked lamb tagine and the prunes with syrup can be refrigerated separately in airtight containers for up to 5 days. Reheat on stovetop on medium heat, adding water if needed to prevent scorching. Add garnishes just before serving.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, braising-stewing-recipes, braised-stewed-lamb-recipes
+
+----
+
+Seo_title: Lamb and Prune Tagine | Avenda Aurora
+
+----
+
+Seo_description: Traditionally prepared for celebrations and gatherings, this lamb and prune tagine is a Moroccan classic that showcases tender savory lamb, succulent sweet prun
+
+----
+
+Original_author: Nargisse Benkabbou
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/EE3cPDVA0wyWEFJLCeZ0AfAiEJU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250129-SEA-LambandPruneTagine-LarisaNiedle-Beauty2-17-00dff2570ad549bd8cc3af00da951e39.jpg

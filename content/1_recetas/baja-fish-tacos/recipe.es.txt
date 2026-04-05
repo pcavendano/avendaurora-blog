@@ -1,0 +1,361 @@
+Title: Baja Fish Tacos
+
+----
+
+Category: salsas, mariscos
+
+----
+
+Description: With their crunchy fried fish complemented by sweet cabbage slaw and a spicy serrano salsa, Baja fish tacos are perfect for a hot day.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: ketchup
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Mexican crema
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cup
+  ingredient: shredded purple cabbage
+  preparation:  110 g ; from 1 small head of cabbage
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: carrot, peeled and grated
+  preparation:  113 g ; about 3/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: raisins
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: vegetable oil for frying, plus more if needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: firm white fish , , cut crosswise in into roughly 2-inch-wide fingers
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: store-bought pancake mix or homemade
+  preparation:  150 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2/3"
+  unit: cup
+  ingredient: all-purpose flour
+  preparation:  3 ounces ; 85 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried onion flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; if using table salt use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: plain seltzer
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: egg
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: yellow mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: -8 serrano chiles , stemmed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: small
+  ingredient: onion
+  preparation:  3 ounces ; 85 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral oil such as canola or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: t easpoon Diamond Crystal kosher salt; if using table salt use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Twelve 6-inch corn tortillas , warmed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Prepared mayonnaise dressing or chipotle mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Prepared serrano salsa
+  preparation: from recipe above
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pico de Gallo
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Avocado , cubed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the mayonnaise dressing : In a small bowl, whisk mayonnaise and ketchup to combine; set aside until ready to serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the coleslaw : In a large bowl, whisk the mayonnaise, Mexican crema, and black pepper to combine. Add the cabbage, carrot, and raisins, and toss to combine. Season to taste with salt; set aside or refrigerate until ready to serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add oil to a large Dutch oven or wok (It should measure at least 2-inches deep) and heat over medium-high heat until it reaches 375°F (190°C). Line a wire rack with paper towels and set in a rimmed baking sheet; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the fish: While heating the oil, in a large non-reactive bowl, toss fish sticks with kosher salt and vinegar and let sit at room temperature until the surface of the translucent fish begins to whiten, 5 to 10 minutes, then immediately drain the fish and place into the now-empty large bowl. (Do not let fish sit in vinegar for longer than 10 minutes.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While the fish is marinating, in a medium bowl, combine the pancake mix, flour, onion flakes, garlic powder, ground pepper, and salt. Add the egg, soda water, and yellow mustard and whisk until batter is smooth. Pour the batter over the fish sticks and gently toss to coat the fish sticks evenly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the serrano salsa: Once the oil reaches 375℉, carefully add the serrano chiles, onion, and garlic and fry until the onion and garlic beging to soften and the chiles skin is crackly and browned, removing with a spider skimmer or slotted spoon as they finish cooking. This will take about 2 minutes for the garlic and onion, and 4 to 6 minutes for the chiles. Monitor and maintain oil temperature at 375℉.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a food processor, blend chiles, garlic, and onion. While blending, slowly add 2 tablespoons of oil and 1 teaspoon kosher salt, until the mixture forms a creamy emulsion. Season with additional salt to taste; set aside until ready to serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For frying the fish: Once oil returns to 375℉, working with 6 to 8 pieces fish per batch, remove fish from batter (making sure each piece is well coated), allowing excess to drip back into the bowl, and using tongs or your hands, add one at a time to the hot oil, briefly dragging fish along the surface of the oil to prevent sticking. Adjust burner, as needed, to maintain oil oil temperature between 350 and 375℉. Fry fish, stirring as little as possible to not dislodge the delicate batter, if needed, gently flip and separate fish sticks for even frying, until golden brown and bubbling begins to subside, 3 to 7 minutes. If they are frying unevenly, you can spoon hot oil over the frying fish. Using a spider skimmer or large slotted spoon, carefully remove fish from oil and transfer to the prepared wire rack. Return oil to 375℉ and repeat frying the fish in batches of 6 to 8 fish sticks at a time.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To assemble: To assemble 1 taco, spread a warmed tortilla with prepared mayonnaise dressing or chipotle mayo, add fried fish, and serve with an array of toppings options: the prepared coleslaw, prepared serrano salsa, pico de gallo, lime, and avocado.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Substitute 1 ½ pounds peeled and deveined large shrimp (21-25 or 26-30 count) for the fish. Omit the vinegar brine step and instead toss the shrimp with 1/2 teaspoon kosher salt , 1/3 teaspoon freshly ground black pepper, and 1/2 teaspoon garlic powder before transferring to the batter in step 5.
+- Blender or food processor, large Dutch oven or wok, Large colander or wire rack, large slotted spoon or spider skimmer
+- Any firm, mild white fish will work well in this recipe, but swordfish is traditional for this recipe. Tilapia is also a great option and is commonly used in Baja.
+- For a less spicy salsa, halve the serrano chiles and remove their seeds and ribs before frying. I recommend wearing plastic gloves when handling the chiles and thoroughly washing your hands after handling.
+- To warm the tortillas, wrap them in a clean kitchen towel and microwave until warm and pliable, 15 to 30 seconds. Alternatively, they can be warmed in a griddle, comal, or cast-iron pan set over medium-high heat. Or using tongs, hold 1 tortilla at a time over the flame of a gas stove, turning constantly until softened and lightly charred. Once warmed, wrap the tortillas in a clean kitchen towel until ready to serve.
+- The coleslaw can be made ahead and refrigerated in an airtight container for up to 3 days.
+- The serrano salsa can be stored in an airtight container and refrigerated for up to 1 week.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+----
+
+Seo_title: Baja Fish Tacos | Avenda Aurora
+
+----
+
+Seo_description: With their crunchy fried fish complemented by sweet cabbage slaw and a spicy serrano salsa, Baja fish tacos are perfect for a hot day.
+
+----
+
+Original_author: Rose Egelhoff
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/CW-G1gz5SBWfiIT2HzLmcyTe_4Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240720-Baja-Fish-Tacos-Qi-Ai-hero-01-tray-SEA-52ac6ca81d9241df93ca4712614fe14b.jpg

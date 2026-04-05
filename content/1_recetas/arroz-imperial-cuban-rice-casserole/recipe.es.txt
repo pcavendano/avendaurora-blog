@@ -1,0 +1,271 @@
+Title: Arroz Imperial (Cuban Rice Casserole)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Arroz Imperial is a Cuban rice and chicken casserole layered with mayo, cheese, and pimientos. It&#39;s a festive, comforting dish that&#39;s perfect for potlucks and parties.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2 1/2"
+  unit: pounds
+  ingredient: boneless skinless chicken breasts , each breast cut into 3 pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: yellow or white onion , halved and peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: garlic cloves , smashed and peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: packet sazón with coriander and annatto, such as Sazón Goya with Coriander and Annatto
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: long-grain white rice , rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: reserved chicken broth from cooking chicken above
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: Spanish-style tomato sauce
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: packet sazón with coriander and annatto, such as Sazón Goya with Coriander and Annatto
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: cups
+  ingredient: shredded cheddar cheese
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: plus 2 tablespoons mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sliced canned pimientos for garnish
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Chicken: In a large pot, place chicken, onion, garlic, 1 1/2 teaspoons salt, sazón with coriander and annatto, garlic powder, cumin, oregano, pepper, bay leaf, and 2 quarts cold water. (Chicken should be submerged 2 inches; add more water if necessary.) Bring to a boil over medium heat, then reduce heat to medium-low and simmer until chicken is cooked through and an instant-read thermometer inserted into thickest part of breast registers 160°F, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove from heat. Strain broth and set aside 4 cups broth (store the rest for another use). Using tongs, transfer chicken, onion, and garlic to a large food processor, and add remaining 1/2 teaspoon salt. Let sit for 10 minutes to let chicken cool slightly. Working in batches if needed, pulse until chicken is shredded very fine and has a texture closer to a loose paste, about 1 minute. Wipe pot clean with kitchen towels or paper towels.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Rice: . Add 2 tablespoons olive oil to now-empty pot and heat over medium-low heat until shimmering. Add salt, sazón, garlic powder, and turmeric, and cook until aromatic, about 30 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in rice and cook until rice is coated with seasoning, about 30 seconds. Add reserved 4 cups broth and tomato sauce, and bring to a boil over high heat, scraping bottom of pan to loosen any brown bits. Reduce heat to low, cover, and simmer until rice is fully cooked and sticky but liquid it absorbed, about 16 minutes. Remove from heat. Let rice sit for 10 minutes covered, then fluff rice with fork. Stir in shredded chicken and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large pot, food processor, 9x13 baking dish
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Sazón is a popular seasoning blend in Latin American cooking, typically made with coriander, garlic, cumin, and annatto (achiote), which imparts a warm, golden color and distinctive flavor to dishes. Goya is the most widely available brand in the US, sold in small packets at most supermarkets and Latin grocers, but other brands and homemade blends work just as well.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spanish-style tomato sauce is a savory, seasoned sauce made with onions, garlic, bell peppers, and olive oil, and often flavored with smoked paprika. It&#39;s widely available at most Latin grocers, but if you can’t find it, regular tomato sauce makes a fine substitute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While I prefer the texture of the chicken when shredded in the food processor, you can shred it with two forks, if preferred.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The chicken and broth can be cooked in advance and refrigerated separately in airtight containers for up to 4 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The unbaked, assembled casserole can be covered and refrigerated for up to 4 days. Follow baking directions above, adding 10 to 15 minutes to the cooking time.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, rice-grains-main-recipes
+
+----
+
+Seo_title: Arroz Imperial (Cuban Rice Casserole) | Avenda Aurora
+
+----
+
+Seo_description: Arroz Imperial is a Cuban rice and chicken casserole layered with mayo, cheese, and pimientos. It&#39;s a festive, comforting dish that&#39;s perfect for potluc
+
+----
+
+Original_author: Patricia Ysabella Suarez
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/dQHUALAEOf77TBX7rVZtbRidpWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250912-SEA-ArrozImperial-LorenaMasso-HERO-8824b1a88f20417f9956356cd3df22c0.jpg

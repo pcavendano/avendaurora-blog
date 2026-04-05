@@ -1,0 +1,202 @@
+Title: Tostones
+
+----
+
+Category: antojitos, sopas-caldos
+
+----
+
+Description: Crispy, savory, and salty tostones are perfect for any get-together. These twice-fried green plantain slices are great solo, dipped into your favorite sauce, or dunked into a hearty stew.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: ketchup
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cumin , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: smoked paprika , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: garlic powder , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: green plantains
+  preparation:  30 ounces ; 850 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: neutral cooking oil such as vegetable or canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: garlic powder , or more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Mayoketchup Dipping Sauce: In a small bowl, combine the mayonnaise and ketchup. Season with a pinch of kosher salt, black pepper, ground cumin, smoked paprika, and garlic powder. Taste and adjust the seasoning to your liking; set aside or refrigerate until ready to serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Tostones: In a deep 10-inch cast iron or stainless steel skillet, add oil and heat oil over medium-high heat to 325ºF (160℃).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While the oil is preheating, peel the plantains by cutting off the ends and carefully cutting a slit down the sides of each plantain, cutting through the skin but not into the flesh. Remove the skin and then cut the fruit crosswise into 1-inch long chunks.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When oil reaches 325ºF (160℃), add half of the plantain chunks and fry until golden and fork tender, adjusting heat as needed to maintain oil temperature around 300 to 325ºF (150 to 160℃), 7 to 8 minutes, flipping over as needed to ensure even color. Use a slotted spoon to carefully remove the plantain chunks from the oil and transfer them to a cutting board.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a tostonera (plantain press) or tortilla press, smash each plantain chunk until flattened and about 1/4 -inch thick (see notes). Repeat frying and smashing the remaining plantain chunks, setting the flattened ones aside to be fried again.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat oil to 350ºF (175℃), add half of the flattened plantains back into the oil and fry for a second time until golden all over and starting to float, 2 to 3 minutes. Use a slotted spoon or spider skimmer to remove the tostones and transfer to a large mixing bowl. Return oil to 375ºF (175℃) and repeat frying process with remaining flattened plantains.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once all are fried, immediately season with a large pinch of kosher salt and garlic powder, and toss to combine. Transfer tostones to a wire rack set in a rimmed baking sheet to drain any excess oil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve tostones with prepared sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Tostonera (plantain press) or tortilla press or heavy-bottomed glass or mug, slotted spoon or spider skimmer, wire rack and rimmed baking sheet, instant-read or deep-fry thermometer
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- This recipe is very easy to scale up or down.
+- If a plantain press or tortilla press are unavailable, you can use the flat bottom of a heavy-bottomed glass or mug to flatten the tostones.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes
+
+----
+
+Seo_title: Tostones | Avenda Aurora
+
+----
+
+Seo_description: Crispy, savory, and salty tostones are perfect for any get-together. These twice-fried green plantain slices are great solo, dipped into your favorite sauce, or
+
+----
+
+Original_author: Reina Gascón-López
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/2uBeyI_xErjxjdIqwpz44kjYgEg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250129-Tostones-DeliStudios-01-cbfde2be43964f0a941bd29a6f08adb6.jpg

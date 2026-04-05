@@ -1,0 +1,219 @@
+Title: Taiwanese Popcorn Chicken With Furu (Fermented Bean Curd)
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: Fermented bean curd adds a creamy pop of flavor to deep-fried chicken.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: boneless skin-on chicken thighs , cut into 1-inch chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fermented bean curd , any flavor
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: tablespoon
+  ingredient: Taiwanese or Japanese soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: Shaoxing wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: five-spice powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: thick sweet potato starch
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: neutral oil , such as soybean or canola
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: chile powder , such as cayenne
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium bowl, combine chicken, fermented bean curd, soy sauce, Shaoxing wine, garlic, sugar, white pepper, and five-spice powder, stirring well to massage the marinade into the chicken. Cover and refrigerate for at least 2 hours and up to overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small bowl, thoroughly stir together all-purpose flour and baking powder, then add it to the marinated chicken, stirring well until chicken is evenly coated.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fill a large, shallow bowl with sweet potato starch. Working in batches, add chicken to sweet potato starch and, using chopsticks, toss until fully coated. Transfer chicken, shaking off any excess starch, to a clean plate and repeat with remaining chicken.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a wok or Dutch oven, heat oil over high heat until it reaches 375°F (190°C). Using a spider-skimmer, carefully lower half of the chicken into the oil. The oil temperature should drop when you add the chicken; adjust the heat to maintain a frying temperature of 350°F (175°C). Deep-fry, stirring often, until the chicken is a light golden brown, about 3 minutes. Transfer the chicken to paper towels to drain and repeat with remaining chicken.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return oil to 375°F (190°C), then add half of the fried chicken back to oil and fry a second time, maintaining a temperature of 350°F (175°C), until chicken turns golden brown, about 2 minutes. Transfer chicken to fresh paper towels to drain and repeat with remaining chicken.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Seasoning: Transfer fried chicken while still hot to a large bowl and add the chile powder, white pepper, and salt. Cover the bowl with a large plate or lightweight cutting board and shake it thoroughly so the chicken is coated completely with the seasoning. Season with more salt, if desired. Serve right away.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Thick sweet potato starch is coarser than the finely ground kind, helping to create the right kind of crunchy coating on this chicken; look for brands that specify between thick and thin sweet potato starch on the label to make sure you have the right type. If you can only find thin, just lightly spritz the starch with some water so that it clumps up and creates small beads.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, chicken-recipes
+
+----
+
+Seo_title: Taiwanese Popcorn Chicken With Furu (Fermented Bean Curd) | Avenda Aurora
+
+----
+
+Seo_description: Fermented bean curd adds a creamy pop of flavor to deep-fried chicken.
+
+----
+
+Original_author: Clarissa Wei
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/JEeAeyldzy7NJCKjiayMPfObajQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2022-FuruPopcornChicken-LorenaMasso-13-d88b0eba3249403c87a08ddad297f281.JPG

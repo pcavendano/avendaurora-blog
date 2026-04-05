@@ -1,0 +1,231 @@
+Title: Morisqueta (Rice Smothered With Pork Ribs and Salsa)
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: Tender ribs, a thick smoky salsa, fluffy rice, and simple beans all layered together on one plate comprise the hearty regional Mexican dish of morisqueta.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: pork sparerib chunks or use one 2 1/2 pound-rack pork spareribs, membrane removed, halved crosswise and cut into 1-bone sections
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 /2"
+  unit: large
+  ingredient: white onion, peeled
+  preparation: 5 ounces; 142g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: plum tomatoes , halved
+  preparation: 450g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: jalapeño chiles, s temmed and halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 25g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: chicken bouillon powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosh er salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe cooked white rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe Perfect Frijoles Refritos
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cr em a
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cotija ch eese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thinly sliced scallions , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Ribs: Generously season pork with kosher salt and pepper. Set meat on a large plate or on a wire rack set in a rimmed baking sheet and refrigerate, uncovered, for at least 4 hours or up to 12 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large stockpot or Dutch oven, bring two quarts of water to a boil over high heat. Place a parchment-lined steamer basket above the water. Spread the ribs in an even layer in the steamer. Steam, covered, checking and maintaining water at a simmer and topping off with more water as needed, about every 20 minutes, until the ribs are tender when pierced with a paring knife or fork, but not spoon tender, 60 to 90 minutes. Set the meat aside to cool.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once cool enough to handle, using a fork, wiggle and push the bones out of the ribs. Use your fingers to feel for any remaining small bits of bone in the pork and use kitchen shears to trim them out if needed. (If preferred, you can leave the bones in the ribs.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Salsa: Meanwhile, adjust the oven rack to upper position, 6 to 8 inches away from the broiler, and preheat broiler. Line a rimmed baking sheet with aluminum foil or parchment paper and spread the onion, tomatoes, jalapeños, and garlic in an even layer. Broil until deeply charred, about 7 minutes, then flip all the ingredients and broil until charred on second side, 3 minutes longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a blender, blend the charred onion, tomatoes, jalapeños, garlic, chicken bouillon powder, black peppercorns, and cumin seeds on high speed until smooth, stopping to scrape down sides of blender jar as needed, about 1 minute. Season to taste with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Serving: In a 12-inch sauté pan or stainless-steel or nonstick skillet, add oil and deboned pork and cook over medium-low heat, stirring occasionally until browned and crisped all over, 6 to 8 minutes. Add the prepared sauce and stir to completely coat the meat and cook until sauce is warmed through and clings to the ribs, 3 to 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To assemble, add rice to the bottom of individual serving bowls. Top it with the prepared beans, the ribs with their sauce, crema, cotija, and scallions. Drizzle a couple additional spoonfuls of the rib sauce onto each plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large stockpot or Dutch oven, steamer basket, parchment paper, 12-inch sauté pan or stainless-steel skillet
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can find cut ribs labeled trocitos de costilla at many Latin grocers, or labeled as spareribs for stew at many Asian grocers. But if you can’t find the ribs precut, you can purchase one roughly 2 1/2-pound rack of spareribs and have your butcher cut them for you, or cut them yourself at home (though you’ll need a sharp cleaver for that). Or, if you don’t feel like dealing with bones at all, you can use boneless country-style ribs.&nbsp;
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The ribs can be steamed up to 3 days in advance and stored in an airtight container in the refrigerator.
+- The salsa can be blended and refrigerated in an airtight container for up to 2 days before continuing with step 6.
+- Leftovers can be stored in an airtight container for up to 3 days. Reheat the ribs with the sauce in a skillet until warmed through before serving.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, pork-recipes
+
+----
+
+Seo_title: Morisqueta (Rice Smothered With Pork Ribs and Salsa) | Avenda Aurora
+
+----
+
+Seo_description: Tender ribs, a thick smoky salsa, fluffy rice, and simple beans all layered together on one plate comprise the hearty regional Mexican dish of morisqueta.
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/eaxxug2rrimLlogPyM9YE4z5C90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240924-SEA-Morisqueta-Lorena-Masso-Hero2-16-d3c3269520d74e4080e20549ff231ebe.jpg

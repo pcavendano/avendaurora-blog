@@ -1,0 +1,180 @@
+Title: Peruvian Tiradito With Aji Amarillo and Lime
+
+----
+
+Category: mariscos
+
+----
+
+Description: One of the products of Nikkei cuisine, the cooking that resulted when Japanese immigrants moved to Peru in the 19th century, tiradito combines elements of sashimi with ceviche, for absolutely brilliant results.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: frozen ají amarillo peppers or 1/2 cup ají amarillo paste
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: sashimi-grade fish, such as salmon , yellowtail , fluke, or corvina
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: fresh lime juice from about 10 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: knob peeled fresh ginger
+  preparation: about 1/3 ounce ; 10 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: minced fresh cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Choclo and/or cooked and peeled sweet potato rounds , for garnish
+  preparation: optional; see note
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: If using frozen ají amarillo chiles: In a medium pot, cover chiles with water (they will float) and bring to a boil. Boil for 10 minutes, stirring pot from time to time to rotate peppers. Remove from heat and drain. Allow to cool.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, using a sharp slicing knife, slice fish into thin slabs. Arrange slices on plates and transfer to refrigerator.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a blender, combine lime juice with garlic and ginger and blend on high speed until garlic and ginger are fully processed. Transfer to a medium mixing bowl. Rinse blender jar.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove and discard seeds and stems from chile peppers. Strip off as much of the chile skin as you can and discard it. Transfer chile flesh to blender jar and blend at high speed, adding only enough water to get things moving, until a smooth purée forms.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir 1/2 cup (120ml) ají amarillo paste into the lime juice until thoroughly combined. (You can add less or more chile paste to your taste, but keep in mind that in addition to heat and flavor, it also gives the sauce viscosity. If you add too little, the sauce will be very thin.) Season with salt. Reserve remaining ají amarillo paste for another use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in cilantro. Remove plates from refrigerator and spoon sauce on top of fish, lightly coating it (reserve any remaining sauce for another use). If desired, garnish plates with choclo and/or sweet potato. Serve right away.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can find frozen ají amarillo peppers in the freezer section of a well-stocked Latin grocer; a jar of ají amarillo paste is also found at Latin grocers and online as well. Making the paste from frozen peppers yields a more flavorful result, highlighting more of ají amarillo&#39;s floral and fruity notes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Choclo is a variety of Peruvian corn with large, white kernels; you can find it in the freezer section of grocers that sell Peruvian ingredients; boil it for several minutes to tenderize the kernels before serving.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The ají amarillo paste can be made up to three days in advance and kept refrigerated in an airtight container.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: Peruvian Tiradito With Aji Amarillo and Lime | Avenda Aurora
+
+----
+
+Seo_description: One of the products of Nikkei cuisine, the cooking that resulted when Japanese immigrants moved to Peru in the 19th century, tiradito combines elements of sashi
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/DckgHNBgQQydIOpgGfDZDeiX9YE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__03__20190314-tiradito-vicky-wasik-11-5a87199e04f44613aca20d0eb04656c1.jpg

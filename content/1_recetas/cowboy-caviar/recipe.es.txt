@@ -1,0 +1,306 @@
+Title: Cowboy Caviar
+
+----
+
+Category: sopas-caldos, salsas
+
+----
+
+Description: This cowboy caviar recipe combines black-eyed peas, sweet corn, fresh vegetables, and a smoky-tangy vinaigrette for a vibrant take on the classic dip-meets-salad.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/4"
+  unit: cups
+  ingredient: dried black-eyed peas , picked through
+  preparation: see notes if you prefer to use canned
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , cut into 6 wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: homemade vegetable stock or store-bought vegetable broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: crushed red pepper flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: ears yellow corn , husked
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: red wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: grated lime zest plus 1/4 cup juice , plus lime wedges for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ancho chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: honey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: cherry tomatoes , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: red bell peppers , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: red onion , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chopped fresh cilantro leaves and tender stems, plus more leaves for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: diced jarred roasted red peppers
+  preparation:  2 1/4 ounces ; 64 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: jalapeño pepper, seeded if desired, finely chopped
+  preparation:  1 ounce ; 28 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Tortilla chips , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large pot, heat oil over medium heat until shimmering. Add onions, cook, stirring occasionally, until starting to brown, about 4 minutes. Add garlic, and cook, stirring constantly, until fragrant and starting to brown, about 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add stock, remaining 1/2 teaspoon kosher salt, crushed red pepper, bay leaf, and drained peas to pot. Bring mixture to a boil over medium-high heat. Reduce heat to low, and simmer, covered, stirring occasionally, until peas are tender, 30 to 40 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain peas, and spread evenly over a baking sheet (Don&#39;t wipe out pot). Discard or compost onion, garlic, and bay leaf. Let cool to room temperature, about 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Corn: In now-empty pot, cover corn with cold water. Set over high heat and bring to 180°F (82°C). Immediately cover and turn off the heat. Let stand for at least 10 and up to 25 minutes. Drain, rinse with cold water, and let sit until cool enough to handle, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Dressing: As corn cools, in a medium bowl, whisk together oil, vinegar, lime zest and juice, salt, cumin, chili powder, garlic powder, and honey until well combined; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Invert a small bowl in a larger bowl. Working with one corn cob at a time, place one end of cob on inverted, smaller bowl. Then, using a sharp chef's knife, cut downward, as close to the base of the kernels as possible, while taking care not to angle the blade into the cob itself. Rotate the ear of corn, and repeat the cut until all the kernels have been removed. Discard or compost cobs or reserve for stock . Repeat with remaining ear of corn.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Assemble Salad: Add cherry tomatoes, bell peppers, onion, cilantro, roasted peppers, and jalapeño to large bowl with corn. Add black-eyed peas and dressing, toss to combine. Let stand, uncovered, at room temperature, until flavors meld, about 15 minutes. Garnish with cilantro leaves. Serve with lime wedges and tortilla chips.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large pot; colander; instant-read thermometer
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Canned black-eyed peas can be used in place of dried. Substitute 2 (15-ounce) cans, drained and rinsed; skip the soaking step, reduce the salt to 1/4 teaspoon, and simmer the peas after adding them to the aromatics for about 10 minutes, until the flavors meld. Season to taste at the end.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Cowboy caviar can be refrigerated in an airtight container for up to 4 days.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, bean-recipes, black-eyed-pea-recipes
+
+----
+
+Seo_title: Cowboy Caviar | Avenda Aurora
+
+----
+
+Seo_description: This cowboy caviar recipe combines black-eyed peas, sweet corn, fresh vegetables, and a smoky-tangy vinaigrette for a vibrant take on the classic dip-meets-sala
+
+----
+
+Original_author: Laila Ibrahim
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/LBwbzFyJ-wNwV1_flcwlisoMZS0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250813-SEA-CowboyCaviar-JenCausey-05-c68900f8026c4f3880e343b682a5e3e0.jpg

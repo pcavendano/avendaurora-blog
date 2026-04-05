@@ -1,0 +1,174 @@
+Title: Chinese Steamed Fish With Black Beans and Garlic
+
+----
+
+Category: mariscos
+
+----
+
+Description: Food served during the Chinese Lunar New Year is full of significance, and one of the most important dishes is a whole fish. It symbolizes plentiful prosperity for this year and the next. It&#39;s also one of the most simple dishes to make. Here, it&#39;s steamed, then topped with fermented black beans, garlic, chili flakes, cilantro and ginger for plenty of fresh, deep flavor.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Chinese fermented black beans , rinsed and patted dry
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: head garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole white-fleshed fish, such as branzino, trout, red snapper, or sea bass , scaled and gutted
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and ground white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "13"
+  unit: slices
+  ingredient: of fresh peeled ginger , 3 left whole and 10 julienned , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: scallions , 2 halved and 2 cut into julienne , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: canola, vegetable, or peanut oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch of cilantro , leaves and tender stems only, roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: chile flakes , plus more to taste
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine black beans and garlic cloves on a cutting board and roughly chop them together.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Rinse fish under cold running water and pat dry inside and out with paper towels. Sprinkle salt and white pepper all over fish, including inside cavity. Place 3 whole slices of ginger inside cavity.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set halved scallions on a heatproof plate large enough to hold the fish, while small enough to fit inside steamer. Set fish directly on top of scallions so that the scallions mostly keep fish from making direct contact with the plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set up a steamer and when it is ready, steam fish until cooked through, about 10 minutes. Carefully remove fish and plate from the steamer and pour off any accumulated juices into a bowl. Stir soy sauce into accumulated juices. Discard ginger slices from cavity of fish and scallions from underneath. Transfer fish to a serving platter.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat a wok or saucepan over medium-high heat until a droplet of water evaporates rapidly when dropped onto the surface. Add oil and heat, swirling to coat wok, until shimmering. Add chopped garlic and fermented black bean mixture and cook, stirring until garlic is softened but not browned, about 1 minute. Add chile flakes, if using (add more if you want it spicier), remaining julienned scallions and ginger, cilantro, and the reserved accumulated cooking juices. Mix quickly until well combined, then spoon everything on top of the fish. Serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: Chinese Steamed Fish With Black Beans and Garlic | Avenda Aurora
+
+----
+
+Seo_description: Food served during the Chinese Lunar New Year is full of significance, and one of the most important dishes is a whole fish. It symbolizes plentiful prosperity 
+
+----
+
+Original_author: Shao Z.
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/anSyWirxWjeZtiLzb39qqO6LvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__02__20150213-steamed-fish-fermented-black-beans-garlic-shao-zhong-7-cdcd2bd69fb24195a0d935f2293caab6.jpg

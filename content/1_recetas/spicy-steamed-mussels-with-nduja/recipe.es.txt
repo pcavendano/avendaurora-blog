@@ -1,0 +1,194 @@
+Title: Spicy Steamed Mussels With 'Nduja
+
+----
+
+Category: mariscos, platos-fuertes
+
+----
+
+Description: Spicy, funky Calabrian sausage is the perfect companion to briny, sweet, steamed mussels. And they come together in 20 minutes flat.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: shallots , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: garlic cloves , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: &#39;nduja
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: dry white wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: mussels , scrubbed and debearded
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped fresh flat-leaf parsley leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: lemon juice and 1 teaspoon finely grated zest from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: loaf rustic sourdough bread , thickly sliced, drizzled with olive oil, and broiled until heavily toasted
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large saucepan, heat oil over medium heat until shimmering. Add shallots and garlic, season lightly with salt, and cook, stirring frequently, until softened but not brown, 5 to 7 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add &#39;nduja and, using a wooden spoon, break it into pieces and stir vigorously to combine with shallots and garlic. Continue to cook, stirring frequently, until fat from &#39;nduja separates and shallots and garlic are stained red and fully coated with &#39;nduja, 3 to 5 minutes longer. Add wine, increase heat to high and bring to a boil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add mussels, stir, cover, and cook, shaking pan constantly and peeking every 30 seconds to stir. Cook just until all the mussels are open, 2 to 4 minutes. Remove from heat, and using tongs, quickly transfer mussels to a warmed heatproof serving bowl. Cover mussels with saucepan lid to keep warm. Add parsley, lemon juice, and zest to saucepan and stir to combine. Taste the liquid, and adjust seasoning with salt if needed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Serving: Remove lid from the serving bowl, and pour contents of saucepan over mussels. Serve immediately, passing toasted bread at the table along with a large empty bowl for collecting spent mussel shells.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 3-quart stainless steel saucier with lid
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 'Nduja is a spicy spreadable pork sausage that originates from the southern Italian region of Calabria. In the US, it can be purchased at specialty shops that carry salumi/charcuterie, Italian markets, or online from producers like Tempesta Artisan Salumi . Look for 'nduja made with just 4 ingredients: pork, Calabrian chilies, salt, and lactic acid.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Examine mussels before using. Discard cracked mussels or open mussels that don&#39;t close when tapped with another mussel. Farm-raised mussels are generally quite clean when sold, but they can still have grits and beards that need to be removed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove grit by scrubbing mussels well under cold running water, and remove beards (that look like wisps of hair coming out from between their shells) by grabbing them and pulling toward the hinge-end of the mussels; discard the beards once removed. For more information, view our detailed guide to cleaning and debearding mussels .
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Steamed mussels are best enjoyed immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: Spicy Steamed Mussels With 'Nduja | Avenda Aurora
+
+----
+
+Seo_description: Spicy, funky Calabrian sausage is the perfect companion to briny, sweet, steamed mussels. And they come together in 20 minutes flat.
+
+----
+
+Original_author: Sasha Marx
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/K242bMB_sAtpZ0jjsS-S3LnCpBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__02__20200114-nduja-mussels-13-d88b2d85680340a6a95dfdb7c3656ef0.jpg

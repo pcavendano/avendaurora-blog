@@ -1,0 +1,224 @@
+Title: Spiced Okra With Tomatoes
+
+----
+
+Category: salsas
+
+----
+
+Description: Frozen okra cooked in a spicy, tangy sauce until it&#39;s perfect for eating with flatbreads or dolloped on rice.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: whole cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: whole coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: pods green cardamom
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole dried habanero
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral cooking oil , such as canola
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece ginger , smashed and minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: tomato sauce , homemade or store-bought
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bag frozen okra pods
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cilantro leaves and tender stems , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Spice Mixture : Combine cumin, coriander, cardamom (if using), and dried habanero (if using) in a small saucepan and set over medium heat. Toast spices until fragrant, about 2 minutes. When cool enough to handle, remove cardamom pods, then place remaining spices in spice grinder or mortar. Using fingers, crack open cardamom pods and remove seeds contained within; discard hull. Add cardamom seeds to other spices. Using spice grinder or mortar and pestle, grind spices to fine powder. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Okra : Heat canola oil in Dutch oven or 3-quart saucepan over medium heat until shimmering. Add onions and salt and cook, stirring occasionally with a wooden spoon, until onions are golden and just starting to brown, about 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in garlic and ginger and cook until fragrant, about 30 seconds. Stir in tomato paste, stir and cook until paste has colored the contents of the pot a reddish-brown, about 1 minute. Mound onions, ginger, and garlic in center of pot and add spice mixture directly on top (this is to guard against scorching the spices). Stir together, then cook until spices are bloomed and mixture is very fragrant, 30 seconds to 1 minute. Add water and stir, scraping bottom of pot with wooden spoon to dislodge any stuck-on bits. Add tomato sauce and okra and stir to break up frozen okra. (Okra pieces should be just submerged in the liquid; if not, add more water to cover them). Bring contents of pot to a boil, reduce heat to low, and simmer, stirring occasionally, until okra is tender, most of excess liquid has cooked off, and okra is thickly coated in sauce, 10-15 minutes. Top with cilantro and serve immediately as part of a larger meal with rice or paratha , passing lime wedges alongside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Dutch oven or 3-quart saucepan
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you prefer to use a less spicy dried chile pepper, you can substitute one dried chile arbol or dried Kashmiri red chile. You can also omit the chile pepper entirely.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: My local stores all carry Montana Frozen Baby Okra, which I like a lot because the okra come as diminutive but whole pods. You can use whatever frozen okra is available to you, but keep in mind cut okra will lend the sauce okra&#39;s characteristic sliminess, which isn&#39;t a bad thing, necessarily. Whole pods will not.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the tomato sauce, if you don&#39;t have any on hand, you can also use tomato purée, like passatta , or you can blitz a can of whole peeled tomatoes using an immersion blender or blender.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In an airtight container in the refrigerator, this okra dish keeps for about one week.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-diet
+
+----
+
+Seo_title: Spiced Okra With Tomatoes | Avenda Aurora
+
+----
+
+Seo_description: Frozen okra cooked in a spicy, tangy sauce until it&#39;s perfect for eating with flatbreads or dolloped on rice.
+
+----
+
+Original_author: Sho Spaeth
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/UWdA3HjAaJfT2WSU5OkSJZ6LOWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__04__20200408-spiced-okra-sho-spaeth-2-57bf0dae6c2d4a44ada1075690389574.jpg

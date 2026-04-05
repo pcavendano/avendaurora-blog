@@ -1,0 +1,162 @@
+Title: Stir-Fried Garlic and Sriracha Shrimp
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: Head-on shrimp lend a more robust shrimp flavor to the finished dish—just rip off the shrimp heads, slurp out the richness from within, then plop the succulent shrimp bodies into your mouth. The glaze is a little bit sweet, plenty spicy, and will have you licking your fingers.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: juice from 1 whole lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sriracha sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 4 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: shallot , minced
+  preparation: about 2 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: large head-on shrimp, shelled and deveined
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: roughly chopped cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a small bowl, whisk together the lime juice, Sriracha, and sugar and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat the oil in a large wok over high heat until shimmering. Add the garlic and shallots and stir-fry until the garlic just begins to brown, 30 seconds to 1 minute. Add the shrimp to the wok and cook and toss just until the shrimp begins to turn pink on all sides, 1 to 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Swirl the Sriracha mixture into the wok and toss to combine. Season with salt and black pepper. Continue cooking until the shrimp are coated in the sauce and cooked through, 2 to 3 minutes longer. Transfer the shrimp to a platter, garnish with cilantro, and serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Carbon steel wok
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, shrimp-recipes
+
+----
+
+Seo_title: Stir-Fried Garlic and Sriracha Shrimp | Avenda Aurora
+
+----
+
+Seo_description: Head-on shrimp lend a more robust shrimp flavor to the finished dish—just rip off the shrimp heads, slurp out the richness from within, then plop the succulent 
+
+----
+
+Original_author: Marvin Gapultos
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/BPlqz9zTJYyYW64MwTs3Ouc49PU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__01__20130113-236847-bar-bites-stir-fried-garlic-and-sriracha-shrimp-bd052f88cee2493fb5f665a7733083cc.jpg

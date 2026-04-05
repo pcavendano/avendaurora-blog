@@ -1,0 +1,306 @@
+Title: Bánh Tráng Nướng (Grilled Vietnamese Rice Paper With Egg & Pork)
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: A popular street food among school kids in Vietnam, bánh tráng nướng features a lightly crispy rice paper cracker layered with any number of delicious toppings. This version is slicked with scallion oil and loaded with scrambled egg, crisped pork belly, sweet chile sauce, and more.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: neutral oil , such as peanut , vegetable , or canola
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7"
+  unit: ounces
+  ingredient: scallions , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: medium
+  ingredient: cloves garlic , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: bird&#39;s eye chiles , stemmed and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: peanut or other neutral vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: red onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: stalks lemongrass , bottom 4 to 5 inches only and outer leaves discarded , cut into 2-inch lengths
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7"
+  unit: medium
+  ingredient: cloves garlic , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 1 1/2-inch knob peeled fresh ginger , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bird’s eye chiles , stemmed and halved lengthwise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: pounds
+  ingredient: skinless pork belly , cut into 1/2-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: -inch rice paper wrappers , as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Scallion Oil , for topping
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: eggs , beaten
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lemongrass Pork Belly , for topping
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sweet Chile Sauce , for topping
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pork , shrimp , or fish floss , for topping
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vietnamese coriander or cilantro leaves and tender stems, finely chopped, for topping
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Scallion Oil: In a small saucepan, combine oil and scallions. Set over medium heat and cook until scallion begins to sizzle lightly, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reduce heat to low and continue to cook until scallion greens have dulled, 5 to 10 minutes longer. Remove from heat and let stand 15 minutes longer. Strain oil; discard scallions and reserve infused scallion oil for assembly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Sweet Chili Sauce: In a small saucepan, combine vinegar, sugar, garlic, chiles, and fish sauce and bring to a boil over medium heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reduce heat to low and let sauce simmer until chiles have dulled in color and cooked through, approximately 10 minutes. Remove from heat and let cool 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a blender or immersion blender, blend sauce until chiles and garlic are well processed (if using an immersion blender, transfer the sauce to a suitable, tall, narrow container first). Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Lemongrass Pork Belly: In a large skillet, heat oil over medium heat until shimmering. Add onion, lemongrass, garlic, ginger, and chiles and cook, stirring often, until softened and golden, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Increase heat to high. Add pork belly, season lightly with salt, and continue to cook, stirring occasionally, until pork begins to brown and crisp in spots, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reduce heat to medium, then stir in fish sauce and sugar and season with black pepper. Continue cooking, stirring occasionally, until pork belly is well browned, about 6 minutes. Remove from heat and let cool, then discard onion, lemongrass, garlic, ginger, and chiles (some of the onion may have melted down and be difficult to remove, but that&#39;s fine). Set pork belly aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Cook and Assemble: Set up your station: Set a metal wire rack directly over the gas burner of a stove (if cooking over the flame) or set a large nonstick skillet on burner. (If cooking directly over the burner, we recommend lining the stovetop around the burner with aluminum foil for easier cleanup in case of spills.) Arrange the toppings in squeeze bottles and/or small bowls with spoons.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Set a rice paper wrapper directly on the wire rack or in the skillet. Using a clean hand, generously wet the top side of the wrapper all over with water; hold it down securely, as it will want to curl up almost immediately. Press a second rice paper wrapper directly on top. Using a long-handled metal spoon, metal tongs, and/or a metal spatula, hold the rice paper wrappers down so they remain flush with the cooking surface and don&#39;t roll up (this can be tricky but with a little practice you&#39;ll get better at it).
+- Turn heat to medium high and cook, pressing down with the metal tools, rubbing in spots to help the rice paper wrappers fuse, and, if working directly over a gas burner, moving them around so they cook evenly all over, until rice paper wrappers have turned opaque and tiny bubbles have formed all over, about 30 seconds; lower or raise the heat as needed to cook them all over without burning.
+- Flip rice paper wrappers over and repeat on second side, lowering heat if needed to prevent burning. Turn off heat.
+- Drizzle about 2 teaspoons (10ml) scallion oil all over rice paper, then top with about 2 or 3 teaspoons beaten egg, making sure to brush it around for even coverage. Turn heat to medium and cook until egg is just beginning to set, about 30 seconds; if working directly over the burner, you may have to move the rice paper around to cook the egg in all spots.
+- Spoon an even layer of pork belly all over rice paper and cook just until pork is beginning to warm, about 15 seconds; adjust heat as needed to prevent scorching
+- Drizzle with chile sauce and top with pork floss and cilantro. Serve, using kitchen shears to cut the bánh tráng nướng into pieces.
+- Pork floss, as well as shrimp and fish floss, can be purchased at well-stocked Asian markets, as well as online.
+- The scallion oil, sweet chili sauce, and pork can be refrigerated for up to 5 days in separate airtight containers. Warm pork before using.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, vietnamese-recipes
+
+----
+
+Seo_title: Bánh Tráng Nướng (Grilled Vietnamese Rice Paper With Egg & Pork) | Avenda Aurora
+
+----
+
+Seo_description: A popular street food among school kids in Vietnam, bánh tráng nướng features a lightly crispy rice paper cracker layered with any number of delicious toppings.
+
+----
+
+Original_author: Jenny Dorsey
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/EnCkKvxCoyo2wwOqXSk6IHiU9PY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2021__01__20210113-banh-trang-nuong-jenny-dorsey-1-7fb7d0485aed43fa86d32ad3f7eae4fc.jpg

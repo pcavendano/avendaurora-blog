@@ -1,0 +1,153 @@
+Title: Spinach, Black Bean, and Chipotle Quesadillas
+
+----
+
+Category: salsas
+
+----
+
+Description: The keys to kickass quesadillas are mixing the filling right in with the cheese and using enough oil to get the tortillas to puff and crisp up golden brown.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: plus 2 teaspoons vegetable oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: chopped fresh spinach
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: drained canned black beans
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: chipotle chile packed in adobo sauce , minced
+  preparation: about 15 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: shredded Swiss cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: flour tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat 2 teaspoons (10ml) oil in a 10-inch cast iron or nonstick skillet over medium-high heat until shimmering. Add spinach, season with salt, and cook, stirring, until wilted, about 1 minute. Transfer to a bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add black beans, chipotle, and cheese to spinach and mix to combine. Spread half of mixture evenly over half of one tortilla, leaving a 1/2-inch border. Fold tortilla over and seal edges by pressing down firmly. Repeat with remaining filling and second tortilla.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat remaining 2 tablespoons (30ml) oil in same skillet over medium heat until shimmering. Carefully add both folded tortillas and cook, swirling and moving tortillas around, until golden brown and puffy on first side, about 2 minutes. Using a flexible metal spatula, flip quesadillas, season with salt, and continue cooking until golden brown and puffy on second side, about 2 minutes longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer quesadillas to a paper towel to drain. Cut into triangles and serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 10-inch cast iron skillet or nonstick skillet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, quick-dinner-recipes
+
+----
+
+Seo_title: Spinach, Black Bean, and Chipotle Quesadillas | Avenda Aurora
+
+----
+
+Seo_description: The keys to kickass quesadillas are mixing the filling right in with the cheese and using enough oil to get the tortillas to puff and crisp up golden brown.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/4OYe0RPy0MIQcGiBLrmNRvlebHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__01__20170131-quesadillas-three-variations-a-4-spinach-0ee15e2f1c0d4d4e9a22fef3bfe7d6e6.jpg

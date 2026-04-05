@@ -1,0 +1,150 @@
+Title: Shrimp Fried Rice with Nam Prik Pao and Crispy Lemongrass
+
+----
+
+Category: mariscos
+
+----
+
+Description: A quick Thai-style fried rice with shrimp flavored with Nam Prik Pao—Thai chili jam.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: stalks lemongrass , bottom 4 to 5 inches only, outer leaves discarded, tender core thinly sliced
+  preparation: about 90 g sliced lemongrass 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: pound
+  ingredient: medium shrimp, peeled and deveined
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: leftover cooked long-grain rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: store-bought or homemade nam prik pao
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fish sauce , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: English cucumber , peeled and sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In an 8-inch skillet or 1-quart saucepan, combine lemongrass slices and oil. Place over low heat and cook, stirring constantly, until lemongrass turns light brown, about 20 minutes. Pour lemongrass mixture through a fine-mesh strainer set over a medium bowl (lemongrass will continue cooking for a brief period after draining, so do not allow them to get too dark). Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 12-inch skillet or wok, heat 2 tablespoons of the reserved lemongrass oil over high heat until shimmering. Add shrimp and cook, stirring frequently, until shrimp starts to turn opaque, about 2 minutes. Add rice, nam prik pao, and fish sauce and stir until rice is thoroughly coated with nam prik pao. Season rice with additional fish sauce to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To serve, garnish with fried lemongrass and slices of cucumber and lime wedges alongside.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, rice-grains-main-recipes
+
+----
+
+Seo_title: Shrimp Fried Rice with Nam Prik Pao and Crispy Lemongrass | Avenda Aurora
+
+----
+
+Seo_description: A quick Thai-style fried rice with shrimp flavored with Nam Prik Pao—Thai chili jam.
+
+----
+
+Original_author: Leela Punyaratabandhu
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ibw-FZDsA-9Ca9-xkOwSWlvQFP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2012__10__shrimp-fried-rice-9c6791cd085349c4ba4f4fc98cdf5cfe.jpg

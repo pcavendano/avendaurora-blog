@@ -1,0 +1,216 @@
+Title: Spicy Chicken Tacos With Corn, Feta, and Avocado
+
+----
+
+Category: salsas, sopas-caldos
+
+----
+
+Description: These 20-minute tacos make for a great family-style dinner or a quick weeknight meal. Finishing the chicken thighs in a flavorful braising liquid filled with spicy chipotles in adobo yields tender, moist meat that&#39;s topped with a raw corn-and-feta salad and creamy slices of avocado.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: boneless skinless chicken thighs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: red onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño , stemmed, seeded, and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: canned chipotles in adobo , plus 1 tablespoon of sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: chicken stock or low-sodium broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: ears corn , kernels sliced off
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: crumbled feta , preferably Bulgarian
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh juice from 2 whole limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: corn tortillas , warmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: picked cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: ripe avocados , pitted and sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges and thinly sliced scallions , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Season chicken with salt and pepper. Heat oil in a Dutch oven or 12-inch skillet over medium-high heat until lightly smoking. Add chicken and cook until browned on both sides, about 6 minutes total. Transfer chicken to a plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the same pot over medium heat, add onion and jalapeño and cook, stirring frequently, until softened, about 2 minutes. Stir in cumin and oregano until fragrant, about 30 seconds. Add chipotles and their sauce, stirring to combine, and cook for 1 minute. Add broth and nestle the chicken back in the pot. Adjust heat to maintain a gentle simmer and cook until the chicken is cooked through, about 5 minutes; season with salt and pepper. Using a slotted spoon, transfer chicken to a clean plate. Allow cooking liquid to reduce slightly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, shred chicken with 2 forks. Return chicken and any accumulated juices to the pot and cook until warmed through, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small bowl, combine corn with feta, seasoning with 1 tablespoon of lime juice and pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir remaining 1 tablespoon lime juice into chicken, then spoon onto the tortillas. Serve with the corn salsa, cilantro, avocado, lime wedges, and scallions.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+----
+
+Seo_title: Spicy Chicken Tacos With Corn, Feta, and Avocado | Avenda Aurora
+
+----
+
+Seo_description: These 20-minute tacos make for a great family-style dinner or a quick weeknight meal. Finishing the chicken thighs in a flavorful braising liquid filled with sp
+
+----
+
+Original_author: Yasmin Fahr
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/hmWeMPmk6zhUtBQYDufK_vHqzhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__07__20140707-chicken-tacos-yasmin-fahr-1-ea1f8db3c4024e77931bd5a3e0ba39de.jpg

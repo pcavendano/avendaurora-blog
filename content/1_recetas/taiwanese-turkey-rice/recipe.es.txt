@@ -1,0 +1,181 @@
+Title: Taiwanese Turkey Rice
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Call it turkey and rice, or just &#34;turkey rice,&#34; this is a dish from Taiwan&#39;s southwestern county of Chiayi and has a delicate balance of fragrant seasonings.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: bone-in turkey pieces , such as the breast or legs, breasts cut through the bone into large chunk, legs divided into drumsticks and thighs
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , divided; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: white pepper , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: shallots , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Sichuan peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh cilantro leaves, for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked white rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Rub the turkey with 1/4 teaspoon each of the salt and white pepper. Choose a large pot with a lid, such as a Dutch oven, and place a steamer rack inside. Fill the pot with 2 cups (475ml) of water. Place the turkey on a dish that fits inside the pot and sits atop the steamer rack. (In order to save the turkey drippings, the turkey should not be placed directly on a rack with holes.) Bring water to a boil, then reduce to a simmer and cover the pot. Steam the turkey until its internal temperature close to the bone reaches 180°F (82°C), about 30 minutes. Let cool. Reserve the juices and drippings.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once the turkey meat has cooled, pull the meat into bite-size shreds by hand and discard the bones and skin.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat the vegetable oil in a small pot over medium-high heat until shimmering. Add the sliced shallots and cook, stirring, until golden brown, about 3 minutes. Transfer immediately to a paper towel-lined plate. Reserve the cooking oil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Combine the shallot cooking oil with 1/2 cup (120ml) of reserved juices and drippings from the steamed turkey. Add water, sugar, soy sauce, Sichuan peppercorns, and remaining 1/4 teaspoon each of salt and white pepper. Add half of the fried shallots, saving the rest for garnish. Whisk mixture over medium heat to dissolve sugar. Bring to a gentle boil and simmer, uncovered until sauce is reduced by half, about 30 minutes. Strain sauce and discard solids.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To serve, scoop rice into individual serving bowls and top with a mound of the shredded turkey meat. Spoon the sauce over each bowl. Finish with the fried shallots and cilantro for garnish.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, turkey-main-recipes
+
+----
+
+Seo_title: Taiwanese Turkey Rice | Avenda Aurora
+
+----
+
+Seo_description: Call it turkey and rice, or just &#34;turkey rice,&#34; this is a dish from Taiwan&#39;s southwestern county of Chiayi and has a delicate balance of fragrant se
+
+----
+
+Original_author: Cathy Erway
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Yqp3Dp5KTs7akZJfZ4s4nNLvQRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/taiwan-eats-turkey-rice-with-or-without-leftovers-recipe-photo-06-1-FredHardy-be49c29d3a184275b60ab7bb9f793b7e.jpg

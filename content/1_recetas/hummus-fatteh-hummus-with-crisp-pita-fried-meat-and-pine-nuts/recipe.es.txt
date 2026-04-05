@@ -1,0 +1,276 @@
+Title: Hummus Fatteh (Hummus With Crisp Pita, Fried Meat, and Pine Nuts)
+
+----
+
+Category: platos-fuertes, antojitos
+
+----
+
+Description: Transform humble ingredients like chickpeas and pita into a satisfying meal by combining them with tahini, toasted pine nuts, and tender pieces of fried meat.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/4"
+  unit: cups
+  ingredient: dried chickpeas , see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "9"
+  unit: ounces
+  ingredient: thin pita , cut into 3/4-inch squares
+  preparation:  250 g ; about 4 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: tahini
+  preparation: about 8 1/2 ounces ; 240 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: clove garlic , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: full-fat Greek-style or plain yogurt
+  preparation: about 8 1/2 ounces ; 241 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: freshly squeezed lemon juice from 2 lemons
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: clove garlic , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: green chile such as jalapeño or Anaheim , seeded, stemmed, and finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: freshly squeezed lemon juice from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil , plus more for drizzling
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: unsalted butter or ghee
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: pine nuts
+  preparation:  1 1/2 ounces ; 42 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: lamb loin, beef tenderloin , or other tender and flavorful quick-cooking steak, cut into 1/2-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Lebanese 7 spice or baharat
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely chopped flat-leaf parsley
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Red pepper flakes or pomegranate seeds
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Fatteh: In a large bowl, cover chickpeas with 6 cups (1.4L) cold water. Let stand at room temperature for at least 8 hours or overnight. Drain and rinse chickpeas thoroughly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 6- to 8-quart Dutch oven or saucepan, combine chickpeas and cumin. Add enough water to cover by 2 inches (about 8 cups; about 1.9L) and bring to a boil over high heat. Reduce to a simmer, cover with lid slightly ajar, and cook until chickpeas are completely tender but not falling apart, 1 hour 15 minutes to 1 hour 30 minutes. Check on chickpeas, stirring occasionally, and top off with more water if needed; chickpeas should be fully submerged at all times. (See notes if using canned chickpeas.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile: Adjust oven rack to middle position and preheat to 350ºF (175ºC). Place sliced pita on a rimmed baking sheet and transfer to oven. Toast, using a spoon or spatula to turn pita occasionally, until squares are completely dry and crisp and starting to darken in color, about 15 minutes. Remove and set aside until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium bowl, stir tahini, garlic, salt, yogurt, and lemon juice together until smooth; the sauce should be thick and sticky. When chickpeas are done, add 1/2 cup to 3/4 cup of chickpea cooking liquid to bowl with tahini mixture and whisk well to incorporate. The sauce should have a consistency similar to maple syrup: thick but easily pourable. Set aside until ready to assemble.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Lemon Dressing: In a small bowl, combine garlic, green chile, lemon juice, and extra-virgin olive oil. Whisk well to combine and season to taste with salt. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Meat: n a 10-inch skillet, heat olive oil and butter over medium heat until butter has melted. Add pine nuts and toast until light golden brown and fragrant, about 1 1/2 minutes. Using a fine-mesh sieve, immediately strain nuts over a small bowl and transfer to a paper-towel lined plate. Set aside. Return fat to pan. Increase heat to medium-high and add lamb or beef and season with spices and salt. Cook, stirring occasionally until meat is nicely browned and cooked through, about 4 minutes. Season to taste with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Assemble: Arrange toasted pita on a large, deep serving platter and spoon half of the lemon dressing on top of the pita. Using a ladle, scoop chickpeas, along with about 1/2 cup of their cooking liquid, over the bread, reserving 2 tablespoons of chickpeas to garnish with. (You want the bread to soak up the liquid but not become a mushy mess.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour the tahini and yogurt mixture evenly over the chickpeas. Top with the fried meat and pine nuts. Garnish with the reserved chickpeas, chopped parsley, and pomegranate seeds, if using. Drizzle the remaining lemon dressing over and top with more olive oil if desired. Serve warm.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Two 14-ounce cans of chickpeas, drained and rinsed well, can be substituted for dried chickpeas. In a medium (4 - 6 qt) pot, cover chickpeas generously with water and add cumin. Bring to a simmer over medium heat until beans are heated through. Maintain a low simmer until you finish prepping the rest of the dish.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Lebanese 7 Spice or baharat can be purchased at Arabic grocery stores or online. 1 teaspoon Lebanese 7 Spice or baharat can be substituted with 1/4 teaspoon each of ground allspice, ground cumin, ground black pepper, and ground cinnamon.
+- Pine nuts are the traditional choice of nut to use, but any combination of pine nuts, cashews, or almonds will work.
+- If you are staying in the spirit of keeping this a frugal dish or simply want to avoid chopping meat, you can use ground beef in place of the lamb loin and beef tenderloin called for here.
+- The toasted pita chips can be made up to a week in advance and stored in an airtight container
+- The chickpeas can be cooked the day before, refrigerated in their liquid, then reheated in reserved broth when ready to assemble. Reserve chickpea cooking liquid if you plan on preparing the chickpeas and sauce ahead of time.
+- If making tahini and yogurt sauce ahead of time, loosen with chickpea cooking liquid that has been reheated to a simmer, 1 tablespoon at a time, until you reach your desired consistency, before assembling the dish.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes, hummus-recipes
+
+----
+
+Seo_title: Hummus Fatteh (Hummus With Crisp Pita, Fried Meat, and Pine Nuts) | Avenda Aurora
+
+----
+
+Seo_description: Transform humble ingredients like chickpeas and pita into a satisfying meal by combining them with tahini, toasted pine nuts, and tender pieces of fried meat.
+
+----
+
+Original_author: Reem Kassis
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/D0k8zOh5fpT-OjGhxMNhWRLgYoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240430-HummusFatteh-Mai-Kakish-12-69de3b3a31964881a1c288b17ffd6cc9.jpg

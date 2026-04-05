@@ -1,0 +1,201 @@
+Title: Canh Chua Cá Thì Là (Vietnamese Fish Soup With Tomato and Dill)
+
+----
+
+Category: sopas-caldos, mariscos
+
+----
+
+Description: Light, delicate, and refreshing, this Northern Vietnamese soup combines fresh fish with a pleasantly tart tomato and dill broth.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole, head-on 1-pound sea bass , scaled, gutted, and body cut into 2-inch-thick steaks
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: neutral oil , divided, plus more if needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: shallot , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: firm but ripe tomatoes , 1/3 diced and 2/3 cut into 1-inch-thick wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: fish sauce , preferably Vietnamese
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: rice vinegar or fresh lime juice , plus more to taste
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch dill , fronds and tender stems only, cut into 1-inch segments
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fish sauce , preferably Vietnamese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bird’s-eye chile , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Steamed jasmine rice , to serve
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Soup: Lightly season fish with salt and pepper. In a 10-inch nonstick skillet, heat 2 teaspoons oil over medium-high heat until shimmering, then, working in batches if necessary to avoid crowding the pan, sear fish until lightly golden on each side but not cooked through, 2 to 3 minutes per side (add more oil if skillet runs dry). Transfer partially cooked fish to a plate and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 3-quart saucepan, heat remaining 2 teaspoons oil over medium-high heat until shimmering. Add shallot and cook, stirring occasionally, until lightly golden, 3 to 4 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add diced tomato and cook until softened and its liquid evaporates, 3 to 4 minutes. Add 4 cups water and bring to a boil. Add fish and cook at a gentle simmer, adjusting heat as necessary to maintain simmer, until fish is just cooked through, about 5 minutes. Transfer fish to a serving plate and keep warm.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add wedged tomatoes and fish sauce to the broth, increase heat to medium high, and return to a boil. Cook until tomatoes are heated through. Season with salt to taste and add rice vinegar or lime juice, if needed (the broth should be mildly sour, with some subtle sweetness).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Dipping Sauce and to Serve: In a small bowl, combine fish sauce and chile and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To serve, ladle broth into a large serving bowl, then garnish with dill. Serve hot with fish, rice, and dipping sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 10-inch nonstick skillet, 3-quart saucepan
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe is flexible and can accommodate different varieties of fish (carp, tilapia, snapper, salmon, etc.).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: I find Thai fish sauce saltier and more pungent than Vietnamese, which can affect the saltiness of the soup. However, you don&#39;t have to specifically source Vietnamese fish sauce just to make this soup, just be aware of the saltiness level if you use Thai fish sauce and adjust accordingly.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, vietnamese-recipes
+
+----
+
+Seo_title: Canh Chua Cá Thì Là (Vietnamese Fish Soup With Tomato and Dill) | Avenda Aurora
+
+----
+
+Seo_description: Light, delicate, and refreshing, this Northern Vietnamese soup combines fresh fish with a pleasantly tart tomato and dill broth.
+
+----
+
+Original_author: Giao Châu
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/iUOGLWZ-EDjkJcSTpnUgcKDTScI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230206-VietnameseFishSoupWithTomatoandDill-VyTran_hero-00228d740b614e5aab6e321afe7f744e.JPG

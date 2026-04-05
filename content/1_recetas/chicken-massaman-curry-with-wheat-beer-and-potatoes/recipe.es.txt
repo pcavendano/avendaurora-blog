@@ -1,0 +1,225 @@
+Title: Chicken Massaman Curry With Wheat Beer and Potatoes
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: For those who prefer their curry flavor without eye-watering heat, this Thai-inspired massaman chicken curry, fortified with potatoes and the citrusy, bitter flavor of wheat beer, is just the ticket.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: red onions , cut pole to pole into 8 wedges each
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: massaman store-bought curry paste
+  preparation: about 1/2 cup ; 300 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bottle Belgian-style wheat beer
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can unsweetened coconut milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: homemade chicken stock or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: Asian fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: tablespoons
+  ingredient: palm or light brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: star anise pods
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: cinnamon stick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: to 10 boneless, skinless chicken thighs , cut into large pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: red or Yukon Gold potatoes , cut into large chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: roasted unsalted peanuts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fresh juice from about 2 limes , plus lime wedges for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Steamed or boiled rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: lightly packed cilantro leaves and tender stems , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fried shallots , for garnish
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a Dutch oven, heat oil over medium-high heat until shimmering. Add onions and cook, stirring occasionally, until softened slightly and golden brown in spots, about 5 minutes. Transfer to a plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add curry paste and cook, stirring, for 2 minutes. Stir in beer and bring to a boil, then reduce to a simmer. Cook until reduced by half, about 5 minutes. Add coconut milk, chicken stock, fish sauce, sugar, star anise, cinnamon stick, chicken, and potatoes. Bring to a boil, reduce heat to low, cover, and simmer for 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add onions back to pot and continue simmering, uncovered, until potatoes are tender and chicken is cooked through, 15 to 20 minutes longer. Remove from heat. Discard star anise pods and cinnamon stick. Spoon off any excess fat on the surface, if necessary. Stir in peanuts and lime juice and season to taste with salt, if needed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve with rice, garnishing with cilantro, lime wedges, and fried shallots (if using).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, chicken-main-recipes
+
+----
+
+Seo_title: Chicken Massaman Curry With Wheat Beer and Potatoes | Avenda Aurora
+
+----
+
+Seo_description: For those who prefer their curry flavor without eye-watering heat, this Thai-inspired massaman chicken curry, fortified with potatoes and the citrusy, bitter fl
+
+----
+
+Original_author: Emily and Matt Clifton
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/5K0fyqS_8n4jROpNfxKIjd_iboA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-chicken-massaman-emily-matt-clifton-4-c06cb34b4f8f43ba8de192b3b0dae768.jpg

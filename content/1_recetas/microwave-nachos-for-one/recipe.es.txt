@@ -1,0 +1,112 @@
+Title: Microwave Nachos for One
+
+----
+
+Category: antojitos
+
+----
+
+Description: The microwave is a highly underrated tool for nacho construction. Contrary to popular opinion, the microwave will not make chips soggy and is excellent at melting cheese efficiently.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "12"
+  unit: 
+  ingredient: hearty corn chips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: refried beans
+  preparation: about 2.5 ounces ; 70 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 4 ounces grated Longhorn , Colby , jack , cheddar , or Oaxaca cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: pickled jalapeno slices
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place chips on a microwave-safe plate in a single layer. Microwave on high power until they smell nice and toasty, about 30 seconds to 1 minute. Remove from microwave and top each chip with 1 teaspoon of beans, a little shredded cheese, and a jalapeño slice. Return to microwave and cook for 30 seconds. Continue to cook in 15-second intervals until all the cheese is melted and bubbly. Eat and repeat as necessary.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, quick-snack-recipes
+
+----
+
+Seo_title: Microwave Nachos for One | Avenda Aurora
+
+----
+
+Seo_description: The microwave is a highly underrated tool for nacho construction. Contrary to popular opinion, the microwave will not make chips soggy and is excellent at melti
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/3hXCujQLPOnjj1r9eJOgwDshbxU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__02__20160210-microwave-nachos-1-49bfc2ce83954089b89a51cce2011032.jpg

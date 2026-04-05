@@ -1,0 +1,188 @@
+Title: Frijoles Molidos (Refried Beans)
+
+----
+
+Category: salsas
+
+----
+
+Description: Deeply flavored and rich, these refried beans are cooked slowly and with care. The results are a big step up from those bland restaurant versions.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: cans red kidney or black beans , rinsed and drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: lard or 6 strips bacon , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: onion , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: packed dark brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt and pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: garlic cloves , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ketchup
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: yellow mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: cracklings , crumbled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: crumbled cotija cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Purée 2 cans beans and 1/2 cup water in blender until smooth. Transfer to large bowl. Purée remaining 2 cans beans and remaining 1/2 cup water until smooth; leave in blender.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat large cast iron skillet over medium heat. If using lard, melt in skillet. If using bacon, cook until golden and crisp, about 7 minutes. With slotted spoon, transfer bacon to paper towel-lined plate; reserve for other use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add onion, sugar, and 1/2 teaspoon salt to skillet and cook, stirring occasionally, until softened and light golden, about 7 minutes. Add garlic and cook until fragrant, about 1 minute. Scrape mixture into blender with beans and blend until smooth.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat skillet over medium-high heat until beginning to smoke. Add all puréed beans and cook, stirring, until beginning to thicken and darken in color, about 15 minutes. Add ketchup, Worcestershire, and mustard, ketchup and continue cooking, stirring and scraping bottom of pan occasionally, until beans are thickened and darkened in color, about 15 minutes. Season to taste with salt and pepper. Sprinkle beans with cracklings and cheese; serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: blender, large cast iron or standard skillet, slotted spoon, paper towels
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, side-recipes, bean-side-recipes
+
+----
+
+Seo_title: Frijoles Molidos (Refried Beans) | Avenda Aurora
+
+----
+
+Seo_description: Deeply flavored and rich, these refried beans are cooked slowly and with care. The results are a big step up from those bland restaurant versions.
+
+----
+
+Original_author: María del Mar Cuadra
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/DOFIXwIqwzqR510bHdiXqrM71fM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__09__20120920-127677-LatAmCuisine-Refried-Beans-PRIMARY-510b6a6d7c3b4045a36dff389af992e4.jpg

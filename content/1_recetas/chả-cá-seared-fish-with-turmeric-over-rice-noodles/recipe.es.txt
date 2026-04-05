@@ -1,0 +1,195 @@
+Title: Chả Cá, Seared Fish with Turmeric Over Rice Noodles
+
+----
+
+Category: mariscos
+
+----
+
+Description: The restaurant Chả Cá La Vong in Hanoi makes the definitive bowl of Chả Cá, but everywhere we went in Hanoi, there were noodle joints serving their unique version of the dish. The major elements of the dish were as follows: a white-fleshed fish like catfish or snakehead seasoned with turmeric, seared, with plenty of dill and green onions on top; a bed of rice noodles; roasted peanuts; and an assortment of herbaceous greens.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: fish fillets, either catfish or salmon , or another fish to your liking
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Dill and green onion , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: A few tablespoons oil for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: White rice noodles , about 4 bunches suitable for 4 servings
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Buttermilk to cover the fish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: freshly grated galangal or ginger juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: shrimp paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fish sauce and shrimp sauce, to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime juice , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lettuce, preferably romaine or butterhead
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: An assortment of herbs, such as Thai basil, mint, and perilla
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Roasted peanuts
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place the fish in the marinade and mix well to coat. Keep it in the refrigerator for at least a few hours, preferably up to a day.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cook the rice noodles in boiling water, according to the instructions on the packet. Drain, rinse, and divide among four wide bowls for serving.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place the peanuts and the assortment of herbs and lettuce into the bowls as well. Have your condiments—the fish sauce, shrimp paste, and lime—ready on the side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Take the fish out the marinade and pat both sides dry. Heat a nonstick or well-seasoned skillet over medium heat. Add the oil to the pan and pan-fry the fish on both sides, about 2 minutes per side depending on the thickness of your fillets, turning carefully so as not to break up the meat. Take the fillets out and place them into your noodle bowls.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using the oil and juices in the pan, lightly fry the green onions and dill and pour over the fish in the noodle platters. Serve immediately, having each guest mix the noodles to his or her liking with the assortment of condiments and herbs.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, fish-recipes
+
+----
+
+Seo_title: Chả Cá, Seared Fish with Turmeric Over Rice Noodles | Avenda Aurora
+
+----
+
+Seo_description: The restaurant Chả Cá La Vong in Hanoi makes the definitive bowl of Chả Cá, but everywhere we went in Hanoi, there were noodle joints serving their unique versi
+
+----
+
+Original_author: Chichi Wang
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/zN5AYuc2KZErEU4mqUnpcX2giKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20100716-seriouslyasian-chaca-primary-bb5601f53f254ae3b89224c784ecdad3.jpg

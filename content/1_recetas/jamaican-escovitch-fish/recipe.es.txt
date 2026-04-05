@@ -1,0 +1,222 @@
+Title: Jamaican Escovitch Fish
+
+----
+
+Category: mariscos
+
+----
+
+Description: The combination of the savory fried fish and a tart and aromatic pickle makes for a quick and satisfying meal.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: whole cleaned snapper or 4 skin-on snapper fillets
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: limes , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: all-purpose flour
+  preparation:  32 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: unrefined coconut oil , for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: white cane vinegar , such as Grace brand, or distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: julienned chayote
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: julienned carrot
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: yellow onions , thinly sliced crosswise into rounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Scotch bonnet pepper, stemmed and thinly sliced either with or without seeds
+  preparation: keep seeds if you want more heat
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: allspice berries
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Fried Fish: Wash fish well and rub all over with cut surface of lime halves, including inside cavity if using whole fish. Pat dry. Using a sharp knife, score the skin side of the fish by cutting a series of diagonal slashes through the skin. Rub garlic all over, then season lightly with salt and pepper, including inside the fish cavity if using whole fish.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spread flour in a wide, shallow dish. Dredge fish lightly by dipping both sides into flour and then shaking off excess.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large cast iron skillet or stainless-steel sautè pan, heat 1/2 inch oil over medium heat until melted and shimmering. Gently add fish, skin side down, and fry until golden brown on first side, 3 to 4 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Carefully flip fish and cook until second side is golden brown and flesh is opaque and flaky, 3 to 4 minutes. Using a slotted fish spatula, carefully lift fish from oil and transfer to paper towel-lined plate to drain.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Escovitch Sauce: In a 2-quart saucepan, bring vinegar, 1 cup (237ml) water, sugar, and salt to a boil over medium heat. Add chayote, carrots, onions, Scotch bonnet, and allspice berries, then return to simmer and cook for 3 minutes. Remove from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer fried fish to a rimmed heatproof platter or serving dish. Pour hot escovitch sauce over fried fish. Serve hot or let cool to room temperature before serving.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large cast iron skillet or stainless-steel sautè pan
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Chayote is a type of squash that is native to Mexico, but popular in Jamaican cuisine. The fruit is a member of the gourd family and it looks like a large pear, with a more wrinkly bottom. Look for a chayote squash that is even in color, firm, free of blemishes, and on the smaller side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Nowadays, Escovitch fish is often served with fried bammy, a local cassava flatbread inherited from our Taino heritage.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The escovitch pickle can be stored for up to 7 days in the fridge.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, fish-recipes, snapper-recipes
+
+----
+
+Seo_title: Jamaican Escovitch Fish | Avenda Aurora
+
+----
+
+Seo_description: The combination of the savory fried fish and a tart and aromatic pickle makes for a quick and satisfying meal.
+
+----
+
+Original_author: Michelle and Suzanne Rousseau
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/U9RTN6WFpFNk0HSFievYRKtUJwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231127-SEA-JamaicanEscovitchFish-KarinaMatalon-hero-b30d273afd724c5cad0c2f1c747503ce.jpg

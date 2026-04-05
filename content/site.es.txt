@@ -1,0 +1,62 @@
+Title: Avenda Aurora
+
+----
+
+Tagline: Auténtica Cocina Mexicana
+
+----
+
+Description: Descubre recetas tradicionales mexicanas, aprende sobre ingredientes auténticos y encuentra dónde comprarlos cerca de ti.
+
+----
+
+Author: Chef Aurora
+
+----
+
+Email: hola@avendaurora.com
+
+----
+
+Social:
+-
+  platform: instagram
+  url: https://instagram.com/avendaurora
+-
+  platform: facebook
+  url: https://facebook.com/avendaurora
+-
+  platform: youtube
+  url: https://youtube.com/@avendaurora
+
+----
+
+Seo_title: Avenda Aurora | Recetas Auténticas de Cocina Mexicana
+
+----
+
+Seo_description: Explora recetas tradicionales mexicanas, aprende sobre chiles, especias e ingredientes auténticos. Kits de ingredientes disponibles.
+
+----
+
+Seo_image:
+
+----
+
+Newsletter_enabled: true
+
+----
+
+Newsletter_title: Únete a Nuestra Comunidad
+
+----
+
+Newsletter_text: Recibe nuevas recetas, tips de cocina y ofertas especiales directamente en tu correo.
+
+----
+
+Newsletter_provider: mailchimp
+
+----
+
+Newsletter_api_key:

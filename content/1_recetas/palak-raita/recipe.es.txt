@@ -1,0 +1,165 @@
+Title: Palak Raita
+
+----
+
+Category: postres
+
+----
+
+Description: A quick and cooling Indian side dish made with yogurt, spinach, and spices, palak raita is easy to prep ahead and pairs well with bold, spicy mains.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: baby spinach
+  preparation:  170 g ; about 6 lightly-packed cups
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: strained whole-milk yogurt
+  preparation:  16 ounces; 454 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: white or red onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , plus more to taste; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Kashmiri chile powder, optional
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely chopped fresh cilantro leaves and tender stems, optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Add reserved chopped spinach to bowl with yogurt. Stir well to combine. Season with salt to taste. Cover and refrigerate raita until chilled and flavors meld, 30 minutes or up to 24 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to serve, transfer raita to large serving bowl and top with cilantro, if using.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large saucepan, colander
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe can be easily doubled, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Kashmiri chile powder, available at Indian grocery stores or online, has a moderate heat and a slightly fruity flavor, along with a signature vibrant red color. If you can&#39;t find it, use sweet paprika with a pinch of cayenne as a substitute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The cooked, drained, and squeezed-out spinach can be refrigerated in an airtight container for up to 1 day before finishing raita.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, milk-recipes, yogurt-cultured-dairy-recipes, greek-yogurt-recipes
+
+----
+
+Seo_title: Palak Raita | Avenda Aurora
+
+----
+
+Seo_description: A quick and cooling Indian side dish made with yogurt, spinach, and spices, palak raita is easy to prep ahead and pairs well with bold, spicy mains.
+
+----
+
+Original_author: Kaumudi Marathé
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/uTkPUigF9jKVn7hY89osYTVXOjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250729-SEA-PalakRaita-KanikaandJatinSharma-10-e75e115e00cd482da445cacfed2eda9a.jpg

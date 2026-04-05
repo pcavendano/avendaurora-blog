@@ -1,0 +1,176 @@
+Title: Key Lime Pie
+
+----
+
+Category: postres
+
+----
+
+Description: Use fresh citrus for a Key lime pie with bright, tangy flavor.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "10"
+  unit: 
+  ingredient: whole graham crackers
+  preparation:  5.5 ounces ; 155 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: granulated sugar
+  preparation:  1.5 ounces ; 43 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: unsalted butter , melted and cooled
+  preparation:  2.5 ounces ; 75 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can sweetened condensed milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: egg yolks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: freshly squeezed key lime juice
+  preparation: from approximately 20 Key limes 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: grated Key lime zest , plus more for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: mascarpone cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: powdered sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: heavy whipping cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat oven to 375°F (190ºC). Place the graham crackers, sugar, and salt in the bowl of a food processor. Process for approximately 20 to 30 seconds, until the grahams are uniform, small crumbs. Add the melted butter and pulse until incorporated, about 5 pulses. Firmly press the mixture into the bottom and sides of the springform pan (the sides of the crust should only be about 1 inch tall). Chill the crust in the fridge for 15 minutes, then bake in preheated oven until set and lightly browned on the edges, 8 to 10 minutes. Transfer pan to a wire rack; let crust cool completely, about 30 minutes. Reduce the oven temperature to 325°F (160ºC).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the bowl of the food processor, combine the sweetened condensed milk, egg yolks, Key lime juice, and zest. Process for 10 seconds, then stop, scrape down the sides, and process again until smooth and creamy, about another 10 seconds. Using a silicone spatula, scrape the mixture into the bottom of the cooled crust. Bake at 325°F (160ºC) for 13 to 16 minutes, until it is firm but still jiggles in the center (watch it closely, this pie will set up very quickly). Transfer to a wire rack to cool slightly, about 30 minutes, then place the pie in the fridge to chill for at least four hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to serve, release and remove the sides of the springform pan and transfer pie to a serving plate. In a large bowl, whisk together mascarpone and powdered sugar until smooth and creamy. Gradually add the cream and whisk until mixture holds soft peaks, 1 to 2 minutes. Pipe or top the pie with the cream mixture and garnish with Key lime zest. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 8-inch springform pan; food processor; silicone spatula
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, dessert-recipes, pie-recipes
+
+----
+
+Seo_title: Key Lime Pie | Avenda Aurora
+
+----
+
+Seo_description: Use fresh citrus for a Key lime pie with bright, tangy flavor.
+
+----
+
+Original_author: Lauren Weisenthal
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/4S0oB8hd7XWf1ZPZvROdMkESHMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SeriousEats_KeylimePie_Robby-Lozano_Beauty-1_255_1-23eef560d92b4bf396ce0c5cb3358ae2.jpg

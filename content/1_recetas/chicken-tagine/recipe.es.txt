@@ -1,0 +1,235 @@
+Title: Chicken Tagine
+
+----
+
+Category: salsas
+
+----
+
+Description: Bold, sweet, fragrant—but also sour and bitter with olives and preserved lemon—m’qualli carries a myriad of flavors that make it a special and comforting meal.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fresh lemon juice
+  preparation: from 1 lemon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: chicken leg quarters
+  preparation: about 12 ounces ; 340 g each
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: yellow onions , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: packed finely chopped fresh cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: garlic cloves , peeled and grated or minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Small
+  ingredient: pinch saffron threads , if desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2/3"
+  unit: cup
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: finely chopped preserved lemon , finely chopped
+  preparation:  3.5 ounces ; 100 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: red-brown pitted olives , such as Kalamata
+  preparation:  4.2 ounces ; 120 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crusty bread or couscous , to serve
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Marinade: In a large bowl, whisk together olive oil, lemon juice, ground turmeric, ground ginger, and salt. Add chicken leg quarters to marinade, and, using your hands or a spatula, turn to evenly coat chicken. Cover with plastic wrap and place in the fridge for at least 2 hours or up to overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Tagine: In a 5.5-quart pot or Dutch Oven, heat olive oil over medium-low. Stir in sliced onions, cover, and cook, stirring occasionally, until they start to soften, 10 to 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add cilantro, garlic, ground turmeric, ground ginger, and saffron (if using) to pot. Season with salt and pepper and cook, stirring occasionally, until onions are very soft, about 5 minutes. Remove chicken legs from marinade and add to the pot in a single layer, nestling them into the onion mixture. Pour in stock and bring to a boil over high heat. Cover pot, reduce heat to low, and simmer gently until the chicken is fully cooked and registers 165ºF (74ºC) in the thickest part, 55 to 65 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using tongs, carefully remove chicken from the pot to a plate. Loosely cover with foil to keep warm and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir preserved lemons and olives into the sauce and continue to simmer, stirring occasionally, until all the excess liquid has evaporated and the sauce has reduced to a thick, jammy consistency and the oil separates from the onions and pools on the surface, 45 to 55 minutes. (When onions and oil separate and thicken into a jammy sauce, this is referred to as “deghmira” in Morocco.) Taste sauce and adjust seasoning, adding more salt if necessary.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To serve, return chicken legs to the pot to warm through in the sauce, about 5 minutes. Serve immediately with crusty bread or warm couscous.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, african-recipes, north-african-recipes, moroccan-recipes
+
+----
+
+Seo_title: Chicken Tagine | Avenda Aurora
+
+----
+
+Seo_description: Bold, sweet, fragrant—but also sour and bitter with olives and preserved lemon—m’qualli carries a myriad of flavors that make it a special and comforting meal.
+
+----
+
+Original_author: Nargisse Benkabbou
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/JhQpGwcKQM9dJ95cJ2Gg4pZZL_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230227-Chicken-Mqualli-Tagine-with-Olives-and-preserved-Lemons-04-JenniferCausey-e6b688f1e6894c5c95d65e73eff33186.JPG

@@ -1,0 +1,201 @@
+Title: Savory Turmeric Masala Oats
+
+----
+
+Category: bebidas
+
+----
+
+Description: Tadka, a South Asian cooking technique, gives these savory turmeric masala oats their bold flavor.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: mustard seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: yellow onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: red pepper flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: ripe plum tomato , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: green bell pepper , stemmed, seeded, and cut into 1/2-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: old-fashioned rolled oats
+  preparation: about 3 1/4 ounces ; 90 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges, to serve
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: soft-boiled eggs , to serve
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Plain full-fat yogurt
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a small pot or saucepan , heat oil over medium heat until shimmering. Add cumin seeds and mustard seeds and cook, allowing seeds to sizzle and pop, until they stop popping and darken slightly, about 30 seconds. Add garlic and onion and cook, stirring frequently, until onions are translucent and have begun to soften and brown around the edges, 3 to 4 minutes. Add coriander, red pepper flakes, and turmeric, and sauté until fragrant, 30 to 45 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add tomato and pepper and cook until softened and pepper is bright green, 3 to 4 minutes. Add 1 1/2 cups water, salt, and oats, stirring to combine. Bring to a boil, then reduce heat to maintain a gentle simmer and cook uncovered, stirring gently and frequently, until oats have softened and thickened but mixture still flows slightly, 8 to 10 minutes. (For looser oatmeal, add water, 1 tablespoon at a time, until you reach your desired consistency.) Remove from heat and divide oats evenly between two bowls. Garnish with cilantro and serve with a squeeze of lime juice, halved boiled eggs, and yogurt, if desired.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, rice-grain-recipes, oat-recipes
+
+----
+
+Seo_title: Savory Turmeric Masala Oats | Avenda Aurora
+
+----
+
+Seo_description: Tadka, a South Asian cooking technique, gives these savory turmeric masala oats their bold flavor.
+
+----
+
+Original_author: Rachel Gurjar
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/OdG4o1fn_fHTu5Kv4NzXR1MPyM0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/0241126-Sea-SavoryTumericMasalaOats-SchriRepp-Hero2-35-e5db68d8c5a04eb3a3623b1abde12d30.jpg

@@ -1,0 +1,245 @@
+Title: Shin Cup-Style Spicy Korean Ramyun Noodle Soup
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: A homemade version of Korean-style spicy beef instant noodles made with short ribs, Korean chili paste, and kimchi.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece kombu
+  preparation: sea kelp, see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: niboshi or shaved katsuobushi
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: scallions , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: beef short ribs or oxtails
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , split in half
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: knob ginger , cut into 3 slices
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: cloves
+  ingredient: garlic , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: gochujang , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: doubanjiang
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: quarts
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: gochugaru , plus more to taste
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jar cabbage kimchi , with its juices
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: hon-shimeji or sliced shiitake mushrooms
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: to 6 servings ramen-style noodles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: to 6 soft boiled eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Cover kombu with 1 quart cold water. Bring to a boil over medium-high heat. Immediately reduce heat to low and add niboshi or katsuobushi. Let steep for 15 minutes, then drain broth and discard solids. Set aside. While broth simmers, roughly chop 8 scallions and set aside. Finely slice remaining 4 scallions and refrigerate in a sealed container until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat 1 tablespoon oil in a heavy Dutch oven or stock pot over high heat until lightly smoking. Add as many short ribs as fit in a single layer and cook, turning occasionally, until browned on all sides, about 10 minutes total. Transfer to a large bowl and repeat until short ribs are all browned.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add onion (cut side down) and ginger to pot and cook until well browned, about 5 minutes. Add 6 cloves garlic and roughly chopped scallions and cook, stirring, until lightly browned, about 3 minutes. Return short ribs to pot along with gochujang and doubanjiang. Stir to coat vegetables and beef in spice mixture, then add strained kombu broth and chicken broth, scraping up any browned bits from the bottom of the pot. Bring to a boil, reduce to a bare simmer, cover with the lid slightly cracked, and cook until beef easily separates from the bones, about 4 hours. For best results, allow to cool and transfer to refrigerator overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to proceed, strain soup through a fine-mesh strainer (if refrigerated overnight, you&#39;ll have to reheat it slightly until it liquefies). Transfer liquid to a medium pot and skim off any excess fat. Pick out short ribs and transfer to a bowl. Discard remaining solids. When cool enough to handle, pick meat off of short rib bones and transfer to a cutting board. Discard bones. Roughly chop meat and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add gochugaru to broth. Place a fine-mesh strainer over the pot and strain kimchi juice into the broth. Finely mince remaining garlic with a garlic press or a microplane and stir into broth. Add soy sauce. Season broth to taste with salt, pepper, and extra gochugaru and gochujang if a spicier flavor is desired. Bring to a simmer and keep warm.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat remaining tablespoon oil in a medium skillet over medium-high heat until shimmering. Add mushrooms and cook until lightly browned, about 4 minutes. Add chopped short rib and cook, tossing occasionally, until crisped in spots and well browned, about 5 minutes longer. Remove from heat and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cook ramen noodles according to package instructions. Divide into individual pre-heated serving bowls. Top with broth, followed by crisped beef and mushrooms, sliced scallions, kimchi, and a soft boiled egg split in half. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: All Asian ingredients can be found in Asian specialty markets or ordered onilne. Kombu is dried sea kelp. Katsuobushi is dried, smoked bonito. Niboshi are dried anchovies. Gochujang is a Korean chile bean paste. Doubanjiang is a Chinese chile-bean sauce. Gochugaru is Korean red pepper flakes.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, east-asian-recipes, korean-recipes
+
+----
+
+Seo_title: Shin Cup-Style Spicy Korean Ramyun Noodle Soup | Avenda Aurora
+
+----
+
+Seo_description: A homemade version of Korean-style spicy beef instant noodles made with short ribs, Korean chili paste, and kimchi.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/iD62ByO0qeACNjfCV5eZEqkBxhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__01__20140120-beef-ramyun-homemade-recipe-15-014423f0ac734abc8c0d826e54857afe.jpg

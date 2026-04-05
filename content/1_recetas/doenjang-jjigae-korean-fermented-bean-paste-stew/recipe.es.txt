@@ -1,0 +1,231 @@
+Title: Doenjang Jjigae (Korean Fermented Bean Paste Stew)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Doenjang jjigae is one of Korea&#39;s most classic comfort foods that&#39;s easy to make and is a meal unto itself, loaded with proteins and vegetables. This recipe loads the rich, funky broth up with tofu and clams, while onions, scallions, mushrooms, summer squash, and more make for a hearty array of vegetables.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2 1/2"
+  unit: cups
+  ingredient: rice-rinsing water or water
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: -15 dried anchovies , heads and entrails removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: piece
+  ingredient: dashima
+  preparation: also sold as kombu , which is the Japanese name
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: littleneck or manila clams
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher or sea salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: dried shiitake mushrooms
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: summer squash , such as zucchini , sliced crosswise about 1/8 inch thick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: small
+  ingredient: onion , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece daepah , white part only, or 2 medium scallions , white and light green parts only, thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: ounces
+  ingredient: dallae , outer skin of bulb peeled and discarded, chives washed well, then cut into 2-inch lengths
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 tablespoons doenjang , such as Togul
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: fresh red chile pepper , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: fresh green chile pepper , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Joseon ganjang , to taste
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Hot rice and kimchi , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Stock: In a medium saucepan, combine rice-rinsing water (or water) with anchovies and dashima and bring to a low simmer. Cover the saucepan halfway with a lid and maintain low simmer for 15 minutes. Taste an anchovy; if it still has a noticeable amount of flavor left in it, continue simmering until most of the flavor has been cooked out. Strain, discarding solids.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, For the Stew: Fill a large bowl with cold water and stir in enough salt to make it salty like the sea. Add clams and let stand 30 minutes. Lift clams from water and discard purging water; if there is sand in the bottom of the bowl, rinse it out and repeat this process until clams no longer release sand into the water (usually 2 to 3 purging cycles). Drain clams, discarding any that are gaping open and refuse to close when prodded.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small heatproof bowl, cover mushrooms with boiling water and let steep until rehydrated, about 10 minutes. Drain, then slice mushroom caps 1/4 inch thick.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add stock to a large saucepan or earthenware pot. Bring to a boil. Add mushrooms, summer squash, onion, scallion, and wild chives (if using). Return to a boil and cook until the vegetables are beginning to become tender, about 5 minutes. Add garlic and doenjang (try dissolving the doenjang through a sieve to prevent lumps from forming).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Simmer for 2 minutes longer, then add clams. Cook until clams begin to pop open. Add red and green chiles and continue cooking until all the clams are open.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Taste the broth, and add joseon ganjang, if desired, to increase the savory, salty flavor. Serve doenjang jjigae hot, with sides of rice and kimchi.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Ssal-ddeumul (쌀뜨물, or rice-rinsed water) is a useful ingredient in Korean cooking, both for its nutrients and the mild, starchy flavors it adds to food. Use the cloudy water that runs off from the second or third time you wash your uncooked rice (not the first, which might have dust and other impurities).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The stew can be stored in the refrigerator for up to 4 days, then reheated when ready to serve. Thin with water if it becomes too reduced and salty.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Doenjang Jjigae (Korean Fermented Bean Paste Stew) | Avenda Aurora
+
+----
+
+Seo_description: Doenjang jjigae is one of Korea&#39;s most classic comfort foods that&#39;s easy to make and is a meal unto itself, loaded with proteins and vegetables. This re
+
+----
+
+Original_author: Seoyoung Jung
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/sEPCZGtTNTbi4pGM0nGl3e-UB24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__11__20181102-doenjang-jjigae-vicky-wasik-10-8fbe8600e58c4b2d95095d5ab3098885.jpg

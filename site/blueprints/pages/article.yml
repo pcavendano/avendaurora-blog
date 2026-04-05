@@ -1,0 +1,146 @@
+title: Artículo
+icon: 📄
+num: date
+
+status:
+  draft:
+    label: Borrador
+    text: El artículo está en borrador
+  unlisted:
+    label: En revisión
+    text: El artículo está en revisión
+  listed:
+    label: Publicado
+    text: El artículo está publicado
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          title:
+            label: Título
+            type: text
+            required: true
+            translate: true
+
+          subtitle:
+            label: Subtítulo
+            type: text
+            translate: true
+
+          cover:
+            label: Imagen Principal
+            type: files
+            max: 1
+            layout: cards
+            size: large
+            uploads:
+              template: article-image
+
+          intro:
+            label: Introducción
+            type: textarea
+            translate: true
+            size: small
+            help: Texto corto que aparece al inicio del artículo
+
+          content:
+            label: Contenido
+            type: blocks
+            translate: true
+            fieldsets:
+              - heading
+              - text
+              - image
+              - gallery
+              - quote
+              - list
+              - code
+              - video
+
+          gallery:
+            label: Galería de Imágenes
+            type: files
+            layout: cards
+            uploads:
+              template: article-image
+
+  sidebar:
+    width: 1/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          date:
+            label: Fecha de Publicación
+            type: date
+            default: now
+            required: true
+
+          author:
+            label: Autor
+            type: text
+            default: Aurora Avendano
+
+          category:
+            label: Categoría
+            type: select
+            required: true
+            options:
+              ingredientes: Ingredientes
+              tecnicas: Técnicas Culinarias
+              cultura: Cultura Mexicana
+              consejos: Consejos del Chef
+              historias: Historias y Tradiciones
+              productos: Productos y Reseñas
+
+          tags:
+            label: Etiquetas
+            type: tags
+            translate: true
+
+          reading_time:
+            label: Tiempo de Lectura
+            type: number
+            after: minutos
+            help: Estimado de minutos para leer
+
+          featured:
+            label: Artículo Destacado
+            type: toggle
+            text: Mostrar en página principal
+
+      related:
+        type: fields
+        fields:
+          related_recipes:
+            label: Recetas Relacionadas
+            type: pages
+            query: site.find('recetas').children
+            multiple: true
+            max: 3
+
+          related_ingredients:
+            label: Ingredientes Relacionados
+            type: pages
+            query: site.find('ingredientes').children
+            multiple: true
+            max: 3
+
+      seo:
+        type: fields
+        fields:
+          seo_title:
+            label: SEO Título
+            type: text
+            translate: true
+            counter: 60
+
+          seo_description:
+            label: SEO Descripción
+            type: textarea
+            translate: true
+            counter: 160

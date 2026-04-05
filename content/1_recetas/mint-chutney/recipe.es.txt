@@ -1,0 +1,154 @@
+Title: Mint Chutney
+
+----
+
+Category: salsas
+
+----
+
+Description: This Indian mint chutney is deceptively complex for the quick work required to put together the fresh, sharp, and spicy condiment.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: cups
+  ingredient: packed roughly chopped fresh cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: packed roughly chopped fresh mint leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chopped red onion
+  preparation: about 1 small 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: unsweetened grated coconut
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: juice from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: to 2 small hot green chilies , stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 2 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly grated ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: water , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place cilantro, mint, onion, coconut, lemon juice, chilies, garlic, and ginger in the workbowl of a food processor. Pulse until all ingredients are finely chopped, stopping to scrape down sides of bowl as needed. Add additional water as needed, 1 tablespoon at a time, to form a thick, but pourable sauce. Use immediately or transfer to an airtight container and store in refrigerator for up to a week.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes
+
+----
+
+Seo_title: Mint Chutney | Avenda Aurora
+
+----
+
+Seo_description: This Indian mint chutney is deceptively complex for the quick work required to put together the fresh, sharp, and spicy condiment.
+
+----
+
+Original_author: Sohla El-Waylly
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/yEGZljcKa5sftBVYElqJYA_OwUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__10__20121004-225008-mint-chutney-95ab75949e6a46a097da113a3b133b77.jpg

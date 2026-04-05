@@ -1,0 +1,17 @@
+Title: Tiendas
+
+----
+
+Description: Encuentra tiendas donde comprar ingredientes auténticos para tus recetas mexicanas.
+
+----
+
+Intro: Hemos seleccionado tiendas de confianza donde encontrarás ingredientes frescos y auténticos para preparar nuestras recetas.
+
+----
+
+Seo_title: Tiendas de Ingredientes Mexicanos | Avenda Aurora
+
+----
+
+Seo_description: Encuentra tiendas donde comprar chiles, especias y ingredientes auténticos mexicanos cerca de ti.

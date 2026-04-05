@@ -1,0 +1,178 @@
+Title: Green Chili Chicken Pressure Cooker
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: This pressure cooker green chili chicken (chile verde) recipe is a fast, easy weeknight meal, loaded with peppers, onions, and tender chicken.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: pounds
+  ingredient: bone-in, skin-on chicken thighs and drumsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: poblano peppers , roughly chopped, seeds and stems discarded
+  preparation: about 3 peppers 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: tomatillos , husks discarded, quartered
+  preparation: about 4 tomatillos 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: white onion , roughly chopped
+  preparation: about 1 medium 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: Anaheim or Cubanelle peppers , roughly chopped, seeds and stems discarded
+  preparation: about 2 peppers 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: Serrano or jalapeño peppers , roughly chopped, stems discarded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: whole cumin seeds , toasted and ground
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: loosely packed fresh cilantro leaves and fine stems, plus more for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Asian fish sauce , such as Red Boat
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh corn tortillas and lime wedges, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine chicken, poblano peppers, tomatillos, onion, Anaheim peppers, Serrano peppers, garlic, cumin, and a big pinch of salt in a pressure cooker. Heat over high heat until gently sizzling, then seal pressure cooker, bring to high pressure, and cook for 15 minutes. Release pressure.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using tongs, transfer chicken pieces to a bowl and set aside. Add cilantro and fish sauce to remaining contents of pressure cooker. Blend with an immersion blender or in a countertop blender and season to taste with salt. Return chicken to sauce, discarding skin and bones and shredding if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer to a serving platter, garnish with chopped cilantro, and serve immediately with tortillas and lime wedges.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, chili-recipes
+
+----
+
+Seo_title: Green Chili Chicken Pressure Cooker | Avenda Aurora
+
+----
+
+Seo_description: This pressure cooker green chili chicken (chile verde) recipe is a fast, easy weeknight meal, loaded with peppers, onions, and tender chicken.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/7MkXa9a6-iAZvZ7iYgEfzYO763I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SEA-SoupsandStewsMPP-PressureCookerChickenChileVerde-GregDupree-ca23bfa63086405f8809a12c1c3ea794.jpg

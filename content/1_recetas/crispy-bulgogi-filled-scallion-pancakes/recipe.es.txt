@@ -1,0 +1,212 @@
+Title: Crispy Bulgogi-Filled Scallion Pancakes
+
+----
+
+Category: antojitos
+
+----
+
+Description: Tacos are tasty, but this Korean spin on quesadillas is even better. Savory scallion pancakes are loaded with two types of cheese and heaps of spicy-sweet bulgogi beef. With all of that melted cheese, flaky pancake, and marinated steak, these bulgogi scallion pancake-adillas are impossible to resist.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: gochujang , plus more for drizzling
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: rice vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , sliced, plus more to garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cloves
+  ingredient: garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ginger , grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: beef flank steak , ribeye, or sirloin, thinly sliced against the grain
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe extra-flaky scallion pancakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: shredded cheddar cheese
+  preparation:  4 ounces 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: shredded Monterey Jack cheese
+  preparation:  4 ounces 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cilantro , for topping
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a plastic zipper-lock bag, combine soy sauce, brown sugar, gochujang, sesame oil, rice vinegar, scallions, garlic, ginger, and black pepper. Mix well. Add sliced beef and close the bag, squeezing out any excess air. Shake well and toss to coat. Refrigerate for at least 30 minutes and up to 8 hours, turning bag occasionally to redistribute marinade.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat a large skillet over high heat. Remove meat from marinade and cook until browned all over. Remove from heat and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Prepare the extra-flaky scallion pancakes and set them aside on paper towels to absorb excess grease.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Top 2 of the 4 scallion pancakes with bulgogi meat and cheese, and leave the other 2 bare. Heat a nonstick skillet over medium heat, then put 1 topped scallion pancake in the pan. Top with a bare scallion pancake to close.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Let cook until the cheese begins to melt and the bottom pancake has crisped up and browned. Flip and cook on the second side until all of the cheese is melted and the bottom has browned. Remove from heat, set aside, and repeat to make the second quesadilla.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drizzle quesadillas with additional gochujang, if desired, and top with scallions and cilantro. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Gochujang is a mild Korean chile paste. It can be found in Asian markets or ordered online.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, hors-doeuvre-recipes
+
+----
+
+Seo_title: Crispy Bulgogi-Filled Scallion Pancakes | Avenda Aurora
+
+----
+
+Seo_description: Tacos are tasty, but this Korean spin on quesadillas is even better. Savory scallion pancakes are loaded with two types of cheese and heaps of spicy-sweet bulgo
+
+----
+
+Original_author: Morgan Eisenberg
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/cVJ4RLaFddYIkVAyBp-NRQBsNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__08__20150817-Bulgogi-Scallion-Pancake-Quesadillas-Overhead-Morgan-Eisenberg-4580b0a249e24b3c8381f0debad87820.jpg

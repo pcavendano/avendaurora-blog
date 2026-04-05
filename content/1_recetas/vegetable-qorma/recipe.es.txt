@@ -1,0 +1,328 @@
+Title: Vegetable Qorma
+
+----
+
+Category: salsas, vegetarianos
+
+----
+
+Description: Tender vegetables in a rich, creamy, spiced sauce.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: whole raw cashews
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: white poppy seeds
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: boiling water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: ghee or neutral oil, such as grapeseed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: paneer , store-bought or homemade , cut into 1/2-inch cubes
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: white or yellow onions , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: garlic cloves , peeled and grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 2-inch piece fresh ginger root, peeled and grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole fennel seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground green cardamom
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 2-inch piece cinnamon stick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: whole cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: black cardamom pod
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: to 1/2 teaspoon cayenne
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: plain, unsweetened whole milk yogurt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Russet potato , peeled and diced into 1/2-inch cubes
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: a small head of cauliflower , separated into 1-inch florets
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: carrot , peeled and diced into 1/2-inch cubes
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , plus more to taste; if using table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: peas , fresh or frozen
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: ghee or a neutral oil like grapeseed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: whole raw cashews
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: golden raisins
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: cilantro leaves , torn
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: green chile , such as jalapeño or serrano , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine cashews, poppy seeds, and boiling water in a high-speed blender and blend until completely smooth and milky. Transfer to small mixing bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add ghee or oil to Dutch oven and heat over medium heat until shimmering. Add paneer cubes and cook, turning once or twice, until they turn golden brown all over, 4 to 5 minutes. Remove the paneer with a slotted spoon and transfer to a paper towel-lined plate. Alternatively, you can skip frying the paneer and add the cubes later along with the vegetables.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add onions to Dutch oven, stir, cover pot with a lid, reduce heat to low, and cook, stirring occasionally, until the onions become translucent and soft, about 10 minutes. There is no need to brown them. Stir in the garlic, ginger, cumin, fennel, green cardamom, turmeric, cinnamon, cloves, bay leaf, black cardamom, and cayenne, and cook until the spices become fragrant, 30 to 45 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Increase heat to medium-high. Add 1/4 cup of yogurt and cook until water in yogurt evaporates and it takes on a grainy consistency and fat separates. Repeat with remaining yogurt; the process should take about 8 to 10 minutes. Stir in the tomato paste and reduce heat to low.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir cashew-poppy seed mixture thoroughly and fold it into the yogurt-spice mixture. From this point forward, you&#39;ll want to watch the contents of the pot and stir it frequently, as the ground nuts can stick to the bottom of the saucepan and scorch.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add vegetables, paneer, salt, and 1/2 cup (120ml) water and stir to combine. Increase heat to medium-high, bring contents of pot to a boil, cover with a lid, reduce heat to low, and cook until the vegetables are cooked through and just tender, between 20 to 30 minutes, depending on the vegetables used. Add peas, frozen or fresh, and cook until peas are just cooked, about 5 minutes. The sauce should be thick; if it isn’t, increase heat to medium and cook, uncovered, stirring constantly, until the liquid reduces. Taste and season with salt. Transfer qorma to a serving dish.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Make the Garnish: Heat the oil in a small saucepan over medium heat until shimmering. Add cashews and cook until they turn golden brown on all sides, 3 to 4 minutes. Add raisins and cook until they plump up, about 30 to 45 seconds. Pour mixture over qorma. Garnish with cilantro leaves and sliced green chile, and serve hot or warm with rice or flatbread.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you can&#39;t find white poppy seeds, you can use black poppy seeds, but the resulting purée will look speckled.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you skip frying the paneer, you can reduce the amount of ghee or oil to 3 tablespoons (45ml).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- This recipe has been tested with the vegetables listed in the ingredient list. However, this is a forgiving method, and you can substitute 4 cups of other mixed vegetables. You will, however, have to take into consideration their cooking times and cut them up accordingly. Hardier vegetables like carrots and potatoes benefit from being cut to a smaller size, while softer vegetables can be left in larger pieces. The cooking time will also vary.
+- The qorma can be stored in an airtight container in the refrigerator for up to one week. Reheat gently on the stovetop or in a microwave before serving.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, south-asian-recipes, indian-recipes
+
+----
+
+Seo_title: Vegetable Qorma | Avenda Aurora
+
+----
+
+Seo_description: Tender vegetables in a rich, creamy, spiced sauce.
+
+----
+
+Original_author: Nik Sharma
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/jeX2VCq0HpTybTRMZvnFtfgG5NE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220509_Vegetable-Qorma-Amanda-Suarez_hero-69018555251845c9aeb9b05fb187e3bd.JPG

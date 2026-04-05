@@ -1,0 +1,183 @@
+Title: Kadhai Paneer (Stir Fried Cheese and Peppers)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: [Photograph: Max Falkowitz] This is one of the simplest and fastest Indian dishes I know. Start to finish, you&#39;ll have dinner on the table in a little over half an hour. Cubes of cheese and strips of peppers are briefly...
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: clarified butter , neutral oil, or niter kibbeh , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch asafoetida
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: coriander seed , toasted and ground
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: fenugreek seed , toasted and ground
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: half-sharp Hungarian paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: onions , finely diced or grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: tomatoes , or 1 can , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: paneer , store-bought or homemade , cut into 1/2 inch cubes
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: green bell peppers , cut into thin strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: red bell peppers , cut into thin strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried fenugreek leaves, crumbled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Juice of 1 to 2 whole limes , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In 3-quart saucepan, melt 3 tablespoons of ghee on medium heat. Add asafoetida, coriander, fenugreek seed, and paprika. Stir and cook for thirty seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Increase heat to medium high and add onions with pinch of salt. Stir to coat and let cook until golden brown, about 7 minutes. Stir often to keep spice mix from burning. Add tomatoes, scrape browned bits off bottom of pan, and cover. Keep at a simmer for 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat large wok or cast iron skillet until lightly smoking. Add 1 tablespoon ghee, then fry paneer until browned on several sides. To reduce sticking, let paneer fry for at least 30 seconds before trying to stir. Set aside on paper towel-lined plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Let pan come back to high temperature. If it&#39;s looking dry, add last tablespoon of ghee, then peppers. Stir frequently and cook just until they blister and begin to tenderize. Return paneer to pan and pour gravy on top. Add fengureek leaves, stir to combine and cook for one minute. Squeeze on lime juice and add any additional salt to taste. Serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, vegetable-main-recipes
+
+----
+
+Seo_title: Kadhai Paneer (Stir Fried Cheese and Peppers) | Avenda Aurora
+
+----
+
+Seo_description: [Photograph: Max Falkowitz] This is one of the simplest and fastest Indian dishes I know. Start to finish, you&#39;ll have dinner on the table in a little over 
+
+----
+
+Original_author: Max Falkowitz
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/pvAbWyuugyTnRGH9dJGGavdnYPM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__08__20130812-kadhai-paneer-fb5c502485134cb38559141303a2d962.jpg

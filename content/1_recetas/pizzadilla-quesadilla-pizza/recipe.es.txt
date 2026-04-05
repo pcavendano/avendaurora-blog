@@ -1,0 +1,148 @@
+Title: Pizzadilla (Quesadilla Pizza)
+
+----
+
+Category: salsas, antojitos
+
+----
+
+Description: Make a pizza quesadilla, then flip it, and top it like a pizza.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: flour tortillas that just fit inside your cast iron skillet
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: store-bought or homemade pizza sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: ounces
+  ingredient: shredded whole-milk low-moisture mozzarella cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: grated Parmesan cheese , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: basil leaves , roughly torn
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Additional toppings , as desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to 6 to 8 inches below broiler element and preheat broiler to high. Heat oil in a large cast iron skillet over high heat until shimmering. Reduce heat to low and wipe out excess oil with a paper towel.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place tortilla in skillet with the rougher textured-side facing down. Spread half of sauce evenly over tortilla all the way to the edges. Spread half of mozzarella evenly over tortilla all the way to the edges. Place second tortilla on top. Cook, swirling pan occasionally, until crisp on the bottom, about 3 minutes. Carefully flip with a large spatula.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spread remaining sauce evenly over tortilla all the way to the edges. Spread remaining mozzarella and half of Parmesan evenly over tortilla all the way to the edges. Scatter with basil and add toppings (such as sausage) as desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place skillet under broiler and broil until toppings are cooked through and cheese is melted and starting to brown in spots, 2 to 4 minutes. Remove from oven and sprinkle with remaining Parmesan. Using a small metal spatula, gently pry edges of pizza, releasing the cheese from the skillet. Peek under bottom. If more crispness is desired, place skillet over medium-heat and cook, swirling pizza and peeking occasionally, until desired crispness is achieved. Slide pizza out onto a cutting board. Cut and serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, quick-dinner-recipes
+
+----
+
+Seo_title: Pizzadilla (Quesadilla Pizza) | Avenda Aurora
+
+----
+
+Seo_description: Make a pizza quesadilla, then flip it, and top it like a pizza.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/B5A9pN-rIfr_uws6KFaBIuNKAI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__10__20141019-quesadilla-pizza-pizzadilla-09-3037cce153ab41fb920ffaf8c4af1cfc.jpg

@@ -1,0 +1,279 @@
+Title: Roti John (Malaysian Griddled Omelette Sandwich)
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: To make this Malaysian griddled sandwich, slap your bread onto eggs as they&#39;re cooking, then fold it all together with a choose-your-own-adventure set of toppings options: a tangy slaw, or a combination of crisp lettuce, ripe tomatoes, and chile sauce.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: small
+  ingredient: head butterhead lettuce
+  preparation:  8 ounces ; 226 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: tomatoes , sliced 1/2-inch thick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: Malaysian-style chile sauce , such as Maggi
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: head green cabbage , quartered, cored, and shredded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: carrot , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: granulated sugar
+  preparation:  3 1/2 ounces ; 100 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: Diamond Crystal kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: apple cider vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: Malaysian-style chile sauce , such as Maggi
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: plus 1 tablespoon neutral oil such as vegetable or canola, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , peeled and diced
+  preparation: about 3/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: ground beef or chicken
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: curry powder
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided, plus more as needed; for table salt use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: large
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: thinly sliced scallions , white and green parts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Chinese celery leaves, chopped
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: unsalted butter , softened
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: split hot dog buns
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For Topping Option 1: Separate the lettuce leaves and transfer to a salad spinner. Wash leaves in cold water, then drain and spin dry. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Topping Option 2: Using the large holes of a box grater, shred the carrot. Place the cabbage and carrot into a large colander set in the sink and toss with the sugar and salt. Allow vegetables to macerate for 5 minutes. Meanwhile, in a large bowl, thoroughly whisk together mayonnaise, apple cider vinegar, and black pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Rinse the cabbage and carrot under cold running water, then spin dry in a salad spinner. Transfer the vegetables to the large bowl with the mayonnaise dressing and toss to combine. (Note that this makes more slaw than you will need for the roti John; save the remainder to eat separately as desired.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Sandwiches: In a large nonstick skillet, combine 1 tablespoon oil and onion and cook over medium-high heat, stirring often, until onions begin to soften, about 4 minutes. Add the ground meat, curry powder, and 1 teaspoon salt, and cook, stirring and breaking up the meat, until completely cooked through, about 4 minutes. Remove from heat and allow to cool, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, crack eggs into a medium bowl and whisk well with black pepper and the remaining 1 teaspoon salt. Scrape the onion and meat mixture into the eggs, along with scallions and Chinese celery leaves, if using. Stir well to combine and set aside. Wipe out skillet.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spread butter on cut sides of each bun. Working in batches, toast the buns in the nonstick skillet, butter side down, over medium heat until lightly browned, 2 to 3 minutes. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Wipe out the skillet. Heat 1 tablespoon oil in the pan over medium heat. Pour 1/4 of the omelette mixture into the pan and let cook, without stirring, for 10 seconds. Place one bun, toasted side down, into the egg mixture, then press bun lightly but firmly into eggs until egg sticks cohesively to the bun, about 20 seconds, while pushing the egg mixture towards the bread to prevent too much of an overhang. Allow omelette to continue to cook until browned, about 1 minute. Carefully insert a spatula between the egg and pan, then flip the whole thing over; using the spatula, flip any excessively overhanging omelette onto the bun. Toast top side of bun, checking often to prevent burning, 30 seconds to 1 minute. Remove roti John from the pan and place on a wire rack set in a baking sheet. Repeat with remaining oil, omelette mixture, and toasted buns, wiping out skillet in between each sandwich.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once all the sandwiches are cooked, top either with lettuce, tomatoes, and chile sauce or about 1/4 cup coleslaw per sandwich (with optional chile sauce, if desired). Close buns and slice each roti John crosswise into 2 to 3 segments. Serve immediately for the freshest bite, or wrap in parchment paper and let stand before consuming within 2 hours (the sandwich and its fillings will soften somewhat but I like how the flavors meld). Reserve remaining coleslaw or chile sauce for another use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large nonstick pan
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Malaysian chile sauce is made from fresh chiles and is processed into a homogenous texture, unlike the relatively chunky, Thai-style sweet chile sauce.
+- You can mix and match the meat and vegetable fillings. My suggested combos are:
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, malaysian-recipes
+
+----
+
+Seo_title: Roti John (Malaysian Griddled Omelette Sandwich) | Avenda Aurora
+
+----
+
+Seo_description: To make this Malaysian griddled sandwich, slap your bread onto eggs as they&#39;re cooking, then fold it all together with a choose-your-own-adventure set of to
+
+----
+
+Original_author: Alia Ali
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/3lYcIwqOzpIS6ihZrRlZ6BFuGm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231204-SEA-RotiJohn-MichelleYip-hero-cf4be14c45294da9a4469910448aadba.jpg

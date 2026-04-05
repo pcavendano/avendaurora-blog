@@ -1,0 +1,167 @@
+Title: The Best Korean Fried Chicken
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: These ultra-crisp fried chicken wings have a thin crust that crackles and crunches.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cups
+  ingredient: corn starch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: chicken wings
+  preparation: about 12 whole wings , see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: peanut oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: cold water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: vodka
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe sweet soy sauce or sweet and spicy chili sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine 2 teaspoons kosher salt, 1/4 cup cornstarch, and 1/2 teaspoon baking powder in a large bowl and whisk until homogenous. Add chicken wings and toss until every surface is coated. Transfer wings to a wire rack set in a rimmed baking sheet, shaking vigorously as you go to get rid of excess coating. Transfer to refrigerator and let rest, uncovered, for at least 30 minutes and up to overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to fry, preheat oil to 350°F (177°C) in a large wok, Dutch oven, or deep fryer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Combine remaining 1/2 cup cornstarch, 1/2 teaspoon baking powder, flour, and 2 teaspoons kosher salt in a large bowl and whisk until homogenous. Add water and vodka and whisk until a smooth batter is formed, adding up to 2 tablespoons additional water if batter is too thick. It should have the consistency of thin paint and fall off of the whisk in thin ribbons that instantly disappear as they hit the surface of the batter in the bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add half of the wings to the batter. Working one at a time, lift one wing and allow excess batter to drip off, using your finger to get rid of any large pockets or slicks of batter. Carefully lower wing into hot oil. Repeat with remaining wings in first batch. Fry, using a metal spider or slotted spatula to rotate and agitate wings as they cook until evenly golden brown and crisp all over, about 8 minutes. Transfer to a paper towel-lined plate and season immediately with salt. Keep warm while you fry the remaining wings.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve plain, or toss with sweet soy sauce for Korean fried chicken or sweet and spicy chili sauce for Korean fried chicken (or serve sauce on side).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, frying-recipes, fried-chicken-recipes
+
+----
+
+Seo_title: The Best Korean Fried Chicken | Avenda Aurora
+
+----
+
+Seo_description: These ultra-crisp fried chicken wings have a thin crust that crackles and crunches.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/wSwNeEM8dRqjIG1SY1VPr6GZEMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2012__10__20200513-korean-fried-chicken-reshoot-vicky-wasik-1-5-9cfbe30c4a494e9ab386b3e83a3af7d1.jpg

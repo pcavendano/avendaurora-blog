@@ -1,0 +1,155 @@
+Title: Salpicón (Nicaraguan Minced Meat)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: A traditional Nicaraguan dish made of lean simmered beef finely chopped with onions and bell peppers, optionally sautéed in butter, and finished with a squeeze of lime.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: beef round , cut into 1 1/2 inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: green bell pepper , cored, seeded, and cut into 1-inch pieces, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: white or yellow onion , peeled and cut into 1-inch pieces, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided, plus more to taste; for table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: garlic cloves , peeled and smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large pot, combine beef, half of the bell pepper, half of the onion, salt, peppercorns, and garlic. Add enough cold water to cover ingredients by 2 inches. Bring mixture to boil over medium-high heat, then immediately reduce heat to medium-low, and simmer until beef is cooked through, about 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Strain beef mixture through a fine-mesh strainer set over a large heatproof bowl; remove and discard bell pepper, onion, peppercorns, and garlic and discard liquid. Allow beef to cool for 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a food processor fitted with a metal blade, combine half of the beef, half of the remaining bell pepper, and half of the remaining onion and pulse until mixture is finely chopped. Transfer to large mixing bowl and repeat with remaining beef, bell pepper, and onion. Squeeze lime over beef and toss to combine. Season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Salpicón may be served immediately or toasted slightly in a skillet. To toast in a large skillet, melt butter over medium-high heat. Add beef and cook, stirring, until beef is beginning to crisp and dry out, about 15 minutes. Serve right away with white rice and small red kidney beans, or gallopinto .
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes, ground-beef-recipes
+
+----
+
+Seo_title: Salpicón (Nicaraguan Minced Meat) | Avenda Aurora
+
+----
+
+Seo_description: A traditional Nicaraguan dish made of lean simmered beef finely chopped with onions and bell peppers, optionally sautéed in butter, and finished with a squeeze 
+
+----
+
+Original_author: María del Mar Cuadra
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/hsf2vpAuqyGG1u9Tu4q6WhPFuhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/salpicon-nicaraguan-minced-meat-recipe-hero-01_1-6cddba6e280b49a0aa6485e1f66f47a5.JPG

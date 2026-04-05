@@ -1,0 +1,194 @@
+Title: Winter Squash Panang Curry
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Panang curry is a staple of Malaysian and Thai cuisine, renowned for its ultra-rich, nutty sauce and well-balanced sweetness from coconut cream and panang curry paste. While it&#39;s traditionally made with beef, this plant-based version swaps in winter squash, such as kabocha, transforming the dish into a comforting autumn meal or side dish.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: One 13.5-ounce can coconut cream, such as Savoy brand , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 tablespoons store-bought panang curry paste like Mae Ploy or homemade
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: kabocha or red kuri squash, about 1 1/2 to 2 pounds , stemmed, halved, seeded, and cut into 1-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: water, plus extra water as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: grated palm sugar or light brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thai long red chili or Fresno chili , stemmed, seeded, and cut lengthwise into thin strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: makrut lime leaves , deveined and cut into chiffonade
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: Thai sweet basil leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: roasted peanuts finely chopped or crushed in a mortar and pestle
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a 2-quart saucepan, heat 1/4 coconut cream over medium-high heat until it breaks and looks oily. Add 2 tablespoons curry paste for a milder curry or 3 tablespoons for a spicier curry. Stir until paste deepens in color and is fragrant, about 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add squash, remaining coconut cream (reserve 2 tablespoons to drizzle on top for presentation if you’d like), water, palm or brown sugar, and fish sauce. Stir, bring to a boil, reduce heat to medium, cover, and cook until squash is fork-tender, about 10 minutes. Peel should be sturdy and flesh should still hold its shape. Simmer uncovered until curry is thickened to the consistency of a bisque, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove from heat, stir in half the red chili and basil leaves, and transfer to a large serving bowl or individual serving bowls. Top with makrut lime leaves, peanuts, remaining chiles, and a drizzle of reserved coconut cream, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 2-quart saucepan
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Recipe can easily be doubled.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To make this dish vegetarian, use thin (light) soy sauce instead of fish sauce and use a curry paste without shrimp paste, such as Maesri brand.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fresno, serrano, or jalapeño can be used in place of Thai long chili. For mild curry, use 1/4 red bell pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Use a premium unsweetened coconut cream, such as Savoy brand, that is pure coconut cream. Avoid using brands with added thickeners such as guar gum, as these won&#39;t thicken well.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Make curry through step 2, let cool, cover, and keep refrigerated overnight. Reheat curry on the stove over medium heat and continue with step 3 before serving.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Keep leftovers covered in refrigerator for up to 3 days. Reheat gently on stove. Coconut milk curries should not be frozen as the texture will be affected.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, curry-recipes
+
+----
+
+Seo_title: Winter Squash Panang Curry | Avenda Aurora
+
+----
+
+Seo_description: Panang curry is a staple of Malaysian and Thai cuisine, renowned for its ultra-rich, nutty sauce and well-balanced sweetness from coconut cream and panang curry
+
+----
+
+Original_author: Perry Santanachote
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/iObPuxqa_M2xWuPVk3Fl03GjwqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241119-SEA-WinterSquashCurry-DeliStudios-Step3B-45-71822a26882f4bcf9b0f0732f3a3eee4.jpg

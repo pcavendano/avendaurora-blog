@@ -1,0 +1,397 @@
+Title: Biryani-Style Roast Chicken
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: This biryani-style chicken is everything I want in a roast chicken dinner: juicy meat, fluffy rice, and tender vegetables, all perfumed with an incredible blend of toasted spices.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: plain whole milk yogurt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: pinches of saffron threads
+  preparation: about 10-15 strands
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ghee
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: small red potatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoon
+  ingredient: caraway seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoon
+  ingredient: black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoon
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoon
+  ingredient: fennel seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: dried Pequin chile peppers
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: green cardamom pods
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 1-inch piece of cinnamon stick
+  preparation: Ceylon, preferably
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: whole cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: dried allspice berries
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground nutmeg
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: plain whole milk yogurt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: dried Pequin chile peppers, coarsely ground
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 1-inch piece fresh ginger, peeled and grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: ghee
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: jaggery
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: honey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: kosher salt ; for table salt use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh coarsely chopped mint leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh minced cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 3 1/2-4 1/2 pound whole chicken ,
+  preparation: 1.6-2kg
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: basmati rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: homemade chicken stock or store bought chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral oil such as vegetable or canola oil, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ghee
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: yellow onions , halved and sliced thin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: zucchini , halved lengthwise and sliced crosswise into ½-inch thin half moons
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch fresh cilantro, chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime, halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For saffron yogurt and potatoes: In a small metal or glass bowl or glass jar, add the saffron strands, yogurt and ghee and stir thoroughly. Cover and refrigerate until yogurt is a rich golden color and infused with saffron flavor, 6 to 12 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large, heavy-bottomed pot, combine 8 cups of cold water, 2 ½ tablespoons of salt, and the potatoes and bring to a boil over medium-high heat. Simmer, adjusting heat as needed to maintain simmer, until the potatoes are fork tender, 15 to 20 minutes. Drain potatoes and using a fork, prick each potato all over, then transfer to a large metal or glass bowl. Add the prepared saffron yogurt and stir to combine; set aside until ready to use or refrigerate for up to 10 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the chicken and marinade: In the now-empty small stainless-steel skillet, lightly toast the bay leaf over medium heat until color darkens slightly and fragrant, about 30 seconds. In a large bowl, whisk 1½ tablespoons of the prepared biryani spice mix, yogurt, chile peppers, garlic, ginger, ghee, jaggery, honey, salt, and lime juice until well combined. Fold in the mint and cilantro to combine; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spatchcock the chicken: Using sharp kitchen shears, remove backbone. Flatten chicken by placing skin side up on a cutting board and applying firm pressure to breastbone.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place the spatchocked chicken in a baking dish, large zip-top bag, or a food-safe storage container with a lid. Pour the prepared yogurt marinade all over the chicken. Add the bay leaf, then gently rub the marinade into the chicken to coat well. Cover the container or seal the bag and refrigerate for at least 2 hours, or preferably overnight up to 12 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the biryani: Adjust the oven rack to middle position and preheat oven to 425℉ (220℃). In a fine-mesh strainer, rinse the rice under running cold water until the water runs clear. Shake off excess water and transfer the rinsed rice to a small saucepan. Add 1 cup of chicken stock and bring to a boil over medium-high heat, then reduce heat to medium-low and cook, covered, until rice is par-cooked and most of the stock is absorbed, 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In 14- or 16-inch cast iron skillet or large Dutch oven, add 2 tablespoons oil and ghee and heat over medium heat until shimmering. Add onions and cook, stirring occasionally until softened and beginning to brown, 5 to 7 minutes. Lower heat to medium low and continue to cook, stirring frequently, until onions are reduced by about half in volume and are fully softened and golden brown, 15 to 20 minutes. If onions begin to char before fully softened, add a tablespoon of water as needed during cooking. Transfer to a bowl and set the skillet aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the now-empty cast-iron skillet or Dutch oven, heat the remaining 1 tablespoon oil over medium-high heat until just smoking. Remove the chicken from the marinade and carefully place the chicken, breast side down, into the skillet and reduce heat to medium. The chicken should immediately sizzle. Add half of the reserved cooked onions around the chicken. Arrange the zucchini slices on top and around the chicken in an even layer, followed by the yogurt-dressed potatoes. Carefully uncover the par-cooked rice, (the stock should mostly be absorbed by the grains), and with a spoon, mound the rice on top of the vegetables and around the chicken. Remove the skillet or Dutch oven from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Arrange the remaining cooked onions on top of the rice. If needed, use a wooden spoon to rearrange the top layer of rice so it covers the vegetables and chicken in an even flat layer. This creates a seal for the chicken with the rice, vegetables, and onions. Cover with either a heavy lid or aluminum foil (it will be extremely hot so cover carefully). Transfer the covered skillet to the oven and bake until the chicken breasts register 155℉ with an instant read thermometer and the rice is fully cooked, about 1 hour. (You will need to push the thermometer through the rice mixture to insert into the chicken.)
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- 14- or 16-inch cast iron skillet or large Dutch oven, spice grinder or pestle and mortar
+- Jaggery can be found at any local Desi food store in your area, with options of powdered or in a mound that you can shave with a sharp knife. If unavailable, you can substitute coconut sugar for the jaggery.
+- If Pequin chile peppers are unavailable, chile de árbol or Tien Tsin chiles can be substituted.
+- Store the marinated chicken in a non-reactive container made of glass or ceramics, or a large plastic bag.
+- The spice mix can be stored in an airtight container at room temperature for up to 2 weeks.
+- The caramelized onion can be prepared and refrigerated in an airtight container up to 3 days ahead.
+- The cooked potatoes tossed with the saffron yogurt can be refrigerated for up to 1 day before you assemble and cook the final dish.
+- Leftovers can be refrigerated in an airtight container for up to 3 days.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, chicken-main-recipes
+
+----
+
+Seo_title: Biryani-Style Roast Chicken | Avenda Aurora
+
+----
+
+Seo_description: This biryani-style chicken is everything I want in a roast chicken dinner: juicy meat, fluffy rice, and tender vegetables, all perfumed with an incredible blend
+
+----
+
+Original_author: Deepa Shridhar
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/1PXiv2YBTEvInc5HyiTSlTacJAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240611-SEA-BiryaniStyleRoastChicken-KanikaandJatin-Sharma-Hero-6f756fad4526486fb33f4369761414d2.jpg

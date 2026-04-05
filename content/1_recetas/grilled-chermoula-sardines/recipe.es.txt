@@ -1,0 +1,186 @@
+Title: Grilled Chermoula Sardines
+
+----
+
+Category: mariscos, platos-fuertes
+
+----
+
+Description: These grilled Moroccan sardines are marinated in a vibrant chermoula of herbs, lemon, garlic, and spices, then quickly cooked over high heat for crisp skin and tender flesh.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil , plus more for the grill
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: cilantro leaves and tender stems, finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: flat-leaf parsley leaves and tender stems, finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh lemon juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cloves
+  ingredient: garlic , minced or pressed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: sweet paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: harissa
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: pounds
+  ingredient: fresh sardines , cleaned, butterflied, and deboned
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lemon wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large bowl, whisk together olive oil, cilantro, parsley, lemon juice, garlic, paprika, cumin, harissa (if using), and salt until well combined. In a separate small bowl, set aside et 1/4 cup chermoula for serving.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For a Charcoal Grill: Open bottom vent completely. Light large chimney starter filled 3/4 with charcoal briquettes (4 quarts). When top coals are partially covered with ash, pour evenly over bottom of grill grate. Set cooking grate in place, cover, and open lid vent completely. Heat grill until hot, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For a Gas Grill: Turn all burners to high; cover; and heat grill until hot, about 15 minutes. Leave all burners on high.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Lightly oil a grill basket to prevent sticking. Arrange prepared sardines in grill basket. Grill, flipping once, until skin is crisp and lightly charred and flesh is cooked through but still moist, 2 to 4 minutes per side, depending on size.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer cooked sardines to a serving platter. Drizzle reserved 1/4 cup chermoula on top, and serve immediately with lemon wedges.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Gas or charcoal grill, 4 quarts charcoal briquettes if using charcoal grill, clamping grill basket
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, grilling-recipes, grilled-fish-recipes
+
+----
+
+Seo_title: Grilled Chermoula Sardines | Avenda Aurora
+
+----
+
+Seo_description: These grilled Moroccan sardines are marinated in a vibrant chermoula of herbs, lemon, garlic, and spices, then quickly cooked over high heat for crisp skin and 
+
+----
+
+Original_author: Nargisse Benkabbou
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/fu8ddqxJjNh6hNQrSV3_3G4uqUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250723-SEA-ChermoulaSardines-VyTran-HERO-67bb74e114254c849c60bf75c7b55a01.jpg

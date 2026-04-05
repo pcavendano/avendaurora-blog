@@ -1,0 +1,36 @@
+title: Administrador
+icon: 👑
+
+permissions:
+  access:
+    panel: true
+    site: true
+    users: true
+  site:
+    update: true
+  pages:
+    create: true
+    read: true
+    update: true
+    delete: true
+    sort: true
+    changeSlug: true
+    changeStatus: true
+    changeTemplate: true
+  files:
+    create: true
+    read: true
+    update: true
+    delete: true
+    sort: true
+  users:
+    create: true
+    read: true
+    update: true
+    delete: true
+
+fields:
+  bio:
+    label: Biografía
+    type: textarea
+    translate: true

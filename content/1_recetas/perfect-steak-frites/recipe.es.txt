@@ -1,0 +1,267 @@
+Title: Perfect Steak Frites
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Recreating steak frites at home can be tricky. But with the right techniques, you can make a restaurant-worthy steak and extra-crispy fries—complete with a creamy sauce—in your very own kitchen.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Two 1- pound each bone-in or boneless ribeye o r strip steaks, 1 1/4 to 1 1/2 inches thick, trimmed
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosh er salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil such a vegetable or canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: A few thyme sprigs and sliced shallots
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: russet potatoes , peeled and cut lengthwise into 1/2-inch by 1/2-inch fries
+  preparation: keep raw potato sticks submerged in a bowl of water after cutting
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kos her salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: cups
+  ingredient: neutral oil, such as peanut, vegetable or canola, for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: strained rendered beef fat from cooking the steaks or bacon or duck fat for frying, optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: drained, rinsed green peppercorns packed in brine
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: minced shallot , from about 1 medium shallot
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: homemade beef stock or homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: brandy
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: thyme sprig
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: heavy cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Steaks: Pat steaks dry with paper towels. Season liberally with salt. Allow to rest at room temperature for at least 40 minutes and up to 2 hours. Alternatively, place on a plate or on a rack over a baking sheet in the refrigerator for up to 24 hours. Remove from refrigerator at least 40 minutes before cooking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, for the Frites: In a 6-quart Dutch oven, add potatoes, distilled white vinegar, 3 quarts (2.8L) water, and 3 tablespoons (36g) salt. Bring to a boil over high heat and boil until potatoes are just beginning to soften and bend slightly, but not fully cooked, about 7 minutes. Drain and spread into an even layer on a wire rack set in a rimmed baking sheet and blot dry with paper towels; set aside while cooking the steaks.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Cook the Steaks: In a large stainless-steel, cast iron, or carbon steel skillet, heat oil over high heat until smoking. Season steaks with pepper, add to pan, and cook, flipping with tongs every 2 minutes until well browned on all sides (including edges, which you can sear by holding steaks sideways with tongs) and the internal temperature has reached 110°F (43°C) for rare or 130°F (54°C) for medium (steak will continue to cook for a bit afterward), 6 to 12 minutes depending on thickness.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add butter and optional aromatics to pan and continue to cook, flipping often, for an additional 2 minutes. Remove from pan and let rest in a warm place for at least 5 minutes before serving. Pour off all but 1 tablespoon remaining beef fat from pan and set pan aside (do not wash).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Fry the Potatoes: Once steaks are cooked and set aside, combine the blanched potatoes, oil, and strained 1/4 cup beef fat, bacon or duck fat (if using) in a large Dutch oven. Cook over high heat until oil is bubbling vigorously, about 5 minutes (oil temperature will hover around 245℉/118℃). Reduce heat to medium-high and continue to cook, without stirring, until potatoes are limp but exteriors are beginning to firm,12 to 15 minutes (during this stage, oil should quickly but gently bubble around the fries; lower heat if bubbling too vigorously).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a thin metal spatula or cooking chopsticks, very gently scrape under and between potatoes to loosen them and prevent sticking. Continue to cook, gently stirring to prevent sticking, until light golden and crisp, 5 to 10 minutes longer. Using a skimmer or large slotted spoon, transfer fries to a paper towel-lined plate or rimmed baking sheet. Season liberally with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, for the Green Peppercorn Sauce: While the fries are cooking, add butter to reserved fat in steak pan and melt over medium-low heat. Add peppercorns and shallot and cook, stirring frequently, until shallot is softened, 3 to 5 minutes. Add flour and cook, stirring constantly, until fully combined and no lumps or raw flour smell remains, 2 minutes. Increase heat to medium and whisk in broth and brandy and a sprig of thyme. Bring to boil. Cook, whisking occasionally, until mixture reduces to 11/2 cups, 12 to 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add cream and cook, whisking occasionally, until reduced to 2 cups, about 10 minutes. Remove thyme sprig and season with salt and pepper to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Serve: If needed, reheat steaks under a preheated broiler, 1 to 2 minutes per side, and return sauce to the heat to warm through. Serve steaks with fries and green peppercorn sauce.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- 12-inch cast iron, carbon steel, or stainless-steel skillet, large Dutch oven, spider skimmer
+- An equivalent weight of porterhouse, T-bone, tenderloin, hanger, or flank steak can be used in place of ribeye steak. Try to get steaks at least one-and-a-half inches thick. If using a thinner cut of steak, shorten cooking time accordingly.
+- Make sure to use European-style or French-style green peppercorns and not Thai-style green peppercorns as the flavor of the brine is slightly different.
+- The sauce is best enjoyed right away, but it can be refrigerated in an airtight container for up to 2 days. Gently reheat in a saucepan over low heat on the stove top, whisking constantly before serving.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, beef-main-recipes
+
+----
+
+Seo_title: Perfect Steak Frites | Avenda Aurora
+
+----
+
+Seo_description: Recreating steak frites at home can be tricky. But with the right techniques, you can make a restaurant-worthy steak and extra-crispy fries—complete with a crea
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/JCn3FxU6t5KLkgozRMre5jLVzv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241016-SteakFrites-AmandaSuarez-00-9ee48032a63f448da9db43ebc6f501b5.jpg

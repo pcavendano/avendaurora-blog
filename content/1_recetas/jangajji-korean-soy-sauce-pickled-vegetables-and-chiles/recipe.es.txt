@@ -1,0 +1,143 @@
+Title: Jangajji (Korean Soy Sauce-Pickled Vegetables and Chiles)
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: Salty, sweet, spicy, and crunchy soy sauce pickles.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: cup
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: maple syrup
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: large
+  ingredient: yellow onion , cut into 1 1/2- to 2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: garlic cloves , halved lengthwise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: moderately hot chiles such as jalapeños or Italian long hot chiles, stemmed and sliced into 3/8-inch-thick rounds
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: mild chiles, such as green asagi gochu Korean chiles, shishitos , or Jimmy Nardellos, stemmed and sliced into 3/8-inch-thick rounds
+  preparation: about 1 cup
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: chayote squash, kohlrabi, or daikon radish , peeled and cut into 1- by 1- by 1/2-inch pieces
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, east-asian-recipes, korean-recipes
+
+----
+
+Seo_title: Jangajji (Korean Soy Sauce-Pickled Vegetables and Chiles) | Avenda Aurora
+
+----
+
+Seo_description: Salty, sweet, spicy, and crunchy soy sauce pickles.
+
+----
+
+Original_author: Sunny Lee
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/e4w4Rdg9E4ZtwN_ys-WIUg7h1ag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210715-jangajji-soy-sauce-pickled-vegetables-vicky-wasik-seriouseats-10-2f28a9bcdbe9495ca6271594fdf5eed9.jpg

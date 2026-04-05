@@ -1,0 +1,229 @@
+Title: Halo-Halo (Filipino Shaved Ice Dessert)
+
+----
+
+Category: postres
+
+----
+
+Description: Shaved ice, fruit, tapioca pearls, evaporated milk, ube ice cream, and leche flan.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5 1/2"
+  unit: ounces
+  ingredient: granulated sugar
+  preparation:  3/4 cup ; 155 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: Saba bananas , peeled, halved lengthwise, and cut into 1/2-inch thick slices on a bias
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 3/4"
+  unit: ounces
+  ingredient: granulated sugar
+  preparation:  1/4 cup plus 2 tablespoons ; 80 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: ripe jackfruit , cut into 1/2-inch thick strips
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: large white tapioca pearls
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: dark brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: pandan extract
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Scant 1 cup ice cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: evaporated milk
+  preparation:  2 tablespoons ; 30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Other add-ins , as desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: -inch square leche flan
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: -ounce scoop ube ice cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Saba Bananas in Syrup (Minatamis na Saging): In a 2-quart saucepan, combine water and sugar. Bring to a boil over high heat. Add bananas and lower heat to maintain a steady simmer. Cook until syrup has slightly reduced, about 20 minutes. Remove from heat, transfer to heatproof medium bowl (you should have about 2 1/2 cups; 650g), and let cool to room temperature, about 45 minutes. Cover and refrigerate until cold, about 2 hours. Clean saucepan.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Jackfruit in Syrup (Minatamis na Langka): In now-clean saucepan, add water and sugar. Bring to a boil over high heat. Add jackfruit and lower heat to maintain a steady simmer. Cook until syrup has slightly reduced and thickened in consistency, about 8 minutes. Remove from heat and let cool to room temperature, about 30 minutes. Transfer to an airtight container (you should have about 1 cup; 285g) and refrigerate until cold, about 2 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Tapioca Pearls in Syrup (Sago): In a 4-quart saucepan, bring water to a boil over high heat. Add tapioca pearls and cook, stirring occasionally and scraping the bottom, until tapioca pearls have started to become translucent, about 30 minutes. Add sugar and continue to cook, stirring occasionally, until tapioca pearls are translucent and chewy, about 20 minutes. Strain mixture through a fine-mesh strainer set over a large heatproof bowl; return strained sugar-water mixture to saucepan. Rinse tapioca pearls under cold running water; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bring sugar-water mixture in saucepan to a boil over high heat. Lower heat to maintain a simmer and cook until reduced by roughly half, about 15 minutes. Stir in pandan extract. Remove from heat and let cool to room temperature, about 45 minutes. Combine tapioca pearls and syrup in an airtight container (you should have about 3 cups; 725g total) and refrigerate until cold, about 2 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Assemble Halo-Halo: In a blender or ice shaver, blend ice until small and fine in texture. In a tall, 12-ounce glass, add half of the ice, then add 2 tablespoons each of Saba bananas, jackfruit, and tapioca pearls, and other add-ins of your choice, except leche flan and ube ice cream, until glass is 3/4 full. Top with remaining ice, evaporated milk, leche flan, and ube ice cream. Serve immediately with a long handle spoon.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 2- and 4-quart saucepan, ice shaver or blender , 12-ounce tall glass
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Saba bananas are endemic to the Philippines and are considered a cooking banana, although they can be eaten raw as well. Fresh or frozen Saba bananas can be found in Filipino and Asian markets. If using frozen Saba bananas, defrost in the refrigerator overnight. Fresh ripe plantains (&#34;maduros&#34;) that are primarily black with spots of yellow can also be used as a substitute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Jackfruit can be found fresh in Asian markets. The ripe fruit has internal orange “petals” that surround a large, brown, edible seed. When preparing jackfruit, make sure to oil your hands before handling the fruit, which secretes a sticky white sap when cut that can be tricky to wash off. The other option is to use gloves (I recommend oiling the gloves as well). If fresh jackfruit is unavailable, substitute with canned jackfruit in syrup, which can be found in Asian markets and online (using this would replace making the jackfruit in syrup in Step 2, just be sure to cut the jackfruit into 1/2-inch thick strips before adding to the halo-halo).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pandan extract has a mild grassy vanilla flavor with hints of coconut. It is sold in many Asian supermarkets and online, as well.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Saba bananas in syrup, jackfruit in syrup, and tapioca pearls in syrup can be prepared ahead of time and refrigerated in separate airtight containers for up to 3 weeks.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, filipino-recipes
+
+----
+
+Seo_title: Halo-Halo (Filipino Shaved Ice Dessert) | Avenda Aurora
+
+----
+
+Seo_description: Shaved ice, fruit, tapioca pearls, evaporated milk, ube ice cream, and leche flan.
+
+----
+
+Original_author: Yana Gilbuena
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/BFOTGU6QuqQNrKjC32V0zlV3YsE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210723-Halo-Halo-Rezel-6-bd75b9567f5244d396a0b710fb3157ef.jpg

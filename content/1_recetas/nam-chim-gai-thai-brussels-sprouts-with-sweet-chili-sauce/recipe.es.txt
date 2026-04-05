@@ -1,0 +1,201 @@
+Title: Nam Chim Gai (Thai Brussels Sprouts With Sweet Chili Sauce)
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: Crispy and delicious roasted Brussels sprouts are satisfying on their own, but finished with sweet chili sauce and pancetta, they’re a sure crowd pleaser.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: Brussels sprouts , stems trimmed, cut in half lengthwise
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: diced pancetta or bacon, cut into 1/4-inch strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutra l oil, such as vegetable or canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt; if using table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: sweet chili sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoon
+  ingredient: sriracha sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: t ablespoon lime juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and place a rimmed baking sheet on rack. Preheat oven with sheet to 500°F (260°C).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add pancetta to a small skillet and cook over medium heat, stirring and tossing occasionally until crisp on all sides and fat is rendered, 5 to 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer to fine-mesh strainer set over large heat-proof bowl. You should have about 1 tablespoon of fat. Add neutral oil to the fat and toss sprouts in bowl until well coated. Sprinkle with salt, season with freshly ground black pepper, and toss to coat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Working quickly, remove the baking sheet with oven mitts and spread sprouts into a single layer, cut side down. Roast until tender on top and browned on bottom, about 15 to 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, make the glaze. In a medium saucepan, whisk to combine sweet chili sauce, butter, fish sauce, water, and sriracha. Cook over medium-high heat, whisking constantly, until sauce is bubbling and thick enough to coat a spoon, 2 to 3 minutes. Remove from heat and let cool slightly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove sprouts from oven. Stir in reserved crisped pancetta or bacon and immediately drizzle with lime juice and shake to coat. Transfer to a serving platter. Drizzle glaze over the sprouts. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Rimmed baking sheet
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Look for sprouts about 1 ½ inches in diameter with tight heads.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Leftovers are best within 2 days. Freezing Brussels sprouts is not ideal because the texture changes somewhat unpleasantly once reheated.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Sauce can be made 1 day ahead. Let cool completely, cover, and chill. Bring to room temperature before using.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, brussel-sprout-recipes
+
+----
+
+Seo_title: Nam Chim Gai (Thai Brussels Sprouts With Sweet Chili Sauce) | Avenda Aurora
+
+----
+
+Seo_description: Crispy and delicious roasted Brussels sprouts are satisfying on their own, but finished with sweet chili sauce and pancetta, they’re a sure crowd pleaser.
+
+----
+
+Original_author: Perry Santanachote
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/fdeq1TBR4lbwow255qSusvT7bKE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241119-SEA-BrusselSproutswithSweetChiliSauceNamChimGai-DeliStudios-Hero1-48-f4f85aca86234f5292f8b3b05533a69b.jpg

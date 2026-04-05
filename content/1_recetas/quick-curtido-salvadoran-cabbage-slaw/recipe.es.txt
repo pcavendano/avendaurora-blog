@@ -1,0 +1,138 @@
+Title: Quick Curtido (Salvadoran Cabbage Slaw)
+
+----
+
+Category: desayunos, platos-fuertes
+
+----
+
+Description: What sauerkraut is to a dog and kimchi is to a Korean pancake, curtido is to a variety of Latin American dishes. Traditional curtido is prepared days in advance of when it&#39;ll be eaten, enabling it to develop a fermented tang. This shortcut version is a nice fallback when you don&#39;t have time to think ahead.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: small
+  ingredient: green cabbage , cored and very thinly sliced
+  preparation: about 4 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: white onion , peeled and very thinly sliced
+  preparation: about 1/2 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: carrots , peeled and shredded
+  preparation: about 1/2 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: jalapeño , ribs and seeds removed, minced
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: apple cider vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large bowl, toss together cabbage, onion, carrot, and jalapeño, if using. In a small saucepan, combine vinegar, salt, and sugar and cook over medium heat, stirring, until salt and sugar are just dissolved. Pour brine over vegetables and toss to combine. Cover and refrigerate for 1 hour before serving (see note).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Curtido is ready within 1 hour, but improves with time. It can be stored in airtight containers in the refrigerator for up to one month.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, central-american-recipes, salvadoran-recipes
+
+----
+
+Seo_title: Quick Curtido (Salvadoran Cabbage Slaw) | Avenda Aurora
+
+----
+
+Seo_description: What sauerkraut is to a dog and kimchi is to a Korean pancake, curtido is to a variety of Latin American dishes. Traditional curtido is prepared days in advance
+
+----
+
+Original_author: Lauren Rothman
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/J2Ft2ht6F4St48YHPvw0NuREP8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__05__20140512-quick-curtido-primary-6654bcc0546a4fc093ddedc0c0ca862d.jpg

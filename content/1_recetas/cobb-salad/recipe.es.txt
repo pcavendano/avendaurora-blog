@@ -1,0 +1,202 @@
+Title: Cobb Salad
+
+----
+
+Category: salsas
+
+----
+
+Description: This classic Cobb salad recipe hits the sweet spot with just the right balance of hearty ingredients, such as crisp lettuce and bacon, savory chicken and hard-boiled eggs, creamy blue cheese and avocado all tossed together with the star of the show: a tangy vinaigrette. It’s a hearty dinner salad perfect for any night of the week.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: red wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: shallot , roughly chopped
+  preparation: about 1/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: honey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2/3"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: small
+  ingredient: heads romaine lettuce , chopped
+  preparation: about 10 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: poached chicken breasts ,
+  preparation: about two 12 ounce ; 340 g each
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: cherry tomatoes , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: slices
+  ingredient: cooked bacon , roughly chopped
+  preparation: about 1 cup chopped
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: avocado , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: hard-boiled eggs , quartered lengthwise into wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: blue cheese , crumbled
+  preparation:  1 cup crumbled
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a blender, process red wine vinegar, shallot, Dijon, honey, salt, and pepper on high until smooth, about 20 seconds. With machine running, slowly add oil in a steady stream until emulsified, about 1 minute. Pour vinaigrette into a bowl; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large bowl, toss lettuce with 1/2 cup of prepared vinaigrette, and season to taste with salt and pepper. Transfer to a serving bowl or platter.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In now-empty large bowl, toss chicken with 2 tablespoons vinaigrette until evenly coated.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Arrange dressed chicken over dressed lettuce. In now-empty bowl, toss cherry tomatoes and 2 tablespoons vinaigrette, and decoratively arrange over lettuce. Top salad with bacon, avocado, eggs, and blue cheese. Serve with remaining 1/2 cup vinaigrette for drizzling over top.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The dressing can be made ahead and refrigerated in an airtight container for up to 5 days. Briefly whisk or shake in a tightly sealed jar to recombine before using.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes
+
+----
+
+Seo_title: Cobb Salad | Avenda Aurora
+
+----
+
+Seo_description: This classic Cobb salad recipe hits the sweet spot with just the right balance of hearty ingredients, such as crisp lettuce and bacon, savory chicken and hard-b
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ccbsc1ZLtdmBkZnNuSx4Hlwy7pc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250423-SEA-CobbSalad-VictorProtasio-Beauty1-28-f4b76171d94f4ab99cbcd013f07b7c71.jpg

@@ -1,0 +1,221 @@
+Title: Baked Eggplant with Lamb and Walnut Sauce
+
+----
+
+Category: postres, platos-fuertes
+
+----
+
+Description: A Turkish-inspired dish with a ragu as complex as bolognese that can be made in a fraction of the time. The principal spice blend in the sauce is called janissary spice, the product of Turkish spice blender in Istanbul, but it&#39;s easy to replicate at home. Seek out maraş chiles, which are intensely sweet, not that hot, and carry the rich flavors of sun-warmed tomatoes with hints of red bell pepper for the blend. You can find them at Cambridge&#39;s Formaggio Kitchen and Oakland&#39;s Market Hall foods (both sell online as well). Easier-to-find aleppo makes a good, if not more tart and spicy substitute.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: long hot peppers , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cloves
+  ingredient: garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: janissary spice
+  preparation: recipe to follow
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: cumin seeds , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: chopped walnuts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: ground lamb
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can of tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: pomegranate molasses, or balsamic vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh chopped mint , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: Italian eggplant
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: ground maraş or aleppo chile
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 4 teaspoons sumac , or to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For lamb and walnut sauce: Heat oil in a large sauté pan or Dutch oven on medium, then add onions, long hot peppers, and garlic. Cook, stirring frequently, until vegetables soften, about 5 minutes. Increase heat slightly and add janissary spice and 1/2 teaspoon cumin, stir to combine, and cook for 30 seconds. Add walnuts and cook for 1 to 2 minutes, or until they begin to toast and brown.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Increase heat slightly, add some more olive oil if pan looks dry, and add lamb. Lamb should brown but not sear. Season with a couple generous pinches of salt, and break up large clumps with a wooden spoon and cook until lamb is lightly browned. Add tomatoes, stir to combine, and bring to a boil. Reduce to a simmer and cook, covered, for 45 minutes, or until lamb is very tender. Before serving, check for seasoning and stir in pomegranate molasses and remaining 1/4 teaspoon of cumin seed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For baked eggplant: Heat oven to 375°F. Cut eggplant in half lengthwise, leaving stems intact. Drizzle some olive oil on baking sheet. Season cut sides of eggplant with several pinches of salt, then place cut side down on baking sheet and spread oil to an even film. Season skin sides of eggplant and drizzle with more olive oil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bake for 30 minutes, or until skins are wrinkled and eggplant offers no resistance to a knife. Carefully flip eggplant over with tongs or a long, thin offset spatula, so cut sides point up. Broil until cut sides are well browned, just a couple minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To serve, spread some lamb and walnut sauce on a serving platter. Arrange eggplant cut side up, then top with remaining sauce. Garnish with freshly chopped mint leaves.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For janissary spice: Combine chile and oregano in an airtight bag or jar. If using whole chiles, remove seeds before grinding. Add sumac in small increments; spice mix should not taste sour or tart, but should have a slight piquancy. Sweeter chiles will require more sumac than spicier varieties. Store tightly sealed in a cool, dark place. Recipe makes about 1/2 cup; use within 3 months.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, vegetable-main-recipes
+
+----
+
+Seo_title: Baked Eggplant with Lamb and Walnut Sauce | Avenda Aurora
+
+----
+
+Seo_description: A Turkish-inspired dish with a ragu as complex as bolognese that can be made in a fraction of the time. The principal spice blend in the sauce is called janissa
+
+----
+
+Original_author: Max Falkowitz
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/6Xxc-9oxVyWvdos9qyaRPL40xq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__02__20120216-192915-lamb-eggplant-walnut-d86840940d19401f807f5eba771091c9.jpg

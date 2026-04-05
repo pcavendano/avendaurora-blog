@@ -1,0 +1,145 @@
+Title: Corn Salad With Furikake and Shiso
+
+----
+
+Category: bebidas, salsas
+
+----
+
+Description: This riff on a restaurant&#39;s &#34;Japanese elotes&#34; is my favorite use for summer&#39;s fresh corn and herbs.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: 
+  ingredient: ears fresh corn on the cob
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: lightly packed finely sliced scallions , green parts only
+  preparation:  3 to 4 medium scallions 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: lightly packed chiffonaded fresh shiso leaves , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: mayonnaise, preferably Kewpie
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: fresh lime juice , plus lime wedges for garnish
+  preparation:  2 limes 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: furkikake , plus more for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: nutritional yeast , plus more to taste
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Working in 2 batches on a large plate or bowl, microwave corn in husk on high until tender, 5 to 6 minutes. (Alternatively, use your favorite method for cooking corn on the cob .)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Let corn cool slightly. When cool enough to handle, place one cob flat on cutting board. Hold the cob firmly in place with one hand, and, using a sharp knife, slice off kernels, rotating the cob as needed to remove all the kernels. Repeat with remaining cobs; you should have about 4 cups (20 ounces or 567 g) of kernels. (Alternatively, use your favorite method for cutting kernels from the cob .)
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, corn-recipes
+
+----
+
+Seo_title: Corn Salad With Furikake and Shiso | Avenda Aurora
+
+----
+
+Seo_description: This riff on a restaurant&#39;s &#34;Japanese elotes&#34; is my favorite use for summer&#39;s fresh corn and herbs.
+
+----
+
+Original_author: Megan O. Steintrager
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/7JEUNXhNoUkQ48DHHgEx4HPAF4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250723-SEA-CornSalad-AmandaSuarez-11-a16cc9ed2bc048d49b9df1f407b06254.jpg

@@ -1,0 +1,271 @@
+Title: Tamarind-Braised Beef Short Ribs
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: These tamarind-braised beef short ribs cook low and slow until fork-tender, then are glazed in a savory, glossy sauce with bright, tangy balance.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "5"
+  unit: pounds
+  ingredient: beef short ribs , English- or flanken-cut
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: tamarind paste
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: honey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano chile pepper , stemmed and chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: jaggery or dark brown sugar
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch of asafetida
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: kosher salt , plus more for seasoning; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral oil such as vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: yellow onion , cut into 1/2-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: carrots , cut into 1/2-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: sprigs fresh thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: cups
+  ingredient: homemade beef or chicken stock or store-bought low-sodium chicken broth over it and let set for 5 minutes; see notes)
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: minced flat-leaf parsley leaves
+  preparation:  10 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: minced cilantro leaves
+  preparation:  10 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a food processor, pulse tamarind paste, honey, 1 tablespoon (12g) salt, jaggery, serrano, and asafetida (if using) into a finely ground paste. Rub paste evenly over the short ribs, coating all sides thoroughly. Cover and refrigerate for 1 to 3 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Adjust oven rack to lower-middle position and heat oven to 300°F (150°C). Pat ribs lightly to remove excess surface moisture, if needed. Season with black pepper. In a large Dutch oven, heat oil over medium-high heat until shimmering. Working in batches, brown ribs quickly on all sides, about 30 seconds per side; reserve any remaining marinade. Transfer to a plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Vegetables and Braise: Add butter and olive oil to the Dutch oven and heat over medium-high heat until butter is melted. Add the onion and carrots, and cook until the vegetables soften and begin to brown, 10 to 12 minutes. Stir in garlic, tomato paste, bay leaves, and thyme, and cook until fragrant and tomato paste darkens, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add stock and any remaining tamarind marinade to pot, whisking and scraping up browned bits from the bottom. Return ribs to Dutch oven, nestling them into the vegetables and liquid. Bring to a gentle simmer. Cover partially with lid and transfer to the oven. Cook until ribs are fork-tender, 2 1/2 to 3 1/2 hours (this can vary depending on the beef used).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer ribs carefully to a platter and tent with aluminum foil. Strain the braising liquid into a large bowl, pressing solids to extract flavor. Discard solids. Let liquid settle, skim excess fat, and return to clean Dutch oven. Simmer over medium heat until reduced to a glossy, spoon-coating jus, about 20 to 35 minutes. Season to taste with salt and pepper. Return ribs to the pot to warm and glaze in the reduction. Sprinkle with fresh parsley and cilantro and serve with lime wedges.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Food processor, large Dutch oven, aluminum foil, strainer
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Tamarind paste and concentrate is sold in stores are ready-to-use products made from processed tamarind pulp or pods, free of seeds and fibers. The labels &#34;tamarind concentrate&#34; and &#34;tamarind paste&#34; are used interchangeably, which can confuse when reading recipes and shopping. Look for Indian tamarind concentrate, which is black and sticky.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can use English-cut or flanken-cut short ribs for this recipe. English-cut short ribs are cut such that one rib bone runs along the length of each portion; flanken-cut ribs slice across the ribs so that each piece has cross-sections of several rib bones in it. If using English-cut short ribs, try to find ones about 4 inches long each. If using flanken-cut, make sure that each slab is about two inches thick (flanken-cut short ribs often come in thinner slabs). You can divide flanken-cut ribs between the bones so that you have more manageable pieces to work with. In all cases, look for well-marbled short ribs with a nice meaty portion on each (at least 1 1/2 inches of meat above the bones).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Jaggery is an unrefined sugar commonly found in Indian and other South Asian markets. Brown sugar works well as a substitute here.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- A good homemade stock will set like jelly when refrigerated; this natural gelatin helps give the sauce its final consistency. If you don&#39;t have good homemade stock, add 1 packet unflavored gelatin to store-bought stock per recipe instructions.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes, short-rib-recipes
+
+----
+
+Seo_title: Tamarind-Braised Beef Short Ribs | Avenda Aurora
+
+----
+
+Seo_description: These tamarind-braised beef short ribs cook low and slow until fork-tender, then are glazed in a savory, glossy sauce with bright, tangy balance.
+
+----
+
+Original_author: Deepa Shridhar
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/OCMOlDoiA2BVt4sw10PYmZaB2ZY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251219-SEA-Tamarind-Short-Ribs-Vy-Tran-HERO-0d62d498945547eda5c6a2388911ee06.jpg

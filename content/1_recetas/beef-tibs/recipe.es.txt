@@ -1,0 +1,157 @@
+Title: Beef Tibs
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: The sauce in this dish gets its kick from berbere, an Ethiopian chile powder fragrant with cardamom, fenugreek, and clove. Use it once and you&#39;ll see why a good chunk of Ethiopian cuisine is built on it.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: niter kibbeh , or plain unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: onions , chopped medium
+  preparation: about 2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 3"
+  unit: 
+  ingredient: -inch knob ginger , minced, about 2 tablespoons
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , minced, about 2 tablespoons
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: berbere
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: beef sirloin , cut into 1-inch cubes, trimmed of excess fat and connective tissue
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: lemon juice , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Melt niter kibbeh or butter in a heavy saucepan on medium heat, then add onions, ginger, garlic, and berbere. Reduce heat to medium-low and cook, stirring occasionally, until onions are dark, ruddy, and golden, about 30 minutes. Onions should be at a low sizzle during cooking process. Adjust heat accordingly. Transfer to food processor and blend until not quite a purée. Return to saucepan, season to taste with salt, and keep warm.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season beef on all sides generously with kosher salt. Heat oil in a 12-inch cast iron or stainless steel skillet over high heat high until lightly smoking. Add beef in a single layer, leaving plenty of open space in the pan (brown in batches if you don&#39;t have a large enough skillet). Cook without moving until well-seared on one side, about 3 minutes. Flip meat cubes with tongs and cook on second side until well seared. Continue to cook meat, stirring and flipping occasionally until desired level of doneness is reached. For rare meat, transfer to saucepan immediately. For medium, cook an additional one to two minutes before transferring to saucepan. For well done, cook up to five more minutes before transferring to saucepan.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Toss beef with warm sauce, stir in lemon juice, and serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, african-recipes, east-african-recipes
+
+----
+
+Seo_title: Beef Tibs | Avenda Aurora
+
+----
+
+Seo_description: The sauce in this dish gets its kick from berbere, an Ethiopian chile powder fragrant with cardamom, fenugreek, and clove. Use it once and you&#39;ll see why a 
+
+----
+
+Original_author: Max Falkowitz
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/zlQaslDkYz-Bk2k5OQ5TjV_YZm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__03__20120308-195838-beef-tibs-primary-2-bacedf49db154c1d9d5dab5043edc350.jpg

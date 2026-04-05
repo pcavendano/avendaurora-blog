@@ -1,0 +1,187 @@
+Title: 5-Ingredient Black Bean Soup
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Black bean soup using canned beans doesn&#39;t have to taste rushed. This five-ingredient recipe delivers rich flavor and creamy texture in under 30 minutes.
+
+----
+
+Cover: 
+
+----
+
+Prep-time: 
+
+----
+
+Cook-time: 
+
+----
+
+Total-time: 
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: small
+  ingredient: white or yellow onion , finely chopped
+  preparation:  1/2 cup chopped
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: chipotle chile from 1 can of chipotles in adobo , finely chopped
+  preparation:  1 tablespoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can black beans , undrained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: homemade chicken stock or vegetable stock or store-bought low-sodium chicken or vegetable broth, plus more as needed, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: lime zest plus 1 tablespoon juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sliced scallion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crumbled cotija cheese
+  preparation: 
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: ""
+  instruction: In a large saucepan, heat oil over medium-high until shimmering. Add onions, and cook, stirring occasionally, until just softened, about 5 minutes. Add chipotle chile and cook, stirring constantly, until fragrant, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in black beans and their liquid, lime zest and juice, salt, and 1 cup (240 ml) of the broth; bring to a simmer. Once at a simmer, reduce to medium-low. Cover and cook, undisturbed, until the flavors meld and the mixture is slightly thickened, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve immediately with optional lime wedge, sour cream, cilantro, scallions, or crumbled cotija cheese, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Medium saucepan, potato masher
+  tip: ""
+  step_image:
+
+----
+
+Tips: 
+
+----
+
+History: 
+
+----
+
+Enable-kits: false
+
+----
+
+Store-kits: 
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, bean-recipes
+
+----
+
+Seo-title: 5-Ingredient Black Bean Soup | Avenda Aurora
+
+----
+
+Seo-description: Black bean soup using canned beans doesn&#39;t have to taste rushed. This five-ingredient recipe delivers rich flavor and creamy texture in under 30 minutes.
+
+----
+
+Original-author: Leah Colins
+
+----
+
+Original-image: https://www.seriouseats.com/thmb/yi_A7UZfjYJpCvYgpTAsqSwH5Fg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20260116-SEA-5IngredientBlackBeanSoup-GregDuPree-08-a6e01566740a476194af6bb5d386e130.jpg
+
+----
+
+Uuid: ZCe9kKGz45M8WKVP

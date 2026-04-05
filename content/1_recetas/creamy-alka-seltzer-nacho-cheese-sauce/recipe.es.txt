@@ -1,0 +1,163 @@
+Title: Creamy Alka-Seltzer Nacho Cheese Sauce
+
+----
+
+Category: bebidas, salsas
+
+----
+
+Description: Alka-Seltzer contains two key ingredients—baking soda and citric acid—that react to form sodium citrate, the emulsifying salt that is the secret to all processed cheese sauces. This recipe leverages that salt to give you the smoothest, creamiest cheese sauce in under 5 minutes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: original flavor, non-aspirin Alka-Seltzer tablets
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: shredded melting cheese , such as cheddar , Gruyere , Swiss , provolone , and/or Jack
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: pickled jalapeño juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: yellow mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: cayenne pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a microwave-safe bowl, stir together water and Alka-Seltzer. Let stand until fizzing stops, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add butter to the bowl and microwave until the butter is melted, about 30 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the shredded cheese to the bowl. Microwave in 30-second increments until cheese is melted and bubbly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a fork or small whisk, stir until the sauce is smooth, adding any optional flavorings if desired. Let stand until perfectly thickened, 1 to 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Microwave and microwave-safe bowl
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: It is essential that you use non-aspirin Alka-Seltzer, which is often sold under the Alka-Seltzer Gold label. Do not—we repeat: DO NOT—make this cheese sauce with Alka-Seltzer with aspirin ; doing so could pose a significant health risk, as aspirin is a potent medicine with potentially dangerous side effects,the dosage would be particularly unsafe in this sauce, and heating the aspirin can increase its potency even more. We also recommend reading the full Alka-Seltzer ingredient list just in case it contains anything you or a diner may be specifically allergic to.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This sauce can also be made on stove top: In a saucepan, combine water with Alka-Seltzer and let stand until fizzing ceases. Add butter and heat over medium heat until melted, then whisk in shredded cheese until fully melted and a smooth sauce has formed. Season with flavorings of choice, let cool slightly, then use as desired.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, cheese-recipes
+
+----
+
+Seo_title: Creamy Alka-Seltzer Nacho Cheese Sauce | Avenda Aurora
+
+----
+
+Seo_description: Alka-Seltzer contains two key ingredients—baking soda and citric acid—that react to form sodium citrate, the emulsifying salt that is the secret to all processe
+
+----
+
+Original_author: Swetha Sivakumar
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/9z5W4EvzahgzDLcG9Anr8dgG0N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240506-SEA-AlkaSeltzerNachoCheese-AmandaSuarez-HERO1-ceedd89a01bc4d8f9e1d3d3a523d4300.jpg

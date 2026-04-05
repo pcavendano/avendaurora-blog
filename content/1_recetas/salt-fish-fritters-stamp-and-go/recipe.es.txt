@@ -1,0 +1,191 @@
+Title: Salt Fish Fritters (Stamp and Go)
+
+----
+
+Category: mariscos
+
+----
+
+Description: A winning combination of salt cod, thyme, Scotch bonnet pepper, and scallion makes these crisp, savory fritters irresistible.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: pound
+  ingredient: boneless salt cod
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: yellow onion , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: plum tomato , cored and finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: scallion , end trimmed and scallions minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: Scotch bonnet pepper , stemmed, seeded, and minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: fresh thyme leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much my volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6 3/4"
+  unit: ounces
+  ingredient: all-purpose flour
+  preparation:  191 g ; about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: vegetable or other neutral oil for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Aïoli or remoulade , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large bowl, cover salt cod completely with cold water, transfer to refrigerator, and let soak for at least 8 or up to 12 hours. Drain and rinse salt cod with cold water, then transfer to cutting board.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using 2 forks or your hands, flake salt cod into pieces, making sure to remove any lingering bones (the exact size of the pieces is flexible, from very fine to bigger chunks, depending on preference). Return to large bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in onion, tomato, scallions, Scotch bonnet, thyme leaves, salt, and a generous grinding of black pepper. Fold in flour.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large cast iron skillet or stainless steel sauté pan, heat oil (oil should measure 1/2-inch deep in skillet) over medium heat until oil registers 375F (190°C). Working in batches to avoid crowding the oil, carefully drop heaping 1-tablespoon-size dollops of batter into oil; make sure to release them close to the surface to avoid splashing. Fry fritters until edges turn golden brown, about 2 minutes. Flip fritters and fry until second side is golden, about 2 minutes longer (adjusting heat as needed to maintain oil temperature between 350 and 375°F (177 to 190°C). Using a spider skimmer or slotted spoon, transfer fritters to paper towel-lined sheet tray to drain. Return oil to 375°F (190°C) and repeat with remaining batter; top up oil as needed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve hot with dipping sauce of choice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The salt cod can be soaked and flaked, then frozen in a sealed bag with the air pressed out for up to 2 weeks. When ready to use, transfer to refrigerator to defrost for about 24 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large cast iron skillet or stainless-steel sauté pan, spider or slotted spoon
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, fish-recipes, cod-recipes
+
+----
+
+Seo_title: Salt Fish Fritters (Stamp and Go) | Avenda Aurora
+
+----
+
+Seo_description: A winning combination of salt cod, thyme, Scotch bonnet pepper, and scallion makes these crisp, savory fritters irresistible.
+
+----
+
+Original_author: Michelle and Suzanne Rousseau
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/9QKGa5ER0W_T3iIancougvubN8A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230616-SEA-Savory-Fritters-Karina-Matalon-hero-ecfd9b9d88c4439b9d6d781c5ae2ae00.jpg

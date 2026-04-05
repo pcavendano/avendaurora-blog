@@ -1,0 +1,270 @@
+Title: Vegan Sweet Potato and 2-Bean Chili With Hominy
+
+----
+
+Category: salsas, vegetarianos
+
+----
+
+Description: A vegan black bean and sweet potato chili packed with the rich, complex flavor of several dried chile varieties.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: 
+  ingredient: whole sweet dried chiles like Costeño, New Mexico, or Choricero, stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: hot dried chiles like Arbol or Cascabel, stems and seeds removed
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: whole rich fruity dried chiles like Ancho, Mulatto, Negro, or Pasilla, stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: water or hearty vegan stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: raisins
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: orange juice
+  preparation: or 2 tablespoons orange juice concentrate 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole chipotle chiles in adobo sauce with 2 tablespoons sauce from can
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: onion , chopped
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: poblano pepper , chopped
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 1 tablespoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Marmite or Vegemite
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can whole peeled tomatoes , crushed by hand
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans kidney beans , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can black beans , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can hominy , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: sweet potatoes , peeled and cut into 1/2-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vodka or bourbon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: corn masa harina
+  preparation: see note
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place dried chiles in a large saucepan over medium heat. Toast, stirring and flipping the chiles occasionally, until pliable, lightly puffed, and fragrant, about 4 minutes. Add stock, raisins, and orange juice, and simmer, stirring occasionally, until chiles are fully hydrated and tender, about 15 minutes. Drain chiles and raisins, reserving water separately. Transfer chiles to a blender or hand blender cup. Add chipotles and their sauce. Blend until completely smooth.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat oil in a large saucepan or Dutch oven over medium-high heat until shimmering. Add onions and poblanos and cook, stirring frequently, until softened but not browned, about 4 minutes. Add garlic, cumin, and dried oregano and cook, stirring constantly, until fragrant, about 30 seconds. Add puréed chiles, soy sauce, and Marmite, and cook, stirring constantly, until fragrant, about 30 seconds. Add reserved chile soaking liquid, tomatoes, kidney beans, black beans, hominy, and sweet potatoes. Stir to combine and season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bring to a boil over high heat, reduce to lowest heat, cover, and cook, stirring occasionally, until sweet potatoes are fully tender and flavor has developed, 1 to 1 1/2 hours, adding more liquid as necessary if chili threatens to scorch.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When cooked, add vodka or bourbon and stir to combine. Season to taste with salt and whisk in masa in a slow steady stream until desired thickness is reached. For best results, allow chili to cool and refrigerate for at least one night and up to a week. Reheat to serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve, garnished with cilantro, chopped onions, scallions, avocado, lime wedges, and warm tortillas as desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Masa harina is a dried corn flour used to make tortillas and other corn-based Mexican dishes. It can be found under the brand name Maseca.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, chili-recipes
+
+----
+
+Seo_title: Vegan Sweet Potato and 2-Bean Chili With Hominy | Avenda Aurora
+
+----
+
+Seo_description: A vegan black bean and sweet potato chili packed with the rich, complex flavor of several dried chile varieties.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/LwiEB5FJHq2W9aw-9WcgI_cd4Nw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__02__20140202-vegan-sweet-potato-chili-beans-recipe-16-65cb20ca26ad408b8f2a1a6ce3d70a4d.jpg

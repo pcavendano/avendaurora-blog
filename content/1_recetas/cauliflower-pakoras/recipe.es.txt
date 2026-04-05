@@ -1,0 +1,157 @@
+Title: Cauliflower Pakoras
+
+----
+
+Category: vegetarianos, postres
+
+----
+
+Description: Seasoned with Kashmiri chile powder, garam masala, and turmeric, these crisp, tender cauliflower pakoras make a satisfying snack.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: cups
+  ingredient: chickpea flour
+  preparation:  8 1/2 ounces ; 240 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground red chile powder, such as Kashmiri
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: chaat masala , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: cups
+  ingredient: cold water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: head cauliflower , about 1 1/2 pounds , separated into bite-sized pieces, thick stems discarded
+  preparation: about 5 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: vegetable oil , for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Green chutney , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large mixing bowl, whisk the chickpea flour, salt, red chile powder, turmeric, and 1/2 teaspoon of the chaat masala together. Whisk in the water until completely smooth. The batter should be runny like a custard and not too thick or thin. Fold the cauliflower florets into the batter to coat evenly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 6-quart Dutch oven or wok, heat oil over medium heat until it reaches 350ºF (177ºC). Meanwhile, set a wire rack in a rimmed baking sheet. Line rack with a double layer of paper towels; set aside. Working in three batches to prevent crowding the oil, use your fingers or tongs to lift cauliflower from batter, allowing excess to drain off, then carefully lower into the oil. Fry on medium, stirring and turning pieces gently as they cook, until golden brown and crisp, 4 to 5 minutes. Using a slotted spoon or spider, transfer the fried florets to the prepared baking sheet and season with salt. Return oil to 350ºF (177ºC) and repeat twice more with remaining cauliflower florets. Sprinkle with remaining 1/4 teaspoon chaat masala. Serve hot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spider or slotted spoon, rimmed baking sheet, wire rack or paper towels, instant-read thermometer
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, south-asian-recipes, indian-recipes
+
+----
+
+Seo_title: Cauliflower Pakoras | Avenda Aurora
+
+----
+
+Seo_description: Seasoned with Kashmiri chile powder, garam masala, and turmeric, these crisp, tender cauliflower pakoras make a satisfying snack.
+
+----
+
+Original_author: Nik Sharma
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Y1M4p42Pgu-pxC2o6iCAEU-ZL3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230508-SEA-CauliflowerPakoras-AmandaSuarez-13-b69d4fa5dfab408e890a815d3eb86cef.jpg

@@ -1,0 +1,211 @@
+Title: 10-Minute Chana Masala
+
+----
+
+Category: vegetarianos
+
+----
+
+Description: With just a few technical tricks, this thick and flavorful chana masala comes together in an impossibly short time.
+
+----
+
+Cover: 
+
+----
+
+Prep-time: 
+
+----
+
+Cook-time: 
+
+----
+
+Total-time: 
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+
+-
+  quantity: "1"
+  unit: 
+  ingredient: can chickpeas , drained and liquid reserved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: grated fresh peeled ginger
+  preparation: or ginger paste from 1 frozen ginger cube ; see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: finely minced or grated garlic
+  preparation: or garlic paste from 1 frozen garlic cube ; see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: turmeric powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: cayenne pepper or red chile flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: plum tomato , cored and diced , or 1/4 cup canned diced tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: heavy cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: garam masala
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher or sea salt
+  preparation: 
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: ""
+  instruction: In a small saucepan, cover chickpeas with water, add the baking soda, bring to a boil, then cook until very tender, about 6 minutes. Drain and proceed with the recipe.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small skillet, melt butter over medium heat; as butter is melting, add ginger and garlic. Reduce heat to medium-low and cook, stirring frequently, until fragrant but not browned, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in turmeric, cayenne or chile flakes, and ground coriander and cook, stirring constantly, until lightly toasted and fragrant, about 30 seconds; do not allow spices to scorch.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in drained chickpeas and tomato paste and cook until warmed through. Meanwhile, measure 1/2 cup of reserved chickpea liquid (if necessary, add water to total 1/2 cup).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the 1/2 cup chickpea liquid, diced tomatoes, sugar, heavy cream, and garam masala, then season with salt. Bring to a boil over medium-high heat, then reduce heat to a simmer and cook, stirring often, until tomatoes break down and liquid thickens to a spoon-coating consistency, 3 to 5 minutes; reduce heat, if necessary, to prevent scorching. Remove from heat, season with more salt, if needed, then serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: I&#39;ve added the ginger and garlic to the cold pan with the butter as it melts on purpose: If you are using frozen cubes and add them directly to a heated pan, the temperature difference will cause excess spluttering. Heating the finely minced or grated ginger and garlic from cold also cooks them gently, reducing the chances of burning.
+  tip: ""
+  step_image:
+
+----
+
+Tips: 
+
+----
+
+History: 
+
+----
+
+Enable-kits: false
+
+----
+
+Store-kits: 
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, quick-dinner-recipes
+
+----
+
+Seo-title: 10-Minute Chana Masala | Avenda Aurora
+
+----
+
+Seo-description: With just a few technical tricks, this thick and flavorful chana masala comes together in an impossibly short time.
+
+----
+
+Original-author: Swetha Sivakumar
+
+----
+
+Original-image: https://www.seriouseats.com/thmb/YFQ7D6XybbMyukIjXQx0qDkJ9hY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240618SEA-10MinuteChanaMasala-AmandaSuarez-20-57c18bcf96474e7c9c428a64a8b9941f.jpg
+
+----
+
+Uuid: wunGMtrfOaAAN40W

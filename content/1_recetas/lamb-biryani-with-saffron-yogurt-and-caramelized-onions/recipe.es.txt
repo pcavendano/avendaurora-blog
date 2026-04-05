@@ -1,0 +1,299 @@
+Title: Lamb Biryani With Saffron, Yogurt, and Caramelized Onions
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Biryani is a celebration of aroma, color, and flavor, with perfectly cooked, fluffy grains of scented basmati rice and tender chunks of spiced lamb.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: boneless leg of lamb , trimmed of excess fat and cut into 1-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: plain, unsweetened full-fat yogurt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: garlic cloves , peeled and finely grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: fresh ginger , peeled and grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided; if using table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: plus 2 teaspoons ghee or neutral oil , such as grapeseed , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: yellow or white onions , sliced thinly
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: green cardamom pods , lightly cracked, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: cinnamon stick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: dried bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: garam masala , store-bought or homemade
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground Kashmiri chile
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground mace
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: water or low-sodium stock
+  preparation:  lamb , beef , or chicken 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch fresh cilantro leaves and tender stems, chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch fresh mint leaves , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: fresh green chile , such as a serrano or Thai bird , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: basmati rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh lemon or lime juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: whole milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "20"
+  unit: 
+  ingredient: strands of saffron , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: rosewater
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: pandan water
+  preparation: see note
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place lamb in a 1 gallon (3.8L) zip-top bag. In a medium bowl, mix yogurt, garlic, ginger, and 1 1/2 teaspoons salt until combined, pour yogurt mixture over lamb, seal bag, and shake bag to coat lamb well. Leave zip-top bag in refrigerator to marinate overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat 1/4 cup (60ml) ghee or oil in a Dutch oven or saucepan with a heavy bottom over medium heat. Add onions, season with a pinch of salt, and cook, stirring occasionally, until onions caramelize and turn dark brown (but not black), about 25 to 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reduce heat to low. Remove half of the caramelized onions and reserve to use as garnish for biryani. Add 3 green cardamom pods, cinnamon, cloves, bay leaves, garam masala, Kashmiri chile, mace, and turmeric, and sauté just until spices become fragrant, 30 to 45 seconds. Add lamb along with yogurt marinade, water or stock, cilantro, mint, and green chile. Stir to mix well, increase heat to medium-high, and bring liquid to a boil. Reduce heat to low, cover with lid, and cook for 30 to 45 minutes, stirring occasionally, until lamb is completely tender.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, as lamb cooks, prepare rice. Pick over rice for any debris, then place it in a fine-mesh strainer and rinse under cold running water, until runoff is no longer cloudy; drain well. Place rice in a bowl and cover with 4 cups (960ml) water and let stand for 30 minutes. Strain rice, discarding soaking water. In a large saucepan, combine rice with 4 cups cold water, lemon juice, remaining 1 1/2 teaspoons kosher salt, remaining 2 green cardamom pods, and remaining 2 teaspoons of ghee or oil and bring to a boil over medium heat. Boil for 2 minutes and then strain rice; discard cooking water. It will be partially cooked—if you break a grain of rice, you will see an outer translucent ring and a tiny, opaque inner ring.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When lamb is tender, remove lid and increase heat to medium, stirring often to prevent scorching, and cook until liquid starts to thicken and reduces to about 1 1/2 cups (360ml), about 5 minutes. Remove from heat. Using a clean, large wooden spoon or spatula, spread rice out in an even layer over meat in Dutch oven.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set oven rack at the middle position and heat oven to 350°F (180°C). Place half the saffron threads in a mortar and pestle and grind to a fine powder. In a small saucepan placed over low heat, warm milk just until it starts to bubble, then turn off heat. Add ground saffron and remaining saffron strands to hot milk and let steep for 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Sprinkle saffron-infused milk over rice, followed by rosewater and pandan water. Garnish top of the rice with reserved caramelized onions. Cover Dutch oven with two sheets of aluminum foil and crimp overhang to form tight seal, place lid over foil, and place Dutch oven in preheated oven for 20 minutes to let rice steam. Remove from oven and let stand for 5 minutes. Uncover pot and carefully peel off aluminum seal. Use a fork to loosen rice a little and serve immediately straight from Dutch oven. Alternatively, biryani can be transferred to a platter and served.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The ground Kashmiri chile can be replaced with a combination of 3/4 teaspoon ground smoked sweet paprika and 1/2 teaspoon ground cayenne.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pandan water can be purchased at specialty food stores or online.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Lamb biryani is best served immediately, but will keep in an airtight container for up to one week in the refrigerator.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, rice-grains-main-recipes
+
+----
+
+Seo_title: Lamb Biryani With Saffron, Yogurt, and Caramelized Onions | Avenda Aurora
+
+----
+
+Seo_description: Biryani is a celebration of aroma, color, and flavor, with perfectly cooked, fluffy grains of scented basmati rice and tender chunks of spiced lamb.
+
+----
+
+Original_author: Nik Sharma
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/NfZayNEn6JZe9dYH2oBQ7-9UavY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lamb-biryani-hero-01-SEA-QIAi-hero-bc09dcc1348f4876bdd2fa1e1a5f918c.JPG

@@ -1,0 +1,211 @@
+Title: Pressure Cooker Black Bean Soup With Sausage and Cumin-Lime Sour Cream
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: This easy black bean soup with smoky andouille sausage and diced mushrooms tastes like it cooked for hours, but thanks to the pressure cooker, it&#39;s ready in just one. A bright cumin-lime sour cream tops it off.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , diced
+  preparation: about 1 cup ; 200 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: stalks celery , diced
+  preparation: about 3/4 cup ; 100 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , crushed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: cremini mushrooms , stemmed, caps diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: pound
+  ingredient: smoked pork sausage, such as andouille , sliced into half moons
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: cups
+  ingredient: homemade chicken stock , store-bought low-sodium broth , or water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: dry black beans , picked over for shells
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: sprigs fresh thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: zest from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cilantro leaves , for garnish
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a pressure cooker, heat oil over medium-high heat until shimmering. Add onion, celery, and garlic and cook, stirring, until lightly browned, about 6 minutes. Add mushrooms and cook, stirring, until they release their juices and just begin to brown, about 6 minutes. Add sausage and continue to cook, stirring frequently, for 4 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add chicken stock or water, beans, thyme, and bay leaf and stir well. Liquid should fully cover beans by at least 2 inches; if not, add water as needed. Season with salt. Cover pressure cooker and cook at high pressure for 40 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a small bowl, whisk together sour cream, lime zest, and cumin. Season with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using pressure-release valve, depressurize cooker. Stir stew, then season with salt and pepper as needed. Discard thyme and bay leaf. Spoon stew into bowls and top with generous dollops of sour cream. Garnish with cilantro, if desired. Serve.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Pressure Cooker Black Bean Soup With Sausage and Cumin-Lime Sour Cream | Avenda Aurora
+
+----
+
+Seo_description: This easy black bean soup with smoky andouille sausage and diced mushrooms tastes like it cooked for hours, but thanks to the pressure cooker, it&#39;s ready in
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/69FaXgpnt9AgoZx_lwp6gTyabPA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__02__20160218-black-bean-andouille-pressure-cooker-soup-vicky-wasik-1-20fe6be2c6184b6482d22b5bbacd58aa.jpg

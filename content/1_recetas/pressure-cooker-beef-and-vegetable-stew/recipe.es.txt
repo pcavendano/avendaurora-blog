@@ -1,0 +1,266 @@
+Title: Pressure Cooker Beef and Vegetable Stew
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: The pressure cooker brings together a flavorful American beef stew complete with mushrooms, onions, carrots, and potatoes––All in less than two hours.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: cups
+  ingredient: homemade or store-bought low sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: packets powdered unflavored gelatin
+  preparation:  1 ounce ; 30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation:  2.5 ounces ; 75 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: oil- or salt-packed anchovy fillets , rinsed
+  preparation: or 1 tablespoon ; 15 ml Asian fish sauce 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: pounds
+  ingredient: whole boneless beef chuck roast , cut into 3 steaks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: white button mushrooms , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: carrots , 2 left whole , 2 cut into bite-size pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: frozen or fresh pearl onions
+  preparation: thawed if frozen, peeled if fresh
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: yellow onion , unpeeled, split in half
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: ribs celery
+  preparation:  3 ounces ; 85 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , unpeeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: sherry, dry vermouth, or red wine
+  preparation:  8 ounces ; 235 ml 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: flour
+  preparation: about 3/4 ounce ; 20 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: sprigs thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: Yukon Gold potatoes , peeled and cubed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: frozen peas
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine stock, gelatin, tomato paste, soy sauce, anchovies or fish sauce, and Worcestershire sauce in a blender and blend on high speed until homogeneous. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a pressure cooker, heat oil over medium-high heat until shimmering. Season beef all over with salt and pepper and add to pressure cooker, working in batches if necessary (beef should fit in a single layer). Cook, turning occasionally, until beef is well browned on 2 sides, about 10 minutes. Transfer beef to a rimmed baking sheet or large plate and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add mushrooms to pressure cooker and cook, stirring, until liquid is released and mushrooms begin to brown, about 6 minutes, lowering heat as necessary to prevent scorching. Add chopped carrots and pearl onions and cook, stirring, until well browned on all sides, a few minutes longer. Season to taste with salt and pepper, then transfer to a bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add halved yellow onion to pressure cooker, cut side down. Add whole carrots, celery ribs, and garlic. Cook, turning carrots, celery, and garlic occasionally, until all vegetables are well browned, about 4 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add wine or sherry, scrape up browned bits with a wooden spoon, and cook until reduced by three-quarters, about 3 minutes. Add reserved stock mixture.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cut seared steaks into 1 1/2– to 2-inch chunks and transfer to a large bowl. Toss with flour. Add beef and any juices accumulated in the tray or plate to pressure cooker, along with bay leaves and thyme sprigs. Stir to combine, seal pressure cooker, and bring to high pressure. Cook for 30 minutes, then rapidly release pressure and open cooker.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using tongs, fish out and discard carrot, celery, thyme, bay leaves, onion, and garlic. Add potatoes and reserved sautéed mushrooms, pearl onions, and carrots to stew, reseal cooker, bring to high pressure, and cook 15 minutes longer. Rapidly release pressure.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in peas. Season to taste with salt and pepper if necessary. Serve immediately, or let cool overnight or for up to 5 days and reheat to serve.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, braising-stewing-recipes, braised-stewed-beef-recipes
+
+----
+
+Seo_title: Pressure Cooker Beef and Vegetable Stew | Avenda Aurora
+
+----
+
+Seo_description: The pressure cooker brings together a flavorful American beef stew complete with mushrooms, onions, carrots, and potatoes––All in less than two hours.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ZEKw899uo5Fq2-UFrB5kFxWz7_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__10__20161017-pressure-cooker-American-beef-stew-13-8388620dfb46491ba4f669813545700b.jpg

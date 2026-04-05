@@ -1,0 +1,259 @@
+Title: Easy Pressure Cooker Chicken Enchiladas
+
+----
+
+Category: salsas, antojitos
+
+----
+
+Description: The pressure cooker makes short work of making tender chicken and an intensely flavored sauce—just add the ingredients, and turn it on, no searing or pre-cooking of any kind required. After that, assembling and baking these delicious red chile chicken enchiladas is a snap.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole dried ancho chiles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: bone-in, skin-on chicken thighs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Serrano or jalapeño pepper , roughly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: roma tomatoes , roughly chopped
+  preparation: about 4
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole canned chipotle chiles packed in adobo , plus 2 tablespoons sauce from the can
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: dried oregano , preferably Mexican
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped fresh cilantro leaves and fine stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: fresh corn tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: grated Jack or cheddar cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: crumbled cotija cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine chiles, chicken, serrano or jalapeño, tomatoes, onion, garlic, chipotle peppers and adobo sauce, bay leaf, oregano, cumin, coriander, and chicken stock in a pressure cooker, season with salt and pepper, and stir roughly until ingredients are evenly distributed. Seal pressure cooker and cook on high pressure for 15 minutes. Release pressure using quick-release method. Using tongs, transfer chicken to a bowl and set aside to cool.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Discard bay leaf. Transfer remaining ingredients from pressure cooker to the jar of a blender. Add soy sauce and lime juice. Blend, starting at low speed and slowly increasing to high until sauce is smooth. Season to taste with salt and stir in 3 tablespoons of cilantro. Transfer to a bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When chicken is cool enough to handle, discard skin and bones. Shred chicken meat roughly with your fingers or two forks. Fold in 1/4 cup of sauce and season to taste with salt and pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Assemble: Adjust oven rack to middle position and preheat oven to 400°F (200°C). Heat canola oil in a medium cast iron or non-stick skillet over medium heat until shimmering. Working one at a time, place a tortilla in the oil, fry for 5 seconds, turn, and fry second side for 5 seconds. Transfer to a paper towel-lined plate to drain, then to a second clean plate. Stack tortillas as you work and cover with a clean kitchen towel or paper towel when finished to keep tortillas warm.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Dip tortillas in sauce one at a time, letting excess drip off and stacking them as you go. Ladle one cup of sauce over the base of a 9- by 13-inch baking dish. Place 2 to 3 tablespoons of chicken filling in a line along the center of one tortilla. Roll tortilla up like a cigar and transfer to baking dish, seam side-down. Repeat with remaining tortillas and filling.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spoon more sauce over the top of tortillas, then spread cheddar or Jack cheese in two even rows across the center of tortillas. Spoon a few more tablespoons of sauce on top of cheese. Cover baking dish with aluminum foil, transfer to oven, and bake for 10 minutes. Remove foil, sprinkle with half of cotija cheese, and continue baking until heated through, 5 to 10 minutes longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove baking dish from oven, sprinkle with remaining cotija cheese and chopped cilantro, and serve immediately, passing any additional salsa at the table.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Electric or stovetop pressure cooker
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, pressure-cooker-recipes, pressure-cooked-chicken-recipes
+
+----
+
+Seo_title: Easy Pressure Cooker Chicken Enchiladas | Avenda Aurora
+
+----
+
+Seo_description: The pressure cooker makes short work of making tender chicken and an intensely flavored sauce—just add the ingredients, and turn it on, no searing or pre-cookin
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/MEehZwvU0VrQiq6XNCsVqERrnig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__04__20150416-pressure-cooke-chicken-enchiladas-recipe-28-6da39b7c0ff3429ab2d8e2ca927d8ba5.jpg

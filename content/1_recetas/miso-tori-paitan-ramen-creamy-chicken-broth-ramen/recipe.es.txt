@@ -1,0 +1,188 @@
+Title: Miso Tori Paitan Ramen (Creamy Chicken Broth Ramen)
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: A rich and creamy bowl of chicken ramen, spiked with miso and dried-fish powder.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: 
+  ingredient: dried red chiles , such as árbol , Thai bird , Bangladeshi , or Kashmiri , stemmed
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: g katsuobushi shavings
+  preparation:  Japanese smoked, dried skipjack tuna 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: shoyu tare
+  preparation: from the chintan shoyu ramen recipe 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: red miso paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: fresh red Thai bird chiles , stemmed and thinly sliced crosswise
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: chicken paitan broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: servings ramen noodles , either store-bought or homemade
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: aroma oil
+  preparation: from the chintan shoyu ramen recipe 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sliced braised pork belly ; marinated egg ; and sheets of toasted nori
+  preparation: all optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely diced white onion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , sliced crosswise as thinly as possible
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: To Assemble the Ramen Bowls: Bring paitan broth to a boil. Bring a separate large pot of unsalted water to a boil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add one ladleful of boiling water to each serving bowl to warm the bowls. Place noodles in pot of boiling water, stirring vigorously to prevent clumping, and cook as directed on packaging or as directed in recipe.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, empty serving bowls of warming water. Place half of miso tare mixture and half of aroma oil in each bowl. Top each with 1 1/2 cups (350ml) boiling paitan broth. Using an immersion blender placed directly in each bowl, pulse the mixture 2 to 3 times, until broth is mixed and somewhat frothy. (Before beginning to assemble the bowls, it&#39;s a good idea to fill one with an equivalent volume of water and check that the liquid won&#39;t spill over when blended; see note for more info.) Alternatively, you can use a whisk to blend the broth, tare, and aroma oil in each bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Strain cooked noodles, shaking off as much excess water as possible, and add a portion to each bowl of hot broth. Using chopsticks, lift noodles up out of the bowl and fold them over, back into the broth. Garnish with any desired toppings, such as pork belly, a halved egg, and/or nori sheets. Garnish with diced white onion and sliced scallions. Add 1 teaspoon chile gyofun (or more, if you like) to each bowl. Serve immediately, with lime wedges alongside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To ensure that blending the broth in the bowl does not lead to spills or other mishaps, we suggest that you do an initial test run, using water, in the serving bowl of your choice. Add 1 1/2 cups (350ml) water to the bowl and pulse the blender. If water spills out of the bowl, you will need a bigger bowl or a less powerful blender, or you will need to use a whisk.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, noodle-recipes, ramen-recipes
+
+----
+
+Seo_title: Miso Tori Paitan Ramen (Creamy Chicken Broth Ramen) | Avenda Aurora
+
+----
+
+Seo_description: A rich and creamy bowl of chicken ramen, spiked with miso and dried-fish powder.
+
+----
+
+Original_author: Sho Spaeth
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/2wkOy_jiv-XSL2kJaYpMy5b_wwk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SEA-SoupsandStewsMPP-MisoToriPaitanRamen-FredHardy-ba831cd42b6140d48b90f4ce1afa3ede.jpg

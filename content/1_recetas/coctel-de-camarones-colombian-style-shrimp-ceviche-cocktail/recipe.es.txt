@@ -1,0 +1,183 @@
+Title: Coctel de Camarones (Colombian-Style Shrimp Ceviche Cocktail)
+
+----
+
+Category: mariscos
+
+----
+
+Description: You&#39;re probably familiar with the Peruvian-style ceviche made with raw seafood cured with citrus juice and aromatics. The Colombian stuff is different. It&#39;s made with cooked shellfish and shrimp, langoustines, lobster, oysters, octopus, periwinkles, or whatever gets dragged up that days—dressed with lime juice, ketchup, mayonnaise, and perhaps some hot sauce and onions or cilantro. It comes served with saltines and it&#39;s damn delicious. Here&#39;s how to replicate it at home.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: peeled small shrimp
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: juice from about 4 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: extra-virgin olive oil
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: ketchup
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: finely minced onion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Hot sauce to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: minced fresh parsley leaves
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Saltine crackers for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine shrimp, 1 teaspoon kosher salt, and baking soda in a medium bowl and toss to coat. Place in refrigerator and let rest for 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium bowl, combine 1 tablespoon lime juice, mayonnaise, olive oil, ketchup, and onion and stir until homogenous. Add hot sauce to taste and stir to combine. Add parsley and season to taste with salt and black pepper. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add shrimp to medium pot and cover with 3 cups cold water. Add remaining 1 tablespoon salt with remaining 1 tablespoon lime juice. Place over medium-high heat and heat until water is barely steaming and registers 170°F (77°C) on an instant-read thermometer; adjust heat to maintain this temperature for remainder of cooking. Cook shrimp until pink and firm to the touch, about 7 minutes total. Drain carefully, rinse under cold running water, and spin dry in salad spinner. Add shrimp to bowl with sauce and toss to combine. Serve immediately with crackers and extra limes for squeezing.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For best results, use small, raw, shell-on shrimp and peel yourself (shelled shrimp tend to be a little mangled). Avoid par-cooked shrimp, as they will not absorb flavor properly. Traditional Colombian-style coctel is made with straight-up mayo, ketchup, and hot sauce. I like adding some extra-virgin olive oil for extra flavor.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes
+
+----
+
+Seo_title: Coctel de Camarones (Colombian-Style Shrimp Ceviche Cocktail) | Avenda Aurora
+
+----
+
+Seo_description: You&#39;re probably familiar with the Peruvian-style ceviche made with raw seafood cured with citrus juice and aromatics. The Colombian stuff is different. It&#
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/0vL233qHs_tflw2SjyNf2DJBHZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__20120501-colombian-shrimp-cocktail-cocteles-camarones-ceviche-4-86561605cf7e477c88241430331c130f.jpg

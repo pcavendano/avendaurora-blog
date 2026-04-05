@@ -1,0 +1,205 @@
+Title: Spaghetti Puttanesca (Spaghetti With Capers, Olives, and Anchovies)
+
+----
+
+Category: bebidas, mariscos
+
+----
+
+Description: Pasta puttanesca is an easy weeknight spaghetti dish that packs an aromatic punch in its tomato sauce, thanks to garlic, anchovies, capers, and olives.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: garlic cloves , thinly sliced or finely chopped by hand
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: to 6 anchovy fillets , finely chopped
+  preparation:  1 1/2 to 2 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Large
+  ingredient: pinch red pepper flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: capers , drained and chopped
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped pitted black olives
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: whole peeled tomatoes , preferably San Marzano, roughly broken up by hand
+  preparation: about 1/2 a 14-ounce can 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can oil-packed tuna
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: dried spaghetti
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: handful minced fresh parsley leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: finely grated Pecorino Romano or Parmesan cheese, plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium skillet, combine 4 tablespoons (60ml) oil, garlic, anchovies, and red pepper flakes. Cook over medium heat until garlic is very lightly golden, about 5 minutes. (Adjust heat as necessary to keep it gently sizzling.) Add capers and olives and stir to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add tomatoes, stir to combine, and bring to a bare simmer. If using, stir in canned tuna, flaking it gently with a fork. Remove from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a 12-inch skillet, 12-inch sauté pan, or large saucepan of lightly salted boiling water, cook spaghetti until just shy of al dente, about 2 minutes less than package directions.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using tongs, transfer pasta to sauce. Alternatively, drain pasta through a colander, reserving 1 cup of the cooking water. Add drained pasta to sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add a few tablespoons of pasta water to sauce and set over medium-high heat to bring pasta and sauce to a vigorous simmer. Cook, stirring and shaking the pan and adding more pasta water as necessary to keep sauce loose, until pasta is perfectly al dente, 1 to 2 minutes longer. (The pasta will cook more slowly in the sauce than it did in the water.) Remove from heat and stir in remaining olive oil, parsley, and cheese. Season with salt and pepper (be generous with the pepper and scant with the salt—the dish will be plenty salty from the other ingredients). Serve immediately with more grated cheese at the table.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: I don't recommend using a Microplane, grater, or garlic press in this dish, as the garlic will end up burning before it can really flavor the oil. This is one of those instances where the method of mincing really does matter .
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Check out our guide on&nbsp; how to chop capers and olives &nbsp;for detailed instructions.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, europe-recipes, southern-european-recipes, italian-recipes
+
+----
+
+Seo_title: Spaghetti Puttanesca (Spaghetti With Capers, Olives, and Anchovies) | Avenda Aurora
+
+----
+
+Seo_description: Pasta puttanesca is an easy weeknight spaghetti dish that packs an aromatic punch in its tomato sauce, thanks to garlic, anchovies, capers, and olives.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/dsISOa0qDZJbNsuCkaMxjgdWWFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2021__02__20210202-spaghetti-puttanesca-melissa-hom-8-65423b5c97b64e30ac7ff6de67d306af.jpg

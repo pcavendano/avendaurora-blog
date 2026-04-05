@@ -1,0 +1,172 @@
+Title: Spaghetti Alle Vongole in Bianco
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: Spaghetti alle vongole, an Italian classic, is a light pasta infused with garlic, briny clams, white wine, and chile flakes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: pounds
+  ingredient: fresh small clams , such as littlenecks, Manilas, or cockles
+  preparation: about 4 dozen littlenecks or 5 dozen Manilas or cockles
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , very thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: red pepper flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: dry white wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: dried spaghetti
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: unsalted butter
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Small
+  ingredient: handful minced fresh parsley leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Fill a large bowl with cold water and stir in enough salt to make it salty like the sea (3 percent salinity; for 8 cups of water, use 7 tablespoons of Diamond Crystal kosher salt). Add clams and let stand 30 minutes. Lift clams from water and discard purging water; if there is sand in the bottom of the bowl, rinse it out and repeat this process until clams no longer release sand into the water (usually 2 to 3 purging cycles). Discard any clams that are gaping open and refuse to close when prodded.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large skillet, combine oil with garlic and red pepper flakes. Cook over medium heat until garlic is very lightly golden, about 5 minutes. (Adjust heat as necessary to keep it gently sizzling.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add white wine and clams, cover, and increase heat to high. Cook, checking every 30 seconds or so and transferring clams as they open to a large heatproof bowl, until all clams have opened, about 5 minutes. Remove skillet from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Allow clams to cool slightly, then pull meat from shells; save a few shell-on clams per serving for garnish. If clam meat is large (for example, from larger littleneck clams), you can roughly chop it.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a pot or large skillet of lightly salted water (1 percent salinity; for 12 cups of water, use 3 tablespoons salt), cook pasta until just shy of al dente (about 1 minute less than cooking time on package). Reserve at least one cup of pasta cooking water. Transfer pasta to skillet with white-wine sauce, add a few tablespoons of pasta cooking water, and cook over high heat, stirring and tossing rapidly, until sauce has reduced and is beginning to form a creamy, emulsified coating on the noodles. Add butter, if using, and both clam meat and shell-on clams. Cook, stirring, until butter is melted and clams are heated through, about 1 minute; add more pasta water, 1 tablespoon at a time, if sauce over-reduces and becomes dry or greasy. Continue to add pasta water until desired consistency.&nbsp; Season with salt if necessary. Remove from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in parsley and a drizzle of fresh olive oil. Transfer to bowls and serve right away.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, pasta-main-recipes
+
+----
+
+Seo_title: Spaghetti Alle Vongole in Bianco | Avenda Aurora
+
+----
+
+Seo_description: Spaghetti alle vongole, an Italian classic, is a light pasta infused with garlic, briny clams, white wine, and chile flakes.
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/slsH7lMontQ3oEMZqxIwQKjXHhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2016__02__20160210-pasta-alle-vongole-vicky-wasik-020-aac089146884488a83b8b28c5c489ecd.jpg

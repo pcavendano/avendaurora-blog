@@ -1,0 +1,181 @@
+Title: Grilled Vegetable and Anchovy Butter Sandwiches
+
+----
+
+Category: vegetarianos, platos-fuertes
+
+----
+
+Description: Grilled summer vegetables, charred and juicy get a bold accent with pungent, briny, zest-highlighted anchovy butter. Warm grilled naan, pistachios, and cilantro add layers of flavor and uniqueness to this sandwich.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter , softened
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: oil-packed anchovy fillets , drained and minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: finely grated zest from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: pieces naan , cut in half crosswise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: zucchini , trimmed and sliced into 1/4-inch thick rounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: Italian eggplants , trimmed and sliced into 1/4-inch thick rounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Aleppo pepper or red pepper flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: coarsely chopped pistachios
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In small bowl, combine butter, anchovies, and lemon zest. Set aside. Heat grill pan over medium-high heat. Brush both sides of each piece of naan with 1 tablespoon oil. Grill naan, in two batches, until warmed and slightly charred, about 2 minutes per side. Transfer to plate and cover with clean kitchen towel.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Toss zucchini and eggplant in large bowl with remaining 3 tablespoons olive oil and season with salt and Aleppo pepper. Arrange eggplant in single layer in grill pan and cook over medium-high heat until tender and charred, about 3 minutes per side. Transfer to bowl. Repeat procedure with zucchini.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spread one side of each piece of naan with 1/4 of anchovy butter. Divide mixture of zucchini and eggplant evenly among naan and sprinkle with pistachios and cilantro.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fold naan over filling and serve warm.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: grill pan, pastry brush, kitchen towel
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, sandwich-recipes
+
+----
+
+Seo_title: Grilled Vegetable and Anchovy Butter Sandwiches | Avenda Aurora
+
+----
+
+Seo_description: Grilled summer vegetables, charred and juicy get a bold accent with pungent, briny, zest-highlighted anchovy butter. Warm grilled naan, pistachios, and cilantro
+
+----
+
+Original_author: María del Mar Cuadra
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/hrex6UuIyp4pXFLvy9dJcSfHgrI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__07__20120723-127677-Grilled-Veg-Anchovy-PRIMARY-5f1cb00a866142459e86eaed63c0e70f.jpg

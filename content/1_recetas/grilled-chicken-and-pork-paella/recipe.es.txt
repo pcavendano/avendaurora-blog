@@ -1,0 +1,260 @@
+Title: Grilled Chicken and Pork Paella
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: This chicken-and-pork version uses a backyard grill to mimic the process of making classic paella, and is perfect for a festive party or cookout.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: 
+  ingredient: dried ñora peppers or 4 ancho chiles , optional
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: yellow onions , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: green pepper , stemmed, seeded, and finely diced
+  preparation: 8 ounces; 225 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: red pepper , stemmed, seeded, and finely diced
+  preparation: 8 ounces; 225 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: leek , white and light green parts only, washed well and finely diced
+  preparation: 10 ounces; 285 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: chicken legs , thighs and drumsticks split
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Eight 2-inch-thick pork tenderloin medallions
+  preparation: about 1 1/2 pounds; 680 g total
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 14 1/2-ounce can whole, peeled tomatoes , crushed by hand or blended to a purée
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: sofrito
+  preparation: recipe above
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sweet smoked Spanish paprika
+  preparation: pimentón dulce
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Large
+  ingredient: pinch saffron
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7"
+  unit: cups
+  ingredient: boiling hot white chicken stock or low-sodium broth, vegetable stock , or water, plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: cups
+  ingredient: short-grain Spanish rice , such as Bomba and Calasparra
+  preparation: 17 1/2 ounces; 495 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lemon wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Sofrito: In a medium heatproof bowl, cover dried peppers (if using) with boiling water (if not using, skip to Step 3). Place a weight or wet paper towel on top to help submerge the peppers. Let stand until peppers are fully softened, 30 minutes to 1 hour. If the peppers are very stubborn (as thick-skinned ñoras can be), you may need to tear a small hole in them to let water penetrate inside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain peppers and discard stems and seeds. Using a paring knife, carefully scrape the flesh from the skins. Discard skins.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 3-quart saucepan, heat olive oil over medium-high heat until shimmering. Add garlic, onion, green pepper, red pepper, leek, and scraped rehydrated chili flesh (if using), season lightly with salt, and cook, stirring, until vegetables have released their liquid and are beginning to brown lightly on the bottom of the pan, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Lower heat to medium-low and continue cooking, stirring and scraping frequently, until sofrito is sweet to the taste and a deep golden brown color, about 45 minutes longer. You should have about 2 cups.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add olive oil to paella pan, pushing it around with a long metal spatula (a stainless-steel wok spatula can work well here) to coat the entire surface, and heat until oil is lightly smoking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season chicken and pork all over with salt, then add to pan and cook, turning, until deeply browned on both sides, about 8 minutes. Transfer pork to a platter and leave chicken in the pan, pushing the chicken pieces to the outer edge.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add tomato purée, sofrito, paprika, and saffron, and cook, stirring and scraping until tomato sauce is moderately browned, about 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add stock (or water) and bring to a rolling boil. Season lightly with salt. Sprinkle in rice all over, making sure all grains are submerged and none are stuck on top of the pieces of chicken. Using your spatula, gently swirl the liquid around to distribute the rice evenly. Return to a boil and cook, without stirring, for 8 minutes. Return pork to the paella pan.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: At this point, depending on the heat of your grill, you will likely want to raise the paella higher aloft to increase its distance from the heat source and lessen the chances that it burns below (unless your grill has gotten so tepid that the paella is barely simmering, you&#39;ll want to do this). To do it, lift the paella pan carefully off the grill and set either wadded-up aluminum foil or, for an even higher lift, bricks, on the grill grate (it helps to have another person aid you during this step).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Set the paella pan back on the grill and continue cooking until the rice is just al dente and the liquid has fully been absorbed, about 8 minutes longer; turn the pork once during this time to heat them through on both sides. If the liquid cooks off and the rice isn&#39;t done enough, add more boiling-hot stock or water in small additions until the rice reaches the desired doneness. You can also use a spoon to carefully dig into the paella and check the bottom of the pan to make sure nothing is burning.
+- When the rice is perfectly cooked and the liquid is fully absorbed, remove from heat and let rest 10 minutes before serving with lemon wedges.
+- Spanish dried ñora peppers add an earthy note to the sofrito; ancho chilies are a close approximation, though they have more heat. You can also omit the peppers entirely.
+- The sofrito can be refrigerated in an airtight container for up to 5 days; this recipe should yield more than the paella requires, so feel free to use the remainder as a base for braises, sauces, and other long-cooked dishes.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, rice-grains-main-recipes
+
+----
+
+Seo_title: Grilled Chicken and Pork Paella | Avenda Aurora
+
+----
+
+Seo_description: This chicken-and-pork version uses a backyard grill to mimic the process of making classic paella, and is perfect for a festive party or cookout.
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/GBqke1l0SqDFNjJrYfqnqV05FQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__07__20190618-grilled-paella-vicky-wasik-33-103a16c9dc654bd58982f5a1b5a1e5ca.jpg

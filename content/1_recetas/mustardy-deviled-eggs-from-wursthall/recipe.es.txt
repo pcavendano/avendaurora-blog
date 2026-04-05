@@ -1,0 +1,203 @@
+Title: Mustardy Deviled Eggs From Wursthall
+
+----
+
+Category: antojitos, bebidas
+
+----
+
+Description: Pickled mustard seeds are the secret to packing extra punch into these deviled eggs.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "12"
+  unit: large
+  ingredient: eggs , not too fresh
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "45"
+  unit: 
+  ingredient: g mayonnaise , preferably homemade
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "45"
+  unit: 
+  ingredient: g Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "45"
+  unit: 
+  ingredient: g liquid from a jar of pickled cherry peppers
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "20"
+  unit: 
+  ingredient: g white wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "60"
+  unit: 
+  ingredient: g extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pickled mustard seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Aleppo or Korean chile flakes ; see note
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crunchy sea salt , such as Maldon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh dill fronds
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Eggs and Filling: Fill a large pot with 1 inch of water. Place steamer insert inside, cover, and bring to a boil over high heat. Add eggs to steamer basket, cover, and continue cooking over high heat for 12 minutes. Meanwhile, add 1 tray of ice cubes to a large bowl and fill with water. Remove eggs and immediately place in bowl of ice water and allow to cool for at least 15 minutes before peeling under cool running water. Slice each egg in half lengthwise.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place all yolks in the bowl of a food processor. Select 16 of the best-looking egg white halves, rinse in cold water to clean out any excess yolk, and set aside; reserve remaining 8 whites for another use. Add mayonnaise, mustard, cherry pepper liquid, and vinegar to food processor and process until smooth, scraping down sides of bowl as necessary.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: With the machine running, slowly drizzle in olive oil in a thin, steady stream. Season mixture to taste with salt. Transfer to a zipper-lock bag or a piping bag fitted with a piping tip. Filling and egg white halves can be stored in the refrigerator up to overnight before eggs are filled and served.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Finish: If using a zipper-lock bag to pipe, cut off a corner of the bag. Pipe filling mixture into egg white halves, overstuffing each one. Top with pickled mustard seeds, a squirt of olive oil, chile flakes, sea salt, and dill fronds. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Food processor , piping bag and piping tip (optional)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can use a few dashes of your favorite hot sauce in place of the liquid from the pickled cherry peppers, if you prefer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Aleppo or Korean chile flakes can be found at specialty spice shops or a well-stocked supermarket.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The filling and egg white halves can be stored in the refrigerator up to overnight before the eggs are filled and served.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, deviled-egg-recipes
+
+----
+
+Seo_title: Mustardy Deviled Eggs From Wursthall | Avenda Aurora
+
+----
+
+Seo_description: Pickled mustard seeds are the secret to packing extra punch into these deviled eggs.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/nz-tTAsjGCGZUoPcPp7yxqQwimQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__05__20190524-wursthall-deviled-eggs-beauty2-edit-5308a1761adf47edaab2b77804c9a650.jpg

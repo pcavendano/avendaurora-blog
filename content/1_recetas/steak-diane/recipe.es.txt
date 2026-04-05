@@ -1,0 +1,201 @@
+Title: Steak Diane
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: With the right techniques and just a handful of ingredients, you can make this restaurant-worthy retro steak dinner—complete with a rich sauce—in your own kitchen.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Two 6- to 8 - ounce center-cut filets mignon, 1 1/2 to 2 inches thick, trimmed
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil such as canola or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter, cut into 4 pieces, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: shallot , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: homemade beef stock or homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: powdered gelatin, if using store-bought broth
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: cognac
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: minced fresh chives
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Pat steaks dry with paper towels. Season liberally with salt. Allow to rest at room temperature for at least 40 minutes and up to 2 hours. Alternatively, place on a plate or on a wire rack over a baking sheet in the refrigerator for up to 24 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If using store-bought broth , in a liquid measuring cup combine stock and cognac and sprinkle gelatin over the top. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 10-inch stainless steel, cast iron, or carbon steel skillet, heat oil over high heat until smoking. Season steaks all over with pepper, add to pan, and cook, flipping with tongs every 2 minutes until well browned on all sides (including edges, which you can sear by holding steaks sideways with tongs) and the internal temperature has reached 110°F (43°C) for rare or 130°F (54°C) for medium (steak will continue to cook for a bit afterward), 6 to 12 minutes total, depending on thickness. Transfer steaks to a plate; set aside while preparing sauce. Do not wipe skillet.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In now-empty skillet, reduce heat to low and melt 1 tablespoon butter. Add shallot and cook until translucent, about 1 minute. Remove skillet from heat and add stock or broth (or gelatin mixture if using store-bought broth), cognac, Worcestershire, and any accumulated meat juices from plate. Return skillet to medium-high heat and bring to boil, scraping up any browned bits. Cook until reduced to 1/2 cup, 5 to 7 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Off heat, whisk in half of chives, mustard, and remaining 2 tablespoons butter, until fully incorporated. Transfer filets to individual serving plates and spoon sauce over top. Sprinkle with remaining chives and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 10-inch stainless-steel, cast iron, or carbon steel skillet, tongs
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: An equivalent total weight of bone-in or boneless ribeye or strip steak, porterhouse, T-bone, tenderloin, hanger, or flank steak can be used in place of filet mignon. Try to get steaks at least 1 1/2 inches thick. If using a thinner cut of steak, shorten cooking time accordingly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If using store-bought broth, add 1 teaspoon powdered gelatin to the broth and cognac and let sit while cooking the steaks. The gelatin will add body to the broth and final sauce that store-bought broth lacks.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The steak and sauce are best enjoyed right away.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes, steak-recipes, tenderloin-steak-recipes
+
+----
+
+Seo_title: Steak Diane | Avenda Aurora
+
+----
+
+Seo_description: With the right techniques and just a handful of ingredients, you can make this restaurant-worthy retro steak dinner—complete with a rich sauce—in your own kitch
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/n4G9i9FO21_GrpqZ5YzbjIXKS0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250206-SteakDiane-AmandaSuarez-19-f223095aedcb44ae873a7c20efc2f8d0.jpg

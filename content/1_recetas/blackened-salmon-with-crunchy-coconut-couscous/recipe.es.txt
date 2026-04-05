@@ -1,0 +1,159 @@
+Title: Blackened Salmon with Crunchy Coconut Couscous
+
+----
+
+Category: mariscos
+
+----
+
+Description: Hot New Orleans blackened salmon meets cool Miami coconut couscous with mint, parsley, green onions, and pumpkin seeds. The perfect original one-pot dinner for two in fifteen minutes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: can coconut milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: dry couscous
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped fresh scallion greens and whites
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: chopped fresh flat leaf parsley
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: chopped fresh mint
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: toasted pumpkin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: boneless skinless salmon filets
+  preparation: about 6 ounces each
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: blackening seasoning
+  preparation: recommended: Blackened Redfish Magic 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lemon or lime wedges
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat the oven to 400 degrees F. Bring the coconut milk to a boil in a medium stockpot. Add the couscous and season with salt and pepper. Cover the pot, remove from the heat, and let stand 10 minutes. Finally, stir in the scallion, parsley, mint, and pumpkin seeds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, season both sides of the salmon with blackening seasoning. Place the fish on a parchment lined baking sheet, until just cooked through but still medium-rare in center, about 10 minutes. Make a bed of the couscous, place the fish on top, tear up some extra mint leaves for garnish, and serve with lemon wedges (optional).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: Blackened Salmon with Crunchy Coconut Couscous | Avenda Aurora
+
+----
+
+Seo_description: Hot New Orleans blackened salmon meets cool Miami coconut couscous with mint, parsley, green onions, and pumpkin seeds. The perfect original one-pot dinner for 
+
+----
+
+Original_author: Kerry Saretsky
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/gBd9JQHNR94Pgh5aE0STbFhs_0I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__08__20120822BlackenedSalmonCoconutCouscous-9f2e4a9a04ad4e548e5be534814a9c86.jpg

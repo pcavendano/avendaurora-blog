@@ -1,0 +1,300 @@
+Title: Gỏi Gà Bắp Cải (Vietnamese Chicken and Cabbage Salad)
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: A classic Vietnamese salad of tender chicken, crunchy cabbage, sweet carrot, pickled onion, fresh herbs, and crispy toppings, served with a gingery dipping sauce.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: skin-on, bone-in split chicken breasts , see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , ends trimmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: knob fresh ginger , peeled and smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: medium
+  ingredient: red onion , thinly sliced
+  preparation: about 1/2 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: garlic cloves , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: tablespoon
+  ingredient: peeled and minced fresh ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: plus 2 tablespoons warm water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh lime juice from about 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bird’s eye chile , stemmed and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: neutral oil , such as vegetable or canola oil, for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: shallots , sliced into 1/16-inch-thick rounds
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: thinly shredded green cabbage ; see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: thinly shredded purple cabbage ; see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: carrot , cut into matchsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: unsalted raw peanuts
+  preparation: without skin
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chopped Vietnamese coriander
+  preparation: rau răm
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped perilla
+  preparation: tía tô
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Chicken: In a large saucepan, combine water and salt, stirring until salt dissolves. Add chicken, scallion, and ginger and set over medium-high heat until water temperature reaches between 150 and 160°F (65 to 70°C) on an instant-read thermometer. Cook, adjusting heat to maintain water temperature in the 150–180°F (65–80°C) range, until the thickest part of chicken registers 150°F (65°C) on an instant-read thermometer, about 1 hour. Remove chicken from broth and let rest until cool enough to handle. Strain broth and reserve for another use. Remove and discard chicken skin, then shred meat with your hands and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Pickled Red Onion: In a non-reactive bowl, combine vinegar, water, and sugar, and stir until sugar dissolves. Stir in onion and let sit at room temperature for 1 hour.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Ginger Dipping Sauce: Meanwhile, using a mortar and pestle, pound garlic and ginger together with sugar (alternatively, use the back of a knife to bruise the garlic and ginger then mince finely, and stir with sugar in a small bowl). Add warm water, fish sauce, and lime juice, then stir to combine. Transfer sauce to a serving bowl and set aside until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Fried Shallots: In a small saucepan, heat oil to 300°F (150°C) over medium-high heat. Add the shallots and fry, stirring constantly for even cooking and adjusting heat as needed to maintain oil temperature between 250 and 275°F (120-135°C), until golden brown, 5 to 7 minutes. Use a slotted spoon to transfer the fried shallots to a paper-towel lined plate and season immediately with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Mandoline, mortar and pestle, instant-read or deep-fry thermometer
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Use a mandoline or the shredding disc attachment of a food processor for easier and faster slicing of the shallot and cabbage.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: A mandoline will also create the most even rounds of shallot for frying.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: I prefer a combination of green and purple cabbage for a vibrant mix of color in the salad. Feel free to use 5 cups of all green or all purple cabbage in the recipe instead of a combination of the 2 types of cabbage.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This salad is a great way to use leftover chicken you already have on hand. Omit step 4 and use 2 to 3 cups shredded chicken (dark or white meat will both work well).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The dipping sauce can be refrigerated in an airtight container for up to 2 days.
+- The fried shallots can be stored in an airtight container at room temperature for up to 2 months.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes, chicken-salad-recipes
+
+----
+
+Seo_title: Gỏi Gà Bắp Cải (Vietnamese Chicken and Cabbage Salad) | Avenda Aurora
+
+----
+
+Seo_description: A classic Vietnamese salad of tender chicken, crunchy cabbage, sweet carrot, pickled onion, fresh herbs, and crispy toppings, served with a gingery dipping sauc
+
+----
+
+Original_author: Vy Tran
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/j4O8vgti6mGSfZBGhKniBV1Ddig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231203-Vietnamese-chicken-cabbage-salad-VyTran-hero-4b81d86e71784327a910d4bde6092c9a.jpg

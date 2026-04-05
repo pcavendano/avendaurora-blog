@@ -1,0 +1,243 @@
+Title: Beef Jerky Empanadas
+
+----
+
+Category: antojitos
+
+----
+
+Description: A regional specialty of the northeastern Argentine state of Chaco, these buttery empanada are stuffed with tender shreds of beef jerky and heaps of caramelized onions.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2 1/2"
+  unit: cups
+  ingredient: all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: room temperature unsalted butter , cut into 1/2-inch cubes, plus more for greasing the baking sheet
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2/3"
+  unit: cup
+  ingredient: lukewarm water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plus 3/4 teaspoon Diamond Crystal kosher salt ; if using table salt use half as much by volume or same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: beef jerky , torn into strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: yellow onions , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: vegetable or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: uncooked tomato pureé or passata
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red bell pepper , stemmed, seeded, and diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: green bell pepper , stemmed, seeded, and diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: smoked paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: fresh thyme , leaves picked and chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: large
+  ingredient: eggs , hardboiled , peeled, and diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Handful of fresh chives , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Dough: In a medium mixing bowl, whisk together flour and salt. Add the butter to the flour and salt mixture and toss to coat. Using clean hands, pinch the butter pieces flat. Gradually add water and mix with your hands until a slightly sticky dough forms. Transfer dough to a clean work surface and knead dough until it becomes soft and smooth, about 5 minutes. Place dough in a plastic bag or wrap in plastic and let rest at room temperature for at least 30 minutes and up to 1 hour.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, for the Filling: Working in 3 separate batches, place jerky in a blender and pulse several times to break it up. Turn blender to high speed and blend until jerky is soft, light, and fluffy, like coarse cotton candy, about 1 minute. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 5-quart Dutch oven, heat oil over medium-high heat until shimmering. Add onion and stir until evenly coated with oil. Reduce heat to medium-low and cook, stirring occasionally to avoid scorching, until onion is soft and dark brown in color, about 20-30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Increase heat to medium, stir in beef jerky and cook, stirring, for 1 minute. Stir in tomato purée, green bell pepper, red bell pepper, white pepper, smoked paprika, thyme, and oregano, bring to a simmer, then reduce heat to maintain a simmer and cook, stirring occasionally, until tomato sauce has reduced completely and bell peppers have softened, about 15 minutes. If tomato sauce reduces too much before bell peppers have cooked through completely, add water a tablespoon or two at a time to avoid scorching until pepper fully soften. Transfer mixture to a medium bowl and let cool. Once cool, stir in hard-boiled eggs and chives. Season with salt, if needed. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Make the Empanada: Adjust oven rack to middle position and preheat oven to 500°F (260°C). Grease a rimmed baking sheet with butter. Using the palms of your hands, roll rested dough into a roughly 9-inch (24cm) cylinder. Cut into 24 pieces, approximately 30g each; each piece should be about the size of your thumb. Cover the pieces with plastic wrap or a damp cloth to prevent drying out. Working with one piece at a time, shape each piece of dough into a flattened disc. Using a rolling pin, roll the dough disc into a roughly 4-inch (10cm) circle.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Holding the dough disc in the palm of one hand, place a tablespoon (approximately 35g) of meat filling in the center of the disc. Fold the dough over the filling to enclose it, forming a half-moon shape; use your fingers to gently seal the edges together while making sure to push out any air bubbles.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fold the right corner of empanada in towards the center and pinch to crimp. Working from that corner, continue crimping with a slight twisting motion to form points along the edge, so that the empanada looks like a half-sun with rays, then finish by folding the left corner in and pinching to crimp; be sure to work the dough gently to avoid air bubbles or tearing. Place formed empanada on prepared baking sheet and repeat process with remaining empanada discs and filling.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bake empanadas until dough is lightly browned on the exterior, about 25 minutes. Remove empanadas from oven and let cool for 10 to 15 minutes before serving.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Kitchen scale, rolling pin, baking sheet, blender.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- You will need to adjust the amount of salt you add depending on the saltiness of the beef jerky you use. The best type of beef jerky to use is sun-dried jerky, like carne seca or machaca , and I encourage you to try to seek out sun-dried jerkies made in small batches.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes
+
+----
+
+Seo_title: Beef Jerky Empanadas | Avenda Aurora
+
+----
+
+Seo_description: A regional specialty of the northeastern Argentine state of Chaco, these buttery empanada are stuffed with tender shreds of beef jerky and heaps of caramelized 
+
+----
+
+Original_author: Kevin Vaughn
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/3PbcqvVmMKvJmm3-Tl4DbY-WTYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220629-beef-jerky-empanadas-kevin-vaughn-Hero-b838b8f801ad41e79c6c2f0f9af478b7.JPG

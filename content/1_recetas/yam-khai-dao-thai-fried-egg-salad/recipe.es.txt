@@ -1,0 +1,208 @@
+Title: Yam Khai Dao (Thai Fried Egg Salad)
+
+----
+
+Category: salsas
+
+----
+
+Description: Dig into this Thai salad of crispy, runny fried eggs with fresh herbs, aromatics, and a sour-spicy dressing.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fresh lime juice from 2 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: palm sugar , softened
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: shallot , thinly sliced
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: garlic clove , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: stalk lemongrass , bottom 4 to 5 inches only, outer leaves discarded, tender core thinly sliced into rounds
+  preparation: about 10 g sliced lemongrass
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 4 fresh Thai chiles , stemmed and thinly sliced into rounds
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: sprigs cilantro including stems , cut into 1/2-inch pieces, plus extra leaves for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: scallion, green part only , sliced into 1/8-inch-thick rings
+  preparation: about 5 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked jasmine rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Dressing and Fresh Aromatics: In a small mixing bowl, stir together lime juice, fish sauce, and palm sugar until palm sugar is fully dissolved, about 15 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add shallot, garlic, lemongrass, Thai chiles, cilantro sprigs, and scallion to dressing. Gently stir to combine and evenly coat solids with dressing. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Fried Eggs: Line a plate or small tray with paper towels. Crack eggs into a small, shallow bowl. In a wok or 8-inch carbon steel or cast iron skillet, heat oil over high heat until it just begins to smoke. Holding the bowl closely above the oil, carefully slip the eggs into the oil in one swift and smooth motion to prevent oil from splattering; the egg whites should immediately puff and bubble around the edges. Cook undisturbed for 20 seconds, then begin swirling the pan to prevent eggs from sticking. Continue to cook, swirling pan constantly to promote even cooking of the whites, until the inner part of the whites close to the yolks are fully set, and the edges are wispy, golden brown, and crisp, about 1 minute. Using a large spoon or wok spatula, baste the yolks 2 to 4 times with hot oil until they just turn opaque and look like yolks on American-style, over-easy fried eggs. Using a slotted or wok spatula, carefully lift eggs out of oil, draining off as much excess oil as possible, and transfer to prepared paper towel–lined plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Serving: Gently transfer fried eggs to a serving plate. Spoon the aromatics, herbs and dressing over the eggs, and garnish with cilantro leaves. Serve immediately with cooked jasmine rice on the side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Palm sugar can be found in Thai markets, as well as some nation-wide supermarkets like HMart, and also online. At room temperature, palm sugar is a solid mass and needs to be softened so that it can be incorporated into the dressing. You can soften palm sugar in the following ways: microwave at full power in a microwave-safe bowl for approximately 15 seconds; combine with the fish sauce in the recipe in a small saucepan and warm over low heat until dissolved; or pound in a mortar and pestle, gradually adding lime juice and fish sauce until palm sugar dissolves. If you can&#39;t find palm sugar, you can substitute with 1 teaspoon (4g) white sugar.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If possible, use smaller, round Thai shallots for this recipe. As with onions, make sure to slice shallots pole-to-pole to minimize cell wall damage and consequent pungent allium aroma.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Adjust the amount of Thai chiles in the salad to your personal taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For frying the eggs, it is important to use enough oil to properly shallow fry them, which is dependent on the size of your chosen cooking vessel. 5 tablespoons (75ml) of oil is sufficient when cooking in a wok or 8-inch carbon steel or cast iron skillet. If using a 10-inch skillet, increase oil amount to 6 tablespoons (90ml) and proceed with recipe instructions as written. Leftover oil can be saved for future egg-frying; allow to cool, strain through a fine mesh strainer, and refrigerate in an airtight container.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Yam khai dao is best enjoyed immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, thai-recipes
+
+----
+
+Seo_title: Yam Khai Dao (Thai Fried Egg Salad) | Avenda Aurora
+
+----
+
+Seo_description: Dig into this Thai salad of crispy, runny fried eggs with fresh herbs, aromatics, and a sour-spicy dressing.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/1F-GHJnerDY4ha-iXd1UuPHJiPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__07__20200720-yam-kai-dow-thai-egg-salad-main-photo-derek-lucci-7fa90d0b9dfd461f91f931240a33f371.jpg

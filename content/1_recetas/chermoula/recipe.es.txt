@@ -1,0 +1,164 @@
+Title: Chermoula
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: A North African sauce traditionally paired with grilled seafood, chermoula is a delicious mix of fresh herb, earthy spices, and acidic preserved lemon.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: cup
+  ingredient: packed cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: packed parsley leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: preserved lemon juice, or 1/3 cup regular lemon juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: cayenne
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: crushed saffron
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place cilantro, parsley, and garlic in the workbowl of a food processor fitted with a steel blade. Pulse until all ingredients are finely chopped, stopping to scrape down sides of bowl as necessary.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add preserved lemon juice, paprika, cumin, cayenne, and saffron and pulse to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: With motor running, drizzle olive through feed tube. Process until sauce is uniform. Use immediately or transfer to an airtight container and store in refrigerator for up to 2 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes
+
+----
+
+Seo_title: Chermoula | Avenda Aurora
+
+----
+
+Seo_description: A North African sauce traditionally paired with grilled seafood, chermoula is a delicious mix of fresh herb, earthy spices, and acidic preserved lemon.
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/AWuzshRprrYWdKaAPDCASVhMzFo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2013__07__20130717-259689-chermoula-a634b69dcd744241b8ef3b7eff9dea60-070967f950534e86a082a319b34b15cf.jpg

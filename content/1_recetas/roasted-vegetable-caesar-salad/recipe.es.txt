@@ -1,0 +1,229 @@
+Title: Roasted Vegetable Caesar Salad
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: In this twist on the classic Caesar salad, a garlicky, savory vinaigrette is paired with crisp leaf lettuce, salty Parmesan cheese, and a medley of sweet roasted vegetables that’s perfect for a light summer dinner.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: oil-packed anchovy fillets
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: garlic cloves , minced
+  preparation: about 2 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: lemon juice from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: pinch freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely grated Parmigiano-Reggiano plus 1/2 ounce shaved Parmigiano-Reggiano divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: broccolini , ends trimmed, trimmed and cut into 1-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: cremini mushrooms , washed, trimmed and quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red bell pepper , cored and cut into 1-inch pieces
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , roughly chopped
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: baby green leaf lettuce , gem , or baby romaine lettuce , washed and dried
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: Caesar bread crumbs , if desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to upper-middle position and preheat the oven to 500℉ (260℃). Set a rimmed baking sheet in the oven while the oven preheats.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place anchovies and garlic in a small pile on a cutting board and sprinkle with salt. Roughly chop the anchovies and garlic, then use the side of a chef&#39;s knife to mash the mixture into a paste, about 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer mixture to a large mixing bowl and add lemon juice, mustard, Worcestershire sauce, and black pepper and whisk to combine. Slowly drizzle in the olive oil while continuing to whisk to form an emulsion. Whisk in the grated Parmigiano-Reggiano. Remove 6 tablespoons of the vinaigrette to a small bowl and set aside; reserve the remaining vinaigrette (about 2 tablespoons) in the large mixing bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add broccolini, mushrooms, bell pepper, and onion to the large mixing bowl with the reserved 2 tablespoons vinaigrette and toss until well coated.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Carefully transfer the coated vegetables to the preheated baking sheet in an even layer and roast until the vegetables are tender and slightly browned around the edges, 18 to 25 minutes, stirring halfway through. Let the vegetables cool slightly on the sheet tray at room temperature for about 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the now-empty large mixing bowl, combine the lettuce and the cooled roasted vegetables. Drizzle with 4 tablespoons of the reserved dressing and toss well to coat. Transfer mixture to a serving platter and top with shaved Parmesan and Caesar bread crumbs, if using. Drizzle with more dressing, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Kitchen scale, rimmed baking sheet, aluminum foil
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can double this recipe if desired. Place racks in the upper and lower thirds of the oven and line two rimmed baking sheets with aluminum foil. Split the vegetables among the two baking sheets and rotate racks from upper to lower position halfway through cooking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The Caesar vinaigrette and roasted vegetables can be prepared up to two days ahead. Store the vinaigrette and vegetables in separate airtight containers in the refrigerator. Remove the vegetables and vinaigrette from the refrigerator 30 minutes to an hour before assembling the salad. Toss the vegetables and lettuce with the dressing just before serving.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes
+
+----
+
+Seo_title: Roasted Vegetable Caesar Salad | Avenda Aurora
+
+----
+
+Seo_description: In this twist on the classic Caesar salad, a garlicky, savory vinaigrette is paired with crisp leaf lettuce, salty Parmesan cheese, and a medley of sweet roaste
+
+----
+
+Original_author: Adam Dolge
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/o6XRh0f4hVqKcAyoG-NL7chQwA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240627-SheetPanRoastVeggieCaesarSalad-TwoBites-hero-f66f6e15d1894e3c9b878672c510910f.jpg

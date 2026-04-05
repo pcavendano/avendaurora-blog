@@ -1,0 +1,53 @@
+Title: Inicio
+
+----
+
+Hero-title: Cocina Mexicana Auténtica
+
+----
+
+Hero-subtitle: Recetas tradicionales, ingredientes frescos y el sabor de México en tu mesa
+
+----
+
+Hero-cta-text: Explorar Recetas
+
+----
+
+Hero-cta-link: recetas
+
+----
+
+Hero-image: 
+
+----
+
+Featured-title: Recetas Destacadas
+
+----
+
+Featured-recipes: 
+
+----
+
+Ingredient-highlight-title: Ingrediente del Mes
+
+----
+
+Featured-ingredient: 
+
+----
+
+Categories-title: Explora por Categoría
+
+----
+
+Stores-title: Tiendas Asociadas
+
+----
+
+Featured-stores: 
+
+----
+
+Uuid: 1ydw4FcLRQLN9eZv

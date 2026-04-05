@@ -1,0 +1,169 @@
+Title: Hibiscus and Pineapple Skin Tea Recipe
+
+----
+
+Category: bebidas
+
+----
+
+Description: Pineapple skins and dried hibiscus flowers combine to make a vibrant and refreshing drink.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "10"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/3"
+  unit: 
+  ingredient: to 3 1/2 ounces sugar
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Skins and core of 1 pineapple
+  preparation: about 17 1/2 ounces ; 500 g total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 4"
+  unit: 
+  ingredient: -inch piece fresh ginger , peeled and grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: dried lemongrass
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: whole cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole dried ancho chile
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 3/4"
+  unit: ounces
+  ingredient: dried zobo flowers , rinsed with cold water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh mint or basil leaves , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large pot, combine water, 2 1/3 ounces (65g) sugar, pineapple skins and core, ginger, lemongrass, cloves, and dried chile. Bring to a boil over medium-high heat, then reduce heat to a simmer, and continue to cook, stirring occasionally, until pineapple skins are softened and slightly translucent, 40 to 45 minutes. Taste, and adjust sweetness with more sugar as desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add zobo (hibiscus) flowers, and stir to combine. Remove pot from heat, and allow liquid to cool to room temperature, about 1 hour. Line a fine-mesh strainer with cheesecloth, and set over a large container. Once liquid is cooled, strain through prepared strainer in batches, gathering cheesecloth into a bundle and squeezing out as much liquid as possible; discard solids between rounds of straining. Transfer to airtight containers and refrigerate until ready to serve. Serve over ice, garnishing with lime wedges and mint or basil leaves.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The sweetness of the drink is meant to be adjusted to taste and to account for variation in the sweetness of pineapples. Start with 2 1/3 ounces (65g) sugar, and adjust as needed with more sugar at the end of step 1.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The finished drink can be refrigerated in an airtight container for up to 5 days, and frozen for up to 3 months.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, fruit-recipes, pineapple-recipes
+
+----
+
+Seo_title: Hibiscus and Pineapple Skin Tea Recipe | Avenda Aurora
+
+----
+
+Seo_description: Pineapple skins and dried hibiscus flowers combine to make a vibrant and refreshing drink.
+
+----
+
+Original_author: Ozoz Sokoh
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/KkoU1tzYo9aB2gJDPjz3rtbVvws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210427-pineapple-skin-hibiscus-tea-vicky-wasik-18-0b80e61a2b704244b5a189459a3b993e.jpg

@@ -1,0 +1,58 @@
+Title: La Mexicana
+
+----
+
+Logo:
+
+----
+
+Description: Tienda especializada en productos mexicanos auténticos. Amplia variedad de chiles secos, especias, tortillas frescas y productos importados directamente de México.
+
+----
+
+Address: 123 Calle Principal, Ciudad
+
+----
+
+Phone: +1 (555) 123-4567
+
+----
+
+Website: https://example.com/la-mexicana
+
+----
+
+Affiliate_link:
+
+----
+
+Delivery: true
+
+----
+
+Delivery_info: Envío gratis en compras mayores a $50
+
+----
+
+Specialties: chiles, especias, tortillas, masa
+
+----
+
+Hours:
+-
+  day: Lunes - Viernes
+  hours: 9:00 AM - 7:00 PM
+-
+  day: Sábado
+  hours: 9:00 AM - 5:00 PM
+-
+  day: Domingo
+  hours: Cerrado
+
+----
+
+Seo_title: La Mexicana | Tienda de Productos Mexicanos
+
+----
+
+Seo_description: Encuentra chiles secos, especias, tortillas y más productos mexicanos auténticos en La Mexicana.

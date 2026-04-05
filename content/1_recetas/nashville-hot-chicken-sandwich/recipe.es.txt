@@ -1,0 +1,292 @@
+Title: Nashville Hot Chicken Sandwich
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Spicy, crispy, juicy fried chicken served on a brioche bun with mayonnaise and pickle chips that will make your mouth burn.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: buttermilk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: Crystal hot sauce or other Louisiana-style hot sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4 1/2"
+  unit: teaspoons
+  ingredient: kosher salt ; for table salt use half as much by volume, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Six 3- to 5-ounce boneless skinless chicken thighs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: large eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: cups
+  ingredient: all purpose flour
+  preparation:  5 3/4 ounces , 150 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: cornstarch
+  preparation:  1 1/3 ounces ; 38 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: cayenne pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: mild sweet paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: neutral oil such as vegetable or peanut , for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: to 3 tablespoons cayenne pepper
+  preparation:  9 to 25 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: packed dark brown sugar
+  preparation: about 1 ounce ; 28 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: onion powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: kosher salt ; for table salt , use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: mild sweet paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: reserved hot frying oil , from above
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: brioche hamburger buns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: mayonnaise , such as Duke’s brand
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Dill or bread and butter pickle chips
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Chicken: In a large bowl, whisk buttermilk, hot sauce, and 4 teaspoons salt until combined. Add chicken to the buttermilk mixture and turn to coat evenly. Cover and refrigerate for at least 2 hours or up to overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to fry, set a wire rack in a rimmed baking sheet. Remove the chicken from the buttermilk mixture, allowing excess to drip off into the bowl, and set chicken on the prepared baking sheet.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Whisk eggs into the buttermilk mixture. In a baking dish or pie plate, whisk flour, cornstarch, cayenne pepper, paprika, black pepper, baking powder, and remaining 1/2 teaspoon salt until combined.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Working with 1 chicken thigh at a time, dredge in flour mixture, turning to thoroughly coat and pressing to adhere, then shake off excess flour mixture. Dip chicken back into reserved buttermilk mixture, let excess drip back into the bowl, then dredge in the flour mixture a second time, turning and pressing to coat evenly. Return to wire rack and repeat with remaining chicken thighs. Let chicken rest on wire rack for about 15 minutes until ready to fry.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, adjust oven rack to middle position and heat oven to 200°F (90°C). Set a clean wire rack in a clean rimmed baking sheet and line wire rack with a triple layer of paper towels; set aside. Add oil to a large Dutch oven or pot until it measures about 2 inches deep. Heat oil over medium-high heat to 350℉ (175°C). Carefully add 3 chicken pieces and fry, flipping chicken halfway through frying, until chicken is golden brown and registers 175℉ (80°C) on an instant-read thermometer, 8 to 12 minutes. (Adjust heat as needed to maintain oil temperature between 325 to 350℉.) Transfer chicken to prepared paper towel–lined rack and transfer to oven to keep warm. Repeat with the remaining chicken thighs. Measure and reserve 1/2 cup hot frying oil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Sauce: In a large heatproof bowl, combine butter, cayenne, brown sugar, onion powder, salt, paprika, chile powder, and black pepper. Pour reserved 1/2 cup hot frying oil over mixture and whisk vigorously until combined and butter is melted.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Brush 1/3 cup butter sauce over top of chicken; reserve remaining sauce for serving.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Serving: Spread 1 tablespoon mayonnaise evenly on each bun bottom. Place chicken on bun bottoms, then top with pickles and bun tops. Serve with remaining hot sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Clip-on or digital instant-read thermometer, large Dutch oven or large sauce pot
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, sandwich-recipes
+
+----
+
+Seo_title: Nashville Hot Chicken Sandwich | Avenda Aurora
+
+----
+
+Seo_description: Spicy, crispy, juicy fried chicken served on a brioche bun with mayonnaise and pickle chips that will make your mouth burn.
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/zZLQZ3IvBpcq-NfahgHLZYwvbwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231117-SEA-NashvilleHotChicken-VictorProtasio-01-83231777673a434fa85b8f0ef524b4c9.jpg

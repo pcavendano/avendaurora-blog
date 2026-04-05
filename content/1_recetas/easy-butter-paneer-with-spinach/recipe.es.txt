@@ -1,0 +1,190 @@
+Title: Easy Butter Paneer With Spinach
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: Paneer makhani, or butter paneer, is a staple in America&#39;s Indian restaurants for a reason: it&#39;s hard to beat chunks of fresh cheese in a creamy, buttery tomato sauce. It&#39;s also drop-dead simple to make at home.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , sliced
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: knob ginger , chopped
+  preparation: about 3 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeno pepper , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can whole peeled tomatoes , preferably &#34;fire roasted&#34;
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: cinnamon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: honey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: to 1/2 cup heavy cream , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: crushed fenugreek leaves , toasted
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch spinach blanched, drained, and chopped
+  preparation: or 10 ounces frozen spinach , thawed and drained
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: paneer , store-bought or homemade , diced into small cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium saucepan, melt butter over medium heat, then stir in onions, ginger, and jalapeno. Sprinkle with 1/2 teaspoon kosher salt and cook, stirring occasionally, until onions soften and just begin to take on color, 5 to 7 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add canned tomatoes, cinnamon, and honey. Press on tomatoes with a wooden spoon to break them apart and cook uncovered, stirring occasionally, until sauce is thickened with only a little liquid poking through the tomatoes and onions, 10 to 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer sauce to blender (or use an immersion blender) and carefully purée on high speed until very smooth, about 1 minute. Wipe saucepan clean and pour sauce through a fine mesh strainer back into pot. Add salt and cream to taste, and fenugreek if using.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir spinach into sauce, then fold in paneer, taking care not to break up the cubes of cheese. Let spinach and paneer warm through for 5 minutes. Stir in half of cilantro, sprinkle with remaining cilantro, and serve.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, quick-dinner-recipes
+
+----
+
+Seo_title: Easy Butter Paneer With Spinach | Avenda Aurora
+
+----
+
+Seo_description: Paneer makhani, or butter paneer, is a staple in America&#39;s Indian restaurants for a reason: it&#39;s hard to beat chunks of fresh cheese in a creamy, butter
+
+----
+
+Original_author: Max Falkowitz
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/41cPErz5GCOmPFz3VVah8RGYmEQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__05__20140508-butter-paneer-primary-5a16ce6554c3402baa674b885d411a67.jpg

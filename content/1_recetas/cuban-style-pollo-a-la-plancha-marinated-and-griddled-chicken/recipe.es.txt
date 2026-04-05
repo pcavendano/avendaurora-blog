@@ -1,0 +1,212 @@
+Title: Cuban-Style Pollo a la Plancha (Marinated and Griddled Chicken)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: These Cuban-style chicken cutlets are marinated with citrus juices and spices. Sautéed onions top them off, and it all comes together quickly and easily.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: freshly squeezed orange juice
+  preparation: from about 1 orange 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: freshly squeezed lime juice
+  preparation: from about 2 limes 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground allspice
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: boneless, skinless chicken breast halves or 8 chicken cutlets
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil such as canola or vegetable , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: white or yellow onion ; sliced crosswise into 1/4 inch thick rings
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked long-grain rice and black beans , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Picked cilantro leaves , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Using a blender or food processor, purée garlic, orange juice, lime juice, cumin, oregano, black pepper, allspice (if using), and 2 teaspoons kosher salt until well blended. (Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste, then mix in the rest of the ingredients. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If using chicken breast halves, cut into cutlets following our instructions here , pounding to an even thickness of about 1/4 inch. (If desired, you can butterfly the breast halves by not fully cutting all the way through, so that they open like a book; butterflied breasts also need to be pounded to an even thickness.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place chicken cutlets in a large zipper-lock bag or shallow baking or glass storage dish. Add marinade, making sure it coats chicken evenly all over. Press out excess air and seal zipper-lock bag, or cover dish with plastic or a lid. Refrigerate for 30 minutes; if chicken is in a dish, turn it once halfway through.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove the chicken breasts from the marinade and wipe off any excess. In a stainless steel skillet, heat oil over medium-high heat until shimmering. Working in batches, if necessary, to prevent crowding the pan, add the chicken cutlets and cook until golden brown on each side, 2 to 3 minutes per side. Transfer cooked cutlets to a platter and cover with foil or place in a low oven to keep warm. Repeat with remaining chicken, adding more oil if the pan gets too dry.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the same skillet that you cooked the chicken, add more oil if the pan is dry and heat over medium-high heat until shimmering. Add the onion rings, season with salt, and sauté until the onions have softened a bit and started to brown, 7 to 10 minutes; lower heat and/or add a small splash of water if the contents of the pan threaten to burn.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Arrange cutlets on serving plates and top with browned onions. Serve with black beans and rice and garnish with cilantro leaves and lime wedges.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The marinade can be blended in advance and refrigerated for up to 5 hours before using. However, it is best not to marinate the chicken for much longer than the recommended 30 minutes.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, caribbean-recipes, cuban-recipes
+
+----
+
+Seo_title: Cuban-Style Pollo a la Plancha (Marinated and Griddled Chicken) | Avenda Aurora
+
+----
+
+Seo_description: These Cuban-style chicken cutlets are marinated with citrus juices and spices. Sautéed onions top them off, and it all comes together quickly and easily.
+
+----
+
+Original_author: Aaron Hutcherson
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/-mDxmVB50GWqg41yWBxsK3hayL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__04__20200416-cuban-pollo-a-la-plancha-aaron-hutcherson-10-08b809c2c1c44ae2a89bc4fea9cdb717.jpg

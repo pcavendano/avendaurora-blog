@@ -1,0 +1,135 @@
+Title: Ají (Colombian-Style Tomato and Onion Salsa)
+
+----
+
+Category: antojitos, salsas
+
+----
+
+Description: Like Mexican salsas, there are countless variations of this Colombian sauce: some made with hot chilies, some with avocados, some with pumpkin seeds, even some made with hard boiled eggs. But, as with Mexican salsa, there is one that immediately comes to most people&#39;s minds when they hear the word. In this case, it&#39;s the tomato and onion-based ají.
+
+----
+
+Cover: 
+
+----
+
+Prep-time: 
+
+----
+
+Cook-time: 
+
+----
+
+Total-time: 
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+
+-
+  quantity: "4"
+  unit: medium
+  ingredient: roma tomatoes , cut into 1/2- to 1/4-inch dice
+  preparation: about 2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: scallions , white parts only, split into quarters lengthwise, finely sliced
+  preparation: about 1/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: loosely packed fresh cilantro leaves , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano or jalapeño chile , seeds and stems removed, finely chopped
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: cold water
+  preparation: 
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: ""
+  instruction: Combine tomatoes, scallions, cilantro, and chili in a small bowl. Season generously with salt and let sit 2 minutes until salt dissolves. Add water and stir to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Ají can be eaten immediately or stored in a sealed container in the refrigerator for up to 5 days
+  tip: ""
+  step_image:
+
+----
+
+Tips: 
+
+----
+
+History: 
+
+----
+
+Enable-kits: false
+
+----
+
+Store-kits: 
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes, salsa-recipes
+
+----
+
+Seo-title: Ají (Colombian-Style Tomato and Onion Salsa) | Avenda Aurora
+
+----
+
+Seo-description: Like Mexican salsas, there are countless variations of this Colombian sauce: some made with hot chilies, some with avocados, some with pumpkin seeds, even some
+
+----
+
+Original-author: J. Kenji López-Alt
+
+----
+
+Original-image: https://www.seriouseats.com/thmb/MiO_jGKc3sqveQBNQk3y7SXIO8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/aji-colombian-style-tomato-and-onion-salsa-recipe-step-02-d06f4c9a2ce24ec1adb7f3e630526e0d.jpg
+
+----
+
+Uuid: TtWt9yauF2b3lqkz

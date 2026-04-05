@@ -1,0 +1,171 @@
+Title: Guasacaca (Avocado Salsa)
+
+----
+
+Category: salsas
+
+----
+
+Description: A multi-purpose sauce, guasacaca offers a rich creaminess with smooth avocado flavor and punched up tang of vinegar and lime.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: 
+  ingredient: ripe Haas avocados , seeded and roughly diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: onion , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: green bell pepper , stemmed, seeded, and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: jalapeño , stemmed, seeded, and roughly chopped
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: packed roughly chopped fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: packed roughly chopped fresh parsley leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: lime juice from 1 whole lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place avocados, onion, bell pepper, jalapeño (if using), garlic, cilantro, parsley, vinegar, and lime juice in the workbowl of a food processor fitted with a steel blade. Pulse until everything is finely chopped, stopping to scrape down sides of bowl as needed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: With the motor running, drizzle in olive oil through feed tube. Process until sauce is completely smooth.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season sauce with salt and pepper to taste. Transfer to bowl and serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, avocado-recipes
+
+----
+
+Seo_title: Guasacaca (Avocado Salsa) | Avenda Aurora
+
+----
+
+Seo_description: A multi-purpose sauce, guasacaca offers a rich creaminess with smooth avocado flavor and punched up tang of vinegar and lime.
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/qi4CB6ALtLSXND2cchBT7uArE5c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/guasacaca-recipe-social_1copyHERO-988321cbb3b347f296d5fbed44dec5e5.JPG

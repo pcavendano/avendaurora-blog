@@ -1,0 +1,164 @@
+Title: Caesar Mayonnaise
+
+----
+
+Category: salsas
+
+----
+
+Description: By working more oil into a classic Caesar salad dressing emulsion, a more thickened mayonnaise texture is achieved. It&#39;s a garlicky, lemony, cheesy, briny condiment with endless potential.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: large
+  ingredient: egg
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: oil-packed anchovy fillets , or more to taste
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: Parmigiano-Reggiano , finely grated
+  preparation:  60 g ; about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh lemon juice
+  preparation: from 1 whole lemon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: If using an immersion blender: In a cup or jar that just fits the head of your immersion blender, combine egg, anchovies, garlic, Parmigiano-Reggiano, lemon juice, Worcestershire, and mustard. Add a pinch of salt and generous grinding of black pepper. The egg/lemon juice mixture must reach the blades for this to work (see note).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour canola oil (and olive oil, if bitterness is not a concern for you) on top and allow to settle for 15 seconds. Place head of immersion blender at bottom of cup and turn it on high speed. Do not pulse or move the head. As mayonnaise forms, slowly tilt and lift the head of the immersion blender until all oil is emulsified. If you didn&#39;t add olive oil with the canola, transfer mayo to a mixing bowl and slowly whisk in the olive oil while drizzling it in a thin stream. Season mayonnaise to taste with salt. Adjust seasoning by adding more lemon juice, salt, and/or pepper, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The Caesar mayo can be refrigerated in an airtight container for up to 5 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes
+
+----
+
+Seo_title: Caesar Mayonnaise | Avenda Aurora
+
+----
+
+Seo_description: By working more oil into a classic Caesar salad dressing emulsion, a more thickened mayonnaise texture is achieved. It&#39;s a garlicky, lemony, cheesy, briny c
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/AGCa7Jvg2iytUFUjvzpHVGif8cU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240625-CaesarMayo-AmandaSuarez-hero-045d48ad4d634082b003f13776b3b375.jpg

@@ -1,0 +1,197 @@
+Title: Spicy Warm Silken Tofu With Celery and Cilantro Salad
+
+----
+
+Category: salsas
+
+----
+
+Description: Spicy dressed tofu is a five-minute light meal or appetizer, fragrant with chili oil, vinegar, and Sichuan peppercorn.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: stalk celery , cut into thin 2-inch matchsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: whole scallions , sliced into thin slicers at an acute bias
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: toasted Sichuan peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: toasted whole cumin seed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sesame paste , or peanut butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Chinkiang vinegar
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: fermented chili broad bean paste
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: Chinese roasted chili oil
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic , finely minced
+  preparation: about 1 teaspoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: block soft silken tofu
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: toasted sesame seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine celery, cilantro, and scallions in a medium bowl and cover with ice cold water. Add 4 to 5 ice cubes and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Combine peppercorns and cumin in a mortar and pestle and roughly grind. Transfer to a medium bowl. Add sesame paste, soy sauce, vinegar, chili bean paste, sugar, chili oil, and garlic. Whisk to combine and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spoon tofu into a serving bowl and microwave until barely warmed through, about 1 minute. Cover with dressing. Drain celery, cilantro, and scallions carefully and add to bowl. Sprinkle with sesame seeds. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: mortar and pestle
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, tofu-recipes
+
+----
+
+Seo_title: Spicy Warm Silken Tofu With Celery and Cilantro Salad | Avenda Aurora
+
+----
+
+Seo_description: Spicy dressed tofu is a five-minute light meal or appetizer, fragrant with chili oil, vinegar, and Sichuan peppercorn.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/BvVvMYLiziqZLorpvxJjdwto1UM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__12__20121203-tofu-salad-black-vinegar-soy-sichuan-01-63463b5ccf09409ea7598ef5cddbaeea.jpg

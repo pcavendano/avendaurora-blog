@@ -1,0 +1,206 @@
+Title: Gamja-tang (Korean Pork and Potato Stew)
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: Pork, potatoes, and perilla come together in this perfect cold-weather Korean stew.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: St. Louis-cut pork ribs , cut into two 5- to 6-rib pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoon
+  ingredient: s Diamond Crystal kosher salt ; for table salt use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: white onion , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "9"
+  unit: medium
+  ingredient: garlic cloves , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 2-inch piece fresh ginger , peeled and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: doenjang
+  preparation: Korean fermented soybean paste
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: coarse ground gochugaru
+  preparation: Korean chile powder
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: homemade chicken stock or store-bought low sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: Yukon gold potatoes , about 2 to 3 inches in diameter, peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: daikon radish , peeled and cut into 2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: head green cabbage , cored , leaves separated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: perilla seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: scallions , sliced 1/4-inch-thick on a steep bias
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: to 12 perilla leaves , stemmed and torn into quarters
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: hot Korean long pepper or serrano chile , stemmed and thinly sliced
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thinly sliced green cabbage core
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, east-asian-recipes, korean-recipes
+
+----
+
+Seo_title: Gamja-tang (Korean Pork and Potato Stew) | Avenda Aurora
+
+----
+
+Seo_description: Pork, potatoes, and perilla come together in this perfect cold-weather Korean stew.
+
+----
+
+Original_author: Sunny Lee
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/HEGgzMijFbNJJEzZj_g2Fy_cEtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210715-gamja-tang-vicky-wasik-seriouseats-20-b1f2e08d701b486d9f029eb82e9e10e6.jpg

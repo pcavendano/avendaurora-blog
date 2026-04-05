@@ -1,0 +1,167 @@
+Title: Fried Yuca With Spicy Mayo
+
+----
+
+Category: salsas
+
+----
+
+Description: Fried yuca is like the crispier, creamier version of french fries. Ours is served with a sweet, hot, and tangy mayo for dipping.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: fresh yuca
+  preparation: about 2 roots 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: aji amarillo paste
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: juice from 1 whole lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño pepper , stems and seeds removed, roughly chopped.
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: loosely packed fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: grated cotija , romano, or feta cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: peanut or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Peel yuca, split in half crosswise, and cut into 1/2- to 3/4-inch thick batons. Place in a pot and cover with cold water by 2 inches. Season well with salt. Bring to a boil over high heat, reduce to a simmer, and cook until tender and yuca is starting to fray, about 15 minutes. Drain.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While yuca is cooking, combine mayonnaise, aji amarillo, lime juice, jalapeño, cilantro, and cheese in the jar of a blender and blend on high speed until smooth. Alternatively, blend in a up with a hand blender. Season to taste with salt if necessary. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When yuca is boiled, heat oil to 350°F in a fryer, Dutch oven, or large wok over high heat. Adjust flame to maintain temperature. Add yuca and cook, agitating and flipping frequently, until golden brown and crisp, about 3 minutes. Transfer to a paper towel-lined tray and shake to drain. Season with salt. Serve immediately with sauce for dipping.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Aji amarillo is a sweet yellow chile paste that can be found in most Latin markets with Peruvian ingredients. It can be omitted or replaced with a few dashes of your favorite hot sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Deep fryer, Dutch oven, or wok
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes
+
+----
+
+Seo_title: Fried Yuca With Spicy Mayo | Avenda Aurora
+
+----
+
+Seo_description: Fried yuca is like the crispier, creamier version of french fries. Ours is served with a sweet, hot, and tangy mayo for dipping.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/mMMNFDxDSticsJFNIS406PVYfbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241223_SEA_FriedYuca-FredHardy-Hero1-559375961bfa4f549691a6133e6b54d4.jpg

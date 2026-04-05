@@ -1,0 +1,147 @@
+title: Configuración del Sitio
+
+tabs:
+  content:
+    label: Contenido
+    icon: page
+    columns:
+      pages:
+        width: 1/1
+        sections:
+          pages:
+            type: pages
+            headline: Páginas del Sitio
+            layout: list
+            size: medium
+            info: "{{ page.template }}"
+            templates:
+              - home
+              - recetas
+              - blog
+              - ingredients
+              - stores
+              - about
+              - default
+
+  general:
+    label: General
+    icon: settings
+    columns:
+      main:
+        width: 2/3
+        sections:
+          site_info:
+            type: fields
+            fields:
+              site_title:
+                label: Nombre del Sitio
+                type: text
+                default: Avenda Aurora
+
+              site_tagline:
+                label: Slogan
+                type: text
+                translate: true
+                default: Cocina Mexicana Auténtica
+
+              site_description:
+                label: Descripción del Sitio
+                type: textarea
+                translate: true
+
+              logo:
+                label: Logo
+                type: files
+                max: 1
+                layout: cards
+
+              favicon:
+                label: Favicon
+                type: files
+                max: 1
+
+      sidebar:
+        width: 1/3
+        sections:
+          social:
+            type: fields
+            fields:
+              instagram:
+                label: Instagram
+                type: url
+                icon: instagram
+
+              facebook:
+                label: Facebook
+                type: url
+                icon: facebook
+
+              youtube:
+                label: YouTube
+                type: url
+                icon: youtube
+
+              tiktok:
+                label: TikTok
+                type: url
+
+  footer:
+    label: Footer
+    icon: template
+    sections:
+      footer_content:
+        type: fields
+        fields:
+          footer_text:
+            label: Texto del Footer
+            type: textarea
+            translate: true
+
+          copyright:
+            label: Copyright
+            type: text
+            default: "© 2026 Avenda Aurora"
+
+          show_newsletter:
+            label: Mostrar Newsletter
+            type: toggle
+            default: true
+
+          newsletter_title:
+            label: Título Newsletter
+            type: text
+            translate: true
+            default: Suscríbete
+
+          newsletter_text:
+            label: Texto Newsletter
+            type: textarea
+            translate: true
+
+  seo:
+    label: SEO
+    icon: search
+    sections:
+      seo_defaults:
+        type: fields
+        fields:
+          default_seo_title:
+            label: Título SEO por Defecto
+            type: text
+            translate: true
+
+          default_seo_description:
+            label: Descripción SEO por Defecto
+            type: textarea
+            translate: true
+            counter: 160
+
+          og_image:
+            label: Imagen para Redes Sociales
+            type: files
+            max: 1
+
+          google_analytics:
+            label: Google Analytics ID
+            type: text
+            placeholder: G-XXXXXXXXXX

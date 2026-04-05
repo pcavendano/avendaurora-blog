@@ -1,0 +1,195 @@
+Title: Burnt Eggplant and Bell Pepper Dip
+
+----
+
+Category: bebidas, antojitos
+
+----
+
+Description: This roasted eggplant and red bell pepper dip is rich and bright with distinct smoky notes. It&#39;s a party-pleaser that vegetarians, vegans, and meat eaters will love.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "19"
+  unit: ounces
+  ingredient: eggplant , halved lengthwise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10 1/2"
+  unit: ounces
+  ingredient: red bell pepper , stemmed, cored, and cut into 2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: shallot
+  preparation: 55g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño , stemmed and halved lengthwise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: extra-virgin olive oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fine sea or kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: red lentils , rinsed and picked over for stones
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: whole roasted and salted cashews
+  preparation: 2 1/2 ounces; 70g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: to 4 garlic cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh lemon or lime juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely chopped flat-leaf parsley or cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and preheat the oven to 425°F (220°C). On a rimmed baking sheet, spread eggplant, bell pepper, shallot, and jalapeño in an even layer. Sprinkle cumin and coriander seeds on top, season lightly with salt, and drizzle with 2 tablespoons olive oil. Using your hands, toss to coat vegetables well, then cook until lightly charred, about 45 minutes. Let cool completely. Once vegetables are cool, remove and discard some (but not all) of the charred skin. Transfer vegetables to a medium bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, combine lentils with 2 cups (480ml) water and 1/4 teaspoon salt in a small saucepan. Bring to a boil over medium-high heat. Lower the heat to maintain a simmer and cook until lentils are completely tender but not falling apart, about 15 minutes. Drain lentils through a fine-mesh strainer, discarding the cooking water, and let cool to room temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, place cashews in a small heatproof bowl, cover by at least 2 inches of boiling water, and let soak for 30 minutes. Drain cashews through a fine-mesh strainer, discarding the soaking water, and add to the bowl of a food processor fitted with a metal blade.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add roasted vegetables, lentils, garlic, and lemon or lime juice to the food processor bowl. Pulse until a coarse paste forms, 2 to 3 5-second pulses. Season with salt to taste. Transfer to a serving bowl, garnish with parsley or cilantro, drizzle remaining oil on top, and serve with warm crackers, flatbread, or buttered slices of toasted sourdough bread.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Dip can be refrigerated in an airtight container for up to 4 days. To serve, bring dip to room temperature or warm in a microwave.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, eggplant-recipes
+
+----
+
+Seo_title: Burnt Eggplant and Bell Pepper Dip | Avenda Aurora
+
+----
+
+Seo_description: This roasted eggplant and red bell pepper dip is rich and bright with distinct smoky notes. It&#39;s a party-pleaser that vegetarians, vegans, and meat eaters w
+
+----
+
+Original_author: Nik Sharma
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/et_82jG1m18th76WeTUrwRJD7wM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20221117-BurntEggplantandBellPepperDip-Amanda-Suarez-herofinal-712e163cd88949cca7084546a59165e9.JPG

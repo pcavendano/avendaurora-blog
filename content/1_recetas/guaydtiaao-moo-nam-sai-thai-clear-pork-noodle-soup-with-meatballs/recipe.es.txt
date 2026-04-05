@@ -1,0 +1,273 @@
+Title: Guaydtiaao Moo Nam Sai (Thai Clear Pork Noodle Soup With Meatballs)
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: This Thai soup features a clear, savory pork stock with marinated sliced pork, rustic meatballs, garlicky noodles, and an array of final garnish and seasonings.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: boneless pork loin or boneless, skinless pork shoulder , sliced 1/8-inch thick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plus 2 teaspoons fish sauce , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground white pepper, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch of kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: ground pork, preferably 20% fat
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Golden Mountain Seasoning Soy Sauce
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: red chiles , such as Holland, Fresno, or Cayenne , stemmed and thinly sliced crosswise
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: Nam Cheua Gradook Moo
+  preparation: Thai pork stock 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 1 2 - ounce package fresh egg wonton noodles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: plus 2 teaspoons garlic oil from Crispy Fried Garlic, plus crispy fried garlic for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: mung bean sprouts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fish sauce , plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , green parts only, sliced into 1/4-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: sprigs cilantro , cut into 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: sprigs Chinese celery leaves and stalks, cut into 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Ground white pepper, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Ground roasted Thai chile flakes , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Granulated sugar , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Marinated Pork and Meatballs: In a mixing bowl, toss sliced pork with 2 teaspoons fish sauce (10ml), 1/8 teaspoon white pepper, and a pinch of salt until evenly coated. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In another mixing bowl, combine the minced pork, Golden Mountain Sauce, remaining 1 tablespoon fish sauce (15ml), remaining 1/8 teaspoon white pepper, and sugar. Using clean hands, vigorously stir ground pork, occasionally picking up the mixture and smacking it against the bowl, until meatball mixture is homogeneous and very sticky (it should begin to be difficult to handle), about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium pot of boiling water, cook the marinated sliced pork, using chopsticks to separate the pieces, until just cooked through, 20 to 30 seconds. Using a wire skimmer, transfer sliced pork to a clean bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return the water to a boil. Working quickly and using clean hands, pinch off about 1 tablespoon of the meatball mixture and lightly press together to form a roughly shaped ball slightly smaller than a ping pong ball, then drop into the boiling water. Repeat with remaining meatball mixture until all is in the pot. Cook until meatballs float to the top and are fully cooked through, 2 to 3 minutes. Using a wire skimmer, transfer pork balls to bowl with the sliced pork; set aside. Reserve pot of boiling water for assembly steps below.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Chile Vinegar: In a small saucepan, bring vinegar and salt to a boil over high heat. Remove from heat and add chiles. Let steep for at least 30 minutes (vinegar will be best after 1 day).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Prepare and Assemble the Bowls: In a medium saucepan, bring pork stock to a boil; cover and keep hot. Return the pot of water used to cook the pork to a boil, then add the egg noodles, and cook, stirring with chopsticks to prevent sticking, according to package directions. Using a spider, transfer noodles to a large bowl. Add garlic oil to noodles and toss to coat. Divide noodles among 4 serving bowls.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return stock to a simmer, then warm bean sprouts until just heated through about 15 seconds. Using a spider, transfer bean sprouts to serving bowls. Add meatballs and sliced pork to stock and simmer until just heated through, about 15 seconds. Using a spider, divide meatballs and sliced pork among the bowls with the noodles.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add fish sauce to stock, then ladle hot pork broth over the noodle bowls and garnish with scallions, cilantro, Chinese celery, white pepper, and fried garlic. Serve immediately, allowing guests to season their bowls with fish sauce, white pepper, Thai chile flakes, sugar, and chile vinegar to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can substitute rice noodles for the egg noodles. The types that are typically served with this dish are thin rice noodles (known as sen mee), medium rice noodles (sen lek), or wide rice noodles (sen yai).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- A Holland chile and Fresno chile will have a similar mild heat level balanced with a sweet finish, while a fresh Cayenne chile will be spicier. A jalapeño chile may also be substituted in this recipe.
+- If Golden Mountain Seasoning Soy Sauce is unavailable, Maggi seasoning or Thai light soy sauce are the best substitutions.
+- The chile vinegar can be refrigerated in an airtight container for up to 2 months.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Guaydtiaao Moo Nam Sai (Thai Clear Pork Noodle Soup With Meatballs) | Avenda Aurora
+
+----
+
+Seo_description: This Thai soup features a clear, savory pork stock with marinated sliced pork, rustic meatballs, garlicky noodles, and an array of final garnish and seasonings.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Ah-JOhKOBSxtnzQA6SGGyDYqLIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231204-SEA-GuaydtiaaoMooNamSai-AmandaSuarez-hero-3d3dc2bd66c14afb817aa7e89bba7382.jpg

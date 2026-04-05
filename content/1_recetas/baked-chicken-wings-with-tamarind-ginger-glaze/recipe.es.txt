@@ -1,0 +1,155 @@
+Title: Baked Chicken Wings With Tamarind-Ginger Glaze
+
+----
+
+Category: antojitos
+
+----
+
+Description: Aromatic Kashmiri red chilies, pungent ginger, tart tamarind paste, and smoky palm sugar are what make these chicken wings both fast and flavorful. The wings are tossed in a spicy, sour, and sweet chili paste before baking until sticky and tender. Serve them up next to some cool cucumber raitha to help beat the heat.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "18"
+  unit: 
+  ingredient: dried whole Kashmiri red chiles
+  preparation:  see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: tamarind paste
+  preparation: not concentrate
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: fresh Thai red chiles
+  preparation: about 4 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece of ginger , sliced
+  preparation: about 2 ounces ; 60 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: grated palm sugar or light brown sugar
+  preparation:  2 ounces ; 60 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: kosher salt
+  preparation:  0.5 ounce ; 16 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: pounds
+  ingredient: chicken wings
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Raita to serve
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat the oven to 375°F (190°C) and set the rack to the lower-middle position. Line a rimmed baking sheet with foil and place it in the oven to preheat as well.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove the stems and seeds from the dried chiles and toast them whole in a dry pan over medium heat until fragrant and pliable. In the canister of a blender, combine the toasted chiles, tamarind paste, Thai red chiles, ginger, palm sugar, kosher salt, and 1/2 cup hot water. Set aside to steep until the chiles are softened, about 5 minutes, then blend until smooth.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer the purée back to the pan used to toast the chiles and cook over medium heat while constantly stirring with a flexible rubber spatula until the paste is thick, lost much of its moisture, and leaves a streak behind when a spatula is dragged across the bottom of the pot, about 8 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large mixing bowl, toss the wings with the chile paste to coat. Spray the preheated baking sheet with nonstick cooking spray or brush with oil. Spread the chicken wings on the prepared baking sheet, topping each with some of the chile paste. Bake until sticky and tender, about 45 minutes. Serve right away with raitha.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, hors-doeuvre-recipes
+
+----
+
+Seo_title: Baked Chicken Wings With Tamarind-Ginger Glaze | Avenda Aurora
+
+----
+
+Seo_description: Aromatic Kashmiri red chilies, pungent ginger, tart tamarind paste, and smoky palm sugar are what make these chicken wings both fast and flavorful. The wings ar
+
+----
+
+Original_author: Sohla El-Waylly
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/POc2yb2Ic5Qxk26ckS_zoGrm7QI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__05__20180517-chili-chicken-wings-vicky-wasik-7-563800f39f7f443eb4f8992c6783ef61.jpg

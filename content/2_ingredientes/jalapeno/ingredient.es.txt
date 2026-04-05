@@ -1,0 +1,93 @@
+Title: Jalapeño
+
+----
+
+Category: chiles
+
+----
+
+Cover:
+
+----
+
+Also_known_as: Chile cuaresmeño, chile gordo
+
+----
+
+Description:
+
+El jalapeño es uno de los chiles más populares y versátiles de la cocina mexicana. Originario de Xalapa, Veracruz, este chile de tamaño mediano ofrece un nivel de picor accesible para la mayoría de los paladares.
+
+Su piel gruesa y carne carnosa lo hacen ideal para rellenar, y su sabor verde y fresco es distintivo en salsas y guisos.
+
+----
+
+Heat_level: 5
+
+----
+
+Scoville_min: 2500
+
+----
+
+Scoville_max: 8000
+
+----
+
+Available_forms: fresh, pickled, dried
+
+----
+
+Flavor_profile:
+
+El jalapeño fresco tiene un sabor vegetal brillante con notas herbáceas. Su picor es inmediato pero no abrumador, con un calor que se desarrolla en la lengua y el paladar.
+
+Cuando se madura y se seca (convirtiéndose en chipotle), desarrolla sabores ahumados y profundos completamente diferentes.
+
+----
+
+Culinary_uses:
+
+- **Chiles rellenos**: Su tamaño y forma son perfectos para rellenar con queso o picadillo
+- **Salsas verdes**: Aporta cuerpo y picor moderado
+- **En escabeche**: Los jalapeños encurtidos son un condimento clásico
+- **Rajas**: Cortados en tiras con crema son un acompañamiento tradicional
+- **Nachos y antojitos**: Un topping imprescindible
+
+----
+
+Storage_tips:
+
+- **Frescos**: Refrigerar en bolsa de plástico hasta 2 semanas
+- **En escabeche**: Una vez abiertos, refrigerar y consumir en 2 meses
+- **Congelados**: Se pueden congelar enteros hasta 6 meses
+
+----
+
+Origin:
+
+El jalapeño toma su nombre de Xalapa (o Jalapa), capital del estado de Veracruz, México. Ha sido cultivado por las civilizaciones mesoamericanas por miles de años y es considerado uno de los chiles más importantes de la gastronomía mexicana.
+
+----
+
+Related_ingredients: - ingredientes/chipotle
+
+----
+
+Relationship_explanation: El jalapeño y el chipotle son el mismo chile en diferentes etapas. Cuando el jalapeño madura completamente en la planta hasta ponerse rojo, se cosecha y se ahúma lentamente, transformándose en chipotle. Este proceso le da ese característico sabor ahumado y terroso.
+
+----
+
+Available_at:
+
+----
+
+Substitutes:
+
+----
+
+Seo_title: Chile Jalapeño | Guía Completa del Ingrediente
+
+----
+
+Seo_description: Todo sobre el chile jalapeño: nivel de picor, usos culinarios, cómo elegirlo y su relación con el chipotle. Guía completa.

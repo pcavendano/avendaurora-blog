@@ -1,0 +1,157 @@
+Title: Quick Pickled Ramps with Coriander & Chile Flakes
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Ramps, a wild leek that tastes like an earthy cross between green onions and garlic, make an excellent pickle. This particular combination of pickling spices was heavily influenced by the basic pickling brine recipe in The Wild Table, an excellent book on foraged foods by Connie Green and Sarah Scott.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: unseasoned rice wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: pickling salt
+  preparation: or any other fine grain salt
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: red chili flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: ramps , washed, bases trimmed, greens removed, and dried
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine rice wine vinegar, water, sugar and salt in a small saucepan and bring to a boil, whisking until sugar and salt are dissolved. Place coriander, peppercorns, chili flakes, and bay leaves in the bottom of a clean pint jar and pack trimmed ramps into the jar.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour the vinegar over the ramps, leaving 1/2 inch headspace. Gently tap the jar to loosen any air bubbles and add more pickling liquid, if necessary. Wipe rims and apply a clean lid and ring. Let jar cool for at least an hour and then place in the refrigerator. Give the ramps at least a week in the pickling liquid before eating.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Mason jar, small saucepan
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, canning-preserving-recipes, pickling-recipes
+
+----
+
+Seo_title: Quick Pickled Ramps with Coriander & Chile Flakes | Avenda Aurora
+
+----
+
+Seo_description: Ramps, a wild leek that tastes like an earthy cross between green onions and garlic, make an excellent pickle. This particular combination of pickling spices wa
+
+----
+
+Original_author: Marisa McClellan
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/rdxspMo6mnlj89K7P7OmQZYMquI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__04__04162012-202122-finished-ramp-pickles-610-908121921cfc4f8aac059c7860b23b84.jpg

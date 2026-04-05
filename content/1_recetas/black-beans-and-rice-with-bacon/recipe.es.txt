@@ -1,0 +1,192 @@
+Title: Black Beans and Rice with Bacon
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: A bowl of black beans and rice is pure comfort food, at least for me. But I&#39;m always looking for new tricks, because while the concept sounds simple, it&#39;s surprisingly easy to end up with a batch that is dry and flavorless.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: bacon , sliced thinly
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , chopped
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: red bell pepper , stemmed, seeded, chopped
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano pepper , stemmed seeded, chopped
+  preparation: about 2 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: garlic cloves , minced
+  preparation: about 2 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: white rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can black beans , drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: apple cider vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , green parts only, thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Cook bacon in a large dutch oven over medium heat until crisp, stirring occasionally. Remove pieces with a slotted spoon and drain on paper towels. Remove all but 2 tablespoons of fat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add onion, red bell pepper, and serrano, and cook until onion is soft and starting to take on some color, about 5 minutes. Add garlic, cumin, oregano, 1/2 teaspoon salt, and few cracks of black pepper. Stir until fragrant, about 30 seconds. Stir in rice and cook until most of the grains turn chalky white, 1 to 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add black beans, chicken broth, apple cider vinegar, and Worcestershire sauce and stir well. Bring to a boil, and then reduce heat to low. Cover the pot and cook until the rice is completely cooked, stirring after 10 minutes or so, 15 to 20 minutes total. Garnish with sliced green scallions and the cooked bacon.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, rice-grains-main-recipes
+
+----
+
+Seo_title: Black Beans and Rice with Bacon | Avenda Aurora
+
+----
+
+Seo_description: A bowl of black beans and rice is pure comfort food, at least for me. But I&#39;m always looking for new tricks, because while the concept sounds simple, it&#39
+
+----
+
+Original_author: Nick Kindelsperger
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/HwvpuIFLFSGhS1Q5aHbplHib154=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__12__20131204-276788-dinner-tonight-rice-black-beans-with-bacon-fdcf0121116f46adb5c991f71c1e1467.jpg

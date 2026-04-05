@@ -1,0 +1,201 @@
+Title: Nigerian Eggplant Stew
+
+----
+
+Category: sopas-caldos, mariscos
+
+----
+
+Description: This Nigerian garden egg stew combines tender eggplant with tomatoes, zucchini, peppers, and dried shrimp for a saucy, flavorful dish. Serve with yams, plantains, rice, or bread.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: Nigerian garden eggs or Thai eggplants, or Globe eggplants, ends trimmed and cut into 3/4-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: zucchini , ends trimmed and cut into 3/4-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: unrefined peanut oil or red palm oil , divided, plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: red tomatoes , cored and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: red bell pepper , stemmed, seeded, and cut into 3/4-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: Scotch bonnet or habanero pepper , stemmed and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: dried shrimp , rehydrated in warm water for 10 minutes and drained
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: smoked mackerel , deboned, skin-on , and cut into chunks, or rehydrated dried mushrooms such as shiitake
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: cayenne pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place eggplant and zucchini in a strainer or colander set over a bowl. Season with 1 tablespoon kosher salt and toss until well combined. Let stand to drain for at least 15 minutes and up to 1 hour. Discard the liquids that collect in the bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once drained, in a large pot or Dutch oven, heat 1/4 cup oil on medium-low heat until shimmering. Add tomatoes, red bell peppers, onion, Scotch bonnet (to taste), and 1 teaspoon salt. Cook, stirring frequently, until softened, about 8 minutes. Transfer vegetables to a large bowl; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the now-empty pot, add 1/4 cup more oil and heat over medium-low heat until shimmering. Add drained eggplant and zucchini, and cook until softened, about 8 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer cooked eggplant and zucchini to bowl with tomato mixture and toss to combine. Transfer half of cooked vegetable mixture to a blender jar and blend, starting on low speed and increasing to high until broken down and loose. (Hold a folded kitchen towel over jar lid while blending and be careful, as the mixture is hot.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return cooked vegetables, vegetable puree, and dried shrimp to now-empty large pot or Dutch oven and cook over medium-low heat, partially covered, until warm and saucy, 5 to 7 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add mackerel or mushrooms and cayenne pepper, stir, and continue to cook until eggplant is tender, 2 to 3 minutes. Season to taste with salt and more cayenne pepper, if needed. If egg sauce is still too wet, continue to cook, partially covered with lid ajar, until thickened slightly, 4 to 5 minutes. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Colander, large pot or Dutch oven, blender
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Vacuum-sealed or freshly smoked fillets can often be found in the refrigerated case near other smoked fish in many markets. Some smoked mackerel comes canned or in jars, often preserved in oil or brine—these can work in a pinch, but the flavor is stronger and saltier, so use less and taste as you go. If unavailable, smoked trout can be substituted.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the dried shrimp, avoid the extra-large varieties (often used for stocks or broth), and choose shrimp no bigger than a thumbnail—they rehydrate quickly and break down nicely into the sauce. Look for small to medium dried shrimp (sometimes labeled crayfish), usually sold in plastic bags in the freezer or dry goods section of African, Asian, or Caribbean groceries.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The stew can be refrigerated in an airtight container for up to 4 days.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, eggplant-recipes
+
+----
+
+Seo_title: Nigerian Eggplant Stew | Avenda Aurora
+
+----
+
+Seo_description: This Nigerian garden egg stew combines tender eggplant with tomatoes, zucchini, peppers, and dried shrimp for a saucy, flavorful dish. Serve with yams, plantain
+
+----
+
+Original_author: Ozoz Sokoh
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/jyGxS3zSSl6m9A7G7C3192ZBwR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250826-SEA-NigerianEggSauce-MaureenCelestine-17-21cef41c7be54cbcad921da8f5c2c3db.jpg

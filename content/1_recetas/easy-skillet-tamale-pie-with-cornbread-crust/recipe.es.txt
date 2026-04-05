@@ -1,0 +1,291 @@
+Title: Easy Skillet Tamale Pie With Cornbread Crust
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Chili topped with tender, moist, crisp-edged, buttery cornbread with those chili juices seeping up into it as it bakes in the oven.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: ground beef chuck
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , diced
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: ancho chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: cayenne pepper
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: frozen or fresh corn kernels , thawed if frozen
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can black beans , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can whole peeled tomatoes , drained and crushed with your hand through fingers to roughly break up
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: homemade chicken stock or low-sodium broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: grated sharp cheddar cheese
+  preparation: about 1 cup ; 115 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: scallions , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh cilantro leaves and fine stems, minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: fine yellow cornmeal
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: cultured buttermilk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sour cream , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to center position and preheat oven to 425°F (220°C). Heat butter in a 12-inch cast iron or stainless steel skillet over medium heat until melted. Continue to cook, swirling pan gently until butter is nutty-smelling and solids are a toasty brown. Transfer to a heatproof cup or bowl and reserve for Brown Butter Cornbread Crust.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return pan to high heat. Add beef and cook, stirring and breaking up with a wooden spoon or a potato masher until starting to brown, about 8 minutes. Add onion and garlic and cook, stirring frequently, until softened and fragrant, about 4 minutes. Add chile powder, cayenne (if using), cumin, and coriander. Stir until fragrant, about 30 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add corn, black beans, tomatoes, and chicken stock. Bring to a simmer, then stir in cheese. Reduce heat to low and cook, stirring occasionally, until thickened into a rich stew-like consistency, about 10 minutes. Remove from heat and stir in scallions and cilantro. Season to taste with salt and pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Brown Butter Cornbread Crust: In a large bowl, combine cornmeal, flour, sugar, 1 teaspoon kosher salt, baking powder, and baking soda. In a second bowl, combine eggs, sour cream, and buttermilk and whisk until homogenous. Whisking constantly, slowly drizzle in reserved browned butter. Whisk wet ingredients into dry ingredients until homogenous.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a large spoon, place small dollops of the cornbread batter mixture on top of the beef filling, then use the back of the spoon to spread it into an even layer. Transfer the skillet to the oven and bake until pale golden brown and a skewer inserted into the cornbread comes out clean, about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Let cool 15 minutes, then serve with sour cream.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, chili-recipes
+
+----
+
+Seo_title: Easy Skillet Tamale Pie With Cornbread Crust | Avenda Aurora
+
+----
+
+Seo_description: Chili topped with tender, moist, crisp-edged, buttery cornbread with those chili juices seeping up into it as it bakes in the oven.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/quKLEMvUMCZQxWjZmNBC2Ec7ZZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__01__20150128-tamale-pie-american-food-lab-recipe-22-30f5e22e26d84229a1a9278335b224fa.jpg

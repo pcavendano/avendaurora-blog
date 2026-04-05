@@ -1,0 +1,148 @@
+Title: Jus Alpukat (Indonesian Avocado-Coffee Shake)
+
+----
+
+Category: postres, bebidas
+
+----
+
+Description: Equally perfect as your morning beverage or after-dinner dessert, this rich and creamy avocado shake is an absolutely delicious way to get your daily dose of caffeine.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: cup
+  ingredient: whole milk , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: sweetened condensed milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: Hass avocados , halved, pitted, and flesh scooped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: ice
+  preparation: about 10 ice cubes 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: strongly brewed coffee
+  preparation: such as a double espresso shot 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch kosher or sea salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chocolate syrup , for drizzling
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a blender, combine whole milk, sweetened condensed milk, avocado, ice, coffee, and salt. Blend on high speed until smooth, 30 seconds to 1 minute; if the shake is thicker than you&#39;d like, blend in more milk to thin slightly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If desired, drizzle chocolate syrup on inside of serving glasses, then divide shake evenly between glasses, and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This shake is also delicious without the coffee.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The shake should be made right before serving.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes
+
+----
+
+Seo_title: Jus Alpukat (Indonesian Avocado-Coffee Shake) | Avenda Aurora
+
+----
+
+Seo_description: Equally perfect as your morning beverage or after-dinner dessert, this rich and creamy avocado shake is an absolutely delicious way to get your daily dose of ca
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/SkAhmfyvsTmk1KEYuwYrMSVEvQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__06__20200602-indonesian-avocado-coffee-shake-smoothie-jus-alpukat-daniel-gritzer-2-2-6e1695d642ce4a05bc1c5ed33dd79b8b.jpg

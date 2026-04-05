@@ -1,0 +1,119 @@
+Title: Avocado Smoothie
+
+----
+
+Category: bebidas
+
+----
+
+Description: This ultra-creamy avocado smoothie gets its sweet, tangy flavor from frozen mangoes, orange juice, and a ripe banana.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: orange juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: ripe medium Hass avocado
+  preparation: about 6 ounces ; 170 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: frozen mango
+  preparation: about 8 ounces ; 227 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: ripe banana
+  preparation: about 6 ounces ; 170 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: packed cup baby spinach , washed well of any sand or grit
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine orange juice, avocado, frozen mango, banana, and spinach in a blender. Pulse a few times to break up the fruit, then blend on high until completely smooth, about 1 minute.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, avocado-recipes
+
+----
+
+Seo_title: Avocado Smoothie | Avenda Aurora
+
+----
+
+Seo_description: This ultra-creamy avocado smoothie gets its sweet, tangy flavor from frozen mangoes, orange juice, and a ripe banana.
+
+----
+
+Original_author: Genevieve Yam
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/efMGaAmUGQP5w5dHwLzfBK_vD7A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230405-SEA-AvocadoSmoothie-AmandaSuarez-hero-28b3fd3812e14296a11319fd92999bd3.jpg

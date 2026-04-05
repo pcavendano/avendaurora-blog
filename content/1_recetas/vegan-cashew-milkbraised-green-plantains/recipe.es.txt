@@ -1,0 +1,202 @@
+Title: Vegan Cashew Milk–Braised Green Plantains
+
+----
+
+Category: mariscos, platos-fuertes
+
+----
+
+Description: Dense and meaty green plantains are hearty enough to stand on their own in this creamy cashew sauce. We simmer the thick slabs of plantain in a blend of rich cashew milk, bright herbs, and aromatic spices for balanced flavor and a vibrant hue. Although it&#39;s substantial enough as a main course, its bright acidity makes this the perfect side to grilled fish or sautéed shrimp as well.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: large
+  ingredient: unripe green plantains
+  preparation:  2.2 pounds ; 1 kg 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: raw cashews
+  preparation:  1.8 ounces ; 50 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: scallions , cut into 1-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: bunch cilantro , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation:  1 ounce ; 30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cloves
+  ingredient: garlic , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece fresh turmeric , cut into 1/8-inch matchsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece fresh ginger , cut into 1/8-inch matchsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: lime juice , from about 1 whole lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked white rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Cut ends off plantains and trim into 3- to 4-inch pieces. Stand each trimmed plantain piece upright and slice off skin with a sharp chef&#39;s knife or utility knife. Cut each peeled section into 1/4-inch-thick planks. Drop prepared plantain pieces into a brine made of 1 teaspoon of salt per quart of water.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a blender, combine cashews, scallions, cilantro, and 25 fluid ounces (750ml) water and blend until smooth. If desired, strain cashew milk through a fine-mesh strainer to remove any stray bits.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 4-quart saucepan over medium heat, add vegetable oil, garlic, turmeric, and ginger and cook until fragrant, about 2 minutes. Add cumin and black pepper and cook until the spices bloom in the oil, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add cashew and herb purée to pot. Season with kosher salt to taste. Drain plantains and add to cashew sauce. Bring to a simmer, cover, and reduce heat to low. Cook until plantains become tender, about 40 minutes, stirring every 10 minutes to prevent cashew sauce from scorching. Finish braised plantains with sugar and lime juice. Serve with rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Blender, chef's knife, fine-mesh strainer (optional)
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-diet, vegetarian-recipes, vegetarian-main-recipes
+
+----
+
+Seo_title: Vegan Cashew Milk–Braised Green Plantains | Avenda Aurora
+
+----
+
+Seo_description: Dense and meaty green plantains are hearty enough to stand on their own in this creamy cashew sauce. We simmer the thick slabs of plantain in a blend of rich ca
+
+----
+
+Original_author: Sohla El-Waylly
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/fNhemu6QSUEStf0-By0Pp2vQQ-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__03__20180305-braised-plantains-vicky-wasik-10-6e5ebe346a364500bd6caa94c3de1bad.jpg

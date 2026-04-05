@@ -1,0 +1,246 @@
+Title: Pambazo (Mexican Chorizo and Potato Sandwich)
+
+----
+
+Category: salsas
+
+----
+
+Description: This Mexican sandwich features a delightful jumble of crisp chorizo and fluffy potatoes topped with a crunchy slaw and slabs of tangy cheese all served on a smoky, lightly charred salsa-griddled bun.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: cups
+  ingredient: finely shredded green cabbage
+  preparation: about 4 ounces ; 115 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , trimmed and thinly sliced crosswise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh cilantro leaves and tender stems, chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: jocoque , plus extra if needed
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano pepper , stemmed and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral cooking oil such as canola or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: medium
+  ingredient: yellow onion , peeled and trimmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: guajillo chiles , stemmed and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , peeled and lightly smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can Mexican hot tomato sauce
+  preparation:  220 g ; see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: russet potato , peeled, quartered lengthwise, and cut into 1/2-inch thick pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Diamond Crystal kosher salt ; if using table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: homemade Mexican chorizo or store-bought
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: telera or bolillo rolls
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: q ueso fresco , thinly sliced into slabs
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Slaw: In a medium bowl, toss together cabbage, scallions, cilantro, jocoque, and serrano until well combined. Season with salt to taste. Set aside until ready to serve or cover and refrigerate for up to 2 days.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Salsa: In a small saucepan, cook oil, onion, guajillo chiles, and garlic over low heat, stirring occasionally, until the chiles and garlic soften, adjusting heat as needed to avoid burning, about 10 minutes. If oil begins to sizzle, briefly remove from heat. Using a slotted spoon or tongs, remove chile, onion, and garlic from oil. Stir tomato sauce into oil, then transfer to a medium bowl; Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Sandwich: Adjust oven rack to middle position and heat oven to 250℉. Transfer rolls directly to oven rack and toast rolls until the exterior is lightly toasted.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a separate medium saucepan, add potato, salt, and enough cold tap water to cover potato pieces by 1 inch. Bring to a boil over high heat, then reduce heat to medium and simmer potato, adjusting heat as needed, until a knife meets little resistance when inserted into a potato piece, about 10 minutes. Drain and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat an empty 10-inch cast-iron skillet over medium heat for 3 minutes. Add chorizo and cook, breaking up meat with a wooden spoon, until well browned, 6 to 8 minutes. Transfer cooked chorizo to a medium bowl; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the oil to the now-empty skillet and heat over medium-high heat until shimmering. Add potato pieces and cook without stirring until crisp and browned on bottom, about 4 minutes. Flip potato pieces and continue to cook until crisp and browned on second side, about 4 minutes. Transfer to bowl with chorizo and toss to combine, and cover to keep warm.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat the now-empty skillet over medium-high heat. Halve the toasted rolls. Working with 1 roll at a time, dunk only the crusty exterior of each half into the reserved salsa. Place both halves, salsa side down, in the skillet and cook, pressing down with a spatula and sliding the bread pieces around for even browning, until lightly charred, about 30 seconds. Transfer to a plate, charred-side down, and repeat with the second roll.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: On each roll bottom, layer half of the queso fresco, then top with half of the chorizo and potato mixture and half of the slaw. Close sandwiches and serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Small saucepan, 10-inch cast iron skillet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Jocoque is a Mexican dairy product with the texture of crema but a flavor closer to cheese or yogurt. If you can&#39;t find jocoque, any Mexican crema or plain yogurt will work in its place.
+- Mexican chorizo sold in plastic tubes at the supermarket tends to be a gummy, fatty paste that’s difficult to crisp. For best results, look for chorizo from the butcher or deli counter at a Mexican grocery store or make your own.
+- Mexican hot tomato sauce is available at most well-stocked food stores. My preferred sauce is El Pato Tomato Sauce (Mexican Hot Style), which comes in a yellow can.
+- The slaw, salsa, and parboiled potatoes can be made ahead, stored separately, and refrigerated for up to 2 days. If using slaw made in advance, drain before using.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, sandwich-recipes
+
+----
+
+Seo_title: Pambazo (Mexican Chorizo and Potato Sandwich) | Avenda Aurora
+
+----
+
+Seo_description: This Mexican sandwich features a delightful jumble of crisp chorizo and fluffy potatoes topped with a crunchy slaw and slabs of tangy cheese all served on a smo
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/BPEON1Ct7wNBA7rRHV4lBuGgGps=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240304-SEA-Pambazo-Lorena-Masso-28-aa0abb8c8a384c968dc3045471dbd876.jpg

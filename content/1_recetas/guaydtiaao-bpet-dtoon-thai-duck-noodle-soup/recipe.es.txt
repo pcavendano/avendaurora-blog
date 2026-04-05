@@ -1,0 +1,301 @@
+Title: Guaydtiaao Bpet Dtoon (Thai Duck Noodle Soup)
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: This Thai soup features tender duck with its soy sauce–based broth, topped with garlicky noodles and fresh greens.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole duck , giblets removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: white onion , peeled and halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: Thai light soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: roughly chopped Chinese celery roots or stems
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: cilantro roots or stems
+  preparation: about 15 roots; see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: Thai dark soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: Thai brown rock sugar
+  preparation: also sold as rock candy
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: palm sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: head garlic , unpeeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece fresh or frozen galangal
+  preparation:  20 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: cinnamon stick
+  preparation: about 9 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Sichuan peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: whole black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: white peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: star anise pods
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: pandan leaves, washed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: white distilled vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: pinch kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: red chiles, such as Holland, Fresno, or Cayenne , stemmed and sliced into rings
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: Chinese broccoli, sliced into 1/4-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: package thin fresh egg noodles
+  preparation: wonton noodles
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: plus 2 teaspoons garlic oil from 1 recipe Crispy Fried Garlic and Garlic Oil , plus crispy fried garlic for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: stems Chinese celery including leaves, cut into 1/2-inch lengths
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fish sauce , Thai light soy sauce , ground roasted Thai chiles , and granulated sugar , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large stock pot, add duck head and neck (if available), backbone, breastbone, and wings and cover with water by about 1 inch. Bring to a boil over high heat; boil for 5 minutes, then drain duck in colander placed in sink. Rinse duck parts under cold water, washing off as much scum as you can. Wash pot, then return duck to pot along with 4 quarts of water, the onion, light soy sauce, celery roots or stems, cilantro roots or stems, dark soy sauce, rock sugar, palm sugar, garlic, galangal, cinnamon stick, Sichuan peppercorns, black peppercorns, coriander seeds, white peppercorns, star anise, and pandan leaves. Bring to a boil, then reduce heat to low and simmer for 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add duck legs and continue to cook until duck meat is tender and stock is reduced by about half, about 2 hours. Add duck breasts and poach until just cooked through (about 150°F; 65°C), 7 to 10 minutes. Remove duck legs and breasts and strain broth through a fine-mesh strainer. You should have about 2 quarts of strained broth. Skim off duck fat if a more lean broth is desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When meat is cool enough to handle, remove bone from each duck leg while keeping the skin on. Reserve duck.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Chile Vinegar: In a small saucepan, bring vinegar and salt to a boil over high heat. Remove from heat and add chiles. Let steep for at least 30 minutes (vinegar will be best after 1 day).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Bowls: In a covered medium saucepan, warm 3 cups (710ml) of the broth over medium-low heat with the duck legs and breasts.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium bowl, prepare an ice water bath. In a large pot of boiling salted water, blanch Chinese broccoli until slightly tender and bright green, about 15 seconds. Using a skimmer, transfer to ice water bath.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return water to a boil, add egg noodles, and cook according to package directions. Drain noodles in a colander and transfer to a large bowl. Add garlic oil and mix with chopsticks to coat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove duck meat from broth. Slice leg meat into bite-size pieces. Slice breast meat thinly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Divide noodles and then broccoli into individual bowls. Arrange duck meat in each bowl. Ladle broth into each bowl and garnish with crispy fried garlic and Chinese celery leaves and stems. Serve immediately, allowing guests to season and garnish their bowls to taste with chile vinegar, fish sauce, Thai light (thin) soy sauce, ground Thai chiles, and granulated sugar.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The roots of fresh Chinese celery and coriander (a.k.a. cilantro) can be hard to find in the US, as they are often cut off from the stems before being brought to market (though local farmers markets in the summer and fall often have coriander with the roots still attached). Chinese celery and coriander roots can be found at Southeast Asian markets. If you can&#39;t find the herb with the roots still attached, you can use the stems. And, to clarify, although they are called &#34;roots,&#34; Thai cooks usually also use some of the green stems as well.
+- The duck broth can be made ahead and refrigerated in an airtight container for up to 5 days in advance or frozen for up to 6 months. If making in advance, store the portioned duck in some of the broth.
+- The chile vinegar can be refrigerated in an airtight container for up to 2 months.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Guaydtiaao Bpet Dtoon (Thai Duck Noodle Soup) | Avenda Aurora
+
+----
+
+Seo_description: This Thai soup features tender duck with its soy sauce–based broth, topped with garlicky noodles and fresh greens.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Cr_5TNydTDYBDVPV6GcJnbwbxq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231204-SEA-GuaydtiaaoBpetDtoon-AmandaSuarez-hero-b5d8bee296f744c180f5cf7bc1626979.jpg

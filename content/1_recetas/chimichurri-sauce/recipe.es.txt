@@ -1,0 +1,150 @@
+Title: Chimichurri Sauce
+
+----
+
+Category: salsas
+
+----
+
+Description: Dried oregano, fresh parsley, dried chile pepper, garlic, oil, and red wine vinegar come together in a tangy sauce that works wonders on steak—and everything else.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: red pepper flakes , or to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: boiling water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: finely minced flat-leaf parsley leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , very finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: red wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: neutral oil such as corn , canola , or grapeseed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium heatproof bowl, combine dried oregano and red pepper flakes. Add boiling water and stir to combine. Let stand until oregano and pepper flakes have evenly absorbed water, 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add parsley, garlic, and red wine vinegar and stir to combine. Stir in oil and season well with salt and pepper. Use right away or refrigerate until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Chimichurri can be refrigerated in an airtight container for up to 1 week. Many people say you can keep it longer than that, and indeed the vinegar in the sauce does have a preservative effect, but garlic-and-oil infusions can run the risk of botulism, and since this recipe has not been formulated to guarantee a low enough pH, we are being conservative in our storage recommendation.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes
+
+----
+
+Seo_title: Chimichurri Sauce | Avenda Aurora
+
+----
+
+Seo_description: Dried oregano, fresh parsley, dried chile pepper, garlic, oil, and red wine vinegar come together in a tangy sauce that works wonders on steak—and everything el
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/qk0c6bOd7jDnqWTSkR_eoW1Yimg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230912-SEA-Chimichurri-AmandaSuarez-hero-407debd62fde472a961f3132f435ab5c.jpg

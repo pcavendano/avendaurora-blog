@@ -1,0 +1,268 @@
+Title: Ground Turkey Chili
+
+----
+
+Category: sopas-caldos, salsas
+
+----
+
+Description: This satisfying, weeknight-friendly chili is made with tender ground turkey, sweet butternut squash, and toasted chiles for deep, balanced flavor.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: 85/15 lean ground turkey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4 1/4"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided, plus more to taste; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: ancho chiles , stemmed, seeded, and torn into 1-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: cups
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can whole peeled tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: minced canned chipotle chiles in adobo sauce
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: yellow onion, finely chopped
+  preparation: about 2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: garlic cloves , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can dark red kidney beans, undrained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: peeled and seeded butternut squash , cut into 1/2 inch cubes
+  preparation: about 2 cups cubed
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: apple cider vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: brown sugar , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Finely chopped red onion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Grated sharp cheddar cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium bowl, toss turkey, 1 tablespoon water, 1/4 teaspoon kosher salt, and baking soda until thoroughly combined. Set aside for 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium microwave-safe bowl, place ancho chiles and stock. Cover and microwave on high, stirring occasionally, until chiles have softened, 5 to 6 minutes. Carefully, transfer mixture to a blender. Add peeled tomatoes and chipotle chile to blender, secure lid and process mixture until smooth, about 1 minute. Set aside. (Use caution when puréeing hot ingredients and do not overfill the blender.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large Dutch oven, heat oil over medium heat until shimmering. Add onion and 1 1/2 teaspoons kosher salt, and cook, stirring occasionally, until softened, 6 to 8 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add garlic, cumin, coriander, oregano, and black pepper to Dutch oven, and cook over medium, stirring often, until garlic is fragrant, about 2 minutes. Stir in turkey and 1 1/2 teaspoons kosher salt, and cook, stirring occasionally and breaking up meat with a wooden spoon, until turkey begins to brown, 6 to 8 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add reserved chile mixture, kidney beans and liquid from can, butternut squash, and remaining 1 teaspoon kosher salt to Dutch oven; bring to a simmer over medium-high heat. Cover, reduce heat to medium-low, and cook, stirring occasionally, until squash is tender and flavors have melded, 18 to 20 minutes. Remove from heat, and stir in vinegar and brown sugar, if using. Season with salt to taste. Serve topped with red onion, cilantro, and cheddar.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Medium microwave-safe bowl, blender, large Dutch oven
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The chili can be refrigerated in an airtight container for up to 4 days or frozen for up to 2 months.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, chili-recipes
+
+----
+
+Seo_title: Ground Turkey Chili | Avenda Aurora
+
+----
+
+Seo_description: This satisfying, weeknight-friendly chili is made with tender ground turkey, sweet butternut squash, and toasted chiles for deep, balanced flavor.
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/-2pKnMwMxsPhOI1UiqolEH0HdkQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251010-SEA-TurkeyChili-RobbyLozano-01-ee201ab6a8f74788a7d8c1549f552774.jpg

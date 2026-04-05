@@ -1,0 +1,191 @@
+Title: Arroz Verde (Mexican Green Rice)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Arroz verde, or Mexican green rice, is a flavorful side that&#39;s seasoned with a bright combination of cilantro, parsley, and chiles. It complements seafood, braised vegetables, grilled meats, and more.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: neutral oil such as canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: white onion , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 serrano peppers , stemmed and cut into 1-inch segments
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , crushed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: homemade chicken stock or vegetable stock or store-bought low-sodium chicken or vegetable broth, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: loosely packed fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: loosely packed fresh parsley leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: loosely packed fresh epazote leaves
+  preparation: optional, see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: long-grain white rice , rinsed and dried
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium Dutch oven or saucepan, heat oil over medium-low heat until shimmering. Add onion, serranos, and garlic. Cook until ingredients soften, about 8 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a slotted spoon, transfer solids to a blender. Add 1/2 cup (120 ml) broth, cilantro, parsley, and epazote, if using. Blend on high until smooth. Season to taste with salt and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reheat remaining oil in Dutch oven over medium heat. Add rice and cook, stirring constantly, until the grains are lightly toasted, about 5 minutes. Add blended mixture to rice and stir to coat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining 1 cup (240 ml) stock or broth. Bring to a boil over medium-high heat then reduce heat to medium-low to maintain a simmer. Using a wooden spatula, scrape the bottom of the pan multiple times to ensure no rice is stuck. Cover and simmer until liquid is no longer visible on surface of rice, minimal steam is being generated, and rice has a noticeable &#34;cooked&#34; smell, 12 to 18 minutes. Remove from heat and rest, covered, at least 10 minutes or up to 20 minutes. Don&#39;t uncover or agitate the rice while resting.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fluff the rice with a fork. Season with salt to taste and serve with lime wedges.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Medium saucepan or Dutch oven with lid, blender
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Epazote is a Mexican herb with an earthy, minty flavor profile. If you can&#39;t find it, you can increase the amount of cilantro or parsley to a full cup.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, side-recipes, rice-grains-side-recipes
+
+----
+
+Seo_title: Arroz Verde (Mexican Green Rice) | Avenda Aurora
+
+----
+
+Seo_description: Arroz verde, or Mexican green rice, is a flavorful side that&#39;s seasoned with a bright combination of cilantro, parsley, and chiles. It complements seafood, 
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/69Rmdlwhr36h9eZ8OaKbf5hwKaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251203-SEA-ArrozVerde-LorenaMasso-HERO-7d8a4aa5f9504d55b28d4f7daf056a19.jpg

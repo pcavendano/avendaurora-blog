@@ -1,0 +1,166 @@
+Title: Macaroni and Cheese With Black Beans and Chipotle
+
+----
+
+Category: salsas
+
+----
+
+Description: Creamy stovetop macaroni and cheese flavored with black beans and chipotle chilies.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can evaporated milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: elbow macaroni
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can black beans, drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole chipotle chiles packed in adobo , minced, plus 2 tablespoons adobo sauce from can
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano chile or jalapeño chile , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: - ounce block American cheese , roughly grated or diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: sharp cheddar cheese , roughly grated or diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: roughly chopped fresh cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: finely sliced scallions
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine cornstarch, evaporated milk, and eggs in a medium bowl and whisk until homogenous. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cook pasta in a large stock pot in salted water according to package directions. Drain, reserving 1 cup pasta cooking water. Return to stock pot and add cooking water, beans, chipotle chilies, serrano or jalapeño, evaporated milk mixture, and cheeses. Cook over low heat, stirring constantly, until cheese is melted and sauce is creamy and smooth. Stir in cilantro and scallions, reserving some for garnish. Transfer to serving bowl, top with remaining cilantro and scallions, and serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, pasta-main-recipes
+
+----
+
+Seo_title: Macaroni and Cheese With Black Beans and Chipotle | Avenda Aurora
+
+----
+
+Seo_description: Creamy stovetop macaroni and cheese flavored with black beans and chipotle chilies.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/zl38s5JxQrjp256BZp7IgT8DjdM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__03__20121016-macaroni-and-cheese-variations-black-bean-chipotle-2c24cbb6a4914a1094bdbfb42e0e8cbc.jpg

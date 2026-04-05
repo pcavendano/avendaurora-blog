@@ -1,0 +1,157 @@
+Title: Chinese-Style Deep-Fried Salty Shrimp
+
+----
+
+Category: mariscos
+
+----
+
+Description: Fried shrimp are finished with crisp green onions, garlic, chile flakes, and salt.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: cups
+  ingredient: peanut , canola , or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: large
+  ingredient: cloves minced garlic
+  preparation: about 3 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried red chile pepper flakes
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: large
+  ingredient: egg , beaten
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: to 16 whole jumbo shell-on, head-on shrimp , about 1 pound
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: five-spice powder , Old Bay , smoked paprika , Sichuan peppercorns , or a combination
+  preparation: optional, as desired
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat 2 tablespoons of oil in a wok over medium heat until shimmering. Add the garlic, scallions and let brown, stirring occasionally, 3 to 5 minutes. Add the chile pepper flakes if using and stir until aromatic, about 30 seconds. Transfer oil and aromatics to a large metal bowl. Wipe wok clean with paper towel.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining oil to wok and heat to 375°F (190°C) over medium heat. Meanwhile, combine egg and cornstarch in a medium bowl. Add shrimp and toss to coat. When the oil is ready, add half of the shrimp, dropping them into the oil one at a time. Cook, agitating and flipping shrimp frequently until crisp and just cooked through, 2 to 3 minutes total. Transfer shrimp to a paper towel-lined plate and repeat with remaining batch.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add drained fried shrimp to bowl with browned aromatics. Season to taste with salt, pepper, and optional additional seasonings. Serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, frying-recipes, fried-seafood-recipes
+
+----
+
+Seo_title: Chinese-Style Deep-Fried Salty Shrimp | Avenda Aurora
+
+----
+
+Seo_description: Fried shrimp are finished with crisp green onions, garlic, chile flakes, and salt.
+
+----
+
+Original_author: Chichi Wang
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/eYqPkgaqMxxA5vKYb-807q5DbiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__07__20120717-chichi-shrimp-c765d1ceb15d4125b8220cc6953219bd.jpg

@@ -1,0 +1,264 @@
+Title: Spice Bag
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: In this beloved Dublin takeout dinner, crunchy chicken, fluffy chips, and a numbing, spicy coating—plus curry sauce for dipping.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Sichuan peppercorns , freshly ground with a spice mill or mortar and pestle
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: onion powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: five-spice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: granulated sugar
+  preparation:  1/2 ounce ; 15 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: MSG
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: chicken bouillon powder, such as Knorr or Lee Kum Kee
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Sichuan chili flakes , see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation:  2 ounces ; 56 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: all-purpose flour
+  preparation: about 1/2 ounce ; 16 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Madras curry powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe Japanese-style karaage or 12 ounces frozen, breaded chicken breast nuggets , prepared according to package directions, see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe British-style chips or 12 ounces frozen bagged steak fries , prepared according to package directions, see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral oil , such as canola or peanut
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red bell pepper , stemmed, seeded, and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chili crisp , such as Lao Gan Ma, plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Spice Blend: In a small mixing bowl, whisk ground Sichuan peppercorns, garlic powder, onion powder, five-spice, white pepper, sugar, MSG, chicken bouillon powder, and Sichuan chili flakes to combine. Season to taste with additional garlic powder, sugar, and/or chili flakes as desired; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Curry Sauce: In a small saucepan set over medium heat, melt butter. Whisk in flour and curry powder and cook, stirring frequently, until lightly browned and fragrant, 3 to 4 minutes. Add warm chicken broth, whisking to combine, and cook, stirring frequently, until glossy and thick enough to coat the back of a spoon, 4 to 5 minutes. Season to taste with salt. Reduce heat to lowest setting and cover to keep warm, stirring occasionally.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Chicken and Potatoes: Season karaage or chicken nuggets and chips or fries with 2 teaspoons of reserved spice blend, tossing to evenly coat; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Stir-Fry: In a large wok or carbon steel skillet set over medium-high heat, heat oil until shimmering. Add onion and pepper, and cook, stir-frying until edges are lightly charred and vegetables have softened, about 5 minutes. Add chicken and potatoes to the wok, and season with 2 teaspoons spice blend and chili crisp. Using a spatula, toss ingredients in wok to evenly coat with chili oil and spices, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer mixture to a wide, shallow bowl, and serve alongside curry sauce for dipping.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spice mill or mortar and pestle, whisk, small saucepan, large wok or carbon steel skillet, spatula
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Sichuan chili flakes may also be labeled as Chinese chili flakes at your Asian grocer.&nbsp;
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you plan to make the Japanese-style karaage for this recipe, the final product may be slightly less crispy than if you choose frozen nuggets. I actually appreciate the slightly crunchier, more durable coating that frozen chicken nuggets , such as the ones sold at Costco, bring to the table.&nbsp;
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The same goes for the British-style chips — if you make your own, they’re a little more likely to fall apart than frozen steak fries, while frozen fries will have a slightly drier exterior. Both are great in this recipe.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, chicken-recipes
+
+----
+
+Seo_title: Spice Bag | Avenda Aurora
+
+----
+
+Seo_description: In this beloved Dublin takeout dinner, crunchy chicken, fluffy chips, and a numbing, spicy coating—plus curry sauce for dipping.
+
+----
+
+Original_author: Amy McCarthy
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/eN0O3G_aEZoitjy0Ry3wQcUxXcI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20260106-SEA-Spice-Bag-Melati-Citrawireja-HERO1-2f2aad96238345988dc88853807f1581.jpg

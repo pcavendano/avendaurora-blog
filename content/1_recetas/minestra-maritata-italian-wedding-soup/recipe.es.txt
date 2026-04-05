@@ -1,0 +1,252 @@
+Title: Minestra Maritata (Italian Wedding Soup)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: This Italian wedding soup is a soulful mixture of meltingly tender greens and a wide variety of meats, all in a broth with a meaty depth unlike almost any other.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: boneless beef chuck
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: pound
+  ingredient: pork ribs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bone-in, skin-on chicken thighs
+  preparation: about 3/4 pound ; 340 g total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: prosciutto trimmings/ends
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: spicy salami or sopressata
+  preparation: whole, not sliced
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: mild salami or other dry-cured pork sausage
+  preparation: whole, not sliced
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: red onions , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: carrot
+  preparation:  3 ounces ; 85 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: celery rib
+  preparation:  3 ounces ; 85 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: large
+  ingredient: sprigs flat-leaf parsley
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: links fresh Italian sausage
+  preparation:  8 ounces ; 225 g total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: pound
+  ingredient: lardo or pancetta , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: fresh hot red pepper , such as a Fresno , stemmed and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: mixed bitter greens , such as escarole, dandelion, broccoli rabe, Swiss chard, Tuscan kale, small Napa cabbage, and/or chicory, trimmed and washed very well of sand and grit
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Garlic-rubbed toasted country bread slices , for serving
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Grated Pecorino Romano , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: When cooker has depressurized, open lid, add fresh sausage, and poach until cooked through, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer meats to a work surface and allow to cool slightly. Discard onions, carrot, celery, and parsley. Shred and/or cut up the meats into serving-size pieces, discarding bones as you go. Skim pooled fat from surface of broth, then return meats to the broth. Season broth with salt only if it needs it.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Greens: In a large sauté pan, heat olive oil over medium heat with the lardo or pancetta, garlic, and chile pepper. Cook, stirring, until pork fat has largely rendered and pork is lightly browned, about 10 minutes. Working in batches to avoid crowding the pan, add greens, stirring and allowing to wilt down between additions (covering the pan can help trap steam and wilt the greens faster), until all the greens have been added and cooked down until very tender and a drab green color, about 25 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once greens are very cooked and much of their water has evaporated, allow greens to gently fry in the rendered fat for a few minutes, wetting with small additions of the meat broth liquid to prevent excessive browning and drying. Season greens with salt only if they need it.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to serve, arrange toasts in serving bowls. Top with a generous portion of the cooked greens, then ladle broth and chunks of meat on top. Sprinkle with Pecorino Romano and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pressure cooker (such as an Instant Pot) or large Dutch oven or soup pot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can often buy prosciutto ends and trimmings from a deli counter or specialty store that sells sliced-to-order prosciutto.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This soup reheats and freezes beautifully. Simply transfer to an airtight container and refrigerate up to 4 days or freeze up to 3 months (it will be safe longer than this in the freezer, but the flavor and texture may begin to suffer.) You may need to thin with a little water when reheating.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Minestra Maritata (Italian Wedding Soup) | Avenda Aurora
+
+----
+
+Seo_description: This Italian wedding soup is a soulful mixture of meltingly tender greens and a wide variety of meats, all in a broth with a meaty depth unlike almost any other
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/sKa1bTiKqfDAG4PZtWHkkpRz7Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251015-SEA-ItalianWeddingSoupMinestraMaritata-AmandaSuarez-19-effbd347e6ca4b8abb7b82617d8afc74.jpg

@@ -1,0 +1,271 @@
+Title: Pastel Azteca
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: This Mexican comfort classic, pastel Azteca layers fried tortillas, saucy shredded chicken, and a trio of creamy cheeses into a baked dish that&#39;s like lasagna&#39;s spicier, cheesier cousin.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: cups
+  ingredient: Mexican crema or sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: Mexican-style requeson cheese or ricotta cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: California chiles , stems and seeds removed, halved lengthwise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil such as canola or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: plum or Roma tomatoes , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Mexican oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: chicken bouillon powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil such as canola or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: white onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: fresh red chiles , such as red finger chiles, cayenne peppers, or Fresno peppers, thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: garlic cloves , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh or thawed frozen corn kernels
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: shredded poached or store-bought rotisserie chicken meat
+  preparation: about 4 cups shredded
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: neutral oil such as canola or vegetable oil, for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "18"
+  unit: 
+  ingredient: corn tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: Queso Oaxaca or other melting white mild cheese such as queso Chihuahua or
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Mozzarella , shredded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh cilantro leaves , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Requeson-Crema Mixture: In a bowl, whisk together requeson and crema. Cover and refrigerate until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Salsa: Adjust oven rack to middle position and preheat oven to 350°F (175°C). In a large skillet, heat 1 tablespoon oil over medium-high heat until just smoking. Add tomatoes skin-side down. Cook, undisturbed, until tomatoes are lightly blistered, about 3 minutes. Flip tomatoes, reduce heat to medium-low, and add dried chiles. Stir to coat in tomato juices. Continue cooking until tomatoes are broken down and chiles soften, about 2 minutes longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add chicken stock to skillet and scrape up any charred bits from the pan using a stiff metal or wooden spatula. Transfer tomato and chile mixture to a blender jar. Add chicken bouillon powder, oregano, and cumin. Cover and blend on high until smooth and no bits of chiles remain, about 1 minute. Season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Chicken Filling: Using paper towels or a kitchen towel, wipe skillet clean. Add 1 tablespoon of oil to now-clean skillet and heat over medium heat until shimmering. Add thinly sliced onions and cook, stirring occasionally, until softened, about 4 minutes. Add fresh chiles, garlic, and corn and cook until fragrant and corn kernels soften, 2 minutes longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add prepared salsa and shredded chicken to skillet. Toss with tongs to combine. Season with salt and pepper. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Pastel Azteca: In a medium saucepan, add 2 cups of oil and heat over medium-high until oil reaches 375°F (190°C). Working with one tortilla at a time, place tortilla into hot oil and fry until the first side is light golden, about 15 seconds. Flip and fry until second side is golden, about 15 seconds. Set aside on a paper towel–lined plate. Continue with the remaining tortillas.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 9-by-13-inch broiler-safe casserole dish, arrange 6 tortillas in an even layer. Using a spoon, coat the tortillas with 1/3 of the requeson-crema mixture. Spread 1/3 of the chicken mixture over top. Sprinkle 1/3 of the shredded cheese over the chicken. Repeat layering in that order for 2 more layers to make a total of 3 layers with the cheese on top.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bake the assembled pastel Azteca until heated through and cheese is melted and bubbly, 25 to 30 minutes. Turn on broiler setting on oven and broil until the top is spotty brown, 3 to 5 minutes. Remove from oven and let cool for 15 minutes. Slice and serve with cilantro sprinkled on top.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Blender, large saucepan, medium saucepan, digital thermometer or clip-on thermometer for frying, 9x13-inch baking dish
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The baked Pastel Azteca can be refrigerated in an airtight container for up to 5 days or frozen for up to 3 months.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, comfort-food-recipes
+
+----
+
+Seo_title: Pastel Azteca | Avenda Aurora
+
+----
+
+Seo_description: This Mexican comfort classic, pastel Azteca layers fried tortillas, saucy shredded chicken, and a trio of creamy cheeses into a baked dish that&#39;s like lasag
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/zFWiUE3Y_pgA-xtvu8qjemNfsVs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250722-SEA-PastelAzteca-LorenaMasso-HERO1-d1c8a81fad1b44d4b0a84598f7fbdc03.jpg

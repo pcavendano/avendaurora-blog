@@ -1,0 +1,156 @@
+Title: Bagna Càuda (Northern Italian Anchovy-Garlic Dip)
+
+----
+
+Category: antojitos
+
+----
+
+Description: Bagna càuda, one of the classic dishes of the Piedmont region in northwestern Italy, is a potent dip made from warm olive oil loaded with tons of garlic and anchovies, all cooked together until melted down. Paired with a beautiful vegetable platter, it&#39;s the ultimate dip.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: head garlic , peeled
+  preparation: about 14 medium cloves ; 60 g once peeled
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: milk or water
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "100"
+  unit: 
+  ingredient: g high-quality oil-packed anchovy fillets
+  preparation: about 30 fillets 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Assorted raw vegetables, such as radishes , cauliflower florets, cardoon stalks , bell peppers , endive leaves , and more, cut for dipping
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole , skin-on yellow onion , roasted in a 400°F oven until tender throughout, then peeled and cut for dipping
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Trim garlic cloves; if desired, halve lengthwise and remove germ from center. (Very developed green germs can add a subtle bitterness to the sauce, though our tests with younger garlic showed no noticeable difference between batches made with and without a more beige germ.) Slice garlic.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small saucepan, combine garlic and milk or water, bring to a gentle simmer, and cook until garlic is soft, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain garlic well. Wipe out saucepan, then return garlic to saucepan and cover with olive oil. Cook over very low heat until garlic is very soft and can easily be smashed with a wooden spoon, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add anchovies and cook, stirring and smashing, until they have fully dissolved into the sauce. Continue smashing the garlic and anchovies until a thick purée forms. (If desired, you can very quickly purée the bagna càuda with an immersion blender to make an even smoother sauce.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve hot with raw vegetables and slices of roasted onion (if using).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Immersion blender (optional)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Milk and water yield very similar results, with milk adding just a slight extra richness to the final dip. Both work well.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes
+
+----
+
+Seo_title: Bagna Càuda (Northern Italian Anchovy-Garlic Dip) | Avenda Aurora
+
+----
+
+Seo_description: Bagna càuda, one of the classic dishes of the Piedmont region in northwestern Italy, is a potent dip made from warm olive oil loaded with tons of garlic and anc
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/-jTkTr3c7A9WjAAAsoxf37kg-mU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__03__20180216-bagna-cauda-vicky-wasik-20-1a900e0ab9054e4185a7ba4d3959c6cf.jpg

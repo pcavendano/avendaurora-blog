@@ -1,0 +1,176 @@
+Title: Black Eyed Peas With Ham Hock
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: A foolproof method for cooking perfectly tender and creamy beans infused with the essence of smoked meat.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: onion , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: celery stalks , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: garlic cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: smoked ham hock , about 1 1/2 to 2 pounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: A pinch of red chile flakes , or to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: dried thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: black eyed peas , rinsed and soaked overnight in cold water, then drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat the oven to 350°F (175°C). Heat oil in a Dutch oven and sweat the onion over medium heat until translucent, about 5 minutes. Add the celery and garlic and cook for another 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the hock and enough water to cover the hock completely. Add the chile flakes, bay leaf, thyme, and pepper. Bring the water to a boil, then cover the pot and transfer it to the oven. Cook for 1 hour.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: After 1 hour, add the black eyed peas to the pot and return to the oven, this time uncovered. Cook for another 1 1/2 hours, or until the beans and pork are tender. Using tongs, transfer ham hock to a cutting board and set aside until cool enough to handle, about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once ham hock is cool, roughly chop meat using a sharp knife; discard skin, bones, and fat. Return meat to pot and bring back to a low simmer. Serve with your choice of sides, such as collard greens or kale.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, bean-recipes, black-eyed-pea-recipes
+
+----
+
+Seo_title: Black Eyed Peas With Ham Hock | Avenda Aurora
+
+----
+
+Seo_description: A foolproof method for cooking perfectly tender and creamy beans infused with the essence of smoked meat.
+
+----
+
+Original_author: Chichi Wang
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/B6sfYZNV96uH3e7aakrxpgLmAWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20110412-nasty-bits-black-eyed-peas-ham-hock-primary-9ab205412c0f4811961cf92e902a9fe6.jpg

@@ -1,0 +1,191 @@
+Title: Citrus Salad With XO Sauce and Meyer Lemon Dressing
+
+----
+
+Category: postres, salsas
+
+----
+
+Description: The savory depth of XO sauce plays the perfect foil to sweet and tart citrus in this simple salad.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: mixed citrus fruit , peeled and cut into 1/4-inch-thick rounds, juices reserved separately
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: scallions , white and green parts divided, white parts minced, green parts thinly sliced on a bias
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: sprigs fresh cilantro , leaves and tender stems divided, stems minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: green or red Thai chile , stemmed and minced
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: finely grated zest from 1 Meyer lemon , plus 1 tablespoon juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: honey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: toasted sesame oil
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: XO sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: roasted peanuts , coarsely chopped
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a small bowl, combine reserved citrus juice, white scallion parts, cilantro stems, chile, lemon zest and juice, and honey. Whisking constantly, slowly drizzle in olive oil, followed by sesame oil (if using). Season to taste with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Shingle citrus rounds on a large serving platter, pausing to spoon dressing over each layer of citrus before shingling more on top. Using a spoon, evenly drizzle remaining dressing over the citrus, followed by small spoonfuls of XO sauce, making sure to use some of the aromatic oil from the XO. Season citrus lightly with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Sprinkle with peanuts (if using), followed by green scallion parts and cilantro leaves. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Save any juice that ends up on your cutting board while slicing the citrus rounds, and be sure to squeeze out juice from any scrap end pieces of the fruit. It&#39;ll be delicious in the salad&#39;s dressing.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Thai chiles are very spicy, but adjustments can be made to modify the heat of the dressing as needed. For a milder dish, you can either use less chile or use a milder chili altogether, such as a stemmed and seeded jalapeño. Of course, you can also omit the chile entirely.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you can&#39;t find Meyer lemons, substitute with a regular lemon.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This dish comes together in a flash and is best enjoyed immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes
+
+----
+
+Seo_title: Citrus Salad With XO Sauce and Meyer Lemon Dressing | Avenda Aurora
+
+----
+
+Seo_description: The savory depth of XO sauce plays the perfect foil to sweet and tart citrus in this simple salad.
+
+----
+
+Original_author: Sasha Marx
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/lmiIFkjG_4EMynv0yVkTjIoL5FI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__04__20190411-citrus-salad-xo-sauce-vicky-wasik-3-7af4c88dcf594952bed8417190067e5d.jpg

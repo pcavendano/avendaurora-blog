@@ -1,0 +1,154 @@
+Title: Mint Mojo (Puerto Rican-style Garlic Sauce with Mint)
+
+----
+
+Category: salsas, antojitos
+
+----
+
+Description: An herbal sauce made with mint and parsley, flavored with garlic and citrus juice.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: picked fresh mint leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: picked fresh parsley leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: clove garlic , minced
+  preparation: about 1 teaspoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: capers , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: juice and 1 teaspoon zest from 1 whole lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: juice from 1 whole sour orange
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: shallot , minced
+  preparation: about 2 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: red chile or pinch red pepper flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine mint, parsley, garlic, capers, lemon juice and zest, orange juice, shallot, pepper flakes, and olive oil in the bowl of a food processor or blender and process until a chunky puree is formed. Transfer to a small bowl, season to taste with salt and pepper, and set aside until ready to serve.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes, salsa-recipes
+
+----
+
+Seo_title: Mint Mojo (Puerto Rican-style Garlic Sauce with Mint) | Avenda Aurora
+
+----
+
+Seo_description: An herbal sauce made with mint and parsley, flavored with garlic and citrus juice.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/DmlNonGqyKLgzvVYeLl2Fs7cZdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__03__20130305-fried-plantains-mint-mojo-recipe-2-1733c22ff4104fdaaf48fb3800bf9427.jpg

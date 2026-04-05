@@ -1,0 +1,186 @@
+Title: Curry-Flavored Nigerian Stock
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: This flavorful broth is an essential ingredient for many Nigerian dishes, including jollof rice, fried rice, stew, chicken curry, and more.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece fresh ginger knob ), peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: 12 ounces assorted beef and chicken bones
+  preparation: including backs and wings
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: green bell pepper , stemmed, seeded, and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: habanero pepper , whole
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: Nigerian/Caribbean-style curry powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried thyme leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sea or kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a blender, process ginger and garlic with 2 cups (475ml) water until thoroughly blended.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large pot, combine beef and chicken bones with onion, bell pepper, and habanero (if using). Pour ginger-garlic mixture through a fine-mesh strainer into pot, pressing on solids to extract as much liquid as possible before discarding the fiber. Add curry powder, dried thyme, bay leaves, black pepper, and a large pinch of salt. Add enough additional water to just cover all solid ingredients (about 2 1/2 quarts; 2.5L); stir to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cover and bring to a boil over high heat. Reduce heat to maintain a simmer and cook until the stock is aromatic and the vegetables are soft, about 45 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Off heat, remove the bones with a pair of tongs; if there’s meat on the bones, you can pull it off later as a snack, but otherwise discard the bones.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a slotted spoon, transfer the vegetables and bay leaves to the blender and puree with 1 cup (225ml) of stock until homogenous and smooth. Pour pureed vegetables through a fine-mesh strainer back into stock, pressing on solids to extract as much liquid as possible; discard remaining vegetable matter trapped in the strainer. Stir well to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Use stock as desired, or store in an airtight container for up to 5 days in the refrigerator or 3 months in the freezer.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, african-recipes, west-african-recipes, nigerian-recipes
+
+----
+
+Seo_title: Curry-Flavored Nigerian Stock | Avenda Aurora
+
+----
+
+Seo_description: This flavorful broth is an essential ingredient for many Nigerian dishes, including jollof rice, fried rice, stew, chicken curry, and more.
+
+----
+
+Original_author: Ozoz Sokoh
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/fvji9cEOHxsq_ENranJj_XEYhoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220829-Nigerian-Stock-Maureen-Celestine-hero-c05b1138066b44a99276e9f302a8fcba.jpg

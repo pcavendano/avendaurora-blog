@@ -1,0 +1,159 @@
+Title: Chocolate Chip Meringue Cookies
+
+----
+
+Category: postres
+
+----
+
+Description: A step-by-step guide to making spectacular chocolate chip meringue cookies that are crisp and airy.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: large
+  ingredient: egg whites
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: cream of tartar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7"
+  unit: ounces
+  ingredient: high-quality dark chocolate , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat oven to 200°F (95ºC). Begin whipping egg whites in a stand mixer fitted with a whisk attachment on low speed. As the whites start to look wet and frothy, after about 45 seconds, add cream of tartar and salt and allow it to dissolve with the mixer still on low speed, about 10 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While the whites are still frothy, slowly begin to add sugar in a steady stream with the mixer on low. Once you&#39;ve added about 1/4 cup of the sugar, increase speed to medium and continue to gradually add sugar as the mixer runs.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once all the sugar has been added, increase speed to high and whisk until meringue is thick and glossy and holds firm peaks when you lift the whisk out of it, about 4 minutes. If it&#39;s not there yet, continue to whip meringue on high speed at 30-second intervals and test again.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once the meringue is at firm peak stage, spoon a tiny dot of it onto each of the 4 corners of a baking sheet and press the parchment paper liner down over it. This will anchor the parchment paper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Carefully fold chocolate into meringue with a rubber spatula, taking care not to deflate it.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spoon 1 1/2-inch to 2-inch dollops of meringue mixture onto baking sheet, spaced 1 inch apart. Try to shape meringues with a spoon so they have crags and ridges all over.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bake until meringues harden on the outside, develop cracks, and are only slightly moist on the inside, about 2 hours (this can vary widely depending on your oven). To test for doneness, remove one meringue, allow to cool at room temperature for 5 minutes, then break open to check texture. The center should only be slightly moist at this point.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Allow meringues to cool on a wire rack. Allow them to cool for at least 1 hour (see notes) in a dry place before storing them in a container with the lid left only partially on. Moisture and humidity will cause them to melt, so try to use them soon after baking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stand mixer , parchment paper
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, dessert-recipes, cookie-recipes
+
+----
+
+Seo_title: Chocolate Chip Meringue Cookies | Avenda Aurora
+
+----
+
+Seo_description: A step-by-step guide to making spectacular chocolate chip meringue cookies that are crisp and airy.
+
+----
+
+Original_author: Lauren Weisenthal
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/W_IaOb_LlgO2uGj4pAhpAaT7d5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__20110630-159343-recipe-chocolate-chip-meringue-primary20120of201-7309a4bbe1c94b18a38e1922e1e93778.jpg

@@ -1,0 +1,208 @@
+Title: Sheet-Pan Salmon With Cabbage and Mushrooms
+
+----
+
+Category: mariscos, platos-fuertes
+
+----
+
+Description: This easy weeknight dinner features perfectly cooked salmon alongside tender roasted cabbage and mushrooms coated in a flavorful spiced oil, all cooked on one baking sheet for easy prep and cleanup.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: head green or red cabbage , cut through core
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: smoked paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided; for table salt use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: beech mushrooms , trimmed and separated, or thinly sliced cremini mushrooms
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground fennel seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: skin-on or skinless salmon fillets
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: lime zest and 1 tablespoon lime juice
+  preparation: from 1 lime 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chopped fresh cilantro or parsley
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to upper-middle position and heat oven to 500℉. Cut cabbage half through core into 2 pieces, then cut each piece through core into 2 wedges for a total of 4 wedges. Leave core intact. Arrange wedges, 1 flat side down, on 1 side of rimmed baking sheet, leaving other half of sheet empty.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small microwave-safe bowl, combine 3 tablespoons oil with smoked paprika and heat until fragrant, 30 seconds. Vigorously whisk to combine well, then use a pastry brush to brush half of oil mixture on exposed cut sides of wedges and sprinkle evenly with 1/2 teaspoon salt. Flip wedges so oiled sides are now down. Brush second cut sides with remaining oil mixture and sprinkle with pepper and remaining 1/2 teaspoon salt. Cover sheet tightly with aluminum foil and roast for 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While cabbage is roasting, in a medium bowl, toss mushrooms with 1 tablespoon oil, ground fennel seed, and 1/2 teaspoon salt until evenly coated.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once cabbage has cooked for 15 minutes, remove baking sheet with cabbage from oven and reduce oven temperature to 450℉. Carefully uncover and discard foil and flip cabbage wedges.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove baking sheet from oven and using a spatula, gently push mushrooms aside and place salmon fillets directly onto sheet pan, on opposite side of cabbage. Redistribute mushrooms around the salmon and cabbage, ensuring mushrooms have contact with pan.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a fork, whisk lime zest and lime juice into prepared oil mixture to combine, then brush oil mixture all over salmon fillets.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cook until salmon registers 115 to 130°F (46 to 55°C) for medium-rare to medium, and mushrooms and cabbage are cooked through, 8 to 12 minutes. Sprinkle with chopped parsley or cilantro, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pastry brush, aluminum foil
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe can easily be halved to serve two or doubled to serve eight. If you do double the recipe, I recommend cooking the cabbage and mushrooms on one pan and the salmon on a second pan with the salmon going on a lower rack in the oven.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: Sheet-Pan Salmon With Cabbage and Mushrooms | Avenda Aurora
+
+----
+
+Seo_description: This easy weeknight dinner features perfectly cooked salmon alongside tender roasted cabbage and mushrooms coated in a flavorful spiced oil, all cooked on one b
+
+----
+
+Original_author: Kaumudi Marathé
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/16_J1souOOWaez0ngdK-MBp4-EQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250415-SEA-SalmonSheetPanDinner-MaureenCelestine-Beauty2-33-31bc08fa0bdf43189ec42ad117acf2b2.jpg

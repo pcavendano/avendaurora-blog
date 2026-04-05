@@ -1,0 +1,204 @@
+Title: Cellophane Noodles with Pork and Thai Basil
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: Cellophane noodles tossed with crisp bits of ground meat, and a tart fish sauce dressing.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: 
+  ingredient: bundles cellophane noodles , about 9 ounces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: ground pork , beef, or chicken
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: garlic cloves , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: dried red chile flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: fish sauce
+  preparation: or more, depending on saltiness
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: rice vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: garlic chili paste , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Finely sliced bird&#39;s eye chiles , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Bean spouts , parboiled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Finely chopped cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Finely chopped Thai basil
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: To cook the pork, heat the oil in a wok and add the red chili pepper flakes and garlic, cooking until garlic begins to brown. Add the pork and salt and stir-fry until pork is just cooked through, about 2 minutes. Turn the stove off and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the meantime, bring a medium-sized pot of water to boil. Add the dried bundles of cellophane noodles cover the pot. Turn off the heat and let the noodles soften in the water, no longer than 10 minutes. Remove the noodles from the pot and drain in a colander.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the noodles and the ingredients for the dressing to the wok and toss everything together. Add the beansprouts if you are using.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Garnish with Thai basil and cilantro. Serve warm or tepid.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, noodle-main-recipes
+
+----
+
+Seo_title: Cellophane Noodles with Pork and Thai Basil | Avenda Aurora
+
+----
+
+Seo_description: Cellophane noodles tossed with crisp bits of ground meat, and a tart fish sauce dressing.
+
+----
+
+Original_author: Chichi Wang
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/s7Xv4g4KPeL7f3kwVvkiCxEa-Wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20110624-seriously-asian-5dede3f8470745a19cb8674f718a43be.jpg

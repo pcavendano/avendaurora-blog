@@ -1,0 +1,167 @@
+Title: Kkakdugi (Radish Kimchi)
+
+----
+
+Category: mariscos
+
+----
+
+Description: Fermented radishes deliver plenty of funk and crunch.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: pounds
+  ingredient: daikon or Korean moo radish, peeled and cut into a 1-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plus 1 teaspoon Diamond Crystal kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: plus 2 tablespoons coarse ground gochugaru
+  preparation: Korean chile powder
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: garlic cloves , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece fresh ginger , peeled and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: scallions , cut into 1-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: saeujeot
+  preparation:  Korean salted shrimp 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place radish in a large bowl, and sprinkle evenly with salt, sugar, and gochugaru. Using clean hands, mix, agitate, and massage radish to coat evenly with seasoning, until radish pieces begin to release moisture and are stained red from gochugaru, 4 to 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add garlic, ginger, scallions, saeujeot, and fish sauce, and continue to mix by hand until thoroughly combined, about 1 minute. Transfer mixture to a non-reactive 1/2-gallon container, such as a fermentation crock or glass canning jar. Press down on mixture to eliminate air pockets, cover surface with plastic wrap, pressing gently to ensure full contact, and weigh down with fermentation weight. Seal container with airlock lid following manufacturer&#39;s instructions.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Store kimchi in dark area away from sun and let ferment, maintaining an ambient temperature between 55°F (13°C) and 75°F (24°C) for 3 days; check mixture daily for signs of gas formation (this is a good sign). After first 24 hours, vegetables should have released a good deal of moisture; using a clean spoon, press down on radish mixture to submerge in liquid.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: After 3 days, transfer container to refrigerator and continue to ferment for at least 2 more days before eating. After 5 total days of fermentation, begin tasting kimchi daily until it has reached desired flavor. Check progress of fermentation every 3 to 5 days, stirring kimchi with a clean spoon and making sure to keep vegetables submerged in liquid. Properly stored, kkakdugi kimchi can be refrigerated for up to 3 months (its flavor will change over time, becoming more &#34;ripe&#34; and intense as it ages; peak flavor falls around the 14-day mark).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To serve as a banchan, divide kimchi between small individual serving dishes, and spoon liquid from fermentation container over top. Serve.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, east-asian-recipes, korean-recipes
+
+----
+
+Seo_title: Kkakdugi (Radish Kimchi) | Avenda Aurora
+
+----
+
+Seo_description: Fermented radishes deliver plenty of funk and crunch.
+
+----
+
+Original_author: Sunny Lee
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/IOqbjFT8FbnnqWqxqASB9p5Rm1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210520-kkakdugi-radish-kimchi-Beauty-tim-chin-seriouseats-v2-f1f1ad5d4bb94470b80c79057504a5b1.jpg

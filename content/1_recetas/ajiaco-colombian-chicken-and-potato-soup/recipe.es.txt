@@ -1,0 +1,230 @@
+Title: Ajiaco (Colombian Chicken and Potato Soup)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: All potatoes originated in the Andes, and Colombia has quite a selection of them, the best being the small, yellow, creamy, buttery papas Criollas. They&#39;re eaten deep fried, salt roasted, boiled, or—my wife&#39;s favorite method—cooked into ajiaco, a classic chicken and potato soup from the mountains around Bogotá.
+
+----
+
+Cover: 
+
+----
+
+Prep-time: 
+
+----
+
+Cook-time: 
+
+----
+
+Total-time: 
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: homemade chicken stock
+  preparation: or low-sodium canned stock
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole bone-in, skin-on chicken breast , split
+  preparation:  12 to 16 ounces total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: onion , split in half
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: russet potatoes peeled and cut into rough 1-inch chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: papas Criollas , peeled
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: Red Bliss potatoes , peeled, split into quarters lengthwise, and cut into 1/2-inch slices
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: dried guascas
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: ears corn , shucked and broken into 3 pieces each
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: onion , finely diced
+  preparation: about 3/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chopped cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano or 1/2 jalapeño , seeded and finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly cracked black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: sour cream , thinned with 1 tablespoon milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: capers , rinsed, drained, and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: ripe avocado , preferably smooth, light-green fuerte variety, sliced into wedges
+  preparation: 
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: ""
+  instruction: Combine chicken stock, chicken breast, onion, bay leaves, potatoes, and guascas in a large saucepot or Dutch oven. Add more water if necessary to cover solids by 1-inch. Bring to a boil over high heat. Reduce to a simmer and cook until chicken breast is cooked through, about 10 minutes. Transfer chicken breast to plate and set aside until cooled to room temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Continue to simmer potatoes until russets and papas Criollas are completely tender and falling apart, about 45 minutes longer, adding more water as necessary. Discard onion and bay leaves. Using whisk, mash potato pieces against side of pot and stir vigorously to thicken soup. The soup should be thick, with large chunks of potatoes still remaining.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add corn cobs and continue to cook, stirring occasionally, until corn is cooked and soup is thickened to the consistency of thick heavy cream, about 15 minutes longer. Remove from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While soup is cooking, make the aji : Combine onion, cilantro, and chile pepper in small serving bowl and add water until just covered. Season generously with salt and stir to combine. Set aside. Discard chicken skin and bones. Shred meat into bite-size pieces and set aside in serving bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season soup to taste with salt and pepper. Serve immediately, passing picked chicken, chopped capers, sour cream, and aji table-side for diners to add to their bowl. Serve avocado slices on the side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Papas Criollas are small, creamy yellow Colombian potatoes with a unique buttery flavor and texture. They can occasionally be found frozen in Latin markets. If unavailable, substitute small Yukon Golds or yellow fingerling potatoes, peeled and cut into 1-inch chunks.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Guascas is a Colombian herb. It can be found in some Latin markets, or ordered online from amigofoods . If unavailable, replace with an extra 2 bay leaves (remove along with other bay leaves in step 2), plus 2 tablespoons of fresh chopped parsley leaves.
+  tip: ""
+  step_image:
+
+----
+
+Tips: 
+
+----
+
+History: 
+
+----
+
+Enable-kits: false
+
+----
+
+Store-kits: 
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo-title: Ajiaco (Colombian Chicken and Potato Soup) | Avenda Aurora
+
+----
+
+Seo-description: All potatoes originated in the Andes, and Colombia has quite a selection of them, the best being the small, yellow, creamy, buttery papas Criollas. They&#39;re
+
+----
+
+Original-author: J. Kenji López-Alt
+
+----
+
+Original-image: https://www.seriouseats.com/thmb/-bNSGtLxPSHmwJHTYr5YdKs8Xxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ajiaco-colombian-potato-soup-hero-24ae1887fec444b5870127bed64f6ce6.jpg
+
+----
+
+Uuid: gJDCvClSZRBxuhDK

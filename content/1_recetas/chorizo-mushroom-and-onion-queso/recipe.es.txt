@@ -1,0 +1,171 @@
+Title: Chorizo, Mushroom, and Onion Queso
+
+----
+
+Category: antojitos
+
+----
+
+Description: Chorizo and mushrooms give this stringy queso a great spicy and earthy flavor.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: monterey jack cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: pound
+  ingredient: chorizo
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: yellow onion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: shiitake
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: minced garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: evaporated milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: tsp kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place cheese in a medium bowl and toss with cornstarch until evenly coated. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place chorizo in a medium saucepan over medium-high heat. Cook, breaking up with a wooden spoon, until cooked through, about 5 minutes. Add in onion and mushrooms and cook, stirring occasionally, until onions have softened and mushrooms have reduces in size, about 7 minutes. Stir in garlic and cook until fragrant, about 30 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in evaporated milk, scraping bottom of pan to release any fond, and bring to a boil. Reduce heat to low and add in cheese. Stir constantly until cheese is melted and smooth. Stir in cilantro and lime zest. Season with salt to taste. Transfer to a bowl and serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes, cheese-dip-recipes
+
+----
+
+Seo_title: Chorizo, Mushroom, and Onion Queso | Avenda Aurora
+
+----
+
+Seo_description: Chorizo and mushrooms give this stringy queso a great spicy and earthy flavor.
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/guaOVh8RbVxX0ACzs5h7ie0R0Rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__01__20140119-280500-chorizo-queso-365844fdfc0549a2b145d20b6492c365.jpg

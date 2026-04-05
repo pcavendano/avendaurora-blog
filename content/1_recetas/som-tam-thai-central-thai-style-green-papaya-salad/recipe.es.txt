@@ -1,0 +1,171 @@
+Title: Som Tam Thai (Central Thai-Style Green Papaya Salad)
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: This salad combines crunchy strips of unripe green papaya with fresh chiles, pungent garlic, savory dried shrimp, roasted peanuts, long beans, and tomatoes, all of which are tossed with a salty-sour-sweet dressing made with fish sauce, lime juice, and palm sugar.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: small
+  ingredient: garlic cloves
+  preparation:  6 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 fresh Thai chiles , stemmed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried shrimp
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: roasted unsalted peanuts , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plus 2 teaspoons palm sugar , softened
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: cherry tomatoes , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: long beans , ends trimmed, cut crosswise into 2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fresh lime juice from 2 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: shredded green papaya , from 1 green papaya
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked sticky rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: You can adjust the spiciness of this salad to suit your taste by reducing or increasing the amount of fresh Thai chiles in the recipe.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Dried shrimp can be found in Asian markets and also online.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Palm sugar can be found in Southeast Asian markets, as well as some nationwide supermarkets like HMart, and also online. At room temperature, palm sugar is a solid mass and needs to be softened so that it can be incorporated into the dressing. You can soften palm sugar by microwaving at full power in a microwave-safe bowl for approximately 15 seconds. If you can’t find palm sugar, for this recipe you can substitute with an equal amount of light brown sugar.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, thai-recipes
+
+----
+
+Seo_title: Som Tam Thai (Central Thai-Style Green Papaya Salad) | Avenda Aurora
+
+----
+
+Seo_description: This salad combines crunchy strips of unripe green papaya with fresh chiles, pungent garlic, savory dried shrimp, roasted peanuts, long beans, and tomatoes, all
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/yKNZ9ICJC5ZNhzcYHdHENxogpFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210928-Som-Tam-Thai-green-papaya-salad-vicky-wasik-24-f0d666fc609f49a0b9f34897bd2c6303.jpg

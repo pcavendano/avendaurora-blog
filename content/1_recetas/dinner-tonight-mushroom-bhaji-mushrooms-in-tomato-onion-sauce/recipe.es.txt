@@ -1,0 +1,185 @@
+Title: Dinner Tonight: Mushroom Bhaji (Mushrooms in Tomato-Onion Sauce)
+
+----
+
+Category: vegetarianos, sopas-caldos
+
+----
+
+Description: [Photograph: Nick Kindelsperger] I&#39;ve been hitting the jackpot recently with winter-appropriate, filling vegetarian dishes—the kind that are comforting enough to scare away the cold weather and yet, not so heavy they&#39;ll fill out your sweater. This recipe from The Perfect...
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "14"
+  unit: ounces
+  ingredient: white button mushrooms , stems remove and thickly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño pepper , stemmed, seeded, and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: minced garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: minced green onions or chives
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked white rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Pour the oil into a pot set over medium heat. Toss in the onion and the jalapeño and cook for 6 minutes, stirring occasionally. Add the garlic, stir well, and cook for 2 minutes. Sprinkle in the cumin, coriander, and chile powder, stir well, and cook for 1 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the mushrooms, tomato paste, and the water. Stir until the paste is evenly distributed, then cover the pot, reduce heat to low, and cook for 10 minutes. Stir halfway through. The dish should be stew-like. If it is not thick enough, or the mushrooms aren&#39;t yet tender, remove the lid and cook for a few more minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve with white rice and sprinkling of the green onions.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, vegetable-main-recipes
+
+----
+
+Seo_title: Dinner Tonight: Mushroom Bhaji (Mushrooms in Tomato-Onion Sauce) | Avenda Aurora
+
+----
+
+Seo_description: [Photograph: Nick Kindelsperger] I&#39;ve been hitting the jackpot recently with winter-appropriate, filling vegetarian dishes—the kind that are comforting enou
+
+----
+
+Original_author: Nick Kindelsperger
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Uo-csf161mpJDnBAqYWi2rL9l5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__dt-mushroomintomatoonionsauce-1279584a8f2943aaa816ff507cac5304.jpg

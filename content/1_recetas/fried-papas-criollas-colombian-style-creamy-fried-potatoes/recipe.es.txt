@@ -1,0 +1,117 @@
+Title: Fried Papas Criollas (Colombian-style Creamy Fried Potatoes)
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: Fried creamy yellow potatoes with a fresh and hot ají are one of my wife&#39;s favorite appetizers, and incredibly simple to make.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: small yellow potatoes , preferably papas criollas
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe ají
+  preparation: Colombian-style salsa
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place potatoes in a saucepan large enough to hold them in a single layer. Add oil until potatoes are about two-thirds covered. Heat over high heat until oil is bubbling steadily but not vigorously and adjust heat to maintain temperature. Partially cover and cook, stirring every few minutes, until potatoes show no resistance when pierced by a sharp knife or skewer and exteriors are wrinkled but not browned, about 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer to a paper towel-lined plate with a slotted spoon. Season generously with salt. Serve with ají.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, side-recipes, vegetable-side-recipes
+
+----
+
+Seo_title: Fried Papas Criollas (Colombian-style Creamy Fried Potatoes) | Avenda Aurora
+
+----
+
+Seo_description: Fried creamy yellow potatoes with a fresh and hot ají are one of my wife&#39;s favorite appetizers, and incredibly simple to make.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/nCv0ycy76lZQQBF2Ko-sET79rFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fried-papas-criollas-colombian-style-creamy-fried-potatoes-recipe-step-02-9767f45e9fb7439f9d7940db4dd8125d.jpg

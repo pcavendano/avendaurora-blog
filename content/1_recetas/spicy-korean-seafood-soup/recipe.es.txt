@@ -1,0 +1,199 @@
+Title: Spicy Korean Seafood Soup
+
+----
+
+Category: mariscos
+
+----
+
+Description: A light soup, with plenty of spice and seafood flavor.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: boneless thick-filleted white fish , such as pollack or cod
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: shrimp
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sake
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: -2 tablespoons Korean chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Korean chile paste
+  preparation: gochujang
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: crushed garlic cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: peeled and cubed daikon in 1-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: g dried anchovies
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: block firm tofu , cubed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: enoki or other kind of mushroom
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: chopped greens, such as watercress
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thinly sliced green onion to garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Cut fish into 2 inch strips diagonally across grain. Place fish in bowl with sake, sesame oil, chili powder, gochujang paste, and garlic. Toss gently. Leave standing for about 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the meantime, bring 4 cups water to boil and add dried anchovies. Boil for 10 minutes, then discard anchovies. Add daikon, soy sauce, and tofu and simmer for 5 minutes until daikon is halfway cooked.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add fish, shrimp, and enoki and simmer for 3 to 5 minutes depending on size of shrimp. Add watercress and simmer for 1 minute longer until watercress is just cooked through. Garnish with green onion. Serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Spicy Korean Seafood Soup | Avenda Aurora
+
+----
+
+Seo_description: A light soup, with plenty of spice and seafood flavor.
+
+----
+
+Original_author: Chichi Wang
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/lFfLwobUbD-TeUBwQkFo_hMozGE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20110318-seriously-asian-seafood-soup-primary-afb372346ef449d2978f4681465535f0.jpg

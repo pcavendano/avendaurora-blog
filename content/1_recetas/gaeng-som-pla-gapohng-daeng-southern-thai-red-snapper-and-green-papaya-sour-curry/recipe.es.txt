@@ -1,0 +1,222 @@
+Title: Gaeng Som Pla Gapohng Daeng (Southern Thai Red Snapper and Green Papaya Sour Curry)
+
+----
+
+Category: mariscos
+
+----
+
+Description: A spicy-sour Southern Thai fish curry with crisp green papaya.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: g kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: g thai chiles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: g thai chiles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: g turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "20"
+  unit: 
+  ingredient: g garlic cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "80"
+  unit: 
+  ingredient: g shallots
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "30"
+  unit: 
+  ingredient: g shrimp paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "240"
+  unit: 
+  ingredient: g tamarind
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "18"
+  unit: 
+  ingredient: g palm sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "135"
+  unit: ml
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6 1/2"
+  unit: ounces
+  ingredient: green papaya , peeled and cut into 2-inch by 1/2- inch-thick pieces, from 1 green papaya
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "340"
+  unit: 
+  ingredient: g red snapper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh lime juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: jasmine rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Curry Paste: If Using a Mortar and Pestle: Combine salt and dried chiles in a granite mortar and pestle and pound until chiles are broken down into small pieces, about 2 minutes. Pounding thoroughly between each addition to break down and incorporate ingredients into the paste (3 to 4 minutes of pounding per addition), add in the following order: fresh chiles; turmeric; garlic and shallots; shrimp paste. It should take about 15 minutes total to pound ingredients into a very fine paste with just a few visible pieces of fresh chile skin.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Curry, If Using Pounded Paste: In a 3-quart saucepan, whisk together curry paste and 1 cup (240ml) water until well combined. Once thoroughly incorporated, add 3 cups (710ml) water, tamarind, palm sugar, and fish sauce, and stir to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bring to a boil over medium-high heat, add papaya and cook, stirring occasionally, until papaya is just beginning to soften but is still crunchy, 5 to 7 minutes. You may notice foam rising to the surface; this is normal, and should not be skimmed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add snapper and, using a spoon, gently submerge pieces in the curry. Continue to cook, gently stirring occasionally, until fish is opaque and just cooked through, 2 to 3 minutes. Remove from heat, and stir in lime juice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer curry to a large serving bowl or divide between individual bowls. Serve immediately with cooked jasmine rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Granite mortar and pestle , 3-quart saucepan
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Palm sugar can be found in Thai markets, as well as some nationwide supermarket chains like HMart, and also online.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Green papaya is an unripe papaya that has pale white/green flesh. It is crisp and isn&#39;t sweet like a ripe orange papaya. Green papaya can be found in Southeast Asian markets.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Store-bought curry paste can be substituted for this recipe. Use one 4-ounce can of gaeng leung curry paste, which is often labeled as yellow sour curry paste.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The curry paste can be made in advance and refrigerated in an airtight container, with plastic wrap pressed directly against the surface of the paste to prevent it from drying out, for up to 1 week. The finished curry is best enjoyed immediately.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, thai-recipes
+
+----
+
+Seo_title: Gaeng Som Pla Gapohng Daeng (Southern Thai Red Snapper and Green Papaya Sour Curry) | Avenda Aurora
+
+----
+
+Seo_description: A spicy-sour Southern Thai fish curry with crisp green papaya.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/9jOe4V1dlKfhNf4bfC2dTyZWIIo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210609-southern-thai-sour-curry-snapper-GaengSomPlaGrapongDaeng-vicky-wasik-seriouseats-10-c71e98f5ed96469e888bbcb50b34686d.jpg

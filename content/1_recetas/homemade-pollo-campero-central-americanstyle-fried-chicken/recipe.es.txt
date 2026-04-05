@@ -1,0 +1,224 @@
+Title: Homemade Pollo Campero (Central American–Style Fried Chicken)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Pollo Campero is a restaurant chain that originated in Guatemala and is famous for the juicy, flavorful, and richly spiced fried chicken recreated in this recipe.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "5"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: Diamond Crystal kosher salt ; for table salt use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: red chile flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: bone-in chicken pieces , preferably drumsticks and thighs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: seasoning salt , such as Lawry&#39;s
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ground white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: curry powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: MSG
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: cayenne
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vegetable or other neutral oil , for frying
+  preparation: about 4 cups / 1 L 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: To Brine the Chicken: In a very large mixing bowl or vessel, stir together water, salt, black pepper, and red chile flakes until salt is dissolved.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add chicken, making sure it is submerged in the brine. Cover with plastic and refrigerate for at least 4 and up to 12 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Flour Dredge: In a medium bowl, whisk together seasoning salt, flour, black pepper, white pepper, cumin, curry powder, paprika, MSG, and cayenne.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fit a wire rack over a rimmed baking sheet. Working with one piece of chicken at a time, lift chicken from brine and dip in the flour mixture to completely coat, using fingers to press the flour coating onto every nook and cranny.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place the dredged chicken on rack and repeat with the remaining chicken pieces.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Fry: Line a second baking sheet with a wire rack for the finished fried chicken. Fill a large cast iron skillet with about 1 inch oil and heat to 350°F (175°C) over medium-high heat. Working in batches and being careful not to overcrowd the skillet, fry chicken, turning once, until golden brown all over and an instant-read thermometer inserted into the center (but not touching the bone) registers 150°F (65°C) for white meat and 165°F (75°C) for dark, about 15 minutes per batch (note that frying times can vary depending on the size and shape of the chicken pieces).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer fried chicken to the prepared rack and let cool at least 5 minutes before serving. Return oil to 350°F (175°C) and repeat with remaining chicken.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The chicken is best eaten right after making.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, frying-recipes, fried-chicken-recipes
+
+----
+
+Seo_title: Homemade Pollo Campero (Central American–Style Fried Chicken) | Avenda Aurora
+
+----
+
+Seo_description: Pollo Campero is a restaurant chain that originated in Guatemala and is famous for the juicy, flavorful, and richly spiced fried chicken recreated in this recip
+
+----
+
+Original_author: Karla T. Vasquez
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Z2P0OapcfCZw7JrjVxiexsNRsRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2021__01__20210105-Pollo-Campero-Style-Fried-Chicken-karla-vasquez-1-5f2d8b49493845d5bd40e5985c7de855.jpg

@@ -1,0 +1,292 @@
+Title: Pozole Rojo
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Mexico’s nourishing soup of tender pork, puréed chiles, and plump kernels of hominy has been cherished for centuries.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: pounds
+  ingredient: boneless pork shoulder , trimmed of excess fat and cut into 2-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: t ablespoon Diamond Crystal kosher salt , plus more for seasoning; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: pig’s feet
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole white onion , peeled, ends trimmed
+  preparation: 8 ounces; 227 g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic, peeled and left whole
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Five 15-ounce cans white hominy , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: guajillo chiles , stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: California chiles , stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: ancho chiles, stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: white onion , trimmed, halved, and roughly chopped
+  preparation: 4 ounces; 113g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic, roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: chicken bouillon powder such as Knorr brand or substitute with 1 teaspoon Diamond Crystal kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: t easpoon cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Diced white onion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thinly sliced radish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thinly sliced cabbage
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cubed a vocado
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Dried Mexican oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: C r em a
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Tostadas or chicharrón
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime we dges
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Pork and Broth: Generously season pork shoulder all over with salt and pepper. In a large stockpot or large Dutch oven, add the pork shoulder, pig’s feet, if using, onion, garlic, and bay leaves. Add 2 1/2 quarts of water and 1 tablespoon salt. Bring to a boil over high heat, then reduce heat to low and cook, covered, adjusting heat as needed and occasionally skimming any scum and fat that rises to the surface, until a richly flavored broth is created and pork is just beginning to turn tender, about 1 hour.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Sauce: Meanwhile, in a high-walled stainless-steel skillet, toast chiles over medium-low heat until aromatic, turning occasionally, about 2 minutes. Add 2 cups of water, bring to a boil, then immediately turn off heat and soak chiles until softened, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a blender, blend the chiles with their soaking water, garlic, onion, black peppercorns, cumin seeds, and chicken bouillon powder until smooth, about 1 minute. Season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: After the pork has cooked for 1 hour in step 1, add the hominy and pour the blended chile sauce into the pork and broth mixture through a fine mesh strainer. Continue to cook on low heat, covered, adjusting heat as needed to maintain a gentle simmer until pork is fork-tender (broth yield should be about 2 1/2 quarts), about 2 more hours. Discard pig’s feet, onion, and bay leaves. Use a ladle to skim off any excess fat, if needed. Season to taste with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Serving: Ladle into individual serving bowls and serve with toppings (onion, radish, cabbage, avocado, oregano, and lime juice) on the side to be added at the table. Tostadas can be shattered into the soup or slathered in crema and eaten on the side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Blender, large stockpot or large Dutch oven, skimmer, fine-mesh strainer
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Canned hominy can be found in the Mexican aisle of most well-stocked supermarkets.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe can easily be doubled if; if doubling, you will need a very large stockpot, or need to cook in 2 separate batches.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The chile sauce can be made ahead and refrigerated in an airtight container for up to 2 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Pozole can be refrigerated in an airtight container for up to 4 days or frozen for up to 3 months.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Pozole Rojo | Avenda Aurora
+
+----
+
+Seo_description: Mexico’s nourishing soup of tender pork, puréed chiles, and plump kernels of hominy has been cherished for centuries.
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ek6hu9MdD0tyxpMWUnZIVHcTJkQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241017-Pozole-RojoLorena-Masso-2024hero-5814c040ab3b4e8d8dcf7b0a031d39bb.jpg

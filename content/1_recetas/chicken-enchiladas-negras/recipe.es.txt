@@ -1,0 +1,212 @@
+Title: Chicken Enchiladas Negras
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: These Mexican chicken enchiladas negras get their deep color and bold flavor from dried black chiles, charred tomatoes, and sweet, umami-packed black garlic. And they&#39;re easy enough to make on a weeknight thanks to rotisserie chicken.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: plum or Roma tomato , halved
+  preparation:  4 ounces ; 114 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: white onion , end trimmed off, layers peeled apart and separated
+  preparation:  4 ounces ; 114 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: head black garlic , about 13 cloves , separated and peeled
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: pasilla negro chiles , stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: chiles de arbol , stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: corn tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: finely shredded homemade roasted chicken or store-bought rotisserie chicken
+  preparation: from chicken; about 3 cups shredded meat
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: lard , preferably leaf, plus more if needed, divided
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: white onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: thinly sliced green cabbage
+  preparation: from 1/2 head of cabbage 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: fresh cilantro leaves , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crema , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Queso fresco or cotija cheese, for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Salsa: Adjust oven rack to upper-middle position and preheat oven broiler to high setting. Line a rimmed baking sheet with aluminum foil, then add tomato and onion layers spread in an even layer. Broil until well charred, 3 to 5 minutes. Flip and broil until second side is charred, about 3 more minutes. Set baking sheet aside to cool.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a blender jar, add charred ingredients, black garlic, chiles, and chicken stock. Blend on high until smooth, about 1 minute. Season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium saucepan, add sauce and set it over low heat until warmed through, about 5 minutes. Hold sauce warm over low heat while preparing tortillas. Remove foil from cooled baking sheet and line now-empty sheet with a layer of paper towels.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: One at a time, using tongs, dip tortillas into the sauce, then transfer to a plate. Fill tortillas with shredded chicken, then roll tortilla around chicken. Transfer to a serving platter or individual plates. Spoon remaining salsa over the enchiladas. Serve with onion, cabbage, crema, queso, and cilantro.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Blender, medium saucepan, 8- or 10-inch skillet
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Black garlic is available at supermarkets, Asian grocers, and online. It's made by cooking garlic at controlled humidity and temperature for at least a week to develop a concentrated, sweet, savory flavor. If unavailable, roasted garlic can be substituted.&nbsp;
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Lard is any rendered pork fat, while leaf lard is a specific, premium type of lard.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, chicken-main-recipes
+
+----
+
+Seo_title: Chicken Enchiladas Negras | Avenda Aurora
+
+----
+
+Seo_description: These Mexican chicken enchiladas negras get their deep color and bold flavor from dried black chiles, charred tomatoes, and sweet, umami-packed black garlic. An
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/nCQRXwuhVxp-cjY8Xh2TshzkAV8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251009-SEA-EnchiladasNegras-LorenaMasso-13-012468a56005451ea191bc3f145c9bda.jpg

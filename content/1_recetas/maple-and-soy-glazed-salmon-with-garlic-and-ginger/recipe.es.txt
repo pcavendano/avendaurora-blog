@@ -1,0 +1,150 @@
+Title: Maple and Soy-Glazed Salmon with Garlic and Ginger
+
+----
+
+Category: salsas, mariscos
+
+----
+
+Description: Maple syrup goes Asian in this broiled salmon, topped with a thick glaze of maple, soy, garlic, ginger, and cilantro. Sweetly salty.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano chile , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: chunk fresh ginger , cut into 1/8-inch matchsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: fresh cilantro leaves , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: maple syrup
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: center-cut fillets salmon
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine garlic, chile, ginger, cilantro, soy sauce, water, and maple syrup in gallon-sized zipper-lock bag. Add salmon and turn to coat. Squeeze out air, seal bag, and refrigerate for one hour, turning once after 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Preheat broiler to high. Remove salmon from marinade and pat dry with paper towels. Set aside. Transfer reserved marinade to small heavy-bottomed sauce pot. Bring to a boil over high heat, reduce heat to medium, and simmer rapidly until reduced to about 1/4 cup. Set aside until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Broil salmon two inches from heat source until deep brown on surface and center of fillet reads 130 degrees on instant read thermometer for medium-rare, or 140 degrees for medium, 6 to 8 minutes. Glaze with reduced marinade, and serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: Maple and Soy-Glazed Salmon with Garlic and Ginger | Avenda Aurora
+
+----
+
+Seo_description: Maple syrup goes Asian in this broiled salmon, topped with a thick glaze of maple, soy, garlic, ginger, and cilantro. Sweetly salty.
+
+----
+
+Original_author: Kerry Saretsky
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ITDrM1cKjj8bDv_jsCgpy08SyOI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20100830MapleSalmon610-a5b6022950574245996da01082a7e59a.jpg

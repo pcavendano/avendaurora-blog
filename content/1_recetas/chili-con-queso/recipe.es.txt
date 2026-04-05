@@ -1,0 +1,192 @@
+Title: Chili Con Queso
+
+----
+
+Category: antojitos
+
+----
+
+Description: In Texas, whipping up a bowl of the cheesy dip known as Chili Con Queso can be as simple as melting a block of Velveeta with a can of diced tomatoes with green chiles. This is a upgraded version using cheddar and Monterey Jack cheese.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: yellow onion , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: serrano chiles , seeds and stems removed, diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño chile , seeds and stems removed, diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cloves
+  ingredient: garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: whole milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chopped cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: canned diced tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: grated cheddar cheese
+  preparation:  12 ounces 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: grated Monterey Jack cheese
+  preparation:  12 ounces 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Tortilla chips , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Melt the butter in a saucepan on medium-low heat. Add the onions, serrano chiles, and jalapeño and cook for about 5 minutes or until the onions are translucent. Add the garlic and cook for another 30 seconds. Whisk the flour into the pan and cook for about 30 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour the milk into the pan and, while whisking, cook until the sauce is thick, about 3 minutes. Stir in the cilantro and tomatoes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Turn the heat down to low, and 1/4 cup at a time, slowly stir in the grated cheese until it’s completely melted. Repeat until all the cheddar and Monterey Jack cheese has been added. Stir in the sour cream and add salt to taste. Serve with tortilla chips.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes, cheese-dip-recipes
+
+----
+
+Seo_title: Chili Con Queso | Avenda Aurora
+
+----
+
+Seo_description: In Texas, whipping up a bowl of the cheesy dip known as Chili Con Queso can be as simple as melting a block of Velveeta with a can of diced tomatoes with green 
+
+----
+
+Original_author: Caroline Russock
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/VW45t4WqkpTzv28fDIv_tus6Z4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2011__09__20110912-170286-chile-con-queso-12fdbdf4de1249e29bd9699f94023618.jpg

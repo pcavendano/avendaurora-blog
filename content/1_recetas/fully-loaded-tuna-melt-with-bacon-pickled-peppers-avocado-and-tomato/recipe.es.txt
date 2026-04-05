@@ -1,0 +1,203 @@
+Title: Fully Loaded Tuna Melt With Bacon, Pickled Peppers, Avocado, and Tomato
+
+----
+
+Category: mariscos, platos-fuertes
+
+----
+
+Description: This tuna melt comes with all the bells and whistles: mashed avocado, sliced tomato, crispy bacon, pickled jalapeños, and melted cheese in two forms.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: rashers bacon , cut in half crosswise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: canned oil- or water-packed tuna , drained well
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: mayonnaise , such as Hellmann&#39;s
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: panko bread crumbs
+  preparation: optional; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: grated or finely minced low-moisture mozzarella
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: minced red onion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: finely chopped pickled jalapeno peppers
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: slices white, rye, or whole wheat sandwich bread
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: slices
+  ingredient: Pepper Jack cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: Hass avocado , halved, pitted, and flesh scooped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: thin slices tomato
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and preheat oven to 350°F (175°C). In a large cast iron or nonstick skillet, or using a griddle, cook bacon over medium heat, turning as needed, until well browned and crisp on both sides, about 7 minutes; if possible, use a weight to press bacon flat as it cooks. Transfer bacon to paper towel-lined plate, and reserve bacon fat in a heatproof bowl; wipe out skillet.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a small mixing bowl, combine tuna, mayonnaise, panko (if using), mozzarella, red onion, and pickled jalapeños. Stir, mashing very well with a fork or stiff rubber spatula, until well-combined and almost no flakes of tuna remain. Season with salt and pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a pastry brush, lightly but evenly brush both sides of each slice of bread with reserved bacon fat. Using the same skillet or griddle, toast bread slices on first side over medium heat until nicely browned and crisp, about 3 minutes; using a cooking weight or spatula, gently press down on bread slices while toasting to ensure even heating and browning.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Flip bread and lay one slice of cheese on top of each bread slice. Mound avocado on 2 of the bread slices, spreading it in an even layer. Top avocado with tuna, spreading it in an even layer, followed by tomato slices and bacon. Close sandwiches, placing top bread slices cheese side down, and continue to cook until bottom of sandwich is well toasted; press down gently on sandwich with cooking weights or a spatula to ensure even heating and browning.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Flip sandwiches and cook until second side is well-toasted. Transfer tuna melts to a baking sheet and heat in oven until cheese is melted through, about 5 minutes. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: We don&#39;t often specify brands, but in this classic tuna melt, Hellmann&#39;s adds its signature flavor. Feel free to use another preferred brand or homemade mayonnaise if you prefer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Panko helps make a tuna salad that&#39;s light and fluffy and moist without being runny. If you don&#39;t have it, do not substitute with another type of bread crumb as they will be too dense. Instead, reduce the mayonnaise from 6 tablespoons (90g) to 1/4 cup (60g).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The tuna salad can be refrigerated in an airtight container overnight.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, sandwich-recipes
+
+----
+
+Seo_title: Fully Loaded Tuna Melt With Bacon, Pickled Peppers, Avocado, and Tomato | Avenda Aurora
+
+----
+
+Seo_description: This tuna melt comes with all the bells and whistles: mashed avocado, sliced tomato, crispy bacon, pickled jalapeños, and melted cheese in two forms.
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/y4zaKgzSwpOiaE5ENGqnhabLJZM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__04__20200427-tuna-melt-the-works-daniel-gritzer-6-e75261a20f6d4723848b5a2f700d0cde.jpg

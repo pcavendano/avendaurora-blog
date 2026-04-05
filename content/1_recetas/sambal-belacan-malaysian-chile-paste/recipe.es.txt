@@ -1,0 +1,147 @@
+Title: Sambal Belacan (Malaysian Chile Paste)
+
+----
+
+Category: bebidas, mariscos
+
+----
+
+Description: Made with chiles, fermented shrimp paste, and a squeeze of lime, and sambal belacan is the most famous and ubiquitous of Malaysian chile pastes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: thumb-size chunk belacan or terasi , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: large, mild red chiles , such as Fresnos, stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: ounce
+  ingredient: small, hot red chiles , such as bird’s eye chiles, stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: calamansi or Persian lime juice , plus more as desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Line an 8-inch stainless-steel skillet with aluminum foil, then place the belacan on the foil. Set the skillet over medium heat and toast, flipping the belacan every 30 seconds until darkened slightly, 2 to 5 minutes. Turn off the heat and set aside to cool.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, if a less spicy final sambal is preferred, split chiles lengthways and discard the seeds and ribs. Cut the chiles into roughly 1-inch pieces, taking care to keep the two types of chile separate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place a few pieces of the larger mild red chiles and half the toasted belacan in the mortar (for a food processor or blender, see notes). While shielding the mortar with your non-dominant hand to contain mess and splatter, pound chiles and belacan into a paste. Once paste is formed, add the remaining larger mild red chiles, a few pieces at a time, until pounded into a smooth paste. The sambal at this point should be mildly spicy.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Taste the sambal and increase the spice level to your preference by adding the small hot red chiles, a few at a time and tasting as you go, and pound into a smooth paste. Pound in more of the remaining toasted belacan, a pinch at a time, until desired flavor is achieved.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in calamansi or lime juice, then taste and add more juice and season with salt to taste. Serve as part of a family-style meal with other dishes and rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: We recommend opening your windows and turning on your exhaust while toasting the belacan, otherwise your kitchen will smell like belacan for several days. Alternatively, you could also use a toaster oven and toast the belacan on high heat for the same amount of time.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Avoid adding all the chiles at once when pounding the sambal; it will be much messier and more difficult to pound them into a cohesive paste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To prepare this in a food processor or blender, add the preferred amount of chiles and the toasted belacan to the bowl, blitz into a paste, adding small amounts of water if needed to get things moving, and stir in the lime juice after.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes
+
+----
+
+Seo_title: Sambal Belacan (Malaysian Chile Paste) | Avenda Aurora
+
+----
+
+Seo_description: Made with chiles, fermented shrimp paste, and a squeeze of lime, and sambal belacan is the most famous and ubiquitous of Malaysian chile pastes.
+
+----
+
+Original_author: Alia Ali
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/IXR16CyHt3jhWrQLnXnfJubO2k0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231204-SEA-SambalBelcan-MichelleYip-00-1bbbeaac1cb74fb2a5d4f6835b5bf544.jpg

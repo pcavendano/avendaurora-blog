@@ -1,0 +1,327 @@
+Title: Nicaraguan Arroz con Pollo
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: This deeply savory version of chicken and rice gets studded with smoked sausage, ham, olives, capers, carrots, and peas.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole large chicken , cut into 8 pieces, skin removed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow or white onion , peeled and cut into 6 wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: green bell pepper , seeded and quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: garlic cloves , peeled and smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Diamond Crystal kosher salt ; if using table salt , use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: whole black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow or white onion , finely chopped
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: garlic clove , minced
+  preparation: about 1 teaspoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; if using table salt , use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: long-grain white rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: carrots , peeled and cut into small dice
+  preparation: about 1 cup ; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: unsalted butter , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: smoked sausage or Kielbasa sausage , cut into 1/4-inch-thick rounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: pound
+  ingredient: sliced deli ham , coarsely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow or white onion , finely chopped
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: drained canned or jarred piquillo peppers , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: ketchup
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: pimento-stuffed olives , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: capers , drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: frozen peas
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: finely grated parmesan cheese
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Buttered white toast
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the chicken: Place chicken, onion, bell pepper, garlic, salt, peppercorns, and 2 quarts (1.9L) cold water in a Dutch oven (chicken should be submerged 2 inches; add more water if necessary). Squeeze lime juice into pot and add juiced lime halves to pot. Bring to boil over medium heat, then immediately reduce heat to medium-low and simmer until chicken is cooked through and an instant-read thermometer inserted into thickest part of thigh registers 165°F (74°C), about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using tongs, transfer chicken to a large bowl. Once cool enough to handle, shred chicken into bite-sized pieces, removing and discarding bones; you should have 4 cups of shredded chicken. Strain broth (discarding solids) and reserve 4 cups of broth; set aside (store the rest for another use).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the rice: Wipe out the Dutch oven, add 2 tablespoons butter, and melt over medium heat. Add oil, onion, garlic, and salt and cook, stirring, until softened, about 5 minutes. Stir in tomato paste and cook until darkened, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in rice and carrots and cook, stirring, until rice is completely coated with onion mixture, about 1 minute. Add reserved broth and bring to a boil over medium-high heat. Continue to boil until most of the liquid has evaporated and you can see small bubbles on the surface of the rice. Reduce heat to the lowest setting, cover, and cook until rice is done, about 20 minutes. Remove from heat, fluff rice with chopsticks or fork, and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Arroz Con Pollo: In a large skillet with high sides, melt 2 tablespoons butter over medium heat. Add sausage and ham and cook until lightly browned, about 3 minutes. Transfer to a plate and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Melt remaining 1 tablespoon butter in now-empty skillet. Add onion and peppers and cook until softened, about 5 minutes. Stir in tomato paste and cook until darkened, about 1 minute. Add ketchup and reserved shredded chicken and cook, stirring, until chicken is completely coated in mixture.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in reserved rice, then reserved sausage and ham mixture. Stir in olives, capers, and peas. Cook, stirring occasionally to allow flavors to meld, 10 to 15 minutes. Season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve warm with grated parmesan cheese and buttered white toast, if using, alongside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe can be cut in half. For a quicker version of this recipe: Buy a rotisserie chicken (you&#39;ll need about 4 cups of shredded chicken) and low-sodium chicken broth instead of poaching your own chicken and making your own broth. Rather than cooking the diced carrots with the rice, substitute them and the frozen peas with 2 1/2 cups of frozen peas-and-carrots.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The chicken and rice may be cooked 2 days in advance. To store, place chicken and 3 cups strained broth in airtight container and refrigerate. Refrigerate rice in an airtight container.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, chicken-main-recipes
+
+----
+
+Seo_title: Nicaraguan Arroz con Pollo | Avenda Aurora
+
+----
+
+Seo_description: This deeply savory version of chicken and rice gets studded with smoked sausage, ham, olives, capers, carrots, and peas.
+
+----
+
+Original_author: María del Mar Cuadra
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ClTXFnLWh7FQ2XqmRWqrNbZcdjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nicaraguan-arroz-con-pollo-recipe-hero-withpan-Qi-Ai_1-3e8db84fce1d4a6ba4fdc97915f91f10.JPG

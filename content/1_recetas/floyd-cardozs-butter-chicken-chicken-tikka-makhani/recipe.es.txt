@@ -1,0 +1,267 @@
+Title: Floyd Cardoz's Butter Chicken (Chicken Tikka Makhani)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: New York Indian chef Floyd Cardoz shares his recipe for butter chicken, also known as chicken tikka makhani.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: minced fresh ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeno chile , seeded and chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: juice from 3 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: neutral oil
+  preparation: such as vegetable or canola
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: garam masala
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: cayenne pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: yogurt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: boneless skinless chicken thighs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans roasted tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: onion , chopped
+  preparation: about 1 1/2 cups
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: fresh minced ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeno chile , seeded and chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: cinnamon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: honey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fenugreek leaves, toasted until darker in color and crushed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: to 3/4 cup heavy cream , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Chicken Tikka: In a food processor, combine garlic, ginger, chile, lime juice, oil, salt, and spices. Process until a rough paste forms, then add yogurt and process until smooth. Transfer to a large zip top bag or leakproof container and add chicken. Marinate 4 to 6 hours, or overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set broiler rack 4 inches from heat source and preheat broiler to high. Line a rimmed baking sheet with aluminum foil. Remove chicken from zipper lock bag and wipe off excess marinade with hands. Lay out in a single layer on baking sheet and broil until color darkens and some dark blisters form, about 5 minutes. Flip chicken, rotate sheet pan, and broil until color darkens on other side, about 5 minutes. Repeat once or twice until chicken registers 170°F (77°C) on an instant-read thermometer inserted into the thickest part, and one side has significant charring on edges. Set aside to rest. Alternatively, cook chicken thighs on a barbecue or grill pan until chicken registers 170°F on an instant-read thermometer inserted into the thickest part.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Sauce: In a large, heavy pot, combine tomatoes, water, onion, garlic, ginger, chile, butter, cinnamon, and 1 teaspoon salt. Cover and bring to a boil over high heat, then reduce heat to medium and cook uncovered at a hard simmer, stirring occasionally, until sauce thickens to about 2 1/2 quarts, about 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer 1/3 of sauce to the jar of a blender. Starting with low speed, gradually increase to high. Blend until smooth, about 30 seconds. Strain through a fine-mesh strainer into a clean large saucepan. Repeat with remaining two batches. Keep sauce warm over low heat and stir in fenugreek, black pepper, honey, and cream to taste. Season with salt to taste, then chop chicken tikka into bite-sized pieces and add to sauce. Serve with rice and a garnish of julienned ginger.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, chicken-main-recipes
+
+----
+
+Seo_title: Floyd Cardoz's Butter Chicken (Chicken Tikka Makhani) | Avenda Aurora
+
+----
+
+Seo_description: New York Indian chef Floyd Cardoz shares his recipe for butter chicken, also known as chicken tikka makhani.
+
+----
+
+Original_author: Max Falkowitz
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/VZSWJGCUO_uixsf0hBUgxluyI94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__05__butter-chicken-floyd-cardoz-nyce-1-9cacf9d9b4dc4755825be49dae814980.jpg

@@ -1,0 +1,209 @@
+Title: Vegan Dan Dan Noodles
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Classic dan dan noodles are made with pork, pickled vegetables, and plenty of chili oil. In this version, we pack in all the flavor and texture with mushrooms fried until golden brown and chewy.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: white button mushrooms , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: teaspoons
+  ingredient: light soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Chinkiang vinegar
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: tahini paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: roasted chili oil with some chili sediment
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fermented chili broad bean paste
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: finely chopped preserved Sichuan mustard root or stems
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Shaoxing wine
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: fresh Chinese wheat noodles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thinly sliced scallions
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place mushrooms in the bowl of a food processor and process until pieces no larger than 1/2-inch remain, about 6 short pulses. Transfer to a small saucepan. Add vegetable oil and stir to combine. Place over medium-high heat and cook, stirring occasionally, until mushroom pieces shrink and are deep golden brown, about 8 minutes. Pour through a fine-mesh strainer set over a small bowl. Reserve mushroom pieces and discard all but 1 tablespoon oil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While mushrooms are cooking, combine soy sauce, vinegar, tahini, sugar, chili oil (with its sediment), and broad bean chili paste in a medium bowl. Set aside. Bring 1 quart of salted water to a simmer in a medium pot and keep hot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat reserved 1 tablespoon of mushroom oil in a large skillet or wok over high heat until shimmering. Add chopped Sichuan vegetables, fried mushrooms, and garlic. Cook, stirring and tossing constantly until fragrant, about 45 seconds. Add Shaoxing wine and stir to combine. Transfer mixture to bowl with sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return pot of water to a hard boil and add noodles. Cook, stirring regularly to prevent noodles from sticking to each other or the bottom, until barely cooked through with a springy bite, about 4 minutes. Drain, reserving 3/4 cup of cooking liquid. Add cooking liquid to bowl with sauce and stir to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place noodles in bowl and pour sauce with solids on top. Garnish with scallions and cilantro, and serve, stirring vigorously just before eating to pick up sauce.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, noodle-recipes
+
+----
+
+Seo_title: Vegan Dan Dan Noodles | Avenda Aurora
+
+----
+
+Seo_description: Classic dan dan noodles are made with pork, pickled vegetables, and plenty of chili oil. In this version, we pack in all the flavor and texture with mushrooms f
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/wey-6tMQGF7IOBz_XdY9HdViUJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__02__20130221-vegan-dan-dan-mien-noodles-1-a06c259c753d43e28b9c6ed740cba873.jpg

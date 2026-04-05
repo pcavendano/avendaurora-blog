@@ -1,0 +1,245 @@
+Title: Goong Pad Nam Prik Pao (Thai Stir-Fried Shrimp With Chile Jam)
+
+----
+
+Category: mariscos, platos-fuertes
+
+----
+
+Description: A savory-sweet Thai stir-fry made with shrimp, oyster mushrooms, long beans, and nam prik pao.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: homemade or store-bought nam prik pao
+  preparation: Thai chile jam
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Thai oyster sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plus 2 teaspoons Thai light soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: tamarind paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch of kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: large
+  ingredient: shrimp , peeled and deveined
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: small
+  ingredient: garlic cloves , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 fresh Thai chiles , stemmed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: oyster mushrooms , firm central stems removed, mushroom caps separated, large caps torn by hand vertically into smaller pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: small
+  ingredient: yellow onion , sliced 1/4-inch thick
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: long beans , ends trimmed, cut crosswise into 1-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , green parts only, cut crosswise into 1-inch pieces
+  preparation: about 10 g total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: packed cup fresh sweet basil leaves
+  preparation: a.k.a. Thai basil 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked jasmine rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Stir-Fry Sauce: In a small bowl, stir together nam prik pao, oyster sauce, light soy sauce, white sugar, water, and salt until well combined. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Stir-Fry: In a small bowl, combine shrimp with a pinch of salt and mix to evenly coat. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Combine garlic, chiles, and a pinch of salt in a granite mortar and pestle and pound until a rough paste forms, about 20 seconds. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat a wok over high heat until lightly smoking. Add oil and swirl to coat. Add shrimp and spread in an even layer. Cook undisturbed until rosy orange in color on one side, about 30 seconds. Using a wok spatula, flip shrimp and continue to cook until rosy orange in color on second side and shrimp are nearly cooked through, about 20 seconds longer. Transfer shrimp to a medium bowl, leaving residual oil in the wok.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return wok to high heat until smoking, add mushrooms, and toss to evenly coat with oil. Use wok spatula to spread mushrooms into an even layer and cook without moving them until mushrooms are lightly browned on bottom side, about 45 seconds. Add the garlic-chile mixture and stir to combine. Cook, stirring constantly, until fragrant, about 30 seconds. Add onion, and continue to cook, stirring frequently, until onion is slightly softened, about 1 minute. Immediately transfer mushroom mixture to the bowl with the shrimp.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add stir-fry sauce to wok and cook until sauce is slightly reduced and thickened, about 45 seconds. Add long beans along with the shrimp and mushroom mixture. Cook, stirring constantly, until the sauce has been absorbed, about 30 seconds. Remove from heat, add scallions and sweet basil, and stir until well-combined and basil is slightly wilted. Serve immediately with cooked jasmine rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can adjust the spiciness of this dish to your taste by reducing or increasing the amount of fresh Thai chiles in the recipe.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stored in an airtight container, the stir-fry sauce will keep for about 2 weeks in the refrigerator.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, thai-recipes
+
+----
+
+Seo_title: Goong Pad Nam Prik Pao (Thai Stir-Fried Shrimp With Chile Jam) | Avenda Aurora
+
+----
+
+Seo_description: A savory-sweet Thai stir-fry made with shrimp, oyster mushrooms, long beans, and nam prik pao.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/lc7Y0xDjqajZryhp5I8uD2YAiQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220131-shrimp-stir-fry-vicky-wasik-hero-e706b37354324f8e9d1299239c49b628.jpg

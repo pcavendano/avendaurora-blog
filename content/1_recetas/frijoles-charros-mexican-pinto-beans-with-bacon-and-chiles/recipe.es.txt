@@ -1,0 +1,186 @@
+Title: Frijoles Charros (Mexican Pinto Beans With Bacon and Chiles)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: The ideal potluck dish is one that&#39;s easy to make in bulk, inexpensive, and holds up to extended heating and reheating. Frijoles charros is one superlative potluck dish.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: dried pinto beans
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: cups
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: sprigs epazote
+  preparation: optional; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: diced bacon
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: white or yellow onion , diced
+  preparation: about 8 ounces; 225 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: serrano chiles or 1 jalapeño, minced
+  preparation: remove seeds and ribs if you prefer less heat
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 1 tablespoon; 12 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans diced fire-roasted tomatoes
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Large
+  ingredient: handful chopped fresh cilantro leaves and fine stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place beans in a large bowl and fill with enough cold water to cover by at least four inches. Add 2 tablespoons (18g) kosher salt and stir to dissolve. Let soak 8 to 12 hours. Drain and rinse.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large Dutch oven, add beans, stock, bay leaves, 2 teaspoons (6g) kosher salt, and epazote (if using). Bring to a boil over high heat, reduce to a bare simmer, cover, and cook until beans are just tender, about 45 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, heat bacon in a 12-inch stainless steel or cast iron skillet over medium-high heat. Cook, stirring constantly, until fat is rendered and bacon is just starting to brown around the edges, about 5 minutes. Add onion and chiles and cook, stirring, until softened and just starting to brown, about 4 minutes. Add garlic and cook, stirring, until fragrant, about 30 seconds. Add tomatoes (see note) and cook, stirring and scraping up browned bits from the bottom of the pan, until the liquid is thick and the mixture begins to sizzle, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove lid from Dutch oven, add bacon-tomato mixture, and continue cooking, stirring occasionally, until beans are completely creamy and liquid has thickened into a rich, creamy broth, about 20 minutes. Season to taste with salt. Discard bay leaves, stir in cilantro, and serve. Beans can be stored in the refrigerator for up to 1 week.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In place of the canned fire-roasted tomatoes, you can use 1 1/2 pounds fresh Roma tomatoes. Char the tomatoes directly over a gas flame, on a grill, or with a torch to remove the skins. Split into quarters and cut out and discard the cores. Dice and use as directed in the recipe.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Epazote is a Mexican herb that can be found in Mexican specialty shops. If fresh epazote is unavailable, use a large pinch of dried in its place, or omit.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, stovetop-recipes, stovetop-bean-recipes
+
+----
+
+Seo_title: Frijoles Charros (Mexican Pinto Beans With Bacon and Chiles) | Avenda Aurora
+
+----
+
+Seo_description: The ideal potluck dish is one that&#39;s easy to make in bulk, inexpensive, and holds up to extended heating and reheating. Frijoles charros is one superlative 
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/35dSVaZ-fR0sn-0HYYOYWX-mLYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/frijoles-charros-mexican-pinto-beans-bacon-recipe-step-06_1-8b6e46f4938e447f98b0a64fb9eb7bb6.JPG

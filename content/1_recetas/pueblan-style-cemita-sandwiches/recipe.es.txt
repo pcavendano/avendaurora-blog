@@ -1,0 +1,200 @@
+Title: Pueblan-Style Cemita Sandwiches
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: How to make a Pueblan-style cemita with a fried milanesa beef, chicken, or pork cutlet filling that&#39;s loaded with fine strands of shredded Oaxacan cheese, plenty of ripe avocado, chipotles or pickled jalapeños, and papalo.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: pieces beef, pork, or chicken cutlets , very thinly pounded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: bread crumbs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Canola or vegetable oil , for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: ripe medium Hass avocados , halved, pitted, and sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: homemade or store-bought cemita buns , sesame seed buns , or brioche buns, halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: shredded Queso Oaxaca from 1 ball of cheese , or fresh mozzarella or string cheese, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: raw onion rings
+  preparation: about 1/4 inch thick
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: chipotle chiles from 1 can whole chipotle chiles in adobo , or pickled jalapeños from 1 can
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "20"
+  unit: 
+  ingredient: leaves papalo , or fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Extra-virgin olive oil , for drizzling
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Set wire rack on a sheet pan. Place milk in a shallow dish. Place flour in another shallow dish. Place bread crumbs in third shallow dish. Working one at a time, dip cutlets in milk, then dredge in flour, shaking off excess. Return to milk, then dredge in bread crumbs, pressing to adhere. Place breaded cutlets on a baking sheet.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat about 1/2 inch oil in a cast-iron skillet to 375°F (190°C). Working in batches and adding oil as needed to maintain level, fry cutlets, turning once, until golden brown on both sides, about 3 minutes per side. Transfer to a clean paper-towel-lined baking sheet. Season with salt and pepper when still hot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spread avocado on bottom bun halves. Top with fried cutlets. Mound half of the cheese on the cutlets.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Arrange onion rings on top of cheese. If using chipotles, tear into pieces and arrange on onion rings; alternatively, arrange pickled jalapeños on top of onion rings. Top with papalo and mound the remaining cheese on top. Drizzle with olive oil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Scoop some bread from each of the top buns and discard. Close sandwiches and serve right away.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cemita buns, papalo, and queso Oaxaca can be found at well-stocked Mexican and Latin American bakeries and grocers. Queso Oaxaca should be shredded by hand into very thin strands, just like string cheese. If you cannot find papalo, cilantro is an ok substitute.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: world-cuisine-guides, north-american-cuisine-guides
+
+----
+
+Seo_title: Pueblan-Style Cemita Sandwiches | Avenda Aurora
+
+----
+
+Seo_description: How to make a Pueblan-style cemita with a fried milanesa beef, chicken, or pork cutlet filling that&#39;s loaded with fine strands of shredded Oaxacan cheese, p
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/0MepO9mTKdMj-S-uUzH0tmBvd-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240313-SEA-Cemita-LorenaMasso23-1ea046ed7743478185dc86c6fc8c58d8.jpg

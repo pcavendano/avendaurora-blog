@@ -1,0 +1,43 @@
+# Chicken-Fried Steak Nuggets with Beer and Bourbon Gravy
+
+> With these chicken-fried steak nuggets, you still satisfy your chicken-fried cravings, but without all the fuss or worry of what you&#39;ll be eating alongside the battered steak. Instead, just crack open a beer and enjoy everything you love about chicken-fried steak (the crispy and tender meat, and the creamy gravy)—but in nugget form.
+
+**Author:** Marvin Gapultos
+
+**Original Image:** https://www.seriouseats.com/thmb/gQBT28QMgzgG1h9lSeE63uGVVj4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__12__20121228-235239-bar-bites-chicken-fried-steak-nuggets-with-beer-and-bourbon-gravy-bd693c79809645bc938e9d16439037c6.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-ingredient-recipes, beef-recipes, steak-recipes
+
+
+## Ingredients
+
+- 1 1/2 pounds top sirloin or top round cube steak, cut into bite-sized pieces
+- Kosher salt and freshly ground black pepper
+- 2 large eggs , beaten
+- 1 1/2 cups whole milk , divided
+- 1 cup all-purpose flour
+- 1/4 teaspoon cayenne pepper
+- 1 to 2 cups canola, vegetable, or peanut oil
+- 2 tablespoons bourbon
+- 1/2 cup beer
+- 1 sprig fresh thyme
+
+
+## Instructions
+
+1. Preheat oven to 175°F. Season the steak on all sides with salt and black pepper and set aside. In a shallow dish, combine the eggs and 1/2 cup milk. In another shallow dish, combine the flour, 1/2 teaspoon salt, 1/2 teaspoon black pepper, and cayenne. Working in batches, dredge the meat in the flour mixture, then in the egg mixture, and again into the flour mixture, shaking off any excess flour or egg wash. Lay the coated pieces of meat on a wire rack. Reserve any extra flour for use in thickening the gravy.
+
+2. Add enough oil to just cover the bottom of a large cast iron skillet, Dutch oven, or flat-bottomed wok by 1/2 inch. Heat the oil over medium heat until shimmering. Carefully add just enough coated steak to make a single layer in the bottom of the pan. Cook until golden brown and crisp on all sides, about 1 to 2 minutes per side. Transfer the fried steaks to a paper towel-lined platter and season immediately with salt. Repeat until all steak is cooked. Keep warm in the oven while you make the gravy.
+
+3. Pour out all of the grease from the skillet and into a heat-proof container. Return 1 tablespoon of the grease to the skillet and reduce the heat to low. Add 1 tablespoon of the reserved flour to the skillet and whisk to combine. Stir in the bourbon, beer, remaining 1 cup milk, and thyme and increase the heat to high. Continue whisking until the gravy comes to a boil. Reduce the heat to medium-low and continue to cook until the gravy thickens, about 5 more minutes. If the gravy is not thick enough for your liking, you can whisk in more flour if needed. Season the gravy with additional salt and pepper and transfer to a small serving dish. Serve the gravy alongside the chicken-fried steak nuggets.
+
+4. Large cast iron pan, Dutch oven, or wok for frying
+
+
+---
+
+*Extracted from Serious Eats*

@@ -1,0 +1,271 @@
+Title: Gaeng Om Gai (Isan-Style Herbal Curry with Chicken and Dill)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: A refreshing Isan-style chicken curry loaded with crisp vegetables and dill.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: stalks lemongrass , bottom 4 to 5 inches only, outer leaves discarded, tender core thinly sliced
+  preparation: about 30g sliced lemongrass
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: small
+  ingredient: shallots , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: garlic cloves
+  preparation: 15g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: fresh or frozen makrut lime leaves , middle rib removed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: fresh red Thai chiles , stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: boneless skinless chicken thighs , cut into 1 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: homemade chicken stock, low-sodium store-bought chicken broth , or water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 4-inch piece fresh galangal , sliced crosswise into 1/8-inch-thick pieces
+  preparation: about 2 tablespoons; 30g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: pla ra
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: Thai apple eggplants , stemmed, quartered, and placed in a small bowl of water
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3 1/2"
+  unit: ounces
+  ingredient: green cabbage , cut into 3-inch pieces
+  preparation: about 2 cups
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5 1/4"
+  unit: ounces
+  ingredient: yu choy , cut into 2-inch pieces
+  preparation: 6 to 8 stalks
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: khao khua
+  preparation:  Thai toasted-rice powder 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: sprigs fresh dill , woody bottom stems removed and discarded, tender stems and fronds cut into 2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: fresh or frozen makrut lime leaves , middle rib removed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: scallions , cut crosswise into 1 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked sticky or jasmine rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Curry Paste: Combine salt and lemongrass in a granite mortar and pestle and pound until a coarse paste forms, about 2 minutes. Pounding thoroughly between each addition to break down and incorporate ingredients into a coarse paste (3 to 4 minutes of pounding per addition), add in the following order: shallots and garlic; Thai chiles and makrut lime leaves. It should take about 10 minutes total to pound ingredients into a coarse paste, with visible pieces of chile and makrut lime leaf.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add chicken stock and galangal and bring to a rapid simmer. Cook, stirring occasionally, until chicken is cooked through and tender, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add eggplant, pla ra (if using), and fish sauce. Continue to cook, adjusting heat as needed to maintain a rapid simmer, until eggplant is just cooked through but still have some bite to them, about 3 minutes. Add cabbage and yu choy, stir to combine, and cook until vegetables are barely tender, about 3 minutes. Remove from heat, add khao kua, dill, makrut lime leaves, and scallions. Stir until incorporated and herbs are slightly wilted.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer curry to a large serving bowl or divide between individual bowls. Serve immediately with cooked sticky rice or jasmine rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Granite mortar and pestle , 3-quart saucepan
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pla ra is a fermented fish sauce made by fermenting freshwater fish with salt and rice bran or khao kua (toasted-rice powder). It can be found in Southeast Asian markets or online. If you cannot source pla ra, you can substitute with 3 tablespoons (45ml) fish sauce, bringing the total amount of fish sauce used in the recipe to 1/4 cup (60ml).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Thai apple eggplant, often labeled simply as “Thai eggplant,” can be found in Southeast Asian and Chinese markets, as well as online. While they differ greatly in flavor and texture, Japanese or globe eggplant can be used as a substitute in this recipe (use an equal amount by weight); cut eggplant into 2-inch pieces and proceed with the recipe as written. Once cut open, the flesh of Thai apple eggplants will quickly oxidize, so it’s a good idea to place them in water until you’re ready to add them to the curry.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Makrut lime leaves can be found at Southeast Asian and South Asian markets. If you’re lucky you will find them fresh, but it is more common to find them frozen (note that they are often sold under a different name that we avoid using, as it is a derogatory term in some contexts ).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The curry paste can be made in advance and refrigerated in an airtight container, with plastic wrap pressed directly against the surface of the paste to prevent it from drying out, for up to 1 week. The finished curry is best enjoyed immediately, as the vegetables will lose their crispness over time.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, thai-recipes
+
+----
+
+Seo_title: Gaeng Om Gai (Isan-Style Herbal Curry with Chicken and Dill) | Avenda Aurora
+
+----
+
+Seo_description: A refreshing Isan-style chicken curry loaded with crisp vegetables and dill.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/gABI7RkXPzDJFQ_jAh9y_mSQ0hE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210609-isan-style-herbal-chicken-curry-GaengOmGai-vicky-wasik-seriouseats-16-602eee3290eb4eafac5dc6874ccec7f7.jpg

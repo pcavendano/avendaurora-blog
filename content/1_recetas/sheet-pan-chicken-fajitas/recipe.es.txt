@@ -1,0 +1,243 @@
+Title: Sheet-Pan Chicken Fajitas
+
+----
+
+Category: salsas
+
+----
+
+Description: Tender chicken thighs marinated with soy sauce, lime juice, and plenty of spices cook up quickly under the heat of a broiler.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh lime juice , from 6 to 8 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: canola or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: packed light brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: chili powder
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , finely minced
+  preparation: about 1 tablespoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: boneless, skinless chicken thighs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: red bell pepper , stemmed, seeded, and cut into 1/2-inch-wide strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: yellow bell pepper , stemmed, seeded, and cut into 1/2-inch-wide strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: green bell pepper , stemmed, seeded, and cut into 1/2-inch-wide strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: white or yellow onion , cut into 1/2-inch slices
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: to 16 fresh flour or corn tortillas , hot
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe guacamole , for serving, if desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: recipe pico de gallo , for serving, if desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sour cream , shredded cheese, and salsa, for serving, if desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Fajita Marinade: Combine soy sauce, lime juice, oil, brown sugar, cumin, black pepper, chili powder, and garlic in a medium bowl and whisk to combine. Transfer 1/2 cup (120ml) marinade to a separate vessel and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Chicken: Place chicken in a gallon-sized zipper-lock bag and add remaining marinade. Seal bag, squeezing out as much air as possible. Massage bag until meat is fully coated in marinade. Lay flat in refrigerator, turning every couple of hours, for at least 3 and up to 10 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Fajitas: When ready to cook, preheat broiler and position over rack to highest position. If you have a baking steel or stone, set it on the top rack and allow to preheat. If using a baking steel/stone, set a rimmed baking sheet on it to preheat as well; otherwise leave baking sheet at room temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove chicken from marinade and blot dry with paper towels. Arrange chicken in an even layer on rimmed baking sheet. Broil, without flipping, until chicken is well browned on top side, about 5 minutes. Broiler strength and oven designs vary greatly, so cooking times will vary as well; keep a close watch. If your broiler heats unevenly, you may need to move the sheet tray around for more even browning. Flip chicken and broil until second side is also browned, about 4 minutes longer (chicken cooked with the help of a baking steel/stone will already have browned on the bottom, so you can flip it and continue cooking to ensure it&#39;s fully cooked through). Remove from oven and transfer chicken to a platter to rest.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Switch oven from broil mode to 450°F (230°C). Add red, yellow, and green bell peppers as well as onions to baking sheet. Pour reserved 1/2 cup of marinade all over and toss until evenly coated; using a wooden spoon, scrape up any browned bits on the baking sheet. Arrange peppers and onion in an even layer that covers the baking sheet from edge to edge, then cook, stirring occasionally, until vegetables are tender and browned in spots, about 25 minutes (if your oven heats from the top, you will want to cook the vegetables on a middle rack to avoid excessive scorching and burning). If you&#39;re using a baking steel/stone, you can cook the vegetables on it, but keep a closer eye since they run the risk of scorching on the bottom; if this begins to happen, move the sheet pan to another rack.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Slice chicken into thin strips, then add back to sheet pan with any juices. Return to oven to warm through.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve immediately with hot tortillas, guacamole, pico de gallo, and other condiments, as desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For best flavor, grind your own chili powder from a mix of equal parts ancho and guajillo chiles.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can wrap the tortillas tightly in aluminum foil and pop them in the oven 10 minutes before serving to heat through, while the steak and vegetables are finishing up.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The finished fajitas are best enjoyed immediately.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, holiday-season-recipes
+
+----
+
+Seo_title: Sheet-Pan Chicken Fajitas | Avenda Aurora
+
+----
+
+Seo_description: Tender chicken thighs marinated with soy sauce, lime juice, and plenty of spices cook up quickly under the heat of a broiler.
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/frJcLorPATsSjBXRXOqRBR4hc4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__01__20200106-sheet-pan-chicken-fajitas-vicky-wasik1-3f23fa9d3dac4e5c98df595ca51d13b8.jpg

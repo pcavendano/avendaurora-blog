@@ -1,0 +1,239 @@
+Title: Nigerian Jollof Rice
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Seasoned with Caribbean-style curry powder, dried thyme, bay leaf, ginger, and garlic, jollof rice is enjoyed as a main dish. It is often paired with beef, chicken, goat, and fish, or eggs.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: plum tomatoes , cored and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: red bell peppers or 2 red shepherd peppers , stemmed, seeded, and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: of a Scotch bonnet or habanero pepper , stemmed and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: Nigerian stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: peanut, vegetable, or other neutral oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , thinly sliced, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: dried bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Caribbean/Jamaican-style curry powder , plus more if needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: dried thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher or sea salt and freshly ground black or white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: teaspoons
+  ingredient: unsalted butter , divided
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: Nigerian stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: converted long-grain rice or Golden Sella basmati , rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: plum tomato , halved then sliced thinly crosswise into half-moons
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Stew Base: In a blender jar, combine tomatoes, red pepper, onion, Scotch bonnet or habanero, and stock. Blend until a smooth puree forms, about 2 minutes. This will yield just shy of 5 cups (1.18L).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer the stew base to a 3-quart saucier or saucepan, cover partially with a lid to contain splatter, and bring to a boil over medium-high heat. Reduce the heat to medium-low and cook, stirring and scraping the bottom occasionally, until reduced by half (roughly about 2 1/2 cups; 590ml), about 30 minutes. Remove from heat and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Jollof Rice: In a 4- or 5-quart pot or Dutch oven, heat 2 tablespoons (30ml) oil over medium heat until shimmering. Add half the sliced onion along with the bay leaves, curry powder, dried thyme, a large pinch of salt, and a large pinch of black or white pepper. Cook, stirring, until the mixture is fragrant and the onion softens slightly, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in tomato paste and 2 teaspoons (8g) butter. Cook, stirring continuously, until the tomato paste darkens, about 3 minutes. Stir in reserved stew base, cover partially with the lid to prevent splattering, and cook at a gentle simmer over medium-low heat until reduced by half, about 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in stock and bring to a boil over high heat. Season with salt and pepper; if the curry flavor is lacking, you can add more to taste (the curry powder should come through pleasantly but not be overpowering, though this is a question of personal taste).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in rice until evenly coated in sauce. Cover the pot with a double piece of foil or parchment paper, crimped down around the edges to seal, then top with lid (this will trap steam to lock in the flavor and aid cooking). Reduce the heat to the lowest possible and cook for 20 minutes, then uncover pot and gently stir rice to redistribute. Cover again and continue to cook until rice is just cooked through but still retains a firm bite and the liquid is mostly absorbed, about 15 minutes longer. If rice is undercooked and/or still wet, cover and cook 5 minutes longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in sliced tomato along with the remaining sliced onion and the remaining 1 teaspoon (4g) butter until butter is fully melted.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove from the heat, cover, and let stand 10 minutes. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Red shepherd peppers are sweet, long, thin-skinned Italian peppers, similar to Nigerian tatashe peppers . They have great flavor and bring a deep red color to Jollof rice. If you can't find them, red bell peppers can be used instead.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Lion curry powder is my favorite brand. If you can’t find it, Ducros is an acceptable substitute, as are Jamaican or West Indian curry powders.
+- 3 teaspoons butter is the same as 1 tablespoon, so to evenly divide the butter into 3 teaspoons, first cut off a 1-tablespoon piece using the markings on the wrapper for guidance, then divide into equal thirds.
+- This recipe works best with converted long-grain rice (also known as parboiled rice), including converted styles of basmati (such as Golden Sella).
+- The stew base can be prepared in advance and refrigerated for a week in an airtight container, or frozen for up to 3 months.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, african-recipes, west-african-recipes, nigerian-recipes
+
+----
+
+Seo_title: Nigerian Jollof Rice | Avenda Aurora
+
+----
+
+Seo_description: Seasoned with Caribbean-style curry powder, dried thyme, bay leaf, ginger, and garlic, jollof rice is enjoyed as a main dish. It is often paired with beef, chic
+
+----
+
+Original_author: Ozoz Sokoh
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/UG-tX_LRPOZszzorA_-hFZdmwLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220908-nigerian-jollof-rice-maureen-celestine-hero-no-spoon-29f44ba966324fff8149c05d0ecca7b7.JPG

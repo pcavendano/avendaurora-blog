@@ -1,0 +1,155 @@
+Title: Turmeric Chicken with Sumac and Lime from 'The New Persian Kitchen'
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: For a totally different take on the basic roasted chicken thigh, enter Louisa Shafia&#39;s Turmeric Chicken with Sumac and Lime from The New Persian Kitchen. This super-simple braised dish is bright, tangy, and brilliantly yellow—it&#39;s a far cry from most muddled braised chicken dishes and even further from the typical roasted bird.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sea salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: bone-in chicken thighs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: grapeseed oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cloves
+  ingredient: garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: juicy limes , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sumac , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a small bowl, mix the turmeric with 1 tablespoon salt and 2 teaspoons pepper. Place the chicken on a rimmed baking sheet and sprinkle with the spice mixture, turning to coat both sides.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat a large skillet over medium-high heat and add the oil. Brown the chicken well on both sides, about 7 minutes per side. Pour in the water, then add the garlic, stirring it into the water. Bring the water to a boil, then turn down the heat to low and cover. Braise the chicken for 25 minutes, until the inside is opaque. Transfer the chicken to a serving platter, turn up the heat to high, and reduce the cooking liquid for a few minutes, stirring occasionally until it’s slightly thickened. Season to taste with salt and pepper, and pour the sauce over the chicken.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Dust the chicken with sumac and pepper, garnish with lime halves, and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Vegetarian Option: Use whole portobello mushrooms in place of the chicken, or use 1 pound firm tofu, well drained and cut into slabs 1 inch thick. You will need a little extra oil for searing than what is called for in the recipe.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, chicken-main-recipes
+
+----
+
+Seo_title: Turmeric Chicken with Sumac and Lime from 'The New Persian Kitchen' | Avenda Aurora
+
+----
+
+Seo_description: For a totally different take on the basic roasted chicken thigh, enter Louisa Shafia&#39;s Turmeric Chicken with Sumac and Lime from The New Persian Kitchen. Th
+
+----
+
+Original_author: Kate Williams
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/kHH0b77eUJFC2ya-c_TUx0L13hs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__04__042513-249107-cook-the-book-turmeric-chicken-sumac-lime-cc30b32ef3a24fed8aba8673c5189b82.jpg

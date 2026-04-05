@@ -1,0 +1,60 @@
+title: Blog
+icon: 📝
+
+options:
+  delete: false
+  changeSlug: false
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          title:
+            label: Título de la Página
+            type: text
+            translate: true
+            default: Blog
+
+          description:
+            label: Descripción
+            type: textarea
+            translate: true
+
+          cover:
+            label: Imagen de Cabecera
+            type: files
+            max: 1
+
+      articles:
+        type: pages
+        headline: Artículos
+        template: article
+        status: all
+        layout: cards
+        size: medium
+        info: "{{ page.date.toDate('d M Y') }} | {{ page.category }}"
+        image:
+          query: page.cover.toFile
+          ratio: 16/9
+          cover: true
+
+  sidebar:
+    width: 1/3
+    sections:
+      seo:
+        type: fields
+        fields:
+          seo_title:
+            label: SEO Título
+            type: text
+            translate: true
+            counter: 60
+
+          seo_description:
+            label: SEO Descripción
+            type: textarea
+            translate: true
+            counter: 160

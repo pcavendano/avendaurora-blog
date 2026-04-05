@@ -1,0 +1,263 @@
+Title: San Antonio-Style Puffy Tacos With Ground Beef
+
+----
+
+Category: platos-fuertes, antojitos
+
+----
+
+Description: Puffy tacos, a San Antonio specialty, are made from fresh masa that puffs and crisps in hot oil. The shells end up crisp outside and soft within, and full of robust corn flavor. They can be stuffed with your favorite variety of taco-night fillings—this recipe uses a flavorful ground beef mixture that&#39;s earthy, spicy, and slightly smoky.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: fresh masa for tortillas or 1 1/2 cups of masa harina mixed with 1 cup warm water and left to rest, covered, for 15 minutes
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Peanut or canola oil , for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: canola or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: finely chopped white onion
+  preparation: about 1 medium onion
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: finely chopped seeded fresh jalapeños
+  preparation: about 2 medium peppers
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: freshly minced garlic
+  preparation: about 3 medium cloves
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Mexican oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: chipotle powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: ground beef chuck
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: finely chopped fire-roasted tomatoes from 1 can
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: finely chopped fresh cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: head iceberg lettuce , shredded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: grated Longhorn cheddar, mild cheddar, or Monterey Jack cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: white onion , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: Roma tomatoes , seeded and finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sour cream , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Shells: Fill a wok or Dutch oven with 2-3 inches oil and heat to 375°F (191°C) over high heat. Pull off a 2-tablespoon-sized piece of masa and form into a ball. Press dough into a thin round between two sheets of plastic in a tortilla press, or roll out using a rolling pin.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place masa in hot oil and let cook until it floats and puffs, about 10 seconds. Using a metal spatula, carefully press middle of tortilla down to create a taco-shell shape and hold until form sets, about 10 seconds longer. Using the spatula, gently submerge one side of shell into oil and cook until crisp, 10-15 seconds. Repeat with other side. Remove shell from oil and allow to drain, then transfer to a paper towel-lined sheet pan, season with salt to taste, and repeat with remaining masa.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Filling: Heat oil in a 12-inch skillet over medium-high heat until shimmering. Add onions and cook until softened and beginning to brown around the edges, 5-7 minutes. Add jalapeños and garlic and cook until fragrant, about 30 seconds. Add chile powder, oregano, cumin, coriander, and chipotle powder and cook until fragrant, about 30 seconds. Add ground chuck and cook, breaking apart with a wooden spoon or potato masher, until browned throughout, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in chicken stock and diced tomatoes and bring to a boil. Reduce to a simmer and cook until liquid thickens, about 15 minutes. Stir in cilantro and lime juice and season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spoon meat mixture into taco shells and top with lettuce, grated cheese, onion, tomato, and/or sour cream. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fresh masa can be purchased at local tortillerias, if you are lucky enough to live near one. If not, masa harina, such as Maseca (available at most well stocked supermarkets) can be used, though it won&#39;t puff as well or offer the same intensity of flavor.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+----
+
+Seo_title: San Antonio-Style Puffy Tacos With Ground Beef | Avenda Aurora
+
+----
+
+Seo_description: Puffy tacos, a San Antonio specialty, are made from fresh masa that puffs and crisps in hot oil. The shells end up crisp outside and soft within, and full of ro
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/NX7DdH2ZJ87KX9OOqTGSUPQGcKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__04__20150414-puffy-tacos-finished-joshua-bousel-ae60fe399a814a24a7f125430fdcfe26.jpg

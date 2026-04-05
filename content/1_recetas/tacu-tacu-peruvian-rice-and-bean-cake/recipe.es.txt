@@ -1,0 +1,260 @@
+Title: Tacu Tacu (Peruvian Rice and Bean Cake)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: A clever way to use up leftovers, tacu tacu combines beans and rice by frying them up into a savory and versatile cake.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: mayocoba beans
+  preparation: also known as canary and peruano
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: rasher thick-cut bacon , sliced into 1/4-inch pieces
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: red onion , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: achiote paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ají amarillo paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: long-grain rice , well rinsed and drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: red onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: ají amarillo pepper , stemmed, seeded, and julienned
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: roughly chopped cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Juice of 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Extra-virgin olive oil , for drizzling
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: cooked beans with their creamy liquid
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: to 1 1/2 cups cooked rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Transfer beans and their soaking liquid to a large pot, then top up with enough water to cover by about 2 inches. Bring to a boil, then reduce heat and cook at a simmer, stirring occasionally, until beans are very soft and creamy and enough have broken down that the cooking liquid has thickened to a creamy glaze, about 3 hours; add additional water, if needed at any point, to prevent the beans from becoming overly dry. Season with salt, if needed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small skillet, heat oil over medium heat. Add bacon (if using), and cook, stirring, until fat begins to render, about 2 minutes. Add onion and cook, stirring, until onion has softened, about 5 minutes. Stir in achiote paste, ají amarillo paste, and dried oregano, and cook for 2 minutes. Stir onion mixture into beans. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Flip tacu tacu (either by inverting a plate over the skillet, flipping the tacu tacu onto the plate, and the sliding it back into the skillet, or by launching it into the air and catching it back in the skillet, if you&#39;re confident in your flipping skills). Continue to cook, using the spatula to press the tacu tacu into a disc shape. Slide tacu tacu onto a plate and serve with zarsa and any sides of your choice (such as a fried egg, fried plantains, a seared or fried steak, or some leftover stew). Repeat with remaining rice and beans, if desired, to make more tacu tacu as desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The beans and rice can be made ahead and refrigerated separately for up to 5 days (that it, after all, what normally happens with the leftovers used to make tacu tacu).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, south-american-recipes, peruvian-recipes
+
+----
+
+Seo_title: Tacu Tacu (Peruvian Rice and Bean Cake) | Avenda Aurora
+
+----
+
+Seo_description: A clever way to use up leftovers, tacu tacu combines beans and rice by frying them up into a savory and versatile cake.
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/trUkovmZBP-USomb_AoJFXcLYQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230308-SEA-TacuTacu-AmandaSuarez-14-c35f9084c37743989224a64c046d1091.JPG

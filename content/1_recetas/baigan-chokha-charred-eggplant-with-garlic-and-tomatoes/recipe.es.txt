@@ -1,0 +1,162 @@
+Title: Baigan Chokha (Charred Eggplant With Garlic and Tomatoes)
+
+----
+
+Category: vegetarianos, bebidas
+
+----
+
+Description: Mash charred eggplant with garlic, roasted tomatoes, lime juice, and onions to make baigan chokha, delicious vegetarian dish from the northeastern Indian state of Bihar.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: large
+  ingredient: eggplant
+  preparation: about 1 1/2 pounds ; 680 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: tomato , core removed
+  preparation: about 8 ounces ; 226 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: red onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh cilantro , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: Thai chile , chopped
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: extra-virgin olive oil or mustard oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 tablespoons fresh lime juice from 1 medium lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , plus more as needed; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat broiler and set oven rack to about 6 inches below broiler element. Using a sharp paring knife, poke six 1-inch deep and 1-inch long cuts into the eggplant. Stuff each slit with 1 garlic clove.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place prepared eggplant on a rimmed baking sheet and broil on high until top of eggplant is wrinkly, tender, slightly charred, and beginning to smell toasty, 15 to 20 minutes. Using tongs, carefully flip eggplant. Add tomato to rimmed baking sheet and broil until eggplant is charred all over and fall-apart tender, about 15 more minutes. (To check tenderness of eggplant, gently prick with a knife or fork.) The tomato should also be charred, juicy, and soft.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove eggplant and tomato from oven and allow to cool briefly, about 5 minutes. Working on the baking sheet, use 2 forks to pull apart the eggplant and scrape and remove flesh into a medium bowl. (Make sure to scrape up against the skin for the toasty bits—that’s the good stuff—and to make sure each garlic clove is accounted for and makes it into the bowl.) All that should be left behind is the charred skin. Add the whole tomato to the bowl. Using forks, a potato masher, or your hands (if mixture is cool enough to handle), mash the tomatoes, garlic, and eggplant until it is the consistency of a chunky salsa, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add chopped onion, chopped cilantro, chopped chili (if using), olive oil, lime, and salt. Mix until well combined and season with additional salt or lime juice to taste. Serve warm or at room temperature with roti, paratha, or pita chips.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, eggplant-recipes
+
+----
+
+Seo_title: Baigan Chokha (Charred Eggplant With Garlic and Tomatoes) | Avenda Aurora
+
+----
+
+Seo_description: Mash charred eggplant with garlic, roasted tomatoes, lime juice, and onions to make baigan chokha, delicious vegetarian dish from the northeastern Indian state 
+
+----
+
+Original_author: Antara Sinha
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/pDYmSNShlyoe7YdMjmlm6Cdl2QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240820-SEA-BaighanChokka-Kanika-and-Jatin-Sharma-12-980b80331511444e875269d675c77bc7.jpg

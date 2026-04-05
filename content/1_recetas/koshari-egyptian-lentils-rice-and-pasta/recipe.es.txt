@@ -1,0 +1,387 @@
+Title: Koshari (Egyptian Lentils, Rice, and Pasta)
+
+----
+
+Category: salsas
+
+----
+
+Description: With heaps of fluffy vermicelli, rice, tender black lentils, and soft pasta elbows, koshari is an iconic Egyptian meal that’s worth seeking out and making at home.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: cup
+  ingredient: neutral frying oil , such as canola
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: medium
+  ingredient: shallots , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: shallot-infused oil
+  preparation: recipe above
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 1 tablespoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: tomato passata
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: onion-infused oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: room temperature water , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: lime juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: onion-infused oil
+  preparation: recipe above
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: red pepper flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: mild Tomato Sauce
+  preparation: recipe above
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: onion-infused oil
+  preparation: recipe above
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: white basmati rice , soaked in cold water for 30 minutes then thoroughly rinsed and drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: Italian vermicelli pasta
+  preparation: about 2 1/4 ounces ; 65 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: black lentils , such as beluga , soaked in hot water for 1 hour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: elbow pasta
+  preparation: about 2 3/4 ounces ; 75 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: chickpeas , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: da’ah
+  preparation: recipe above
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: salsa
+  preparation: recipe above
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fried onions
+  preparation: recipe above
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Shatta
+  preparation: recipe above
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Fried Shallots and Shallot-Infused Oil: In a 10-inch skillet, combine oil and shallots over medium heat, and cook, stirring often, until shallots are golden brown and crisp, 20 to 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Strain through a fine-mesh strainer into a heatproof bowl. Transfer shallots to a paper-towel lined plate to drain and season with salt. Set shallot-infused oil aside to cool. Store the fried shallots in an airtight container until you are ready to use. Store the shallot-infused oil in a clean jar once cooled.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Salsa : In a medium saucepan, heat 2 tablespoons of shallot-infused oil over medium-low heat until shimmering. Add garlic and cook, stirring constantly, until garlic is fragrant and golden brown, 1 to 2 minutes. Whisk in vinegar, tomato passata, sugar, cumin, and coriander. Adjust heat to low and simmer until slightly thickened, about 10 minutes. (The sauce should have the consistency of a marinara; if it becomes too thick, loosen the sauce with additional water as needed.) Remove from heat and set aside uncovered; remove 1/4 cup salsa and set aside for shatta.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Da’ah: In a small saucepan, heat 2 tablespoons shallot-infused oil over medium-low heat until shimmering. Add garlic and cook, stirring constantly, until fragrant, about 30 seconds. Whisk in vinegar, water, lime juice, and cumin. Season with salt to taste. (If sauce is too acidic, add one or two tablespoons of water.) Remove from heat and set aside. Wipe saucepan clean to prepare the shatta.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Koshari: In a small saucepan or kettle, bring 2 cups (240ml) of water to a boil, set aside. In a 6-quart heavy-bottom pot, heat 1/4 cup shallot oil over medium-low heat until shimmering. Add vermicelli, stirring to coat in oil until they are a deep amber color, about 4 minutes. Add rice and elbow pasta to vermicelli and stir until evenly coated in the oil, 1 to 2 minutes. Stir in the black lentils. Pour in the 2 cups of freshly boiled water; there should be just enough to cover the ingredients. Add cumin, coriander, 1/2 teaspoon salt, and pepper, and bring to a boil over high heat, cooking until all the water has been absorbed, about 5 minutes. Reduce heat to medium, cover with lid, and cook until rice and lentils are tender, about 3 minutes. Let rest off heat for 1 minute, then uncover the pot and, using a fork, fluff rice and season with salt to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Assemble: Transfer koshari to a large serving dish. Drizzle koshari with da’ah and remaining salsa, top with chickpeas, and garnish with the prepared fried shallots. Serve warm with remaining sauce and shatta on the side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 10-inch nonstick or cast iron skillet, fine-mesh strainer, medium saucepan, small saucepan, large heavy-bottom pot
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, african-recipes, north-african-recipes, egyptian-recipes
+
+----
+
+Seo_title: Koshari (Egyptian Lentils, Rice, and Pasta) | Avenda Aurora
+
+----
+
+Seo_description: With heaps of fluffy vermicelli, rice, tender black lentils, and soft pasta elbows, koshari is an iconic Egyptian meal that’s worth seeking out and making at ho
+
+----
+
+Original_author: Nermine Mansour
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/6Bet79lOqaqpGIiuQUsI3ldeKhk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240524-SEA-KevinWhite-Koshari-7135-c500ac8ef6234d598fc7343799743e21.jpg

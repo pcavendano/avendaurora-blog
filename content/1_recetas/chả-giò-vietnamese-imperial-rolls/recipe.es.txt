@@ -1,0 +1,307 @@
+Title: Chả Giò (Vietnamese Imperial Rolls)
+
+----
+
+Category: antojitos, platos-fuertes
+
+----
+
+Description: Vietnamese imperial rolls’ unique crispy fried exterior and sumptuous filling make for a great appetizer and topping for a rice noodle bowl.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: warm water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fish sauce , or more depending on your taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh lime juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 medium garlic cloves , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bird’s eye chile , stemmed and thinly sliced
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: jicama , peeled and cut into thin matchsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: carrots , peeled and cut into thin matchsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: cellophane noodles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: ounce
+  ingredient: dried wood ear mushrooms
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: tiger prawns , peeled, deveined, patted dry with paper towels, and cut into 1/2-inch pieces
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: ground pork , blotted dry to remove excess liquid
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: shallot , finely chopped
+  preparation: about 1 ounce ; 30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , ends trimmed and green parts thinly sliced
+  preparation: white parts reserved for another use
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: garlic cloves , minced
+  preparation: about 3/4 ounce ; 25 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: soda or beer
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "14"
+  unit: 
+  ingredient: Vietnamese rice papers or 28 rice papers for skinny rolls
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: vegetable oil , for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: head butter lettuce , leaves separated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thai basil , Vietnamese coriander, perilla, peppermint, and/or fish mint
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pickled daikon and carrot
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pickled leeks
+  preparation: optional; see note
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Dipping Sauce: In a medium bowl, combine 1/2 cup (120ml) warm water with the sugar, fish sauce, and lime juice and mix until sugar has fully dissolved. Stir in garlic and chile, if using, and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Filling: Using your hands, squeeze jicama to remove excess liquid. Spread jicama and carrot in an even layer on a paper towel-lined rimmed baking sheet and let air-dry for 1 hour.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small bowl, soak cellophane noodles in 2 cups (475ml) warm water for 15 minutes. Drain softened noodles, squeeze noodles dry to remove excess liquid, then cut into roughly 1-inch strands. Return to now-empty bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a separate small bowl, soak wood ear mushrooms in 1 cup (235ml) warm water for 15 minutes. Drain and rinse thoroughly. Chop fine, discarding any tough stems.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large bowl, combine prawns, pork, carrot, jicama, cellophane noodles, wood ear mushrooms, shallot, scallion, garlic, sugar, salt, and pepper. Using your hands, mix until fully combined. To check for seasoning, cook 1 tablespoon of the filling in a small pan over medium heat or microwave on a plate for 45 seconds before tasting for seasoning. Adjust uncooked filling to taste with extra sugar or salt if needed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Form and Fry: In a large shallow wide bowl, stir together 1 1/2 cups (355ml) warm water with the soda. Working with one rice paper wrapper at a time, dip into the liquid until the wrapper is just pliable. Remove and shake off excess water. Lay moistened wrapper on a clean counter or cutting board. Place 1/4 cup filling just below center of rice paper sheet. Using hands, shape filling into a 4 1/2- to 5-inch log parallel to counter edge.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fold the left and right sides of the wrapper towards the center to enclose filling snugly. Fold bottom corner of wrapper over filling and press gently along length of filling to remove air pockets. Starting at bottom counter edge, gently wrap up and over the filling to form a tight cylinder and finish rolling to seal. Transfer roll seam side down to a rimmed baking sheet. (Do not stack). Repeat with remaining wrappers and filling; you should have about 14 rolls. Cover filled rolls with a damp towel and refrigerate rolls until ready to fry.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set wire rack in rimmed baking sheet. Line rack with a double layer of paper towels. In a large Dutch oven, heat oil over medium-high heat to 350°F (175°C). Working with 1 at a time, use tongs or spider skimmer to gently transfer 6 rolls to oil and fry rolls until golden brown all over and crispy, 8 to 10 minutes, turning rolls and gently separating rolls with tongs halfway through frying. Adjust burner as needed, to maintain oil temperature of 325℉ to 350℉ ( 160 to 175℃) degrees. Transfer fried rolls to prepared rack. Repeat with remaining rolls, frying 6 to 4 at a time. Let cool for 5 minutes before serving.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Serving: Serve imperial rolls with lettuce, fresh herbs, dipping sauce, pickled daikon and carrots, and pickled leeks, if using, alongside dipping sauce. To eat, wrap each roll in a lettuce leaf, top with herbs and pickles, and dip into sauce.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Vietnamese rice paper wrappers are sold dried. They come in three styles; rice flour mixed with tapioca starch, all tapioca starch, or wrappers made from vermicelli noodles called chả giò rế. All three styles will work with this recipe, so choose the style you prefer. Rice paper wrappers can be found at most Asian grocery stores and online.
+- Chả giò rế is a frozen, ready-to-use product, and the wrappers are separated by thin sheets of paper so that they do not stick together. The package instructions state that they are ready to roll, but should be kept under a moist towel during prep.
+- A mandoline works great for thinly slicing the carrots and jicama before cutting into thin matchsticks.
+- To make smaller and slimmer rolls, you may alternatively use just 2 tablespoons filling for each roll to have a total of about 28 imperial rolls per recipe.
+- Pickled leeks, often labeled “pickled leeks in brine” are available at most Asian supermarkets in the canned section. Their delicate aroma and sweet and sour finish make them a great pairing with these imperial rolls.
+- This recipe can be doubled, or even tripled and fried in several additional batches, 6 to 4 rolls at a time.
+- The filling can be prepared through Step 5 ahead of time and refrigerated in an airtight container for up to 1 day.
+- The dipping sauce can be prepared ahead of time and refrigerated in an airtight container for up to 2 days. If sauce thickens, thin with additional water 1 teaspoon at a time to reach desired consistency.
+- Uncooked imperial rolls can be frozen in a single layer, and then stacked with sheets of parchment paper between layers, in an airtight container and frozen for up to 1 month. Do not thaw before frying. Increase frying time from frozen by 2 to 3 minutes.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes
+
+----
+
+Seo_title: Chả Giò (Vietnamese Imperial Rolls) | Avenda Aurora
+
+----
+
+Seo_description: Vietnamese imperial rolls’ unique crispy fried exterior and sumptuous filling make for a great appetizer and topping for a rice noodle bowl.
+
+----
+
+Original_author: Vy Tran
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/pE1A6Cj6fhfyFzLtR7XiryxLzus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230915-SEA-ImperialRolls-VyTran-11-5dee8208d80d44349b0b402f0512b4a2.jpg

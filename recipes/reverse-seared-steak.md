@@ -1,0 +1,43 @@
+# Reverse-Seared Steak
+
+> The reverse sear is one of the easiest and arguably best methods of cooking a steak. Start it in a low oven, then quickly sear it in a hot pan or on the grill for a beautiful crust.
+
+**Author:** J. Kenji López-Alt
+
+**Original Image:** https://www.seriouseats.com/thmb/nSHJV5Vu_mYjYchOwo-s9JBv91I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2017__02__20170217-reverse-sear-steak-02-d86b7f4676d240c196acf6903523c99f.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-method, roasting-recipes, roasted-beef-recipes
+
+
+## Ingredients
+
+- 1 to 2 Thick-cut beef steak (s), at least 1 1/2 to 2 inches thick, such as ribeye, strip, porterhouse, T-bone, tri-tip, or filet mignon
+- Kosher salt and freshly ground black pepper
+- Vegetable oil (if finishing on the stovetop; optional)
+- 1 tablespoon ( 15 g ) unsalted butter (if finishing on the stovetop; optional)
+
+
+## Instructions
+
+1. Generously season steak(s) all over with salt and pepper. If desired, set steak(s) on a wire rack set in a rimmed baking sheet and refrigerate, uncovered, overnight to dry out the exterior. Otherwise, proceed with the next step.
+
+2. If Cooking in the Oven: Set steak(s) on a wire rack set in a rimmed baking sheet. Preheat oven to anywhere between 200 and 275°F (93 and 135°C); if your oven goes lower, you can set it to an even lower temperature, though it will take longer to cook.
+
+3. Place steak(s) in the oven and cook until an instant-read thermometer registers 105°F (41°C) for rare, 115°F (46°C) for medium-rare, 125°F (52°C) for medium, or 135°F (57°C) for medium-well. This will take about 20 minutes for rare steak and up to about 40 minutes for medium-well; cooking time can vary dramatically depending on many factors, so check often. (For approximate cooking times, see the chart above .)
+
+4. Just before steak(s) come out of the oven, add 1 tablespoon (15ml) oil to a cast iron, carbon steel, or heavy stainless steel skillet and heat over high heat until smoking. Add steak(s) and butter to skillet and cook until each side is well browned, about 45 seconds per side. Using tongs, hold steak(s) sideways to sear edges. Serve right away; there&#39;s no need to let reverse-seared steaks rest.
+
+5. Set steak(s) on cooler side of grill and let cook uncovered, turning occasionally, until an instant-read thermometer registers 105°F (41°C) for rare, 115°F (46°C) for medium-rare, 125°F (52°C) for medium, or 135°F (57°C) for medium-well. Cooking time can vary greatly, so check the steaks often.
+
+6. Transfer steak(s) to a platter and tent with foil. If you are using a charcoal grill and your coals have died down, build up the biggest fire you can. If using a gas grill, make sure all burners are turned to their highest heat and allow the grill to preheat with the lid closed.
+
+7. Return steak(s) to the hottest part of the grill and cook, turning frequently, until crisp and charred all over, about 1 1/2 minutes total. Serve right away.
+
+
+---
+
+*Extracted from Serious Eats*

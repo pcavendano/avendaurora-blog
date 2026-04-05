@@ -1,0 +1,270 @@
+Title: Green Tea Smoked Duck
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: This simplified tea-smoked duck recipe delivers Sichuan-style depth—sweet, salty, and smoky—with little more than a wok (or a grill) and a little patience.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: skin-on, boneless duck breasts
+  preparation: about 7-8 ounces each; 198-226 g each
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Chinese five spice
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Sichuan peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Prague powder #1
+  preparation: optional; see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: and 1 teaspoon Shaoxing wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: Shaoxing wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: cinnamon stick , broken into small pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: star anise pods
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Sichuan peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Prague powder #1
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2/3"
+  unit: cup
+  ingredient: loose dry green tea leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: uncooked white rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil , such as canola or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: A few sprigs of cilantro for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: With a sharp knife, gently score duck breast skin in a crosshatch pattern, with scores 1/4 inch apart. Be careful not to cut into the flesh.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If Using the Dry Brine. In a bowl, add salt, Chinese five spice (if using), sugar, peppercorns, and Prague powder (if using), and stir to combine. Using a pastry or silicone brush, brush each duck breast with wine on both sides. Season duck breasts on both sides with peppercorn mixture. Transfer to a large plate, uncovered, and let them cure for 24 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If Using the Wet Marinade : In a medium saucepan, add soy sauce, wine, sugar, cinnamon stick, star anise, peppercorns, and salt. Bring to a boil over medium-high heat. Turn heat down to medium-low and simmer for 5 minutes. Let cool to room temperature, about 30 minutes. In an airtight container or large zipper-locked bag, pour marinade over duck breasts toss to coat, and arrange duck breasts skin side up. Refrigerate for 12 to 24 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small bowl, combine tea leaves, rice, and sugar. Mix well.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Line a wok with a piece of aluminum foil, allowing 1 inch of foil to extend beyond the wok rim. Pour smoking ingredients into bottom on foil and spread out evenly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place a round metal wok wire rack over smoking ingredients. Cover wok with lid. Turn heat on to medium-high and wait for a wisp of smoke to appear, about 2 minutes. Carefully remove lid. You should see a nice cloud of smoke.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place two duck breasts, skin-side up, on wire rack. Put lid back on, turn heat down to medium, and smoke until thermometer inserted into the thickest part of duck breast reaches 133°F (56°C), about 12 minutes. Remove duck breasts and set aside. Smoke remaining duck 2 breasts.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Smoking on a Charcoal Grill : Using a double layer of aluminum foil or a single layer of heavy-duty foil, wrap tea leaves, rice, and sugar into a roughly 9-by-6-inch packet. Cut five 2-inch slits evenly spaced in the top of the packet; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place prepared smoking packet on hot coals with slits facing up. Set cooking grate in place. Place duck breasts on cooler side of grill without coal, but as close to heat source as possible.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Cover grill (positioning lid vent over duck breasts), open vent halfway, and cook, while maintaining grill temperature between 270 to 290°F (132 to 143℃), until center of thickest part of duck breasts registers 133°F (56°C), 15 to 17 minutes.
+- For Searing the Smoked Duck to Finish: Place 2 breasts skin-side down in a room-temperature heavy-bottomed 12-inch non-stick or cast iron skillet and set over medium-high heat until just sizzling, about 2 minutes. Once sizzling, reduce heat to medium and cook, moving and pressing breasts to ensure good contact between skin and pan until skin is golden brown and crisp, flipping as needed to avoid scorching, about 3 minutes. Transfer to a cutting board and let duck breasts rest for 5 minutes.
+- Slice duck crosswise against the grain into 1/4-inch-thick slices. Transfer to serving platter, garnish with cilantro, and serve immediately.
+- 8-inch round metal rack and 14-inch wok with wooden lid if smoking in a wok; charcoal grill, charcoal briquettes, and chimney starter if smoking on a grill; digital thermometer; 12-inch cast iron skillet
+- Prague Powder #1 (also called Insta Cure #1 or pink curing salt) is a curing salt made of 6.25% sodium nitrite and 93.75% sodium chloride, dyed pink to avoid confusion with table salt. It&#39;s used in short cures such as bacon, corned beef, and sausages to help prevent botulism and preserve color and flavor. It can be purchased at butcher shops, restaurant supply stores, online, or spice shops. It preserves the duck&#39;s color and firms its texture in this recipe. If you prefer a more tender, natural-colored duck, omit it from the recipe.
+- Both the dry and wet brines can be made 2 days ahead and refrigerated in an airtight container until ready to use.
+- Leftover duck can be refrigerated for up to 4 days. I recommend heating in a cast iron skillet to recrisp the skin.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, duck-recipes
+
+----
+
+Seo_title: Green Tea Smoked Duck | Avenda Aurora
+
+----
+
+Seo_description: This simplified tea-smoked duck recipe delivers Sichuan-style depth—sweet, salty, and smoky—with little more than a wok (or a grill) and a little patience.
+
+----
+
+Original_author: Vy Tran
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/uD7S-Xg5cOgXoJOr4dZGolppmhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250904-SEA-GreenTeaSmokedDuckBreasts-LorenaMasso-HERO-0cc60284a90742d3a885a04f3d04bed3.jpg

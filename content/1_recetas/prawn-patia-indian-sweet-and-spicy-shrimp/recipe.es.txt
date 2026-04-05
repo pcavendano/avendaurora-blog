@@ -1,0 +1,199 @@
+Title: Prawn Patia (Indian Sweet and Spicy Shrimp)
+
+----
+
+Category: mariscos
+
+----
+
+Description: Sweet, spicy and tangy, Prawn Patia is a dish full of flavor. It&#39;s easy to make and is a wonderful side to your main dinner course.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: curry leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: onion , finely chopped
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: green chiles chopped fine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: tomato purée
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ginger garlic paste
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: red chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: turmeric powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: cumin powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: granulated sugar or grated jaggery
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: vinegar
+  preparation: preferably palm vinegar 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: medium shelled, deveined shrimp
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: chopped cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat oil in a large skillet over medium-high heat until shimmering. Gently put in the curry leaves and step aside as they pop. Stir for 20 seconds. Add the chopped onions and stir until lightly browned, about 5 minutes. Add the green chillies and stir for another minute. Add the tomato puree and keep stirring until oil separates from the onion tomato mix, about 5 minutes. Add the ginger-garlic past, red chilli, turmeric, and cumin, and keep stirring until mixture is fragrant, about 5 minutes, taking care to ensure the mixture doesn&#39;t stick to the bottom.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the sugar/grated jaggery, vinegar, and water and cook till the rawness of the tomato is gone, about 5 minutes. Season to taste with salt. Add the shrmp, stir and let cook for one minute. Remove from heat. Allow to continue cooking off heat, stirring occasionally, until shrimp are cooked through, about 4 minutes longer. Garnish with coriander and serve with white rice and daal.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heavy-bottomed 12-inch skillet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, shrimp-recipes
+
+----
+
+Seo_title: Prawn Patia (Indian Sweet and Spicy Shrimp) | Avenda Aurora
+
+----
+
+Seo_description: Sweet, spicy and tangy, Prawn Patia is a dish full of flavor. It&#39;s easy to make and is a wonderful side to your main dinner course.
+
+----
+
+Original_author: Denise D'silva Sankhé
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/uVc8FxJ3xY-oQF9oT9af-BjNEd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__10__20121110-Prawn20Patia-An-Indian-Tangy-Spicy-Prawn-Side-Dish-ce96fce0b88a40e99bf74c19ef1ec9d2.jpg

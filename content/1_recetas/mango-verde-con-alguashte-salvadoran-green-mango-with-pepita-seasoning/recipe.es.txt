@@ -1,0 +1,122 @@
+Title: Mango Verde Con Alguashte (Salvadoran Green Mango With Pepita Seasoning)
+
+----
+
+Category: antojitos, bebidas
+
+----
+
+Description: Two key ingredients are all that&#39;s needed to tame the bracingly sour flavor of unripened green mango: fresh lime juice, and alguashte, a ground condiment made from roasted pumpkin seeds.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: green mangoes , peeled, halved, and pitted
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Alguashte , for sprinkling
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Arrange the peeled mango halves on a plate. Squeeze lime juice all over, then generously top with alguashte. Season with salt and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Green mangoes are different from merely underripe mangoes: They&#39;re picked from the tree while still crisp and fully sour. They are often sold at markets that specialize in Central American ingredients, though depending on where you live and shop, they may be hard to find. If you can&#39;t locate true green mangoes, try to find the most underripe mangoes you can. Also note: Green mangoes are typically a smaller, palm-sized variety, not the huge one-pound Tommy Atkins mangoes that predominate at most American markets. If you do use a Tommy Atkins, just one or two fruits should suffice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This dish is best made right before serving.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, quick-snack-recipes
+
+----
+
+Seo_title: Mango Verde Con Alguashte (Salvadoran Green Mango With Pepita Seasoning) | Avenda Aurora
+
+----
+
+Seo_description: Two key ingredients are all that&#39;s needed to tame the bracingly sour flavor of unripened green mango: fresh lime juice, and alguashte, a ground condiment ma
+
+----
+
+Original_author: Karla T. Vasquez
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/whlw7YjjLpVe8GG7NlERHUwOE04=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__09__20200905-mango-alguashte-karla-vasquez-6aefd40ab6544aa68202230f2bdab0cd.jpg

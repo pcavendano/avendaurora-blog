@@ -1,0 +1,141 @@
+Title: Eggs Baked in Avocado
+
+----
+
+Category: desayunos
+
+----
+
+Description: A breakfast bowl, where the &#34;bowl&#34; is just an avocado filled with incredible breakfast ingredients.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: medium
+  ingredient: avocados
+  preparation: about 7 ounces; 198g each
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: large
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Whole grain mustard , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped chives , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and preheat to 450°F. Line a large rimmed baking sheet with aluminum foil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cut each avocado in half and remove the pit. Using a spoon, scrape out the center of each halved avocado so that it is large enough to accommodate an egg (about 1 1/2 tablespoons). Squeeze lime juice over the avocados and season with salt, then place on prepared baking sheet, cut side up.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place a small sieve over a small bowl. Working with 1 egg at a time, crack the egg into the sieve and let sit until the watery parts of the egg white drain off; discard watery egg white. Carefully, pour the drained egg into the center of an avocado. Don’t worry if some of the white spills out as long as the yolk is intact. Repeat with remaining eggs. Sprinkle with salt and pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bake in the oven until whites are set and yolk is runny, about 12 to 14 minutes. Remove from oven and garnish with mustard and chives.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, breakfast-brunch-recipes
+
+----
+
+Seo_title: Eggs Baked in Avocado | Avenda Aurora
+
+----
+
+Seo_description: A breakfast bowl, where the &#34;bowl&#34; is just an avocado filled with incredible breakfast ingredients.
+
+----
+
+Original_author: Sydney Oland
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/YkwHTvqv-rzp0jd4-fSp4mhAwUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Eggs-Baked-in-Avocado-Hero-1-00288-b972a68a12364e4880db843511346307.jpg

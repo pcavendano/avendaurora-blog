@@ -1,0 +1,207 @@
+Title: Mala-Spiced Chex Mix
+
+----
+
+Category: antojitos, postres
+
+----
+
+Description: This salty-sweet, spicy, and crunchy Chex mix is perfect for holiday parties or just a session of zoning out in front of the TV. Plus, it requires just five minutes of active prep time and lasts for up to five days, so you can make it ahead for multi-day munching.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: cups
+  ingredient: Corn Chex or similar corn cereal
+  preparation: about 5 ounces; 145g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cup
+  ingredient: s Rice Chex or similar rice cereal
+  preparation: 5 1/2 ounces; 155g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: Wheat Chex or similar wheat cereal
+  preparation: about 9 1/4 ounces; 260g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: roasted unsalted peanuts
+  preparation: 7 1/2 ounces; 213g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: pretzels , see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: Sichuan peppercorns
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fennel seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: star anise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Seeds of 2 cardamom pods or 1/4 teaspoon ground cardamom
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: dark brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 4 ounces; 113g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chili crisp , such as Lao Gan Ma
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven racks to the second-from-top and second-from-bottom positions. Preheat oven to 325ºF (160ºC). Line 2 rimmed baking sheets with parchment (this will make it easier to transfer the cereal into a bowl after); set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large bowl, combine Corn Chex, Rice Chex, Wheat Chex, and roasted peanuts. Divide cereal and nut mixture evenly between the 2 sheets and toast, using a flexible spatula or wooden spoon to stir occasionally, until evenly golden brown, about 20 minutes. Remove from oven and let cool 5 minutes. Lift up the shorter sides of the parchment to form a “sleeve” to gather the cereal and nuts, then transfer mixture to a large bowl. Add pretzels and toss to combine. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small skillet, toast Sichuan peppercorns, cumin seeds, fennel seeds, star anise, and cardamom over medium heat, tossing constantly, until fragrant, 30 seconds to 1 minute. Transfer toasted spices, brown sugar, and salt to a spice grinder or mortar and pestle and grind to a fine powder. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the same skillet, melt butter over medium heat. Whisk in toasted spices and cook over medium heat until fragrant, about 3 minutes. Remove from heat and, using a flexible spatula, fold in chili crisp. Pour spice mixture over cereal and nut mixture and, using two large wooden spoons or flexible spatulas, toss to evenly coat, taking care to scoop from the bottom of the bowl, until everything is well-combined. Season to taste with additional salt and brown sugar.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Regular, bite-size, or pretzel sticks can be used in this recipe.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you want a milder Chex mix, you can reduce the amount of Sichuan peppercorns to two tablespoons and substitute the chili crisp with four additional tablespoons of unsalted butter.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes
+
+----
+
+Seo_title: Mala-Spiced Chex Mix | Avenda Aurora
+
+----
+
+Seo_description: This salty-sweet, spicy, and crunchy Chex mix is perfect for holiday parties or just a session of zoning out in front of the TV. Plus, it requires just five min
+
+----
+
+Original_author: Genevieve Yam
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/d5RbFxk4MqZAWiK0m98fcAIuMhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241125-MalaSpicedChexMix-AmandaSuarez-15-be2250fb6c95496b91f817aade9d730f.jpg

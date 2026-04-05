@@ -1,0 +1,198 @@
+Title: Lebanese Lentil Soup
+
+----
+
+Category: sopas-caldos, vegetarianos
+
+----
+
+Description: Learn how to make adas bi hamoud, a tangy, aromatic, and comforting Lebanese lentil and lemon soup made with brown lentils, cumin, Swiss chard, and fresh lemon juice.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: brown lentils , picked over and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: large
+  ingredient: white onions , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: fresh cilantro or parsley, chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Diamond Crystal kosher salt , plus more for seasoning; for table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: waxy potatoes , cut into 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: chopped Swiss chard
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: fresh lemon juice , plus more to taste
+  preparation: from 2 lemons
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Labneh, for serving, optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large pot, add lentils and water. Bring water to a boil over medium-high heat. Stir briefly and reduce heat to a simmer. Cook, stirring occasionally, adjusting heat as needed to maintain a simmer, until lentils are tender but remain intact, about 15 minutes. (Proceed to steps 2 and 3 while lentils cook, and if you are not finished with the onions and herb mixture by the time the lentils are tender, turn off the stove.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a medium stainless-steel skillet, heat 4 tablespoons olive oil until shimmering. Add onions and cook, stirring often, until softened and beginning to brown, 5 to 7 minutes. Transfer onions to small bowl and set aside. (Do not wipe out skillet.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In now-empty skillet, add remaining 1 tablespoon oil and heat until shimmering. Add garlic and cook until fragrant, about 30 seconds. Stir in cilantro or parsley and cook until wilted, about 15 seconds. Transfer to a second small bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir salt into the lentils. Add potatoes, cumin, and reserved onion mixture to lentils. Return to a simmer and cook, covered, stirring occasionally, until potatoes are tender, 10 to 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in Swiss chard and cook until it turns bright green, about 3 minutes. Off-heat, stir in lemon juice, and reserved garlic-herb mixture. Season with additional salt and lemon juice to taste. Top with a dollop of labneh, if desired. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large pot, medium stainless steel skillet
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can substitute Swiss chard with an equal amount of chopped mature spinach, if desired.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, bean-recipes, lentil-recipes
+
+----
+
+Seo_title: Lebanese Lentil Soup | Avenda Aurora
+
+----
+
+Seo_description: Learn how to make adas bi hamoud, a tangy, aromatic, and comforting Lebanese lentil and lemon soup made with brown lentils, cumin, Swiss chard, and fresh lemon 
+
+----
+
+Original_author: Kaumudi Marathé
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Ig2uEz-dPgroBjdxpBeRMEZb5mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251022-SEA-20250922-SEA-20251008-SEA-LebaneseBrownLentilSoup-QiAi-HERO-2ff6c5855d45422f8b5d05b73bb4876b.jpg

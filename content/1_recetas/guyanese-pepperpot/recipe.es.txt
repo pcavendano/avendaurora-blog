@@ -1,0 +1,219 @@
+Title: Guyanese Pepperpot
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Pepperpot, a national dish of Guyana, is a delightful meat-based stew, rich with braised beef and infused with cinnamon, clove, thyme, and wiri wiri peppers.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: cow foot , cut into roughly 1- by 2-inch pieces
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: kosher salt , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: teaspoons
+  ingredient: chicken bouillon , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: cups
+  ingredient: cassareep , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "21"
+  unit: 
+  ingredient: sprigs fresh thyme , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "24"
+  unit: 
+  ingredient: whole cloves , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: cinnamon sticks , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: oxtail with separated joints
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: bone-in beef chuck , cut into roughly 2-inch pieces
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: fresh wiri wiri peppers
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: light brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 2 1/2–inch knob fresh ginger , peeled and grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: of a whole nutmeg , grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 1-inch strip orange peel , trimmed of excess white pith
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Season cow foot all over with salt and 1/2 teaspoon chicken bouillon. In a stovetop pressure cooker or electric multicooker (such as an Instant Pot), combine cow foot with 1/2 cup cassareep, 7 sprigs thyme, 8 whole cloves, 1 cinnamon stick, and 4 cups water. Bring to high pressure and cook for 60 minutes. Depressurize the cooker using the rapid release valve, then transfer cow foot and cooking juices into a large pot or Dutch oven and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season oxtail all over with salt and 1/2 teaspoon chicken bouillon. Using the same pressure cooker, combine oxtails with 1/2 cup cassareep, 7 sprigs thyme, 8 whole cloves, 1 cinnamon stick, and 2 cups water. Bring to high pressure and cook for 30 minutes. Depressurize the cooker using the rapid release valve, then transfer cooked oxtails and their cooking liquid into the pot with the cow foot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season beef chuck all over with salt and ½ teaspoon chicken bouillon. Using the same pressure cooker, combine beef chuck with 1/2 cup cassareep, 7 sprigs thyme, 8 whole cloves, 1 cinnamon stick, and 3 cups water. Bring to high pressure and cook for 30 minutes. Depressurize the cooker using the rapid release valve, then transfer cooked beef chuck and its cooking liquid into the pot with the cow foot and oxtails.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add minced garlic, wiri wiri peppers (puncture one or two peppers with a knife first for extra chile heat), brown sugar, grated ginger, nutmeg, orange peel, and the remaining 1/4 cup cassareep and 1 teaspoon chicken bouillon to the pot and stir well. Bring to a simmer, then reduce heat to medium-low and cook for 15 minutes; the stew&#39;s sauce should be brothy but with body. Season with salt, if needed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove from heat, then skim any fat from the surface. Serve with bread.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Ask your butcher to cut the beef foot and bone-in chuck for you; otherwise, substitute an equal weight of boneless beef chuck and leave the beef foot as-is.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you can&#39;t find fresh Guyanese wiri wiri peppers, you can use dried ones or substitute Scotch bonnet peppers.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes, oxtail-recipes
+
+----
+
+Seo_title: Guyanese Pepperpot | Avenda Aurora
+
+----
+
+Seo_description: Pepperpot, a national dish of Guyana, is a delightful meat-based stew, rich with braised beef and infused with cinnamon, clove, thyme, and wiri wiri peppers.
+
+----
+
+Original_author: Tiffany Boakye-Korsah
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/HZFNPdQv1s1RoRS130HMJkbjf-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220308-Guyanese-Pepperpot-Liz-Voltz-hero-horz-1-2-232649f358f54e6c8f883aa2582a17c2.JPG

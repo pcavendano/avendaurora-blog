@@ -1,0 +1,220 @@
+Title: Cabbage Soup With Cauliflower, Chickpeas, and Coconut Milk
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: This one-pot cabbage soup delivers a brothy, flavorful, and satisfying meal in under an hour.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion
+  preparation:  8 ounces ; 227 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: carrots , peeled and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece fresh ginger , peeled and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: smoked paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: head green cabbage , cut into 3/4-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: cups
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth or vegetable broth
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can chickpeas , rinsed and drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can diced tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: ounces
+  ingredient: cauliflower, cut into 1-inch florets
+  preparation: from 1 medium head 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can unsweetened full-fat coconut milk , shaken well before use
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped fresh cilantro leaves and tender stems, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large Dutch oven, heat oil over medium-high until shimmering. Add onion and carrots. Cook, stirring occasionally, until softened, 3 to 5 minutes. Stir in garlic, ginger, cumin, pepper, turmeric, and smoked paprika, and cook until fragrant, about 1 minute. Add cabbage and cook, stirring often, until cabbage turns bright green, about 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: We like the flavor that chicken stock brings to this soup, but if you prefer to keep it vegan, feel free to substitute low-sodium vegetable broth for the chicken stock.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large Dutch oven
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Cabbage Soup With Cauliflower, Chickpeas, and Coconut Milk | Avenda Aurora
+
+----
+
+Seo_description: This one-pot cabbage soup delivers a brothy, flavorful, and satisfying meal in under an hour.
+
+----
+
+Original_author: Laila Ibrahim
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/JpXLfZh6P-UeEpCvvNWY_R6pOOk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251209-SEA-Cabbage-Soup-Robby-Lozano-3x4_222-c3c38103d5764efabd29bc1f67297a71.jpg

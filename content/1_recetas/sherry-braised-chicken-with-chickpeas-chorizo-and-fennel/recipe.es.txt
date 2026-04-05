@@ -1,0 +1,224 @@
+Title: Sherry-Braised Chicken With Chickpeas, Chorizo, and Fennel
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: This Spanish-inspired braise combines golden-browned chicken thighs, smoky chorizo, tender fennel, and creamy chickpeas in a savory sherry-infused sauce—all in one skillet.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: 
+  ingredient: bone-in, skin-on chicken thighs , trimmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: smoked paprika , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: yellow or white onion , halved and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: fennel bulb , stalks discarded, bulb halved and cut into 1/2-inch-thick wedges through core
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: cured Spanish chorizo , cut into 1/4-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: red, yellow, or orange bell pepper , stemmed, seeded, and cut into 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cloves
+  ingredient: garlic , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: minced fresh thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: dry sherry , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans chickpeas , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: unsalted butter, cut into 3 pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: minced fresh parsley for serving, optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and heat oven to 400°F (205°C). Pat chicken dry with paper towels. Sprinkle all over with 1 1/2 teaspoons salt and 1 teaspoon paprika.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place chicken, skin side down, into a room-temperature 12-inch nonstick skillet. Set over medium-high heat and cook until fat has rendered and skin is golden brown, about 10 minutes. Flip chicken and cook until second side is browned, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using tongs, transfer chicken to a large plate. Reserve 2 tablespoons rendered chicken fat in skillet, and discard or save any remaining chicken fat for another use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat skillet with fat over medium-high heat until shimmering. Add onion, fennel, chorizo, bell pepper, and 1/2 teaspoon salt and cook, stirring occasionally, until onion and fennel are softened and lightly browned, 7 to 9 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add garlic, thyme, and remaining 1/2 teaspoon paprika and cook until aromatic and garlic is just beginning to brown, about 2 minutes. Stir in flour and cook until no dry flour remains, 1 minute. Stir in sherry, broth, and chickpeas and bring to a boil. Boil for 3 minutes, then remove from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Nestle chicken skin side up into skillet along with any accumulated juices. Transfer skillet to oven and cook, uncovered, until chicken registers 185 to 190°F (85 to 88°C), 20 to 25 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer chicken to serving platter. Place skillet with sauce and vegetables over medium-high heat (skillet handle will be hot). Stir in butter and cook until butter is melted and sauce is slightly thickened and glossy, 3 to 5 minutes. Season with salt and pepper to taste. Serve chicken, vegetables, and sauce, sprinkled with parsley, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large nonstick skillet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, chicken-main-recipes
+
+----
+
+Seo_title: Sherry-Braised Chicken With Chickpeas, Chorizo, and Fennel | Avenda Aurora
+
+----
+
+Seo_description: This Spanish-inspired braise combines golden-browned chicken thighs, smoky chorizo, tender fennel, and creamy chickpeas in a savory sherry-infused sauce—all in 
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/9pk3dMShixvHD9E9gt5i5phfpDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250522-SEA-OnePotSherryChickenChorizoChickpeaDinner-MaureenCelestine-Beauty1-38-73f7e2f8b8de4645a14a4de3e86b628c.jpg

@@ -1,0 +1,113 @@
+Title: Crispy Cheese Tacos
+
+----
+
+Category: antojitos
+
+----
+
+Description: Grated cheese is a common taco topping, but also a boring one if you fail to take advantage of the cheese&#39;s best assets: its melting and crisping abilities. The solution is here with these crispy cheese tacos, a fusion of melted, crisped cheese and tortilla that can be then stuffed with all sorts of fillings.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: grated parmesan , Manchego , Cheddar , or other hard or semi-hard cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: corn tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Arrange 1/2 ounce of cheese on one side of a nonstick skillet in a 5- by 2-inch rectangle. Turn heat to medium-low. When cheese begins to melt, place 1 tortilla on top of cheese so that roughly half the cheese is covered by the tortilla.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Let cheese cook until it turns an even golden brown color. Remove pan from heat and let stand until cheese cools and firms up slightly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Carefully slide a thin spatula under cheese and remove tortilla from pan. Fill as desired (see notes) and serve immediately. Repeat with remaining cheese and tortillas.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Non-stick skillet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+----
+
+Seo_title: Crispy Cheese Tacos | Avenda Aurora
+
+----
+
+Seo_description: Grated cheese is a common taco topping, but also a boring one if you fail to take advantage of the cheese&#39;s best assets: its melting and crisping abilities.
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/EmFwI4mgP6B7mOkW08eEkdruXyA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__04__20150422-crispy-cheese-tacos-manchego-assembled-joshua-bousel-fce4fe16b37b496892e17fb566bc1c65.jpg

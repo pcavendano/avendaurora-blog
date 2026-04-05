@@ -1,0 +1,133 @@
+Title: Sweet and Spicy Chili Sauce For Korean Fried Chicken
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: Korean fried chicken gets its kick from fiery gochujang.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: gochujang
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: rice wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: dark brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 1 tablespoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: grated fresh ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: toasted sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine gochujang, soy sauce, vinegar, sugar, garlic, ginger, and sesame oil in a large bowl and whisk to combine. Gochujang can be inconsistent in its thickness. Add up to 2 tablespoons water until sauce is just barely thin enough to drop off a spoon with inverted. Serve with Korean Fried Chicken.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes
+
+----
+
+Seo_title: Sweet and Spicy Chili Sauce For Korean Fried Chicken | Avenda Aurora
+
+----
+
+Seo_description: Korean fried chicken gets its kick from fiery gochujang.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/hbIHk68AveL8ihy2PZ87qicnWqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__05__20200513-korean-fried-chicken-sweet-spicy-chili-sauce-reshoot-vicky-wasik-1-7-053118ab2be74c01b5c92b263549f8f8.jpg

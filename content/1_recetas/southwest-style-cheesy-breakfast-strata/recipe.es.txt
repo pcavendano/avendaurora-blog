@@ -1,0 +1,258 @@
+Title: Southwest-Style Cheesy Breakfast Strata
+
+----
+
+Category: desayunos, salsas
+
+----
+
+Description: This Southwest-style breakfast strata is packed with bacon, chiles, tomato, and cheese. It&#39;s a great make-ahead breakfast perfect for the busy holiday season.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: country white bread , cut into 1 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: thick-cut bacon , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: poblano chiles , stemmed, seeded, and chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: chili powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: large
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: whole milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: heavy cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can chopped mild or hot green chiles , drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: chopped fresh cilantro , plus more for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half the amount by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooking spray
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: plum tomato , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: sharp cheddar cheese , shredded
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: Monterey Jack cheese or pepper jack cheese, shredded
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Store-bought or homemade salsa , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sour cream , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and heat oven to 275°F (130°C). On a rimmed baking sheet, spread bread in an even layer and bake, rotating sheet and stirring bread cubes several times during baking, until bread is completely dried, but not browned or changed in color, 30 to 40 minutes. Remove from oven and set aside to cool. Increase oven temperature to 375°F (190°C).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Line a large plate with paper towels. In a large stainless steel skillet, add bacon and cook over medium heat, stirring often, until golden brown and crisp, 10 to 12 minutes. Using a slotted spoon, transfer bacon to prepared plate. Discard all but 2 tablespoons bacon fat in skillet.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add onion and poblano to skillet with bacon fat. Cook, stirring occasionally, until tender and starting to brown, 6 to 8 minutes. Stir in chili powder and cumin and cook until fragrant, about 30 seconds. Remove from heat and allow to cool slightly in skillet, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large bowl, whisk eggs, milk, cream, green chiles, cilantro, garlic powder, and salt until well combined. Add the dried bread and fold gently to combine. Let soak until bread is softened and slightly puffed, folding occasionally with a flexible spatula, at least 15 and no more than 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Coat a 13- x 9-inch baking dish with cooking spray. Arrange half of the soaked bread, along with half of the custard, in an even layer in the prepared baking dish. Spread half of the cooked onion and poblano mixture and half of the tomatoes evenly over bread. Top with half of cheddar cheese and Monterey Jack or pepper jack, followed by all the bacon. Top bacon with remaining soaked bread, along with remaining custard, onion and poblano mixture, tomatoes, and cheeses. Bake, uncovered, until golden brown on top, a wooden pick inserted into the center comes out clean, and an instant-read thermometer inserted into the center registers at least 160°F (70°C), 30 to 35 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove from oven, and allow to slightly cool, 10 to 15 minutes. Top with cilantro and serve with salsa and sour cream on the side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Rimmed baking sheet, large stainless steel skillet, 13- x 9-inch baking dish
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bread cubes can be dried up to 4 days in advance. Spread dried bread on a rimmed baking sheet, cover loosely with plastic wrap, and store at room temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The cooked bacon and onion and poblano mixtures can be refrigerated separately in airtight containers for up to 4 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- To make the recipe ahead, prepare and assemble strata as directed (through step 5). Cover strata tightly with plastic wrap or aluminum foil for up to 24 hours. When ready to bake, remove the strata from the refrigerator and let sit at room temperature for 1 hour; this will help the strata bake more evenly. Bake, uncovered, as directed.
+- Leftovers can be stored in the baking dish covered with plastic wrap or foil and refrigerated for up to 4 days. Reheat in the microwave in 45-second intervals.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, egg-recipes, baked-egg-recipes
+
+----
+
+Seo_title: Southwest-Style Cheesy Breakfast Strata | Avenda Aurora
+
+----
+
+Seo_description: This Southwest-style breakfast strata is packed with bacon, chiles, tomato, and cheese. It&#39;s a great make-ahead breakfast perfect for the busy holiday seaso
+
+----
+
+Original_author: Laila Ibrahim
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/kFZtHRS6a3YBuUk6uxyCgPTe7qU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251212-SouthwestBreakfastStrata-RobbyLozano-HERO-aaf909ee159b453db202bb2630f1ce56.jpg

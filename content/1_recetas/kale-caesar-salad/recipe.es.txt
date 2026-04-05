@@ -1,0 +1,176 @@
+Title: Kale Caesar Salad
+
+----
+
+Category: salsas
+
+----
+
+Description: The key to a great kale Caesar salad is to marinate the kale in olive oil while you prepare the dressing and croutons. Oil breaks down the tough leaves, turning them tender-crisp.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: Tuscan or curly kale , tough stems removed, leaves roughly chopped
+  preparation: about 4 quarts loosely packed leaves 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: ounces
+  ingredient: hearty bread , roughly torn into 1-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2/3"
+  unit: cup
+  ingredient: mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: anchovy fillets
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic , minced
+  preparation: about 1 teaspoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: ounces
+  ingredient: Parmigiano-Reggiano , finely grated
+  preparation: about 3/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: juice from 1 whole lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: white onion or 2 shallots , finely sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and preheat oven to 350°F (180°C). In a large bowl, massage kale with 3 tablespoons olive oil, making sure to coat all surfaces, kneading with your hands to help break down the tougher pieces, about 2 minutes. Set aside while you prepare the croutons and the dressing.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Combine bread pieces with remaining olive oil in the bowl of a food processor. Pulse until broken down into pea-sized pieces. Season to taste with salt and pepper and pulse once or twice to combine. Transfer to a rimmed baking sheet. Place in oven and bake until croutons are pale golden brown and crisp, about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Wipe out food processor bowl. Combine mayonnaise, anchovies, garlic, cheese, Worcestershire sauce, and lemon juice in the food processor bowl and process until smooth. Season to taste with salt and pepper if necessary.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When croutons are cooked, add onions, dressing, and half of croutons to large bowl with wilted kale. Toss with hands until thoroughly coated. Serve sprinkled with remaining croutons.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes, green-salad-recipes
+
+----
+
+Seo_title: Kale Caesar Salad | Avenda Aurora
+
+----
+
+Seo_description: The key to a great kale Caesar salad is to marinate the kale in olive oil while you prepare the dressing and croutons. Oil breaks down the tough leaves, turning
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/xKMgBjDYTEHW6pUXFO-KW0kjyYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kale-caesar-salad-recipe-hero-f63879ecc5504038a2f7bb3d043101d6.jpg

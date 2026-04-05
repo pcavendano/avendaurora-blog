@@ -1,0 +1,269 @@
+Title: Charquicán (Chilean Vegetable and Beef Stew)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: A fragrant onion-based sofrito brings this timeless vegetable- and beef-laden Chilean stew to life.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: small
+  ingredient: white or yellow onions , peeled (see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: good-quality red wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: canola or other neutral oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: lean beef , such as top or bottom sirloin butt, sirloin tip, or top or eye of round, cut into roughly 1/3- to 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fine sea or kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow or white onion , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: carrot , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: red bell pepper , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: garlic cloves , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried oregano , preferably Chilean or good-quality Italian
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ají de color or sweet paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: pounds
+  ingredient: red potatoes , peeled and cut into 1-inch chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: butternut squash or kabocha squash, peeled and cut into 1-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: ounces
+  ingredient: green beans , stemmed and cut diagonally into 1/2-inch pieces
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: frozen corn kernels
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: frozen peas
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: loosely packed, roughly chopped fresh Swiss chard or spinach
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: or 2 fried eggs per person, for serving
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Escabeche onions or quick- pickled onions , for serving
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Escabeche Onions (Optional): Using a sharp knife, make a 1/2-inch-deep cross cut “X” on each cut side (root and stem ends) of the peeled onions.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the onions to a clean jar with a fitted lid. Pour the vinegar over the onions to fill the jar and fully submerge the onions, though some may float, which is fine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Close the lid and store in a dark place, opening them every 2 to 3 days to check that they are still fully submerged and no signs of mold growth, until the onions have turned red and are fully pickled at least 15 days. Slice thin to serve. After they are ready, they can be refrigerated for up to 6 months. (see notes)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Charquicán: In a Dutch oven, heat 2 tablespoons (30ml) oil over high heat until shimmering. Add half the beef, distributing it in an even layer and cook without stirring until juicy on top and browned underneath, about 3 minutes. Season with salt and pepper, then stir to release beef from bottom of pot. Transfer beef to a medium bowl. Repeat with 2 tablespoons (30ml) oil and remaining beef.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove Dutch from heat, add 2 cups (480ml) water and scrape to deglaze any remaining browned bits into the water. Transfer water to a 4-cup measuring cup and top up with enough water to total 4 cups (950ml); set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return Dutch oven to medium heat and heat remaining 2 tablespoons (30ml) oil until shimmering. Add onion, carrot, bell pepper, and garlic and cook, stirring often, until onion looks transparent, about 5 minutes. Add oregano, aji de color, and cumin, season with salt and pepper, and cook, stirring, until well blended, aromatic, and the onion mixture is mostly dry, 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in potato and squash chunks and reserved deglazing water, then bring to a boil over medium-high heat. Reduce heat, cover pot, and simmer, stirring occasionally, until potatoes are slightly firm in the center when pricked with a paring knife, 15 to 18 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add green beans, corn, and peas. Cook, uncovered, over low heat, stirring often, until green beans look bright green, about 5 minutes. At this point, stir and using a large fork or wooden spoon, mash about a third of the potatoes against the edges of the pot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add Swiss chard and reserved beef along with any accumulated juices and cook, continuing to thoroughly mash the potatoes and stir the vegetables, just until the beef is heated through and cooked and the greens are wilted, 2 to 3 minutes. At this point the charquicán will be drier and prone to sticking to the bottom of the pot. If it’s too dense and sticking too much add 1/4 cup (60ml) hot water to loosen it up. The final stew should have the consistency of very chunky mashed potatoes. Season to taste with salt and pepper.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Serve with 1 or 2 fried eggs on each portion and a few slices of escabeche onions or pickled onions, if desired.
+- Large jar with a fitted lid, Dutch oven
+- If small onions are unavailable, 4 medium sized (roughly 6 to 8 ounce) onions may be used. For medium onions, add 4 days to pickling time.
+- Corn, peas, and green beans should be used fresh if in season, or frozen otherwise. Adjust the cooking times so they stay colorful and crunchy. Flat green beans (&#34;romano&#34; beans) can be found at Italian or Asian specialty stores and are the more common Chilean choice; otherwise, regular green beans or haricots verts will work just fine.
+- All vegetables, except the potatoes, can be cut a day or two ahead of time and kept in containers in the fridge. The sofrito can be fully cooked and stored in the fridge for up to 3 days or frozen for up to 6 months. I use it so much that I often make a big batch, portion it , and freeze it.
+- Charquicán can be cooled down and refrigerated in an airtight container for up to 3 days. It reheats well in the microwave or in a skillet. If reheating in a skillet, add a few tablespoons of water and stir constantly so it doesn&#39;t stick.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, beef-main-recipes
+
+----
+
+Seo_title: Charquicán (Chilean Vegetable and Beef Stew) | Avenda Aurora
+
+----
+
+Seo_description: A fragrant onion-based sofrito brings this timeless vegetable- and beef-laden Chilean stew to life.
+
+----
+
+Original_author: Isidora Díaz
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/CDLFqFomLYA43D5c-UmGsD956wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240220-SEA-Charquican-EstudioComo-16-320f88d7f29b456591a91d5ac61a816c.jpg

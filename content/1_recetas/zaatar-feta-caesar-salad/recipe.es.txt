@@ -1,0 +1,265 @@
+Title: Za'atar-Feta Caesar Salad
+
+----
+
+Category: salsas
+
+----
+
+Description: In this easy recipe, creamy labneh, tangy feta, and za&#39;atar bring bold new energy to a classic Caesar.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: plain dried breadcrumbs
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: finely grated garlic
+  preparation: about 2 medium cloves 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: za&#39;atar
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: lemon zest from 1 whole lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: labneh
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: feta cheese , crumbled
+  preparation: about 1/2 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh lemon juice from 1 whole lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: za&#39;atar
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: white wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: oil-packed anchovy fillets
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: cloves garlic , minced
+  preparation: about 2 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: romaine hearts , trimmed, outer wilted leaves removed, large leaves torn into bite-sized pieces, smaller leaves left intact, washed and carefully dried
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: feta cheese , blotted dry, and grated on small holes of a box grater or on a rasp grater, such as a Microplane
+  preparation: about 1/3 cup 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Breadcrumbs: In a medium skillet, melt butter over medium-low heat. Add grated garlic and cook until fragrant, about 1 minute. Add breadcrumbs and toss to coat. Cook, stirring often, especially towards the end, until breadcrumbs are golden brown, 3 to 5 minutes. Off heat, stir in za&#39;atar, lemon zest, and salt. Transfer to a small bowl and let cool completely before serving or storing in an airtight container until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Dressing: In a blender, process labneh, feta, lemon juice, vinegar, Worcestershire, mustard, anchovies, garlic, salt, and pepper on until puréed, about 30 seconds. With blender running, slowly add oil and blend until emulsified.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Assemble Salad: In a large bowl, toss lettuce with prepared dressing. Once lettuce is coated, add half of grated cheese and half of reserved breadcrumbs and toss again to incorporate. Transfer to a salad bowl and sprinkle with remaining cheese and breadcrumbs. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Medium skillet, blender, box grater or rasp grater, such as a Microplane
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can use store-bought breadcrumbs or make your own breadcrumbs , but omit any salt in the homemade breadcrumbs recipe to avoid over-seasoning.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can find za'atar at Middle Eastern grocery stores, spice shops, and many well-stocked supermarkets. It's also widely available online. Making your own za'atar is also a great option.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Labneh is a thick, tangy strained yogurt popular in Middle Eastern cuisine. You can find it in the refrigerated section of Middle Eastern and Mediterranean grocery stores, as well as some well-stocked supermarkets, usually near the specialty cheeses or yogurt. You can also easily make labneh at home.&nbsp;
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: I like tossing the romaine leaves with all the dressing for even coverage, but feel free to use less if you prefer a lighter touch.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: All components of the feta-za&#39;atar Caesar salad can be doubled.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Once completely cooled, the breadcrumbs can be transferred to an airtight container and refrigerated for up to 3 days. The breadcrumbs can be frozen in an airtight container for up to 1 month.
+- Feta-za&#39;atar Caesar dressing can be refrigerated in an airtight container for up to 1 week.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes
+
+----
+
+Seo_title: Za'atar-Feta Caesar Salad | Avenda Aurora
+
+----
+
+Seo_description: In this easy recipe, creamy labneh, tangy feta, and za&#39;atar bring bold new energy to a classic Caesar.
+
+----
+
+Original_author: Laila Ibrahim
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/gNp_ntzWU6MqQPC-IefYc3x0GQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250717-SEA-FetaZatarCesaerSalad-AmandaSuarez-17-867be8c88d0f49b28cce3607c912d69b.jpg

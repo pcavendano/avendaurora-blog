@@ -1,0 +1,107 @@
+Title: Anchovy Stock
+
+----
+
+Category: mariscos
+
+----
+
+Description: The ideal base for countless seafood soups and stews.
+
+----
+
+Cover: 
+
+----
+
+Prep-time: 
+
+----
+
+Cook-time: 
+
+----
+
+Total-time: 
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+
+-
+  quantity: "10"
+  unit: 
+  ingredient: g dried anchovies
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: ""
+  instruction: Bring water to a boil in a pot over high heat. Reduce heat to medium-high and add anchovies. Boil anchovies in water for 10 minutes, then drain liquid into container and discard anchovies. Use immediately, or refrigerate and use within 3 days for maximum freshness.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For more information on how to stock a Korean pantry, check out our article here .
+  tip: ""
+  step_image:
+
+----
+
+Tips: 
+
+----
+
+History: 
+
+----
+
+Enable-kits: false
+
+----
+
+Store-kits: 
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, fish-recipes
+
+----
+
+Seo-title: Anchovy Stock | Avenda Aurora
+
+----
+
+Seo-description: The ideal base for countless seafood soups and stews.
+
+----
+
+Original-author: Chichi Wang
+
+----
+
+Original-image: https://www.seriouseats.com/thmb/K88h-ABtjkspFkG_9NoCJNaaYv4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20110318-seriously-asian-anchovies-primary-609c1805a66347d994c35ddb6b7a5317.jpg
+
+----
+
+Uuid: BGfX5QpDr4lY34Sy

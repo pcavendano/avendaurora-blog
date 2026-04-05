@@ -1,0 +1,176 @@
+Title: Udon Noodles with Bay Scallops and Baby Bok Choy
+
+----
+
+Category: salsas, sopas-caldos
+
+----
+
+Description: When it comes to cooking Asian noodles, I tend to obsess over each and every ingredient or make them needlessly fussy and complex. But I&#39;m learning to lighten up and focus on simplicity. This week I decided what I could do with the trio of bay scallops, baby bok choy, and udon noodles.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: bay scallops , dried on paper towels
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: baby bok choy , ends trimmed, roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: mirin
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: servings fresh or frozen udon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch togarashi
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Bring a large pot of salted water to a boil. Meanwhile, heat 2 tablespoons of oil in a 12-inch stainless steel skillet over high heat until just starting to smoke. Season scallops with salt and pepper and add half of scallops to skillet. Cook without moving until well browned on once side, about 45 seconds. Stir and continue cooking until lightly browned on remaining sides, about 30 seconds longer. Remove scallops with a slotted spoon and set aside on a plate. Reheat oil until smoking and repeat with remaining scallops.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining tablespoon oil to skillet and heat over medium-high heat until shimmering. Add bok choy and stir well. Stir fry until bright green and tender, about 1 minute. Pour in stock, soy sauce, sesame oil, and mirin. Bring to a boil, and then reduce heat to low.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cook udon according to directions on the packaging. Drain in a colander and immediately transfer to the skillet. Toss well and cook over medium-high heat until noodles mostly absorb the sauce, about 30 seconds. Stir in scallops and cook until barely heated through. Sprinkle with togarashi (if desired) and serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Mirin is a sweet Japanese rice wine. It can be found in most Asian markets near the soy sauce and vinegar. Togarashi is a Japanese chili powder blend. It comes in several forms. Any of them can be used for this recipe.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, noodle-recipes
+
+----
+
+Seo_title: Udon Noodles with Bay Scallops and Baby Bok Choy | Avenda Aurora
+
+----
+
+Seo_description: When it comes to cooking Asian noodles, I tend to obsess over each and every ingredient or make them needlessly fussy and complex. But I&#39;m learning to light
+
+----
+
+Original_author: Nick Kindelsperger
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/T3r7fXd-8urPWyJXXKrqZUFqlxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__03__20130224-243400-dinner-tonight-udon-bay-scallops-bok-choy-primary-613e9c3070e047b5a2511bd69c091c43.jpg

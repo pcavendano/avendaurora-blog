@@ -1,0 +1,215 @@
+Title: Tom Kha Gai (Thai Chicken Soup with Coconut and Galangal)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: A sour, salty tom kha gai made with chicken stock and thighs, galangal, and coconut cream.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: cup
+  ingredient: homemade or store-bought chicken stock
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece fresh galangal , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 2/3"
+  unit: cups
+  ingredient: homemade or store-bought chicken stock
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece fresh galangal , peeled and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: stalks lemongrass , bottom 7 inches only, outer leaves discarded, tender core cut on a bias into 2-inch lengths
+  preparation: about 120 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: shallots , peeled and roughly smashed in a mortar and pestle
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fish sauce , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1020"
+  unit: 
+  ingredient: g boneless skinless chicken thighs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: fresh or frozen makrut lime leaves , middle ribs removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: to 9 fresh Thai red chiles , stemmed and lightly smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: full-fat coconut cream , such as Aroy-D
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh lime juice from 2 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cilantro leaves , for garnishing
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Galangal Stock: In a granite mortar and pestle, add galangal and pound until a coarse paste forms, about 30 seconds. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 2-quart saucepan, bring chicken stock to a simmer over medium heat, then remove from heat. Pour one-third of the warmed chicken stock over galangal in mortar, then with the pestle, press on galangal to extract its flavor into the stock, about 1 minute. Repeat process with remaining chicken stock, pressing on galangal each time to continue to express its flavor, then set aside to let the galangal infuse the stock.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Soup: Meanwhile, in the now-empty saucepan, add chicken stock, galangal, lemongrass, shallots, and 1 tablespoon fish sauce, and bring to a boil over high heat. Add chicken, return to a boil, then lower heat to maintain a simmer. Cover and cook until chicken is tender and cooked through, about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour galangal stock through a fine-mesh strainer into saucepan, pressing on solids to extract as much liquid as possible before discarding the fiber. Stir in makrut lime leaves, fresh chiles, and coconut cream then remove from heat. Stir in lime juice and remaining fish sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To serve, divide between warmed soup bowls and garnish with cilantro.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Granite mortar and pestle, 2-quart saucepan
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: I prefer using homemade chicken stock made with only chicken and no aromatics. To do so, you can follow this recipe , making it with just chicken and water and no aromatics. If you’re using store-bought stock, look for one that is unsalted and includes minimal aromatics.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Coconut cream has higher fat content than coconut milk. If using boxed or canned coconut cream, make sure to stir the cream well before using since it will likely have a separate fat layer on top. If you cannot find coconut cream, coconut milk will work, the soup will just be a little less rich.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This dish is best served right away to preserve the freshness and sharpness of the ingredients. If you want to serve it the next day, you can reheat it in the microwave or on the stovetop, adding freshly squeezed lime juice as needed to brighten the flavor.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, thai-recipes
+
+----
+
+Seo_title: Tom Kha Gai (Thai Chicken Soup with Coconut and Galangal) | Avenda Aurora
+
+----
+
+Seo_description: A sour, salty tom kha gai made with chicken stock and thighs, galangal, and coconut cream.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/KDPHUB5VVZ6xwx_09Ff8ELoIwn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220913-Tom-Kha-Gai-vicky-wsik-Step1-Hero01-f034bd4eb374444582768d9d5fadea8a.JPG

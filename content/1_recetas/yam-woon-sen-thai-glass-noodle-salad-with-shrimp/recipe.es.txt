@@ -1,0 +1,201 @@
+Title: Yam Woon Sen (Thai Glass Noodle Salad With Shrimp)
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: This spicy-sour noodle salad comes together in minutes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: 
+  ingredient: cilantro roots , cleaned
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: fresh red Thai chiles , stemmed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: garlic clove , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plus 1 1/2 teaspoons sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh lime juice from 2 to 3 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: .8 ounces Thai mung bean glass noodles
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: large
+  ingredient: shrimp peeled and deveined
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: .5 ounces ground pork
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: fresh red Thai chiles , stemmed and thinly sliced into rounds
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: plum tomato , cored, seeded, and cut lengthwise into 1/4 inch-wide strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: shallot , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: roasted unsalted peanuts , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: sprigs fresh cilantro including tender stems , cut into 1-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: sprigs Chinese celery including tender stems, cut into 1-inch pieces, or 1 small celery rib , thinly sliced
+  preparation: see note
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: The roots of fresh coriander (a.k.a. cilantro) provide a slight herbal note to curry pastes, but are unfortunately hard to find in the US, as they are often cut off from the stems before going to market (though local farmers markets in the summer and fall often have coriander with the roots still attached). Coriander roots can also be found at Southeast Asian markets. If you cannot find coriander roots, substitute with stems from 10 sprigs of fresh cilantro, cut into 1-inch pieces, or omit entirely.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can adjust the spiciness of this salad to suit your taste by reducing or increasing the amount of fresh Thai chiles in the dressing and in the salad.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, thai-recipes
+
+----
+
+Seo_title: Yam Woon Sen (Thai Glass Noodle Salad With Shrimp) | Avenda Aurora
+
+----
+
+Seo_description: This spicy-sour noodle salad comes together in minutes.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/8_3sXHI7fG4mRV-1srREAdzSqqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210928-yam-woon-sen-thai-glass-noodle-salad-vicky-wasik-29-ca742631b53241399c6281a08b81982f.jpg

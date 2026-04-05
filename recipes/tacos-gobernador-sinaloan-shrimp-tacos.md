@@ -1,0 +1,67 @@
+# Tacos Gobernador (Sinaloan Shrimp Tacos)
+
+> Crisp on the outside and warm and melty on the inside, these tacos gobernador are filled with a shrimp and tomato stew and sprinkled with cheese before being folded and griddled.
+
+**Author:** Rose Egelhoff
+
+**Original Image:** https://www.seriouseats.com/thmb/aY65PWItr3y8B8IBtXDYWOoHxIw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240709-Tacos-Gobernador-Lorena-Masso-SEA-hero-88e1fe36cea64c20a87f5c5a48a3c3c2.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+
+## Ingredients
+
+- 2 tablespoons ( 28 g) unsalted butter
+- 1 s mall white onion (6 ounces; 170g), diced (about 1 cup)
+- 1 large poblano chile (about 3 ounces; 90g), stemmed, seeded, and thinly sliced into 1-inch long strips
+- 3 medium garlic cloves ( 15 g) , minced
+- 12 ounces plum or Roma tomatoes , diced (about 2 cups) (see notes)
+- 1/3 cup ( 80 ml ) tomato purée
+- 1 teaspoon Diamond Crystal kosher salt, plus more to taste; if using table salt use half as much by volume
+- 1/4 cup cilantro, chopped (about 16 g)
+- 1 pound ( 455 g) shrimp , peeled and deveined, and tails removed and cut into 1-inch pieces (see notes)
+- Freshly ground black pepper
+- Twelve 6-inch corn tortillas
+- Neutral oil such as canola or vegetable
+- Mayo nn aise
+- 1 1/2 cups grated Manchego, asadero, or Chihuahua cheese cheese (about 135g) (see notes)
+- Chopped cilantro for serving
+- Lime wedges for serving
+- Salsa ranc hera
+- Hot sauce , such as Valentina or Salsa Huichol
+
+
+## Instructions
+
+1. For the stewed shrimp: In a 12-inch stainless-steel skillet, melt butter over medium-high heat. Once melted, add onion and poblano and cook, stirring occasionally, until softened, 3 to 5 minutes. Add garlic and cook until fragrant, about 1 minute.
+
+2. Add diced tomato, tomato purée, and salt and cook, stirring occasionally, until tomatoes are cooked down until sauce is thickened and leaves a trail when a spatula is pulled across the bottom of the skillet, 8 to 10 minutes. Stir in the cilantro and season with pepper to taste.
+
+3. Stir in peeled shrimp and cook, stirring occasionally, until shrimp is pink and opaque, 3 to 5 minutes, Season with salt to taste and set aside.
+
+4. To assemble the tacos : Adjust oven rack to middle position and heat oven to 200℉. Set wire rack in rimmed baking sheet; set aside. In a lightly oiled 12-inch nonstick or cast iron skillet or griddle, warm the tortillas in batches over medium heat, flipping occasionally, until the tortillas are soft and pliable. Stack the tortillas, and wrap in a clean kitchen towel to keep warm, removing 4 at a time to assemble the tacos.
+
+5. Working with 4 tortillas at a time, place flat on a work surface and spread each with a thin layer of mayonnaise, about 1/2 teaspoon each. Top the mayonnaise with about 2 tablespoons grated cheese per tortilla, covering the entire tortilla. Spread a large spoonful (about 1/4 cup) of stewed shrimp over half of each tortilla. Using a metal spatula, fold the tortilla in half over the shrimp and press to close.
+
+6. Using a paper towel or pastry brush, brush 1 teaspoon oil over the surface of the now-empty griddle or skillet. Arrange the 4 prepared tacos in skillet and place over medium-high heat and cook until cheese is melted and tacos are crisp and spotty golden brown on the bottom side, 2 to 5 minutes. Using tongs and thin spatula, carefully flip tacos. Continue to cook until golden and crisp on the second side, 2 to 3 minutes, adjusting heat as necessary.
+
+7. Remove skillet from heat and transfer tacos to the prepared wire rack and hold warm in the oven. Repeat assembling, cooking, and holding the tacos warm in batches of 4 at a time. Once all are cooked, serve tacos immediately, garnished with fresh chopped cilantro and lime if desired and accompanied by your favorite hot sauce.
+
+8. 12-inch stainless-steel skillet, 12-inch nonstick or cast iron skillet or griddle
+
+9. Any tomato works, but I recommend meatier Roma or saladette tomatoes for a salsa with more body.
+
+10. Any size shrimp can be used in this recipe. I prefer to use small or extra small shrimp left whole, but if using medium, large, or larger shrimp, chopping the shrimp into bite-size pieces is important for easier eating.
+
+11. Manchego, asadero, and Chihuahua cheeses are all commonly used in Sinaloa. Out of those three, I prefer manchego, a mild sheep’s milk cheese—it has a little bit of a sharp edge that works really well with the shrimp. If none of the three recommended cheeses are available, I recommend Gouda or Monterrey Jack because they&#39;re very similar to queso Chihuahua and widely available in the US.
+
+12. The stewed shrimp can be refrigerated in an airtight container for up to 3 days. Gently reheat in a skillet before assembling the tacos.
+
+
+---
+
+*Extracted from Serious Eats*

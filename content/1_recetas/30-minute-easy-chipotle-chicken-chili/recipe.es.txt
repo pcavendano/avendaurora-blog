@@ -1,0 +1,217 @@
+Title: 30-Minute Easy Chipotle Chicken Chili
+
+----
+
+Category: sopas-caldos, salsas
+
+----
+
+Description: This chicken chili packs a three pepper alarm: smoky chipotle, jalapeno, and cayenne. Plus it&#39;s on the table in under 30 minutes.
+
+----
+
+Cover: 
+
+----
+
+Prep-time: 
+
+----
+
+Cook-time: 
+
+----
+
+Total-time: 
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: onions , diced
+  preparation: about 1 3/4 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: jalapenos , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 1 tablespoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: cayenne pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: ground chicken
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: chipotle chilies in adobo sauce , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: cans white beans , drained and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: homemade or store-bought low sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: frozen corn , thawed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh cilantro leaves , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: avocados , sliced for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Tortilla chips to serve on the side
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Limes to serve on the side
+  preparation: 
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: ""
+  instruction: In large saucepan or dutch oven, heat oil over medium heat until shimmering. Add onion and 1 teaspoon salt. Cook, stirring, until softened and beginning to turn golden, 6 to 8 minutes. Add jalapeños, garlic, cumin, oregano, and cayenne. Cook until fragrant, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add chicken and cook until just cooked through, about 4 minutes. Add chipotle chilies, beans, and broth and bring to simmer. Simmer for about 10 to 15 minutes to let flavors meld.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add corn to just heat through. Season to taste. Stir in cilantro and serve with avocado, chips, and lime.
+  tip: ""
+  step_image:
+
+----
+
+Tips: 
+
+----
+
+History: 
+
+----
+
+Enable-kits: false
+
+----
+
+Store-kits: 
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, chili-recipes
+
+----
+
+Seo-title: 30-Minute Easy Chipotle Chicken Chili | Avenda Aurora
+
+----
+
+Seo-description: This chicken chili packs a three pepper alarm: smoky chipotle, jalapeno, and cayenne. Plus it&#39;s on the table in under 30 minutes.
+
+----
+
+Original-author: Yvonne Ruperti
+
+----
+
+Original-image: https://www.seriouseats.com/thmb/O20VMTSHlgAaClhnIz_EKdl9pxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__02__20130213-240691-chipotle-chicken-chili-edit-424c5a0ea56947eca7c3377b0875ae51.jpg
+
+----
+
+Uuid: jMPVkhEukynMEN1c

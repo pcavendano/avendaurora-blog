@@ -1,0 +1,242 @@
+Title: Oven-Baked Strawberry-Chipotle Wings
+
+----
+
+Category: salsas, antojitos
+
+----
+
+Description: The best baked wings get a smoky, fruity sauce and avocado-bleu cheese dip.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: chicken wings , cut into drumettes and flats
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoons
+  ingredient: kosher salt , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: fresh strawberries , hulled and halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: balsamic or apple cider vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: minced fresh ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: light brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: chipotle pepper in adobo , minced, plus 1 tablespoon adobo sauce from the can
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: onion powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: 
+  ingredient: to 1/4 teaspoon cayenne pepper
+  preparation: depending on taste
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Water or chicken stock, as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Hass avocado , halved and pitted
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: crumbled blue cheese , plus more for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh juice from 1 whole lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: poppy seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh cilantro leaves , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Spray a rack with nonstick cooking spray and set on a foil-lined rimmed baking sheet. Dry chicken wings with paper towels. In a large zipper-lock bag, toss wings with baking powder and 1 teaspoon salt until evenly coated, then arrange wings on an even layer on the rack. Refrigerate wings, uncovered, overnight or up to 18 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Preheat oven to 450°F (230°C) and set the oven rack in the upper-middle position. Bake wings on the rack set over the baking sheet for 20 minutes, then flip and continue to bake until cooked through and crisp, about 20 minutes longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a saucepan over medium heat, combine strawberries, vinegar, garlic, ginger, and light brown sugar and cook until strawberries are softened and release their juices, about 10 minutes. Mash strawberries with a wooden spoon and stir in minced chipotle, adobo sauce, onion powder, and cayenne pepper (1/8 or 1/4 teaspoon depending on your heat preference). Season with salt. Reduce heat to low and cook, stirring occasionally, until sauce is thick enough to coat a spoon, about 5 minutes. If sauce becomes too thick and candy-like, stir in water or chicken stock to return to desired consistency. If any chunks of strawberry remain, transfer to a blender or food processor and pulse until smooth. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a blender or food processor, combine avocado, sour cream, blue cheese, lemon juice, and milk. Season with salt (taste first, as blue cheese is salty). Pulse until well-combined, transfer to a bowl, and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place the baked wings in a large bowl and toss with the strawberry sauce until evenly coated. Transfer to a plate and sprinkle with poppy seeds. Garnish with cilantro and serve with avocado blue cheese dip .
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If preparing the avocado blue cheese dip in advance, squeeze some extra lemon juice on top, then cover with plastic wrap, pressing it flush against the surface to prevent oxidation.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, chicken-recipes, chicken-wing-recipes
+
+----
+
+Seo_title: Oven-Baked Strawberry-Chipotle Wings | Avenda Aurora
+
+----
+
+Seo_description: The best baked wings get a smoky, fruity sauce and avocado-bleu cheese dip.
+
+----
+
+Original_author: Morgan Eisenberg
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/DpqFy5n242Zi7cvMfCGVUS_T06g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__04__20150329-Baked-Strawberry-Chipotle-Chicken-Wings-Avocado-Blue-Cheese-Plated-Morgan-Eisenberg-3c78113ca3e54471a3e3aee52d03a23a.jpg

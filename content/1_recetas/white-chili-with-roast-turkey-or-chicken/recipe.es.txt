@@ -1,0 +1,194 @@
+Title: White Chili With Roast Turkey or Chicken
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Leftover turkey meat is the perfect foundation for a rich white bean chili made with three types of peppers.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: onion , minced
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: jalapeño peppers , minced
+  preparation: about 1/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: poblano peppers , finely diced
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: roasted Hatch chile peppers, or 3 cans whole green chiles , finely chopped by hand
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 4 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: homemade or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans small white or cannelini beans with their liquid
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: minced fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: leftover turkey meat or chicken, torn into rough bite-sized pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh juice from about 2 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges and grated Pepper Jack or Jack cheese for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat oil in a large Dutch oven or saucepan over medium-high heat until shimmering. Add onions, jalapeño, and poblano peppers and cook, stirring frequently, until pale golden brown, about 12 minutes total. Add chopped Hatch or canned chiles, garlic, cumin, and coriander, and cook, stirring frequently, until fragrant, about 2 minutes. Add stock, beans and their liquid, half of cilantro, and turkey. Stir to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bring to a boil, reduce to a bare simmer, and cook, stirring occasionally, until thickened and flavors have melded, about 30 minutes. Stir in lime juice and remaining cilantro and season to taste with salt and pepper. Serve with grated cheese and lime wedges.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, chili-recipes
+
+----
+
+Seo_title: White Chili With Roast Turkey or Chicken | Avenda Aurora
+
+----
+
+Seo_description: Leftover turkey meat is the perfect foundation for a rich white bean chili made with three types of peppers.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/GQpgo6zp0mfOXQsQexs3aot1LEg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__10__20121121-turkey-white-chili-1-71008bbce4a445589ff9e6850885b0dd.jpg

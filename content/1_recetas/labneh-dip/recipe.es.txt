@@ -1,0 +1,186 @@
+Title: Labneh Dip
+
+----
+
+Category: bebidas, antojitos
+
+----
+
+Description: This creamy labneh dip, swirled with herb oil and finished with honey, chili crisp, and scallions, is tangy, vibrant, and ready in minutes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: cups
+  ingredient: loosely packed cilantro leaves
+  preparation: about 1 ounce ; 30 g
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions white and green parts, thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: labneh
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: herb oil from recipe above
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: lemon zest, plus 2 tablespoons fresh lemon juice from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Honey , to serve
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chili crisp , to serve
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thinly sliced scallions , to serve
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pita wedges, to serve
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Herb Oil: In a medium pot, bring water to boil. Meanwhile, prepare an ice bath in a medium bowl. Add cilantro and scallions to boiling water and cook until bright green, about 30 seconds. Using a spider skimmer or slotted spoon, immediately transfer herbs to the prepared ice bath.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once cooked, drain cilantro and scallions well, squeezing them between hands to release as much liquid as possible.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set a fine-mesh strainer over a medium bowl; set aside. Transfer cilantro and scallion to a blender. Add oil and blend on high speed until smooth, about 2 minutes. Strain through the prepared strainer, pressing mixture with a flexible rubber spatula to release as much liquid as possible. Transfer herb oil to an airtight container and store in the refrigerator for up to 1 week.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Medium pot, spider skimmer or slotted spoon, fine-mesh strainer, blender
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Labneh is a thick, tangy strained yogurt popular in Middle Eastern cuisine. You can find it in the refrigerated section of Middle Eastern and Mediterranean grocery stores, as well as some well-stocked supermarkets, usually near the specialty cheeses or yogurt. You can also easily make labneh at home.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The herb oil can be refrigerated in an airtight container for up to 1 week.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, milk-recipes, yogurt-cultured-dairy-recipes
+
+----
+
+Seo_title: Labneh Dip | Avenda Aurora
+
+----
+
+Seo_description: This creamy labneh dip, swirled with herb oil and finished with honey, chili crisp, and scallions, is tangy, vibrant, and ready in minutes.
+
+----
+
+Original_author: Laila Ibrahim
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/33ANFSP4R0UBC751C4Ta6x7UCDI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250827-SEA-LabnehDip-AmandaSuarez-23-4e386bb3156f4ad4a5961d76cc03454f.jpg

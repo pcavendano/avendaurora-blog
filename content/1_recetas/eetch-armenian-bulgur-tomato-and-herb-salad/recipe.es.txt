@@ -1,0 +1,218 @@
+Title: Eetch (Armenian Bulgur, Tomato, and Herb Salad)
+
+----
+
+Category: bebidas, vegetarianos
+
+----
+
+Description: A &#34;meaty&#34; vegan salad that can be a delicious part of a larger spread or a satisfying one-dish meal.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "175"
+  unit: 
+  ingredient: g bulgur wheat
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "135"
+  unit: 
+  ingredient: g tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided; for table salt use half as much by volume or an equal amount by weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "360"
+  unit: ml
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "60"
+  unit: ml
+  ingredient: extra virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/4"
+  unit: teaspoons
+  ingredient: aleppo pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: clove
+  ingredient: garlic cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "225"
+  unit: 
+  ingredient: g tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 3/4"
+  unit: ounces
+  ingredient: coarsely-chopped mixed tender herbs and stems , such as parsley, mint, dill, cilantro, and purple basil
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "120"
+  unit: 
+  ingredient: g scallions
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "60"
+  unit: ml
+  ingredient: pomegranate molasses
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: ml
+  ingredient: fresh juice from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: leaves red leaf lettuce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: piece
+  ingredient: lavash
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: The texture of eetch is best when fine bulgur (“#1” grade) is used. If fine bulgur is unavailable, medium (#2) or coarse (#3) will work, although the results will be correspondingly more coarse and grainy. With other grades, be sure to use an equivalent amount by weight (175g), not volume.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you can’t find double-concentrated tomato paste, increase the amount to 6 tablespoons.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Use the best quality tomatoes you can find here. In the off-season, when nice globe tomatoes are hard to find, use cherry or grape tomatoes cut into eighths instead.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Genovese basil has a different flavor profile and is not used in Armenian cooking. If purple (also known as opal) basil is unavailable, use Thai basil instead.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes, grain-salad-recipes
+
+----
+
+Seo_title: Eetch (Armenian Bulgur, Tomato, and Herb Salad) | Avenda Aurora
+
+----
+
+Seo_description: A &#34;meaty&#34; vegan salad that can be a delicious part of a larger spread or a satisfying one-dish meal.
+
+----
+
+Original_author: Andrew Janjigian
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/MRcAzmnHbeTW80saC8KrMGnzmhs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210903-Eetch-Andrew-Janjigian-30-1bf4ea5bbad745d8835081ec8e0b24cc.jpg

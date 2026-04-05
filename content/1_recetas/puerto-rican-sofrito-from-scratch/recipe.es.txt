@@ -1,0 +1,162 @@
+Title: Puerto Rican Sofrito From Scratch
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: Onions, peppers, garlic, and fresh herbs are combined in the food processor for a powerfully flavorful Puerto Rican sofrito you can use in an array of savory dishes like yellow rice or chicken and potato stew.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: medium
+  ingredient: Spanish onions , cut into large chunks
+  preparation: about 2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: cubanelle peppers , stemmed, seeded, and cut into large chunks
+  preparation: about 2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: red bell pepper , cored, seeded, and roughly chopped
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: ripe plum tomatoes , cored and cut into chunks
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: bunch cilantro , washed and roughly chopped
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "18"
+  unit: medium
+  ingredient: cloves garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: ajices dulces , stemmed
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: leaves of culantro
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place onions and cubanelle peppers in workbowl of a food processor fitted with a steel blade. Pulse until coarsely chopped.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: With the motor running, add the remaining ingredients one at a time through the feed tube and process until smooth. Season to taste with salt. Transfer to container and store in refrigerator for up to three days, or freeze.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you can&#39;t find ajices dulces, you can omit them. If you can&#39;t find culantro, substitute additional cilantro.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Sofrito can be frozen up to 3 months.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, caribbean-recipes, puerto-rican-recipes
+
+----
+
+Seo_title: Puerto Rican Sofrito From Scratch | Avenda Aurora
+
+----
+
+Seo_description: Onions, peppers, garlic, and fresh herbs are combined in the food processor for a powerfully flavorful Puerto Rican sofrito you can use in an array of savory di
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/MYqLZ6hO8d3kj28ndRSvv49X04Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__04__20120419-202609-sofrito-b7d73ba5505b4317be0e49e904f00f0b.jpg

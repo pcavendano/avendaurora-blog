@@ -1,0 +1,251 @@
+Title: Arroz Aguado (Nicaraguan Chicken and Rice Stew)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Arroz con pollo finds its way into nearly every Central and South American country in some form or another. The Nicaraguan version is more soupy and stew-like than the fluffier versions you may be used to, but no less delicious.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , finely chopped
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: celery stalks , thinly sliced crosswise
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: carrots , cut into 1/2 inch-thick slices
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole canned plum tomatoes , sliced into 1/2 inch-thick slices, plus 2 tablespoons liquid
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cloves
+  ingredient: garlic , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bone-in, skin-on split chicken breasts , cut in half crosswise
+  preparation: about 1 pound total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: bone-in, skin-on chicken thighs
+  preparation: about 12 ounces total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: long-grain white rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: to 12 stems fresh cilantro with leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: sprigs fresh mint
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: red potatoes , scrubbed and cut into 1 inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: zucchini , quartered lengthwise and cut into 1/2 inch-thick pieces crosswise
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: fresh cilantro leaves , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh mint , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: limes , cut into wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: ripe avocado , cut into 1/4 inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pickled jalapeño chiles , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat oil in large pot or Dutch oven over medium-high heat until shimmering. Add onion, celery, carrots, tomatoes and juice, garlic, and 1 teaspoon salt and cook, stirring, until onion is softened and translucent, 5 to 7 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season chicken with salt and pepper and add to pot. Add broth, water, rice, cilantro, and mint. Bring to a boil over high heat, then, reduce heat to medium-low and simmer, skimming surface from time to time. Simmer until chicken is cooked through, about 25 minutes. With tongs, remove chicken and place in bowl. Remove and discard cilantro and mint.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir potatoes and zucchini into pot and cook until fork-tender, about 15 minutes. Meanwhile, using 2 forks, carefully remove and discard chicken skin and bones. Shred chicken and return to pot. Adjust seasonings with salt and pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve in bowls and garnish with mint and cilantro. Serve with limes, avocado, and jalapeños.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large pot or Dutch oven, tongs
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Arroz Aguado (Nicaraguan Chicken and Rice Stew) | Avenda Aurora
+
+----
+
+Seo_description: Arroz con pollo finds its way into nearly every Central and South American country in some form or another. The Nicaraguan version is more soupy and stew-like t
+
+----
+
+Original_author: María del Mar Cuadra
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Aenz7OvfNuFYEIMm1YlJX2VZjp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__06__20120614-127677-arroz-aguado-610-e82e8be559cc4d259d3a780be5184118.jpg

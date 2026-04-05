@@ -1,0 +1,171 @@
+Title: Skillet Shrimp with Orzo, Feta and Asparagus
+
+----
+
+Category: mariscos
+
+----
+
+Description: Shrimp, asparagus, and orzo in a one-dish quick meal.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: cup
+  ingredient: whole wheat orzo
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: vegetable or canola oil , plus more for the pasta
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 2 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: red chile flakes
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch asparagus , ends trimmed and roughly chopped into 2-inch pieces
+  preparation: about 2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: peeled and deveined medium shrimp
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chopped fresh basil leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: fresh juice from 2 lemons
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: crumbled feta cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Fill the skillet 2/3rds of the way with salted water and bring to a boil over high heat. Add the orzo and cook according package instructions until it’s al dente. Drain and set aside, transfer to a bowl, and toss with a little vegetable or canola oil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Wipe out skillet and return to medium high heat. Add oil and heat until shimmering. Add garlic and chili flakes and cook, stirring, until fragrant but not browned, about 1 minute. Add the asparagus, season with salt and pepper and stir to coat the asparagus. Cook until the asparagus is tender but retains a crisp bite, 3 to 4 minutes. Move the asparagus to the sides of the pan and add the shrimp. Cook, turning shrimp occasionally, until pink and opaque, about 4 minutes total.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the orzo back to the pan, stirring to combine, along with most of the basil, the lemon juice, extra-virgin olive oil and feta. Toss to combine, allow orzo to heat through, season to taste with more salt and pepper as desired, and serve immediately, topped with remaining basil.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: Skillet Shrimp with Orzo, Feta and Asparagus | Avenda Aurora
+
+----
+
+Seo_description: Shrimp, asparagus, and orzo in a one-dish quick meal.
+
+----
+
+Original_author: Yasmin Fahr
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/tkxLu6mr8Fp6QoxMuR-IznzEYyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__04__20130403-skillet-shrimp-orzo-asparagus-ff13472d0a7e4d56abd4fa42d94aa50f.jpg

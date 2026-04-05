@@ -1,0 +1,45 @@
+# Tacos de Canasta (Basket Tacos for a Party or Potluck)
+
+> The best way to make tacos for a crowd is to make tacos de canasta.
+
+**Author:** Daniel Gritzer
+
+**Original Image:** https://www.seriouseats.com/thmb/I3ghe7wOL0DWC7UFo-US0iuqMiU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__10__20141023-canasta-tacos-vicky-wasik-1-2-c324a62e35504c838ac4b29a00754e7c.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+
+## Ingredients
+
+- 50 corn tortillas , portioned into groups of 10 , each wrapped well in foil
+- 2 medium white onions , thinly sliced (about 4 cups ), divided
+- 3 medium cloves garlic
+- 6 dried guajillo chiles , stemmed, seeded, and torn into 1-inch pieces
+- 2 cups canola, vegetable, or other neutral oil , divided
+- Kosher salt
+- Fillings as desired (see notes)
+- Salsa verde or other salsas, for serving
+
+
+## Instructions
+
+1. Preheat oven to 300°F (150°C). Set foil-wrapped tortillas in oven and allow to warm for 30 minutes.
+
+2. Meanwhile, heat a dry cast iron skillet over high heat until lightly smoking. Add half of sliced onion, all of garlic, and all of chiles and cook, stirring occasionally, until blackened and charred in spots. Add 1 cup oil and fry over medium-high heat until garlic and onions are browned and softened, about 3 minutes. Transfer to a blender, add remaining 1 cup oil and a large pinch of salt, and blend to a smooth purée. Transfer chile oil to a small saucepan and keep hot, stirring occasionally so solids don&#39;t scorch.
+
+3. Line basket with a cloth or blanket that&#39;s large enough for ample over-hanging fabric. Line cloth with a clean plastic bag. Line plastic with sheets of butcher paper.
+
+4. Working in batches, remove a packet of tortillas from the oven. Quickly fill each tortilla with beans or barbacoa, fold it in half to seal the filling, and set the tacos in the lined basket. When 1 layer of tacos is complete, scatter with some of the remaining sliced onion and drizzle hot chile oil on top. Repeat with remaining tortillas, fillings, onion, and oil, until basket is full.
+
+5. Fold butcher paper over tacos, then twist and seal plastic bag closed, pushing out any excess air. Finally fold overhanging cloth over tacos to create a tidy packed basket. Let stand for 1 hour, then open basket and serve tacos immediately, passing plenty of salsa on the side.
+
+6. Blender, basket or plastic container (approximately 9-by-13-by-6-inches), clean plastic garbage bag for lining basket, 1 or 2 large sheets butcher or deli paper (un-waxed) for lining basket
+
+
+---
+
+*Extracted from Serious Eats*

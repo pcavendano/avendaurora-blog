@@ -1,0 +1,142 @@
+Title: Sobre Aurora
+
+----
+
+Subtitle: Chef Profesional | Montreal, Quebec
+
+----
+
+Portrait: 
+
+----
+
+Intro: Con más de 15 años de experiencia en la industria culinaria, mi pasión es crear experiencias gastronómicas memorables que honren tanto las tradiciones como la innovación.
+
+----
+
+Bio:
+
+Nacida en Veracruz, México, y establecida en Montreal desde hace más de dos décadas, he dedicado mi vida a perfeccionar el arte culinario. Mi formación combina la rica herencia de la cocina mexicana con las técnicas refinadas de la gastronomía francesa que he adquirido en las mejores escuelas de Montreal.
+
+Mi trayectoria me ha llevado desde restaurantes de alta cocina como el Ritz-Carlton Montreal y el Fairmont Mont-Tremblant, hasta residencias donde cocino con el corazón para quienes más lo necesitan. Cada plato que preparo cuenta una historia, cada ingrediente tiene un propósito.
+
+----
+
+Quote: La cocina es amor hecho visible. Cada receta es una carta de amor a quienes nos rodean.
+
+----
+
+Education-title: Formación Profesional
+
+----
+
+Education:
+
+-
+  year: "2025"
+  title: ASP Cuisine du Marché
+  institution: École des Métiers de la Restauration et du Tourisme de Montréal
+  description: Especialización en productos locales, charcutería, panadería, postres gastronómicos y menús degustación (525 horas)
+-
+  year: "2025"
+  title: DEP en Cocina
+  institution: École des Métiers de la Restauration et du Tourisme de Montréal
+  description: Diploma de estudios profesionales en artes culinarias
+-
+  year: "2023"
+  title: Certificación en Higiene y Salubridad Alimentaria
+  institution: MAPAQ
+  description: Formación para gestores de establecimientos alimentarios
+
+----
+
+Experience-title: Trayectoria Profesional
+
+----
+
+Experience:
+
+-
+  period: "2024 - 2025"
+  position: Chef de Cocina
+  place: Château Vincent D'Indy
+  description: Liderando la cocina de esta prestigiosa residencia
+-
+  period: "2023 - 2024"
+  position: Chef de Cocina
+  place: Héritage Plateau
+  description: Gestión completa de cocina, elaboración de menús, control de presupuesto y equipo
+-
+  period: "2022 - 2023"
+  position: Chef de Cocina
+  place: Fairmont Mont-Tremblant
+  description: Responsable de la cafetería de empleados y cocina rotativa
+-
+  period: "2017 - 2020"
+  position: Responsable de Cocina
+  place: Le Jardin Nelson
+  description: Gestión de equipo, preparación de platos y control de calidad
+-
+  period: "2015 - 2017"
+  position: Cocinera
+  place: Marius et Fanny
+  description: Gestión de cocina, preparación de platos y supervisión de calidad
+
+----
+
+Notable-places-title: Lugares Destacados
+
+----
+
+Notable-places: Ritz-Carlton Montreal, Le Château Bromont, Centre Bell, Air Canada, Centre Mont-Royal, Palais des Congrès Montreal, Hôtel Sheraton Laval, La Grand Lodge Mont-Tremblant
+
+----
+
+Philosophy-title: Mi Filosofía Culinaria
+
+----
+
+Philosophy:
+
+Creo firmemente en el uso de ingredientes frescos y locales, en reducir el desperdicio alimentario y en crear platos que nutran tanto el cuerpo como el alma. La cocina mexicana que preparo honra las recetas tradicionales de mi tierra natal mientras incorpora técnicas modernas y productos de Quebec.
+
+Cada receta en este sitio es una invitación a mi cocina, un pedazo de mi historia compartido con ustedes.
+
+----
+
+Specialties-title: Especialidades
+
+----
+
+Specialties:
+
+- Cocina Mexicana Tradicional
+- Salsas y Aderezos Artesanales
+- Charcutería y Conservas
+- Postres Gastronómicos
+- Menús Degustación
+- Cocina de Mercado con Productos Locales
+
+----
+
+Contact-title: Contacto
+
+----
+
+Contact-intro: ¿Tienes preguntas sobre alguna receta? ¿Te gustaría colaborar? Me encantaría saber de ti.
+
+----
+
+Email: avendaurora@gmail.com
+
+----
+
+Seo-title: Sobre Aurora Avendano | Chef Profesional | Avenda Aurora
+
+----
+
+Seo-description: Conoce a Aurora Avendano, chef profesional con más de 15 años de experiencia en la industria culinaria de Montreal. Cocina mexicana tradicional y técnicas francesas.
+
+----
+
+Uuid: z0Dw1IWQdJg8bLNz

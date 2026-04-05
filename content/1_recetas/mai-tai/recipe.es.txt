@@ -1,0 +1,131 @@
+Title: Mai Tai
+
+----
+
+Category: bebidas, postres
+
+----
+
+Description: The true Mai Tai is a vacation in a glass, bearing little resemblance to the sweet, murky rum drink you&#39;ve likely tried before.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: Jamaican rum
+  preparation: Appleton Extra is a good choice; for a bit more authentic flavor, substitute 1 ounce of St. James 15-year Hors D’Age rum for 1 ounce of the Appleton 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Juice of 1 medium lime , about 1 ounce
+  preparation: save the shell for garnish
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: ounce
+  ingredient: curaçao
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: ounce
+  ingredient: orgeat
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: ounce
+  ingredient: rock-candy syrup
+  preparation: simple syrup with a drop or two of vanilla extract
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Mint for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Pour all ingredients into a cocktail shaker and fill with ice. Shake well for 10 seconds and strain into a double old-fashioned glass filled with crushed ice. Garnish with lime shell and a sprig of fresh mint.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cocktail shaker, cocktail strainer
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, drink-recipes, cocktail-recipes, rum-recipes
+
+----
+
+Seo_title: Mai Tai | Avenda Aurora
+
+----
+
+Seo_description: The true Mai Tai is a vacation in a glass, bearing little resemblance to the sweet, murky rum drink you&#39;ve likely tried before.
+
+----
+
+Original_author: Paul Clarke
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/8VCXULgSbjCrTWZMT4gW4lWJxZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230920-SEA-MaiTai-TwoBites-25-98b5cd86741e4c59ab8356e3623464a3.jpg

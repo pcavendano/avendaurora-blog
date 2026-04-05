@@ -1,0 +1,353 @@
+Title: Nem Lụi Huế (Huế Lemongrass Pork Skewers)
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: Succulent, flavorful, and fragrant Huế lemongrass pork with a tangy, earthy pork-peanut sauce.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: shallot , roughly chopped
+  preparation:  20 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cloves
+  ingredient: garlic , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: ground pork
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: whole grain soybean sauce , such as Super Q Tương Hột or Cholimex
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: smooth peanut butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: milk , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: Vietnamese pork pâté , such as Flower Brand
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: sugar , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: fish sauce , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: fresh Thai chiles , stemmed and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: pork back fat , cut into 1/4-inch dice
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: ground pork
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6 1/2"
+  unit: ounces
+  ingredient: Vietnamese pork paste , such as Tay Ho and Phu Huong
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt , use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: shallots , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cloves
+  ingredient: garlic , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: cooked and shredded pork skin , roughly chopped
+  preparation: optional, see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "16"
+  unit: 
+  ingredient: lemongrass stalks , bottoms trimmed to 6-inch lengths and lightly crushed with the blunt side of a knife
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vegetable or other neutral oil , for greasing and brushing
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pickled carrots , for serving, carot chua
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pickled papaya for serving, du du chua
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: Vietnamese rice vermicelli noodles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: fresh skinned and cored pineapple , sliced lengthwise into 3-inch long and 1/4-inch-thick pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: Persian cucumbers , thinly sliced lengthwise into 1/4-inch-thick pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: green mango , peeled, pitted, and sliced lengthwise into 3-inch long and 1/4-inch-thick pieces
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: star fruit , sliced crosswise into 1/4-inch-thick pieces
+  preparation: optional; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: small
+  ingredient: green bananas , peeled and thinly sliced lengthwise into 1/8-inch-thick pieces
+  preparation: optional; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: head butter lettuce , leaves picked and washed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch rau ram , leaves picked
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch perilla , leaves picked
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch mint , leaves picked
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Rice papers , round or square
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, vietnamese-recipes
+
+----
+
+Seo_title: Nem Lụi Huế (Huế Lemongrass Pork Skewers) | Avenda Aurora
+
+----
+
+Seo_description: Succulent, flavorful, and fragrant Huế lemongrass pork with a tangy, earthy pork-peanut sauce.
+
+----
+
+Original_author: Vy Tran
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/_S04Pl5DhvWoOobuzqiZ-TCo-4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/NemluiHue-25-b84404d901184acba29d51089a52703c.jpg

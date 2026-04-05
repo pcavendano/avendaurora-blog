@@ -1,0 +1,147 @@
+Title: Chinese Barbecue Eggplant
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: Chinese barbecue eggplant, a popular street food in China, is smoky, tender, and delightfully savory—plus it comes together on one pan for an easy dinner with rice.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: large
+  ingredient: Chinese or Japanese eggplants
+  preparation: about 14 ounces ; 400 g total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: neutral oil , such as peanut, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: fresh red Thai chiles , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: oyster sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: light soy sauce , such as Lee Kum Kee
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: MSG
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , white and green parts, thinly sliced cross-wise
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: 13- by 18-inch rimmed baking sheet, pastry brush
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, eggplant-recipes
+
+----
+
+Seo_title: Chinese Barbecue Eggplant | Avenda Aurora
+
+----
+
+Seo_description: Chinese barbecue eggplant, a popular street food in China, is smoky, tender, and delightfully savory—plus it comes together on one pan for an easy dinner with r
+
+----
+
+Original_author: Jess Eng
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/O9ykG15qq3gfAKDmXyRPDZcqIi0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250912-SEA-ChineseBBQEggplant-AmandaSuarez-hero2-575fd69d11174e79bd9fe7bdd65c4ebc.jpg

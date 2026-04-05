@@ -1,0 +1,218 @@
+Title: Kanom Jeen Nam Ya (Thai Fish Curry with Rice Noodles)
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: A saucy Thai fish curry, perfect for dressing noodles.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: cups
+  ingredient: full-fat coconut milk , such as Aroy-D, divided
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7"
+  unit: 
+  ingredient: stalks lemongrass , bottom 4 to 5 inches only, outer leaves discarded, tender core sliced into 1/4-inch-thick rounds
+  preparation:  70 g sliced lemongrass 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: grachai , cut into 1/4-inch-thick rounds
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: small
+  ingredient: shallots
+  preparation:  120 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: garlic cloves
+  preparation:  25 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece fresh galangal , peeled and thinly sliced
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: makrut lime zest from 3 makrut limes
+  preparation: optional, see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: dried Thai chiles , stemmed*
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: dried spur chiles , stemmed and seeded
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Thai shrimp paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: bone-in mackerel steaks
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: plus 2 tablespoons fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10 1/2"
+  unit: ounces
+  ingredient: dried thin rice noodles
+  preparation: vermicelli
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Assorted raw vegetables, such as green cabbage , cucumbers , mung bean sprouts , long beans , and banana blossom , thinly sliced
+  preparation: mung bean sprouts left whole
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Soft-boiled eggs , for serving
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh sweet basil leaves , for serving
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: When purchasing coconut milk, look for versions like the one from Aroy-D that have &#34;100% coconut milk&#34; as the only listed ingredient, rather than those made with coconut extract and water.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Grachai, sometimes spelled krachai, is known by many names in English, including wild ginger, fingerroot, and Chinese keys. Like ginger and galangal, grachai is a rhizome, with a slightly bitter and medicinal aroma. Fresh grachai is nearly impossible to find in the US, but frozen or brined grachai can be found at Southeast Asian markets.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fresh makrut limes can be hard to find in the US. You can order them online, though they are a seasonal product and may not always be available (note that they are often sold under a different name that we avoid using, as it is a derogatory term in some contexts ); you may also be able to find them in the freezer section at Southeast Asian markets. Makrut lime zest freezes well. If you cannot find makrut lime, you are better off omitting it, as the more common Persian lime and other citrus are not good substitutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Dried spur chiles are a type of Thai chile known as prik cheefa haeng; they have a fruity, mild flavor, and are prized for the color they impart to curry pastes. They can be hard to come by in the US, but are sometimes available online. Alternatively, you can substitute puya or guajillo chiles, which are available at Central American markets.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, thai-recipes
+
+----
+
+Seo_title: Kanom Jeen Nam Ya (Thai Fish Curry with Rice Noodles) | Avenda Aurora
+
+----
+
+Seo_description: A saucy Thai fish curry, perfect for dressing noodles.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/WYBn_ueaOIJMMozZMPmJGsHYoks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210609-southern-thai-fish-curry-rice-noodles-KanomJeenNamYaGati-vicky-wasik-seriouseats-24-103e63c6d619403b8c1d6b11245ad851.jpg

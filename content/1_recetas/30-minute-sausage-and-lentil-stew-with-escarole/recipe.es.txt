@@ -1,0 +1,234 @@
+Title: 30-Minute Sausage and Lentil Stew With Escarole
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: This lentil, chorizo, and escarole stew is a hearty, one-pot dinner that comes together quickly and reheats well. It&#39;s the perfect weeknight dinner.
+
+----
+
+Cover: 
+
+----
+
+Prep-time: 
+
+----
+
+Cook-time: 
+
+----
+
+Total-time: 
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: fresh chorizo sausage , casings removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: carrots , peeled and chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: smoked paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: dried red lentils , picked over and rinsed
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: cups
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can diced tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: bunch escarole , stem end trimmed, wilted leaves discarded, chopped into bite-size pieces, and washed very well in multiple changes of water
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: sherry vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped fresh flat-leaf parsley leaves and tender stems, for serving
+  preparation: 
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: ""
+  instruction: In a large Dutch oven, heat oil over medium-high heat until shimmering. Add sausage, onion, carrots, and garlic. Cook, stirring occasionally and breaking up sausage into medium pieces with a wooden spoon, until sausage is no longer pink and vegetables begin to soften, 4 to 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add escarole and cook, stirring occasionally, until wilted and tender, 2 to 4 minutes. Off-heat, stir in vinegar. Divide stew among serving bowls and top with parsley. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large Dutch oven
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Leftovers can be refrigerated in an airtight container for up to 4 days.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To freeze, transfer stew to a freezer-safe container, leaving about 1/2 inch of headspace. Freeze for up to 1 month, then thaw overnight in the refrigerator.
+  tip: ""
+  step_image:
+
+----
+
+Tips: 
+
+----
+
+History: 
+
+----
+
+Enable-kits: false
+
+----
+
+Store-kits: 
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo-title: 30-Minute Sausage and Lentil Stew With Escarole | Avenda Aurora
+
+----
+
+Seo-description: This lentil, chorizo, and escarole stew is a hearty, one-pot dinner that comes together quickly and reheats well. It&#39;s the perfect weeknight dinner.
+
+----
+
+Original-author: Laila Ibrahim
+
+----
+
+Original-image: https://www.seriouseats.com/thmb/FPajC8OThBxXW33zHGcV-fYzQ7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20260105-SEA-Sausage-Lentil-soup-RobbyLozano-HERO-13dd228a75424a778336f31c8d0a74fa.jpg
+
+----
+
+Uuid: TXT4yPgKjlQeTFOs

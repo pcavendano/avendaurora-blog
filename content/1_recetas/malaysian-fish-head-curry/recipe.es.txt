@@ -1,0 +1,307 @@
+Title: Malaysian Fish Head Curry
+
+----
+
+Category: mariscos
+
+----
+
+Description: South Indian and Malaysian cuisines come together in this spicy vermillion curry that&#39;s simmered with fish heads, eggplant, and okra.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: fennel seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: whole black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: whole white peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Kashmiri chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 1/2 ounce; 15g
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 1-inch knob peeled ginger
+  preparation: 1/2 ounce; 15 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: neutral oil, such as vegetable oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: small
+  ingredient: Japanese eggplants , quartered lengthwise and cut into 3-inch lengths
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole mustard seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole fenugreek seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: whole cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: whole fennel seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: yellow onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: garden tomatoes , cored and diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "25"
+  unit: 
+  ingredient: curry leaves , woody stems removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: tamarind paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: fish heads , split in half lengthways and gills removed
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: large
+  ingredient: okra pods , stem ends trimmed and pods sliced in half on a bias crosswise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: small
+  ingredient: green chiles , such as serranos or green bird&#39;s eye, stemmed, sliced in half lengthwise, and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: light brown sugar , turbinado sugar, or granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: full-fat coconut milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked white rice or warm flatbreads , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Curry Powder: In a dry skillet, toast coriander seeds, cumin seeds, fennel seeds, black peppercorns, and white peppercorns over medium heat until they darken slightly and become fragrant, about 1 minute. Remove from heat and transfer the toasted spices to a mortar or spice grinder. Allow spices to cool for 1 minute, then grind spices until finely ground. Transfer to a small bowl and stir in the chile powder and turmeric. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Curry: Using the same mortar (no need to wipe it out), pound the garlic and ginger into a smooth paste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large sauté pan or medium Dutch oven, heat 1 tablespoon vegetable oil over medium-high until shimmering. Add the eggplant in a single layer and cook until first side is lightly browned, about 2 minutes. Flip the eggplant and cook until second side is lightly browned, about 2 minutes (we’re not looking to fully cook the eggplant; we just want to get some color on them). Transfer to a plate and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the remaining 2 tablespoons vegetable oil to the same sauté pan or Dutch oven and reduce heat to medium-low. Add the mustard seeds, fenugreek seeds, cumin seeds, and fennel seeds and cook, stirring occasionally, until the spices are fragrant and the mustard seeds begin to sputter, 30 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in the sliced onions, season with salt, and cook, stirring often, until the onion begins to soften, 6 to 7 minutes. Stir in the garlic and ginger paste along with the diced tomatoes, and cook until the tomatoes begin to break down into a sauce, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, slowly add 1/2 cup (120ml) water to the curry powder while whisking to form a paste. Stir the curry paste into the broken-down tomatoes and cook until thickened, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the curry leaves to the skillet and cook until fragrant, about 1 minute. Add tamarind paste and 2 cups (475ml) water, then stir well, making sure to scrape up any bits stuck to the bottom of the skillet.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the fish head halves, reserved eggplant, sliced okra, and sliced green chiles, making sure the liquid in the skillet comes at least 2/3 of the way up the sides of the fish heads; add more water if necessary. Add a large pinch of salt and bring to a boil over medium-high heat, then cover with a lid, reduce heat to low, and simmer until the fish heads and okra are fully cooked, about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in the sugar and coconut milk and season with salt. Simmer for another 5 minutes, then remove from heat. Serve warm with rice or flatbread.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Mortar and pestle
+- The curry can be refrigerated in an airtight container for up to 5 days. Freezing is not recommended.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, seafood-recipes, fish-recipes
+
+----
+
+Seo_title: Malaysian Fish Head Curry | Avenda Aurora
+
+----
+
+Seo_description: South Indian and Malaysian cuisines come together in this spicy vermillion curry that&#39;s simmered with fish heads, eggplant, and okra.
+
+----
+
+Original_author: Alia Ali
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/iH-QjaeRqmKhDUbMW-ubjW-WBPg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240123-Fish-Head-Curry-Michelle-Yip-SEA-hero-b530ad5090524f71933bbc6a6e3bc9f6.jpg

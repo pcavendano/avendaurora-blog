@@ -1,0 +1,171 @@
+Title: Quick Indian Cabbage Salad
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: This salad of crisp cabbage, carrots, and coconut is one of those Indian dishes that takes minimal effort, doesn&#39;t involve a whole range of spices, and is ready in minutes. Dressed in an infused oil, it&#39;s the perfect side dish for a meal of rice and chicken.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: olive oil
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole black mustard seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Serrano chile slit lengthwise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: to 6 curry leaves
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: small
+  ingredient: head cabbage , finely chopped or grated on the large hole of a box grate
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: carrot , grated on the large holes of a box grater
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: roasted and coarsely ground peanuts
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: lime juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: freshly grated coconut flesh
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat oil in a non-stick skillet over medium heat until shimmering. Step back and add the mustard seeds. Let them splutter. Add the Serrano chilli and stir until fragrant, about 30 seconds. Add curry leaves (if using) and allow them to sputter, about 30 seconds. Transfer infused oil to a small bowl to cool.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Mix grated cabbage, carrot, peanuts, lime juice, sugar, and grated coconut flesh in a large bowl. Add the cooled oil to the mixture and toss. Season to taste with salt. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Mortar and pestle, non-stick skillet, Mixing bowl, food processor
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes
+
+----
+
+Seo_title: Quick Indian Cabbage Salad | Avenda Aurora
+
+----
+
+Seo_description: This salad of crisp cabbage, carrots, and coconut is one of those Indian dishes that takes minimal effort, doesn&#39;t involve a whole range of spices, and is r
+
+----
+
+Original_author: Denise D'silva Sankhé
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/F_D07Zt9JdkUTKRUHmhMhY7DftA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__04__20140704-Indian-Cabbage-Salad-edit-e69ff22675674cd5bf52f983fcd09566.jpg

@@ -1,0 +1,213 @@
+Title: Spicy Peanut Noodle Salad
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: I still have a soft spot for cold peanut noodles. These days, I make them with far fewer noodles and many more vegetables. Indeed, it&#39;s now more of a vegetable salad with a few noodles added in for textural contrast. A handful of fresh herbs rounds out the flavors.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: fresh Chinese noodles
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chunky peanut butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fresh ground chili sauce , more or less to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: juice from 2 limes
+  preparation: or rice wine vinegar
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: toasted sesame seed oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: clove
+  ingredient: garlic , grated on a microplane grater
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sugar or honey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: warm water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: red , orange, or yellow bell peppers , sliced into thin strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: cucumber , seeded and sliced into fine julienne or small half moons
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: mung bean sprouts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: loosely packed fresh basil , mint, or cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: scallions , finely sliced at a severe bias to create long, thin strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: jalapeño peppers , seeds and ribs removed, sliced into fine strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: to 2 red Thai bird chiles , finely minced
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: roughly crushed roasted peanuts
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Cook noodles according to package directions. Drain and transfer to a large bowl of ice water. Agitate noodles until thoroughly chilled. Set aside while you make the dressing.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large bowl, combine peanut butter, soy sauce, chili sauce, lime juice, sesame seed oil, garlic, sugar or honey, and water. Whisk until homogeneous. Drain noodles thoroughly and add to bowl. Add bell peppers, cucumber, bean sprouts, basil leaves, scallions, jalapeños, and bird chiles (if using). Toss to combine. Serve immediately, topped with roasted peanuts.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fresh Chinese wheat noodles are available in most Asian markets. 1/4 pound dried linguini, fettuccini, or spaghetti can be substituted if fresh Chinese noodles are unavailable.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, noodle-recipes
+
+----
+
+Seo_title: Spicy Peanut Noodle Salad | Avenda Aurora
+
+----
+
+Seo_description: I still have a soft spot for cold peanut noodles. These days, I make them with far fewer noodles and many more vegetables. Indeed, it&#39;s now more of a vegeta
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/lAM-96_oT5__ceEPFqmW7NFr80k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__02__20120208-sesame-noodle-salad-1-b3f67d2cc37849faad8673390bac371a.jpg

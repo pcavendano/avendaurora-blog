@@ -1,0 +1,317 @@
+Title: Kabsa (Spiced Chicken and Rice)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: A Saudi Arabian chicken and rice dish made with tomato, fragrant spices, and dried lime for depth and aroma.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: bone-in, skin-on chicken thighs and 4 bone-in, skin-on drumsticks
+  preparation: about 2 1/2 pounds total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , divided; for table salt, use half as much by volume or same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: ghee or extra-virgin olive or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: yellow onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: cloves
+  ingredient: garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/4"
+  unit: teaspoons
+  ingredient: finely grated fresh ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/4"
+  unit: teaspoons
+  ingredient: ground cinnamon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: teaspoons
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: teaspoons
+  ingredient: ground allspice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: ground cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: cardamom pods
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: tomatoes , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: carrot , peeled, cut in half crosswise, and shredded on the large holes of a box grater
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: loomi lime or 1 strip lime peel
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: orange zest
+  preparation: from 1 orange 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: basmati rice , rinsed until water runs clear
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: golden raisins
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: slivered almonds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: pine nuts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume or same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Daqoos , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Plain whole-milk yogurt , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large Dutch oven, heat ghee or oil over medium-high heat until shimmering. Working in two batches, add chicken thighs and drumsticks, skin-side down, and cook until skin-side is golden brown, 5 to 7 minutes, lowering heat as needed if Dutch oven starts to get smoky. Transfer chicken to a large plate and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in tomatoes, carrots, bay leaves, loomi lime or lime peel, and orange zest. Cook, scraping bottom of Dutch oven to loosen browned bits, until tomato mixture is jammy and starts to stick to the bottom of the pot, about 4 minutes. Add rice and cook, stirring occasionally, until edges of rice begin to turn translucent, about 2 minutes. Add water and remaining 2 1/2 teaspoons kosher salt. Nestle chicken into water, along with any accumulated liquid, skin-side up, and bring to a boil over medium-high heat. Reduce heat to a simmer and cook, covered, over medium-low heat, until rice is tender, liquid is mostly absorbed, and bottom of rice forms a golden crust, 25 to 28 minutes, adjusting heat as needed to maintain gentle simmer. Let rice rest off-heat until remaining liquid is absorbed, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Gently fluff with two forks or wooden spoons, removing cardamom pods, bay leaves, and loomi lime or lime peel, if desired. Keep covered until ready to serve. If desired, while rice rests, adjust oven rack 6 inches from broiler element and heat broiler on high for at least 5 minutes. Transfer chicken to wire-rack-lined rimmed baking sheet, and broil chicken until spotty brown, 2 to 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Serve: Transfer rice to a large serving platter and top with chicken. Pour raisin-nut mixture, along with the oil, over rice and chicken. Serve with daqoos and yogurt on the side, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Box grater, large Dutch oven, small stainless-steel skillet
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Loomi limes are limes boiled in salt water and then dehydrated until completely dry. They can be purchased from specialty spice shops, Iranian grocery stores, some Arabic shops, and online.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To prevent clumpy rice, it&#39;s imperative to rinse the rice well until the water runs clear.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, chicken-main-recipes
+
+----
+
+Seo_title: Kabsa (Spiced Chicken and Rice) | Avenda Aurora
+
+----
+
+Seo_description: A Saudi Arabian chicken and rice dish made with tomato, fragrant spices, and dried lime for depth and aroma.
+
+----
+
+Original_author: Laila Ibrahim
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/kpWnuRrlkhHfB8Il8dk2MMTqPz0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251024-SEA-Dakous-AmandaSuarez-13-c7ec5f0ad1684c6281721f31180950de.jpg

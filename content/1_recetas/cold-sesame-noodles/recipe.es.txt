@@ -1,0 +1,231 @@
+Title: Cold Sesame Noodles
+
+----
+
+Category: postres, salsas
+
+----
+
+Description: Chewy, slippery, cold noodles come together in a flash thanks to the superior binding properties of potato starch
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: garlic cloves , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 1-inch piece fresh ginger , peeled and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: pieces
+  ingredient: whole star anise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: whole cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: toasted sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: cold water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: rice wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; if using table salt , use half as much by volume or same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "¾"
+  unit: teaspoon
+  ingredient: ground white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: toasted sesame seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 ¼"
+  unit: cups
+  ingredient: pastry or cake flour such as Bob’s Red Mill
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "¾"
+  unit: cup
+  ingredient: potato starch
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "¾"
+  unit: cup
+  ingredient: boiling water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vegetable oil , for greasing
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: celery , cut cross-wise on a slight bias into 1/8-inch thick strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: English cucumber , cut into matchsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "½"
+  unit: ounce
+  ingredient: fresh cilantro sprigs , trimmed and cut into 2-inch lengths
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Low-protein flours such as pastry or cake flour work best for this recipe. If you substitute with all-purpose flour, the color will be slightly yellow and the dough will be less smooth.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, noodle-recipes
+
+----
+
+Seo_title: Cold Sesame Noodles | Avenda Aurora
+
+----
+
+Seo_description: Chewy, slippery, cold noodles come together in a flash thanks to the superior binding properties of potato starch
+
+----
+
+Original_author: Tim Chin
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/TxmXBg9PYLcI4_oKbBdQdixNtJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210714-potato-starch-chewy-noodles-vicky-wasik-seriouseats-28-5885ee362a0345d38ac0f649ba808827.jpg

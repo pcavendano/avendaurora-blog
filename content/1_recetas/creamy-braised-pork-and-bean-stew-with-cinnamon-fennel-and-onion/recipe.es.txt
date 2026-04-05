@@ -1,0 +1,235 @@
+Title: Creamy Braised Pork and Bean Stew With Cinnamon, Fennel, and Onion
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Near-melted beans and spoon-tender pork perfect for a cold winter evening.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: dried kidney beans , picked of any debris and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: Diamond Crystal kosher salt ; for table salt , use about half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 ¾"
+  unit: teaspoons
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: onion powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground fennel seed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt , use about half as much by volume or the same weight, plus more for seasoning
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: smoked sweet paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cinnamon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: ground cayenne
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: pounds
+  ingredient: boneless pork butt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "½"
+  unit: ounce
+  ingredient: dried shiitake mushrooms
+  preparation: about ten 1-inch caps 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "¼"
+  unit: cup
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "¼"
+  unit: cup
+  ingredient: apple cider vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chopped cilantro or flat-leaf parsley leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked rice or toasted and buttered sourdough bread , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Beans: In a large bowl, cover beans with 8 ½ cups (2L) water. Add salt and baking soda, stirring briefly to combine, then cover loosely and let soak at room temperature at least 8 and up to 12 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Pork: Preheat the oven to 300°F (150°C). Drain the beans, then rinse well under running tap water. Transfer beans to an 8-quart pot or Dutch oven.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small bowl, thoroughly mix together the garlic, onion powder, fennel, salt, black pepper, paprika, cinnamon, and cayenne. Rub the mixture all over the pork, then set the pork in the pot with the beans. Add 4 ½ cups (1L) water along with the shiitake mushrooms, tomato paste, and fish sauce, stirring to ensure the tomato paste is completely dissolved.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Seal the pot with two layers of foil, crimped tightly around the edges to prevent any steam from escaping. Cover with the lid, then transfer to the oven and cook until the pork is fork-tender and the beans have completely cooked through, about 4 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a pair of kitchen tongs, remove and discard the shiitake mushrooms, then carefully transfer the pork to a large platter. Using a pair of forks, shred the pork, then return it to the pot along with any juices on the plate. Stir in the vinegar, then season with additional salt, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Garnish with cilantro or parsley and serve hot or warm with plain rice or toasted and buttered slices of sourdough bread.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, pork-recipes
+
+----
+
+Seo_title: Creamy Braised Pork and Bean Stew With Cinnamon, Fennel, and Onion | Avenda Aurora
+
+----
+
+Seo_description: Near-melted beans and spoon-tender pork perfect for a cold winter evening.
+
+----
+
+Original_author: Nik Sharma
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/OGVH_yfAUyzM7XINu7ggocK4co0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/porkandbeans-beauties-4-9a29bdad6c6b4af5bbd7d5dfc1e67233.jpg

@@ -1,0 +1,171 @@
+Title: Grilled Spiced Cauliflower
+
+----
+
+Category: vegetarianos, platos-fuertes
+
+----
+
+Description: As someone who grew up dreading bland, under- or over-cooked cauliflower, this recipe is a game-changer.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: crushed red pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: powdered ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: head of cauliflower , trimmed of green leaves and cut into 3/4-inch slices
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Extra-virgin olive oil , for brushing and drizzling
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: finely chopped fresh cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Spice Mixture: In a small bowl, mix together all of the ingredients.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Cauliflower: Generously brush cauliflower all over with olive oil and season evenly with spice mixture.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer cauliflower to a plate, sprinkle with cilantro, drizzle with fresh olive oil, and serve.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, cauliflower-recipes
+
+----
+
+Seo_title: Grilled Spiced Cauliflower | Avenda Aurora
+
+----
+
+Seo_description: As someone who grew up dreading bland, under- or over-cooked cauliflower, this recipe is a game-changer.
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/eXBEe5lzulcEa3b5pC57t-asDlA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grilled-spiced-cauliflower-recipe-hero-2-b83423003a30467d8758569ec62ab771.JPG

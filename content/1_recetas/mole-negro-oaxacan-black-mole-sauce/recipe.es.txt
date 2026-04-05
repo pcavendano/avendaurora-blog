@@ -1,0 +1,345 @@
+Title: Mole Negro (Oaxacan Black Mole Sauce)
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Food writer Octavio Peña leads you on a deep dive into Oaxacan mole negro, Mexico&#39;s iconic velvety, rich sauce made with dried chiles, nuts, chocolate, and centuries of culinary history. Pair it with poached chicken or turkey, spoon it over roasted vegetables, or scoop it up with warm tortillas.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "5"
+  unit: 
+  ingredient: tomatillos , husks removed, and halved
+  preparation:  14 ounces ; 389 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: plum tomatoes , quartered
+  preparation:  9 ounces ; 262 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: white onion , peeled and halved
+  preparation:  8 ounces ; 224 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: ripe plantain , peeled and halved
+  preparation:  7 ounces ; 198 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: cloves
+  ingredient: garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: cups
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: pasilla negro chiles , stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: ancho chiles , stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: mulato chiles , stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: guajillo chiles , stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: morita chiles , stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: lard
+  preparation:  7 ounces ; 200 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: raw almonds
+  preparation:  40 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: unsalted peanuts
+  preparation:  40 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: raw pecans
+  preparation:  30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: roasted sesame seeds , plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: corn tortillas , quartered
+  preparation:  60 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: slices
+  ingredient: bolillo or white bread
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: cup pitted prunes , about 7
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: raisins
+  preparation:  35 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: stick canela or 1 piece cassia cinnamon
+  preparation:  4 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: whole cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: whole allspice berries
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried Mexican oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: anise seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: dried hoja santa leaf , optional
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: d ried avocado leaf , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "100"
+  unit: 
+  ingredient: g Mexican drinking chocolate , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sugar to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to upper-middle position and preheat broiler to high. Place tomatillos, tomatoes, onion, plantain, and garlic on an aluminum foil–lined baking sheet, cut side down. Broil until charred and blistered on one side, 4 to 8 minutes. Transfer to blender. Add 1 cup chicken stock and blend, starting on low and increasing to high, until completely smooth, about 1 minute. Transfer to a large pot or Dutch oven.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: On the now-empty foil-lined rimmed baking sheet, add pasilla, guajillo, ancho, mulato, and morita chiles. Broil until darkened, about 1 minute. Transfer to blender. Blend, starting on low and increasing to high until completely smooth. Add stock if necessary to thin out the mixture and scrape down sides of blender jar as needed. Add to puréed vegetables in large pot or Dutch oven.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large skillet, add lard and heat over medium-high heat until melted and shimmering. Add almonds, pecans, and peanuts, continuously stirring until lightly toasted and aromatic, about 3 minutes. Using a large slotted spoon, transfer solids to blender, leaving lard in skillet. Add toasted sesame seeds to blender with nuts.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To the skillet, add cloves, anise seeds, allspice, black peppercorns, cumin, thyme, and oregano, and fry over medium-high heat until fragrant, about 1 minute. Transfer spices and all remaining lard from skillet to blender with bread and dried fruit. Add 2 cups chicken stock and blend on high speed until smooth, about 1 minute. Transfer to large pot with other puréed ingredients.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add 4 cups of chicken stock to pot and stir to combine all ingredients until homogenous. Add hoja santa and avocado leaf, if using, and bring to a simmer over medium heat. Reduce heat to low and gently simmer, covered, stirring frequently, until flavors meld and mixture thickens further, 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Blender, Dutch oven or large pot, spider skimmer or large slotted spoon, tongs, traditional blender, immersion blender
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: I love adding dried hoja santa and avocado leaves for their herbal, licorice flavor, though they can be omitted if unavailable. These two leaves can be found in the spice section of most Mexican grocery stores.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes
+
+----
+
+Seo_title: Mole Negro (Oaxacan Black Mole Sauce) | Avenda Aurora
+
+----
+
+Seo_description: Food writer Octavio Peña leads you on a deep dive into Oaxacan mole negro, Mexico&#39;s iconic velvety, rich sauce made with dried chiles, nuts, chocolate, and 
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/XWVtYtjoDvw_kHYnF56_2RHJNAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250521-SEA-MoleNegro-LorenaMasso-32-e0c5a8212f6f4f8ebc6916f304e1b911.jpg

@@ -1,0 +1,228 @@
+Title: Chicken Yassa (Senegalese Braised Chicken With Caramelized Onions)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Yassa starts with a meat, frequently chicken, that&#39;s marinated with onions and citrus juice, which is then braised in a rich onion base until the alliums are melted and caramelized. Then, the Scotch bonnet pepper hits.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: bone-in, skin-on chicken legs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "½"
+  unit: cup
+  ingredient: fresh lemon juice , from about 2 large lemons
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "½"
+  unit: small
+  ingredient: yellow onion , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh lime juice , from about 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil, such as vegetable or peanut oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Scotch bonnet or habanero pepper , stemmed and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil, such as vegetable or peanut oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: yellow onions , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Dijon mustard
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: homemade chicken stock or store-bought low-sodium broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole Scotch bonnet or habanero pepper , pierced with a fork
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked long- or medium-grain rice , couscous, or fonio, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime or l emon wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the marinated chicken: In a large bowl or zipper-lock bag, toss together chicken, lemon juice, diced onion, lime juice, oil, Scotch bonnet pepper, and salt until well combined. Cover bowl or seal bag, then marinate in the refrigerator for at least 8 and up to 12 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Yassa: Remove chicken from the marinade, scraping off any onions and pepper; discard the marinade. Using paper towels, blot chicken dry. In a Dutch oven, heat oil over medium-high heat until shimmering. Add chicken, skin-side down, and cook until well browned, about 6 minutes. Using a thin metal spatula, turn chicken and cook on second side until browned, about 5 minutes longer. Remove from heat and transfer chicken to a platter.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Lower heat to medium, add sliced onions, and cook, stirring frequently, until onions are softened, about 7 minutes. Continue to cook, stirring and scraping frequently, until onions are dark brown and caramelized, about 15 minutes. Stir in garlic and mustard and cook until fragrant and slightly softened, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add chicken stock, Scotch bonnet pepper, bay leaf, and chicken along with any accumulated juices, nestling chicken pieces into the onions; season lightly with salt and pepper. Bring to a boil over high heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reduce heat to medium-low and cook, gently stirring and scraping the bottom of the pot occasionally, until chicken is cooked through and beginning to fall from the bone, about 1 hour. Season with salt, if needed. Serve with rice, couscous, or fonio, and lemon or lime wedges.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The Yassa can be refrigerated for up to 5 days in an airtight container. Reheat gently before serving.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: world-cuisine-guides, african-cuisine-guides, west-african-cuisine-guides, senegalese-cuisine-guides
+
+----
+
+Seo_title: Chicken Yassa (Senegalese Braised Chicken With Caramelized Onions) | Avenda Aurora
+
+----
+
+Seo_description: Yassa starts with a meat, frequently chicken, that&#39;s marinated with onions and citrus juice, which is then braised in a rich onion base until the alliums ar
+
+----
+
+Original_author: Amethyst Ganaway
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/y0vW_DfKRxpif1LHTyIjXUgLqRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Yassa-Chicken-Stew-Process-Hero_3-721fa6d23eab4e939a318d667858ef7e.jpg

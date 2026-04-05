@@ -1,0 +1,230 @@
+Title: Spicy Chicken Noodle Soup With Lime and Ginger
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: This soup is fortifying like the best chicken noodle, but with a bit of kick from its sour/sweet/pungent flavor profile. With nothing but a single burner, a chicken, and a few vegetables, you can pull together a good soup in a little over an hour.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole small chicken , 2 1/2 to 3 pounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: quarts
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: smoked ham , ham hock, or bacon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: knob ginger , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: whole garlic cloves , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: stalk fresh lemongrass , dry outer leaves, pale yellow/green section only, chopped fine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: bunch cilantro , leaves and stems reserved separately
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: bunch mint , leaves and stems reserved separately
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: scallions , greens and whites reserved separately, greens sliced thin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , finely sliced
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: carrots , finely sliced
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: head Napa cabbage , finely sliced
+  preparation: about 2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Thai bird chile , very finely sliced
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: dried egg noodles or rice noodles or 8 ounces fresh ramen-style Japanese or Chinese wheat noodles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: juice from 2 to 3 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Using a sharp knife and following the bone, remove the breasts from the chicken carcass. Discard skin and set breasts aside. Remove legs from chicken and set aside. Using a heavy knife or cleaver, roughly chop the body into fine pieces. Transfer the chicken body and legs to a large saucepan. Add ham, ginger, garlic, lemongrass, cilantro stems, mint stems, and scallion whites. Cover with water and bring to a simmer over high heat. Reduce to low and simmer, skimming scum from surface and topping up with hot water as necessary, until rich and flavorful, about 45 minutes total. Add chicken breasts to pot for last 10 minutes of cooking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Strain broth through a fine mesh strainer into a 2 quart liquid measuring cup. Remove cooked chicken legs and breasts to a plate and set aside. Discard remaining solids. Add enough hot water to broth to equal two quarts. Rinse pot and return broth to it. Add onion, carrots, cabbage, and Thai chile and bring to a simmer. Cook until vegetables are tender, about 15 minutes longer, adding noodles in for last 5 minutes of cooking time (or according to package directions).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, when chicken is cool enough to handle, roughly shred breast and leg meat into bite-sized pieces, discarding skin and bones.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When noodles and vegetables are soft, add fish sauce, lime juice, soy sauce, and shredded chicken to pot. Season to taste with salt (if necessary). Serve immediately, garnishing each bowl with picked mint leaves, cilantro leaves, and scallion greens.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Make sure to carefully wash your cutting board and hands after chopping the Thai chile. You can use 1 jalapeño or 1 serrano chile in place of the Thai chile.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Spicy Chicken Noodle Soup With Lime and Ginger | Avenda Aurora
+
+----
+
+Seo_description: This soup is fortifying like the best chicken noodle, but with a bit of kick from its sour/sweet/pungent flavor profile. With nothing but a single burner, a chi
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/BVwG8tmpWpcPq6uHjlCvxtPbmMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__03__20120320-chicken-noodle-soup-3-1f91f1d17d884676bbd3e35179a07fcd.jpg

@@ -1,0 +1,290 @@
+Title: Guaydtiaao Tom Yam Moo Saap (Tom Yam Noodle Soup With Minced Pork)
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: A spicy, salty, porky, sour Thai noodle soup topped with soft-boiled eggs, pork balls, minced pork, and fried wontons that is a hearty one-bowl meal.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Canola oil or other neutral oil, for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: wonton wrappers from 1 pack fresh Hong Kong–style square wonton wrappers , sliced in half diagonally into triangles
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: ounces
+  ingredient: ground pork
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Thai oyster sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: pinch granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: pinch kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: red chiles , such as Holland, Fresno, or Cayenne , stemmed and thinly sliced crosswise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: Nam Cheua Gradook Moo
+  preparation: Thai Pork Stock
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: store-bought frozen pork balls , see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fish sauce , plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: roughly chopped dry roasted peanuts , plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: granulated sugar , plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: plus 2 teaspoons fresh lime juice , plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: roasted Thai chile flakes, plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: plus 2 teaspoons garlic oil from 1 recipe Crispy Fried Garlic and Garlic Oil , plus crispy fried garlic for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: dried rice stick noodles, such as Erawan or Asian Best, from 1 package
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: sprigs morning glory , cut into 2-inch segments
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: mung bean sprouts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: to 4 sprigs cilantro , sliced into 1/4-inch lengths
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: scallions , green parts only, thinly sliced crosswise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: soft-boiled eggs , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Wonton Crisps: Line a rimmed baking sheet with paper towels. In a wok or 2-quart saucepan, heat 2 inches of oil to 375°F (190°C) over medium-high heat. Working in batches, add wontons and cook, flipping once or twice, until crispy, 10 to 15 seconds. Using a wire skimmer, transfer to paper towel–lined baking sheet. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Minced Pork: In a mixing bowl, thoroughly mix together pork, fish sauce, oyster sauce, and sugar. In a medium saucepan, bring 1 quart (1L) water to a boil. Add ground pork and cook, using chopsticks or a wooden spoon to break it up into small pieces, until no pink remains, about 30 seconds. Drain and transfer to a large heatproof bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Chile Vinegar: In a small saucepan, bring vinegar and salt to a boil over high heat. Remove from heat and add chiles. Let steep for at least 30 minutes (vinegar will be best after 1 day).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Assemble the Bowls: In a medium saucepan, combine pork stock and pork meatballs and bring to a boil, covered, then lower heat and keep hot. Bring a large pot of water to a boil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, add fish sauce, peanuts, sugar, lime juice, and chile flakes to the cooked minced pork and stir to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add garlic oil to a large heatproof bowl. In the large pot of boiling water, cook rice noodles according to package directions. Drain noodles and transfer them to the bowl with the garlic oil, tossing with chopsticks until noodles are coated. Divide noodles among 4 individual serving bowls.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return now empty pot of water to a boil and blanch the bean sprouts and morning glory until morning glory is crisp-tender and bean sprouts have softened slightly, 5 to 10 seconds. Drain and divide among serving bowls with noodles.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the minced pork mixture to the hot pork broth and meatballs and stir to combine. Divide the seasoned broth, meatballs, and minced pork among the serving bowls. Garnish each bowl with a couple pieces of fried wontons, soft-boiled egg halves, cilantro, scallions, and a pinch of fried garlic. Serve immediately, allowing guests to season their bowls with additional fish sauce, peanuts, sugar, lime juice, chile flakes, and chile vinegar to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Hong Kong–style wonton wrappers are an egg based dough that are often light yellow in color. Wrap remaining unused wonton wrappers tightly and refreeze, or reserve for another use.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- A Holland chile and Fresno chile will have a similar mild heat level balanced with a sweet finish, while a fresh Cayenne chile will be spicier. A jalapeño chile may also be substituted in this recipe.
+- Frozen pork balls from any Asian grocer will work in this recipe.
+- Morning glory is also sold as ong choy or water spinach. In a pinch, you could substitute Chinese broccoli, spinach, even broccoli rabe, though rabe will be more bitter.
+- The chile vinegar can be refrigerated in an airtight container for up to 2 months.
+- The crispy wontons can be fried up to 1 day in advance and stored in an airtight container at room temperature.
+- The minced pork can be cooked up to 2 days in advance and refrigerated in an airtight container.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Guaydtiaao Tom Yam Moo Saap (Tom Yam Noodle Soup With Minced Pork) | Avenda Aurora
+
+----
+
+Seo_description: A spicy, salty, porky, sour Thai noodle soup topped with soft-boiled eggs, pork balls, minced pork, and fried wontons that is a hearty one-bowl meal.
+
+----
+
+Original_author: Derek Lucci
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/74h5lyqDcKHGswmEVHFF8robIbs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231205-SEA-GuaydtiaaoTomYamMooSaap-AmandaSuarez-hero-450f7307a9dc4ca6b12fa06e606e8a01.jpg

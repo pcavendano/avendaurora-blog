@@ -1,0 +1,182 @@
+Title: Puntarelle Alla Romana Recipe (Puntarelle Salad With Anchovy and Garlic Dressing)
+
+----
+
+Category: salsas
+
+----
+
+Description: In this classic Roman dish, crisp, juicy shreds of puntarelle, the mild-mannered bitter green, are tossed with a potent anchovy- and garlic-heavy dressing.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "20"
+  unit: ounces
+  ingredient: puntarelle or Belgian endive , trimmed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: oil-packed anchovies , drained
+  preparation:  32 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: garlic cloves
+  preparation:  10 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , plus more to taste; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: red wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh flat-leaf parsley leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: capers , drained and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Pluck the outer leaves off the heads of puntarelle, tear or cut into bite-sized pieces, and set aside. Remove the shoots from the heads and, if present, trim and discard the woody bottom end of each. Cut shoots into 1/4-inch-thick strips (you may need to halve or quarter them lengthwise first). If there’s a fatter core, trim off the tougher base, cut it in half lengthwise, and then cut the halves into strips.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Alternatively, if using endive, quarter endive lengthwise without removing cores. Slice each quarter into 1/8-inch strips lengthwise, at an angle through core, so leaves remain attached.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer prepared puntarelle or endive to a bowl and cover fully with cold water and a handful of ice cubes. Cover with a small plate or other similar object to keep pieces submerged. Refrigerate until curled, at least 2 hours (they may remain submerged for up to 18 hours).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain puntarelle or endive and dry in a salad spinner. Refrigerate until needed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, place anchovies, garlic, and salt on a cutting board and mash with the back of a fork until a coarse paste forms. Transfer to a medium bowl. Add vinegar and whisk until uniform. Add oil in a thin stream, whisking constantly, until emulsified.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add puntarelle or endive, parsley, and half of the capers to bowl and toss to coat with dressing. Season with pepper and salt to taste. Transfer to a serving platter, top with remaining capers, and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Some supermarkets sell heads of red endive, which is actually a cross between endive and treviso. (Trader Joe’s sells them in mixed packs.) Use a mix of both if you can find them for a splash of color.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once soaked, drained, and spun dry, endive or puntarelle will keep for up to 24 hours in the refrigerator.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, europe-recipes, southern-european-recipes, italian-recipes
+
+----
+
+Seo_title: Puntarelle Alla Romana Recipe (Puntarelle Salad With Anchovy and Garlic Dressing) | Avenda Aurora
+
+----
+
+Seo_description: In this classic Roman dish, crisp, juicy shreds of puntarelle, the mild-mannered bitter green, are tossed with a potent anchovy- and garlic-heavy dressing.
+
+----
+
+Original_author: Andrew Janjigian
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/GaDSXOZ-d0ndmFgKqv5AYaqu-gI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20221221-Punterelle-AndrewJanjigian-41-3deed02dabec417cac47747e4836fe7c.JPG

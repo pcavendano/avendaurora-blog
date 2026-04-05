@@ -1,0 +1,138 @@
+Title: Deconstructed Deviled Eggs
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: In place of re-stuffing hard-boiled eggs, these deconstructed cousins of deviled eggs call for seven-minute eggs with creamy yolks. Top them off with your condiments of choice, like mayonnaise, herbs, spices, bits of bacon, and more.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: large
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: About 1/2 cup homemade mayonnaise , preferably hand-whisked , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: oil-packed anchovy fillets
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Drained brined capers , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Picked fresh herbs , such as chive segments, chervil leaves, or flat-leaf parsley leaves, for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Extra-virgin olive oil , for drizzling
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Bring a medium pot of water to a boil. Carefully lower eggs into the pot and cook at a gentle boil for exactly 7 minutes. Meanwhile, prepare an ice bath. Using a slotted spoon, transfer eggs to the ice bath to chill.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to serve, drain and peel eggs. Cut each egg in half lengthwise. Arrange on a serving plate and top each egg with a dollop of mayonnaise, an anchovy fillet, a few capers, and herbs. Drizzle with olive oil and season lightly with salt and pepper. Serve.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, egg-recipes
+
+----
+
+Seo_title: Deconstructed Deviled Eggs | Avenda Aurora
+
+----
+
+Seo_description: In place of re-stuffing hard-boiled eggs, these deconstructed cousins of deviled eggs call for seven-minute eggs with creamy yolks. Top them off with your condi
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/P4IZ3oJwDnkvJmOGcdcB8B2g9Ek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__05__20180525-deconstructed-deviled-eggs-vicky-wasik-1-f93ea224dae84dff9b608718e3b4ff8c.jpg

@@ -1,0 +1,141 @@
+Title: Spicy Margaritas
+
+----
+
+Category: bebidas
+
+----
+
+Description: Fresh chile heat with a quality tequila and bracingly tart lime juice—this spicy margarita recipe is proof that sometimes you have to heat things up to really cool down.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Tajín or coarse salt , for glass rims
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime wedge , plus 2 lime wheels, for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño pepper , sliced crosswise into thin rounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: high-quality blanco tequila
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: Cointreau or triple sec
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: ounces
+  ingredient: fresh lime juice from 2 limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Fill a small, shallow dish with a thin layer of Tajín or salt. Run lime wedge around the outer rims of 2 rocks glasses and dip rims in Tajín or salt. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a cocktail shaker, muddle roughly 3 to 6 rounds of jalapeño until well crushed and juices have been expressed (how many slices of jalapeño you use will depend on the heat of your jalapeño and your personal spice preference; you can add more than 6 for an even hotter drink, if you like). Add tequila, Cointreau, and lime juice. Fill with ice and shake until thoroughly chilled, about 15 seconds (the bottom of a metal shaker should frost over).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fill glasses with fresh ice and strain margarita into both glasses. Garnish with lime wheels and any remaining jalapeño rounds and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cocktail shaker, muddler, cocktail strainer, rocks glasses
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, drink-recipes, cocktail-recipes
+
+----
+
+Seo_title: Spicy Margaritas | Avenda Aurora
+
+----
+
+Seo_description: Fresh chile heat with a quality tequila and bracingly tart lime juice—this spicy margarita recipe is proof that sometimes you have to heat things up to really c
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Quwu_bWf0xmvM5bcoHAOnKqGvw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250423-SEA-SpicyMargarita-AmandaSuarez-hero-0a2adfa2175f4eb1a0f3c5439abe04d3.jpg

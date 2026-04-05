@@ -1,0 +1,181 @@
+Title: Migas With Scrambled Eggs, Tortilla Chips, & Chiles
+
+----
+
+Category: desayunos
+
+----
+
+Description: The Tex-Mex version of migas—scrambled eggs cooked with chile peppers, onion, and tortilla chips, then served on tortillas with hot sauce—is a hangover killer, but even if you haven&#39;t overindulged, it&#39;s still a killer breakfast option.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: large
+  ingredient: eggs , beaten
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: plum tomatoes , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vegetable , canola , or peanut oil , for frying
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "16"
+  unit: 
+  ingredient: corn tortillas , 8 cut into 1 1/2– by 3/4-inch strips , 8 left whole and warmed in a dry hot skillet just before serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: Poblano pepper , stemmed, seeded, and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: serrano chiles or 1 jalapeño , stemmed and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Mexican hot sauce , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Refried beans and sliced avocado , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large bowl, whisk eggs with 2 generous pinches of salt and set aside. In a medium bowl, toss tomato with a generous pinch of salt, then transfer tomatoes to a strainer and set over bowl to drain.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium saucepan, heat about 2 inches of oil to 350°F (180°C). Add tortilla strips and cook, agitating and flipping them constantly with a wire mesh spider, until bubbles slow to a trickle and chips are pale golden brown, about 2 minutes. Transfer to a paper towel–lined plate, season with salt, and set aside (see note).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat 3 tablespoons (45ml) oil in a large cast iron or nonstick skillet over medium heat until shimmering. Add Poblano, serrano or jalapeño, and onion and cook, stirring, until fully softened but not browned, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Lower heat to medium-low, add eggs, and cook, stirring constantly, until curds are just starting to form throughout, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add 3/4 of the tortilla chips and continue to cook eggs until they are still soft but nearly cooked, about 5 minutes longer. Add tomato and remaining tortilla chips and cook until eggs are softly scrambled and just cooked through, about 2 minutes. Season with salt and pepper. Transfer immediately to a bowl to halt cooking. Serve right away on top of warmed whole tortillas with hot sauce, refried beans, and avocado.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, egg-recipes, scrambled-egg-recipes
+
+----
+
+Seo_title: Migas With Scrambled Eggs, Tortilla Chips, & Chiles | Avenda Aurora
+
+----
+
+Seo_description: The Tex-Mex version of migas—scrambled eggs cooked with chile peppers, onion, and tortilla chips, then served on tortillas with hot sauce—is a hangover killer, 
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/1Qs-3w9o_W870RAbuh1YBPPEt28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__09__20140916-migas-vicky-wasik-final-3-628db473ca8443bb9c3346f745a707c9.jpg

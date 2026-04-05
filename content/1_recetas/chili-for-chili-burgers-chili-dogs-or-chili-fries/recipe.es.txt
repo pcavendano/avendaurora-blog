@@ -1,0 +1,258 @@
+Title: Chili for Chili Burgers, Chili Dogs, or Chili Fries
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: This chili ends up with a homogeneous, saucy texture perfect for topping burgers, hot dogs, or fries. Leftover chili can be stored in the fridge for up to 1 week. The chili is best with the...
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole Ancho or Pasilla chiles , stemmed, seeded, and torn into strips
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole New Mexico red , California, Costeño, or Choricero chile , stemmed, seeded, and torn into strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole Cascabel, Arbol, or Pequin chile , stemmed, seeded, and torn in half
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: yellow onion , diced fine
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cloves
+  ingredient: garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: whole cumin seeds , toasted and ground
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: coriander seeds , toasted and ground
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole clove , toasted and ground
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole star anise , toasted and ground
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: anchovy fillet , minced
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Marmite
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: 80/20 ground chuck or short rib
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: masa harina
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Frank&#39;s Red Hot
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: bourbon
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine all chiles in a medium microwave-safe bowl and cover with water. Microwave on full power for 2 minutes. Remove bowl from microwave and allow chiles to soak for 10 minutes. Using an immersion blender or upright blender, blend soaked chiles until smooth, adding soaking water as needed to keep texture loose.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Melt butter over medium-high heat in Dutch oven. When foaming subsides, add onions and garlic. Cook, stirring frequently, until onions are softened but not browned, about 6 minutes. Add chile mixture, ground spices and oregano and continue to cook, stirring frequently, until aromatic, about 1 1/2 minutes. Add tomato paste, soy sauce, anchovy, Marmite (if using), and sugar, and cook, stirring frequently until paste begins to stick to bottom of pan, about 1 1/2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove pan from heat and add 2 cups of chicken broth. Scrape up any browned bits from bottom of pan with wooden spoon. Add ground beef and break up using whisk until mixture is completely homogeneous (no large chunks of beef should remain). Add remaining chicken stock and return to stovetop and set over medium-high heat. Cook, whisking frequently, until mixture comes to a simmer. Cover with lid slightly ajar, reduce heat to low, and cook for 75 minutes, stirring occasionally, until mixture is thick and intense.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Combine masa harina and 2 tablespoons water in a small bowl and mix until homogeneous. Add masa mixture, hot sauce, and bourbon to chili and stir to combine. Bring to a boil and simmer until thickened, about 2 minutes. Season to taste with salt and serve immediately on top of burgers, hot dogs, or fries.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Leftover chili can be stored in the fridge for up to 1 week.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, chili-recipes
+
+----
+
+Seo_title: Chili for Chili Burgers, Chili Dogs, or Chili Fries | Avenda Aurora
+
+----
+
+Seo_description: This chili ends up with a homogeneous, saucy texture perfect for topping burgers, hot dogs, or fries. Leftover chili can be stored in the fridge for up to 1 wee
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/dhXYIhh5MnXkci760hB0xp3297o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20100903-burgerlab-primary-82c48171201743b08b7cbacefae6b051.jpg

@@ -1,0 +1,51 @@
+# How to Make Homemade Cavatelli
+
+> Chewy, rustic, and ridiculously satisfying, homemade cavatelli are surprisingly easy and fun to make from scratch. Pair the fresh pasta with your favorite tomato sauce or ragu for a restaurant-worthy meal at home.
+
+**Author:** Katie Leaird
+
+**Original Image:** https://www.seriouseats.com/thmb/1SzV7evIlJPWvJ1i-2wLdalf9PY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241008-SEA-FreshCavatelli-QiAi-Hero2-33-a5c6482684b74500803c730779d76b76.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, pasta-main-recipes
+
+
+## Ingredients
+
+- 375g (about 2 1/2 cups ) finely-ground double-milled semolina flour (see notes)
+- 150g to 175g (2/3 to 3/4 cup ) room temperature water
+- 1 tablespoon (15 ml ) extra-virgin olive oil
+- Fresh tomato sauce , American tomato sauce , pork ragu , or your preferred pasta sauce
+
+
+## Instructions
+
+1. For the cavatelli: In a large bowl, mix semolina, 150g (2/3 cup) water, and oil together until a clumpy dough forms and there is very little dry semolina remaining at the bottom of the bowl. Use your hands to press and knead the dough together in the bowl until it forms a rough ball. If the dough seems too dry, like there’s no way to get it to come together, knead in 1 to 2 more tablespoons (15 to 30ml) of water.
+
+2. Transfer dough to a clean counter and knead until smooth, about 4 to 6 minutes. Cover dough with a clean dishcloth (or with the now-empty overturned mixing bowl from step 1). Let dough rest for about 15 minutes.
+
+3. Use a bench scraper or knife to cut the dough into 6 equal pieces. Keep all but one piece of dough covered. Working with one piece of dough at a time, use the palms of both hands to press down moderately on the dough and roll until the dough forms an even rope that’s roughly 1/2-inch diameter and 12 to 15 inches long. Make sure the counter beneath the dough is clean (no dusting of flour) so the rope can grip the surface and lengthen as it rolls.
+
+4. Cut the rope into 1/2 inch long segments. If making ridges, hold a gnocchi board with your non-dominant hand. Place a segment of dough, cut-side-down, on the top-side of the board (the side closest to the handle) or the back side of a fork. Press the thumb of your dominant hand into the dough and forcefully roll it down the board or length of the back of the fork toward the counter. This will create one large indent on one side of the dough and a grooved pattern on the rolled exterior of the noodle. Repeat with remaining segments of dough. Alternatively, use a crank-operated cavatelli maker for shaping, or use a butter knife and, working with one 1/2 dough segment at a time, drag the butter knife across each piece of dough along the counter until it curls over itself. This will create cavatelli with a smooth exterior.
+
+5. Use a bench scraper to scoop up cavatelli and transfer noodles to a rimmed baking sheet. Sprinkle semolina over cavatelli and gently toss until coated. Shake baking sheet so cavatelli arrange themselves in a single layer.
+
+6. Repeat rolling out ropes, cutting segments, and forming cavatelli with the remaining covered dough. Once all noodles are coated in semolina and arranged in a single layer on a baking sheet, let them partially dry (or “cure”) at room temperature until they have a very light skin, 30 minutes to 1 hour (depending on humidity in the air). After the noodles have cured, you can cook them immediately or freeze in a single layer until they harden, about 15 minutes, and then transfer them to a zipperlock bag or airtight plastic container to store in the freezer for up to 3 months.
+
+7. For Cooking and Serving: In a large sauté pan or skillet, heat sauce until warmed through and hold warm over low heat. In a large pot, bring 4 quarts water to a boil over high heat. Add 1 tablespoon salt, return to a boil, then add cavatelli and cook, stir gently with a wooden spoon, chopsticks, or a cooking fork, tasting occasionally until cavatelli are just set with a definite bite, 3 to 6 minutes.
+
+8. Using a large spider skimmer or slotted spoon, transfer pasta to the sauce along with 1/4 cup pasta cooking water. Cook over high heat, stirring and tossing rapidly, until pasta is al dente and sauce has thickened and begins to coat noodles. Season to taste with salt and pepper. Serve with your preferred grated cheese, if desired.
+
+9. Bench scraper, hand-held gnocchi board, fork, butter knife, or crank-operated cavatelli maker for shaping the pasta, large sauté pan or skillet, large pot, large spider skimmer or slotted spoon
+
+10. Double-milled semolina flour, also known as Semolina rimacinata is finely-ground hard durum wheat that has a high protein content, light yellow color, and a soft texture. You can purchase semolina rimacinata such as the Caputo brand at specialty markets and online.
+
+11. You can freeze the cavatelli in a single layer until they harden, about 15 minutes, then transfer them to a zipperlock bag or airtight container to store in the freezer for up to 3 months. Boil from frozen, adding 1 to 2 additional minutes to the cooking time.
+
+
+---
+
+*Extracted from Serious Eats*

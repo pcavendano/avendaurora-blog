@@ -1,0 +1,287 @@
+Title: Birria de Res (Beef Birria)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Everything you need to know about Mexican birria, including its history, ingredients, variations, and a step-by-step guide to making this ultimate beef version.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: homemade chicken stock or store-bought low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: plum tomatoes
+  preparation:  8 ounces ; 225 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: tomatillos , husks removed
+  preparation:  4 ounces ; 85 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: guajillo chiles, stems removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: California chiles , stems removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: árbol chiles , stems removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 3.5 - ounce pack achiote paste
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: gochujang
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: pounds
+  ingredient: boneless beef chuck roast , trimmed of excess fat and cut into 2-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole yellow onion , unpeeled, ends trimmed
+  preparation:  8 ounces ; 227 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Diced white onion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Minced fresh cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Warmed corn tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked rice
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked beans
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large saucepan, toast peppercorns, cumin seeds, and cloves over medium heat until fragrant, about 30 seconds. Add chicken stock, tomatoes, tomatillos, guajillo, California, and árbol chiles. Bring to a boil over high heat, then turn off the heat, and let rest until tomato skins begin to shrivel and chiles soften, about 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer chicken stock mixture to a blender. Crumble achiote paste into the blender by hand. (see notes) Add gochujang and garlic cloves and blend (in batches if needed) into a smooth puree. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Generously season beef all over with salt and pepper. In a stock pot or large Dutch oven, add the beef, blended chile sauce, water, onion, and bay leaves and cook over medium-high heat, covered, until just simmering.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Continue to cook, covered, reducing heat as needed to maintain gentle simmer (about 180-190°F; 82-88°C), until beef is fork-tender, 3 to 4 hours. Discard onion and bay leaves and season with salt and pepper to taste. Hold warm until ready to serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Serving: Using a slotted spoon, transfer beef to a cutting board. Using 2 forks, shred beef into bite-sized pieces or lightly chop. Ladle consomé into individual serving bowls and top consomé with diced onion and cilantro (this is for dunking and/or spooning over the meat). Serve shredded beef with prepared consomé, warm tortillas, rice, beans, and lime wedges. (see notes)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Achiote paste is available at most latin markets. When shopping for achiote paste, search for a brand that doesn’t include artificial dyes in the ingredient list; it isn’t necessary due to the annatto seed’s natural food coloring properties. My preferred brand is El Yucateco.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Gochujang, a Korean fermented chili paste, is available at Asian markets and well-stocked food stores.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: I recommend wearing plastic gloves when crumbling the achiote paste into the blender to prevent your hands from staining red.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve the consomé hot to prevent the fat from solidifying. If the fat begins to solidify, gently reheat until liquified and gently stir it into the consomé.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- I recommend a Mexican-style tomato rice for serving.
+- The braised beef can also be used as a filling for a quesabirria, mulita, taco, or sandwich.
+- Birria submerged in its liquid can be refrigerated in an airtight container for up to 5 days or frozen for up to 3 months.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes
+
+----
+
+Seo_title: Birria de Res (Beef Birria) | Avenda Aurora
+
+----
+
+Seo_description: Everything you need to know about Mexican birria, including its history, ingredients, variations, and a step-by-step guide to making this ultimate beef version.
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/nE_Xv_lLEbJWfWNlQiM71V5xeRc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231017-SEA-20231010-Birria-Lorena-Masso2219-978722b5803145e294ef85802c5cc890.jpg

@@ -1,0 +1,174 @@
+Title: Kani Salad (Japanese Imitation Crab Salad)
+
+----
+
+Category: mariscos
+
+----
+
+Description: Cool and refreshing, imitation crab salad—or kani salad, as it’s known in Japan—is perfect for hot summer days when all you want is to toss together an easy meal without turning the stove or oven on.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: small
+  ingredient: serrano chile , stemmed, seeded, and minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: rice vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use a pinch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: shallot , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: celery stalk , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: mayonnaise
+  preparation:  3 1/2 ounces ; 100 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: crème fraîche or sour cream
+  preparation:  2 ounces ; 60 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: finely chopped fresh cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: instant dashi powder , such as Ajinomoto
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: flake-style surimi seafood , patted dry
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium bowl, stir together chile, vinegar, and salt. Let stand 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, place shallot in a fine-mesh sieve and rinse under hot water. Drain thoroughly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add rinsed shallot, celery, mayonnaise, crème fraîche, cilantro, and dashi powder to vinegar mixture, stirring with a silicone spatula until dashi powder dissolves. Add surimi, and gently toss to combine. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fine-mesh sieve, silicone spatula
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Surimi is packed with excess liquid that can water log your mayonnaise. Be sure to pat it dry before using.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes
+
+----
+
+Seo_title: Kani Salad (Japanese Imitation Crab Salad) | Avenda Aurora
+
+----
+
+Seo_description: Cool and refreshing, imitation crab salad—or kani salad, as it’s known in Japan—is perfect for hot summer days when all you want is to toss together an easy mea
+
+----
+
+Original_author: Liz Mervosh
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/MW7czPIPMFxymAaimNgsYAj9IM8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230512-SEA-CrabSalad-RobbyLozano-07-143a1c5fb8af48908b897935adeff271.jpg

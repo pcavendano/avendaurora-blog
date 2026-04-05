@@ -1,0 +1,209 @@
+Title: Fried Bee Hoon (Singapore Noodles)
+
+----
+
+Category: platos-fuertes, mariscos
+
+----
+
+Description: Don&#39;t ask for &#34;Singapore noodles&#34; inside Singapore unless you want to be tagged as a tourist. Here&#39;s an authentic version of the dish.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: green Thai bird chiles , seeds removed, sliced crosswise into 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: boiling water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: rice wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: plus 3 tablespoons soy sauce , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: vegetable oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: shallots , peeled and finely sliced
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic sliced thinly
+  preparation: about 2 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: shiitake mushrooms , sliced
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: baby bok choy leaves
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: medium raw shrimp , peeled, deveined, tail left on
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: ounces
+  ingredient: dried rice vermicelli , soaked in hot water for 15 minutes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: bean sprouts
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place sliced chiles in a small bowl. Pour boiling water over to cover. Let sit for 10 minutes, then drain. Add vinegar, 1 teaspoon soy sauce, sugar, and 1/2 teaspoon salt and stir to combine and sugar has dissolved. Chill for at least 30 minutes. For best results, refrigerate overnight. Chiles can be stored in an airtight container in the refrigerator for up to 1 month.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Stir-Fry: Heat 3 tablespoons oil in a wok over medium heat until shimmering. Add shallots, garlic, and mushrooms. Cook, stirring occasionally, until mushrooms have softened and are beginning to brown, 4 to 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Increase heat to medium-high and stir in bok choy. Cook until beginning to wilt, about 1 minute. Add remaining 3 tablespoons oil. Add shrimp, softened vermicelli, 3 tablespoons soy sauce, and white pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cook, stirring, until seasonings are combined with noodles, shrimp are cooked through, and noodles are beginning to brown on bottom of pan (add extra oil if beginning to stick), about 2 minutes. Remove from heat and stir in bean sprouts until combined. Season to taste with salt and/or soy sauce. Serve immediately with pickled chiles on the side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For best results, use dried thin rice vermicelli.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, noodle-recipes, rice-noodle-recipes
+
+----
+
+Seo_title: Fried Bee Hoon (Singapore Noodles) | Avenda Aurora
+
+----
+
+Seo_description: Don&#39;t ask for &#34;Singapore noodles&#34; inside Singapore unless you want to be tagged as a tourist. Here&#39;s an authentic version of the dish.
+
+----
+
+Original_author: Yvonne Ruperti
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/jC0CTRDjwBCLV6bVQo7DOAHqxC8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Fried_Bee_Hoon_SingaporeNoodles_Steps_0881-AntonisAchilleos_1-35d8bea7dfca4f3c93aac86b86811dbb.JPG

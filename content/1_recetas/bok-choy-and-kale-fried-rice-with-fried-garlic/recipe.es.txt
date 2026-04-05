@@ -1,0 +1,172 @@
+Title: Bok Choy and Kale Fried Rice With Fried Garlic
+
+----
+
+Category: vegetarianos, platos-fuertes
+
+----
+
+Description: Fried rice is one of the great one-bowl meals, though this vegetarian version, packed with tender-crisp bok choy and kale and crispy nubs of fried garlic is so good that you&#39;ll probably want to keep it in your repertoire as a side dish as well.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole head of garlic , peeled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: cups
+  ingredient: day-old cooked jasmine or short grain rice
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: chopped kale
+  preparation: about 4 ounces 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: chopped bok choy
+  preparation: about 4 ounces 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Thai bird&#39;s eye chile , finely minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: ground white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Fried Garlic: Transfer garlic to the bowl of a food processor or mini food processor. Pulse until garlic is very finely chopped but not a paste, about 12 short pulses, scraping down sides as necessary. Set aside 2 teaspoons and toss remaining garlic with a pinch of salt in a small bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set a fine-mesh strainer over a heat-proof bowl. Heat oil in a small saucepan over medium heat until shimmering. Add garlic and cook, stirring. Garlic should maintain a gentle bubble. If bubbling vigorously, reduce heat. Cook until garlic is light golden brown, 6 to 8 minutes, then immediately strain. Transfer garlic to a paper towel-lined plate to cool.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Fried Rice: Heat 1 tablespoon garlic oil in a wok over high heat until smoking. Add the kale and bok choy, season with salt, and stir-fry until the vegetables are bright green and barely wilted, about 1 minute. Transfer to a bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat 1 more tablespoon garlic oil in the wok over high heat until smoking. Add reserved raw minced garlic and bird&#39;s eye chile and cook, stirring, until fragrant, about 15 seconds. Add rice and stir immediately, breaking up any large chunks and adding remaining garlic oil as necessary to prevent sticking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season rice with salt and white pepper, then add soy sauce. Return kale and bok choy to rice and toss to combine. Transfer to a warm serving bowl and sprinkle generously with fried garlic. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once the fried garlic has cooled completely, you can store it in an air-tight container at room temperature for up to two months. The leftover garlic oil can be stored in a sealed container in the fridge for up to two weeks.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, rice-grains-main-recipes
+
+----
+
+Seo_title: Bok Choy and Kale Fried Rice With Fried Garlic | Avenda Aurora
+
+----
+
+Seo_description: Fried rice is one of the great one-bowl meals, though this vegetarian version, packed with tender-crisp bok choy and kale and crispy nubs of fried garlic is so 
+
+----
+
+Original_author: Shao Z.
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Dd2sihu604cLdA38tg08MhWYZWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__03__20140228-bok-choy-and-kale-fried-rice-with-fried-garlic-11-8fab99ef186d44cb8892952123384a73.jpg

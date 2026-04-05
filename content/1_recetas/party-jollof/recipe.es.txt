@@ -1,0 +1,228 @@
+Title: Party Jollof
+
+----
+
+Category: salsas, sopas-caldos
+
+----
+
+Description: This smoky Nigerian party jollof rice cooks low and slow, then finishes over high heat for a crisp, flavorful crust and rich, spiced tomato-pepper flavor.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: plum or Roma tomatoes , cored and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: red bell peppers or 2 r ed shepherd peppers , stemmed, seeded, and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: Scotch bonnet or habanero pepper , stemmed and seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: curry-flavored Nigerian stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: neutral oil such as peanut or vegetable oil, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , thinly sliced, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Caribbean/Jamaican-style curry powder , plus more if needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black or white pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: teaspoons
+  ingredient: unsalted butter , divided
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: curry-flavored Nigerian stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: converted long-grain rice or Golden Sella basmati, rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: plum or Roma tomato , halved then sliced thinly crosswise into half-moons
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a 3-quart saucier or saucepan, add blended vegetable base and bring to a boil over medium-high heat, cover partially. Once boiling, reduce heat to medium-low and cook, stirring occasionally and scraping bottom of pan with a wooden spoon to avoid scorching, until reduced by half (roughly about 2 1/2 cups; 590 ml), about 30 minutes. Remove from heat and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Jollof Rice: In a 4- or 5-quart pot or Dutch oven, heat 2 tablespoons oil over medium heat until shimmering. Add half of onion, bay leaves, curry powder, dried thyme, a large pinch of salt, and a large pinch of black or white pepper. Cook, stirring constantly, until mixture is fragrant and onion softens slightly, about 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in stock and bring to a boil over high heat. Season with salt and pepper to taste. The curry powder should come through pleasantly but not be overpowering; whisk in more curry powder to taste if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in rice until evenly coated in sauce. Cover pot with a double piece of aluminum foil or parchment paper, crimped down around the edges to seal pot tightly, then top with lid. Reduce heat to the lowest setting and cook for 20 minutes. Uncover pot and gently stir rice to redistribute. Cover again and continue to cook until rice is just cooked through but grains still retain a firm bite and the liquid is mostly absorbed, about 15 minutes longer. If rice is undercooked and/or still wet, cover and cook 5 minutes longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in sliced tomato along with remaining sliced onion and remaining 1 teaspoon butter; cook uncovered until butter is fully melted, then stir briefly to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Blender, 3-quart saucier or saucepan, 4- or 5-quart pot or Dutch oven, aluminum foil or parchment paper
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, rice-grain-recipes, white-rice-recipes
+
+----
+
+Seo_title: Party Jollof | Avenda Aurora
+
+----
+
+Seo_description: This smoky Nigerian party jollof rice cooks low and slow, then finishes over high heat for a crisp, flavorful crust and rich, spiced tomato-pepper flavor.
+
+----
+
+Original_author: Ozoz Sokoh
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/5zXJ30883fqEM21miWAQWnOs4Fg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250815-SEA-NigerianPartyJoillof-AmandaSuarez-28-2788be875c434943bffb4e6bf1eb2316.jpg

@@ -1,0 +1,236 @@
+Title: Njahi (Kenyan Black Beans) in Coconut Sauce
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Kenyan black beans are cooked until tender, then simmered in an aromatic coconut curry sauce.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: cups
+  ingredient: njahi beans
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Diamond Crystal kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: neutral oil such as avocado oil , plus more if needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: red onion , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: large
+  ingredient: green bell pepper , stemmed, seeded, and finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: garlic cloves , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: scallions , ends trimmed and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: ginger , peeled and minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: garam masala
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño , stemmed, seeded, and minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can coconut milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: roughly chopped cilantro leaves and tender stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large bowl, combine the beans with 2 tablespoons kosher salt. Cover with about 4 cups (1L) water and soak at room temperature until beans swell, about 8 hours or overnight. Once the beans have soaked overnight, they will turn from black to dark brown.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain beans and rinse well under cold running water. Transfer the beans to a large pot or Dutch oven, and cover with at least 2 inches fresh water. Set over high heat and bring to a boil. Cook the beans at a hard boil for 10 minutes, then lower the heat to a gentle simmer and cook, uncovered and stirring occasionally, until the beans are tender, 1 1/2 to 4 hours (our tests revealed a wide range of cooking times for the njahi beans, likely dependent on source and age). Skim any scum that accumulates on the surface. Keep an eye on the water level, adding more water if it gets too low.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Strain beans, reserving at least 2 cups (475ml) of the cooking liquid. Lightly wash pot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the same pot, heat the oil over medium-high heat until fragrant and shimmering. Add the onions and bell pepper and cook, stirring, until the onions have softened, about 4 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the garlic, scallions, ginger, and cumin seeds and cook, stirring, until fragrant, about 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in the tomato paste, garam masala, jalapeño, paprika, ground turmeric, and 1 teaspoon salt, and cook until the tomato paste darkens, about 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Slowly stir in the coconut milk until well combined. Add the cooked beans and 1 cup (235ml) of the reserved cooking liquid. Season generously with salt. Bring to a simmer, lowering heat to maintain simmer, and cook, uncovered, until beans are suspended in a creamy sauce, 30 minutes to 1 hour.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove from heat, stir in cilantro, and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Njahi can be purchased online or at specialty grocery. If you can&#39;t find njahi beans, you can substitute black beans, but reduce the bean cooking liquid added in Step 7 to 1/2 cup (120ml), adding additional bean cooking liquid a few tablespoons at a time only if the stew becomes too thick (this is because black beans can produce a thinner broth than njahi beans, and thus usually require less liquid to reach the final creamy consistency).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, bean-recipes, black-bean-recipes
+
+----
+
+Seo_title: Njahi (Kenyan Black Beans) in Coconut Sauce | Avenda Aurora
+
+----
+
+Seo_description: Kenyan black beans are cooked until tender, then simmered in an aromatic coconut curry sauce.
+
+----
+
+Original_author: Kiano Moju
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/IPYzGkUyA9AfLB3oMgJOoim2kTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210420-njahi-beans-coconut-sauce-vicky-wasik-27-73d6e6fd551640a58399cecb31f2a7c8.jpg

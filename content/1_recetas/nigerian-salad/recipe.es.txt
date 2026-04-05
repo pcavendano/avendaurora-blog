@@ -1,0 +1,223 @@
+Title: Nigerian Salad
+
+----
+
+Category: vegetarianos, platos-fuertes
+
+----
+
+Description: This flexible Nigerian salad combines crisp vegetables, tangy salad cream, and beans for a refreshing, make-ahead dish that&#39;s perfect for any gathering.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: wine or sherry vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: confectioners sugar&#39; sugar , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Dijon or whole grain mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: store-bought mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Zest and juice of 1 lime , plus more juice if you like
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: shredded white or green cabbage
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: shredded carrots
+  preparation: about 2 medium carrots 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: shredded romaine or iceberg lettuce
+  preparation: about 1/4 head 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: firm plum or Roma tomatoes , 1 chopped and 1 sliced 1/4-inch thick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chopped peeled cucumber , plus 1/2 medium cucumber , sliced 1/4 inch thick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: green bell pepper , trimmed and sliced into thin strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , sliced thin
+  preparation: about 1/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: lightly packed fresh cilantro leaves and tender stems , washed, trimmed, and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: Homemade Salad Cream , plus more for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: drained canned black-eyed peas or canned vegetarian baked beans, preferably Heinz Original
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: hard-boiled eggs , peeled and cut into quarters, wedges, or slices
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Salad Cream: In a small bowl, whisk together vinegar, confectioners&#39; sugar, and mustard until combined. Add mayonnaise, lime zest, and juice, and whisk until combined.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season to taste with salt or lime juice, if desired. Set aside until ready to use or refrigerate in an airtight container for up to 7 days.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer dressed vegetables to a large serving platter in an even layer. Spoon the baked beans over the top. Garnish with small piles of the tomato slices, cucumber slices, and hard-boiled eggs. Serve right away or cover and refrigerate until cold, about 1 hour. Serve with extra salad cream.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Store-bough shredded cabbage or coleslaw mix may be substituted for the freshly shredded cabbage.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The salad cream can be refrigerated in an airtight container for up to 7 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, salad-recipes, coleslaw-recipes
+
+----
+
+Seo_title: Nigerian Salad | Avenda Aurora
+
+----
+
+Seo_description: This flexible Nigerian salad combines crisp vegetables, tangy salad cream, and beans for a refreshing, make-ahead dish that&#39;s perfect for any gathering.
+
+----
+
+Original_author: Ozoz Sokoh
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/IVSSwk0sHVKq4rs3Q2H8QaIwlSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250813-SEA-NigerianSalad-Maureen-Celestine-HERO-59040166e9d94e37b0439454ec4a8cf6.jpg

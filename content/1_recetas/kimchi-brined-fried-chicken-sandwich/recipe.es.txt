@@ -1,0 +1,383 @@
+Title: Kimchi-Brined Fried Chicken Sandwich
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: A kimchi-and-buttermilk brine tenderizes and seasons chicken thighs, which are fried until they&#39;re super crisp and stacked on tender toasted buns or homemade biscuits.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "100"
+  unit: ml
+  ingredient: kimchi juice , drained from 1 jar of kimchi
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "225"
+  unit: ml
+  ingredient: buttermilk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: egg
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: g kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: ml
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "35"
+  unit: 
+  ingredient: g gochugaru
+  preparation: Korean red chili flakes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: g coarsely ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: boneless, skinless chicken thighs
+  preparation: 4 to 6 ounces each
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: drained kimchi , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "150"
+  unit: 
+  ingredient: g mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "125"
+  unit: ml
+  ingredient: vegetable or canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "35"
+  unit: 
+  ingredient: g gochugaru
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: g coarsely ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "25"
+  unit: 
+  ingredient: g gochujang
+  preparation: Korean chile paste
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: g honey
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: g apple cider vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: g soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Water , as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: g gochugaru
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: g coarsely ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: g sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: g black sesame seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: g kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "225"
+  unit: 
+  ingredient: g all-purpose flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "75"
+  unit: 
+  ingredient: g cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: g baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "35"
+  unit: 
+  ingredient: g gochugaru
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7"
+  unit: 
+  ingredient: g coarsely ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "35"
+  unit: 
+  ingredient: g black sesame seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "15"
+  unit: 
+  ingredient: g garlic powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: g kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: L peanut oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: soft buns , such as potato rolls, toasted in butter , or 6 black sesame biscuits
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Finely shredded cabbage
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sliced dill pickles
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Brine: Combine kimchi juice, buttermilk, egg, garlic, salt, soy sauce, gochugaru, and black pepper in a large bowl. Add chicken pieces and toss and turn to coat. Transfer the contents of the bowl to a 1-gallon zipper-lock freezer bag and refrigerate for at least 4 hours and up to overnight, flipping the bag occasionally to redistribute the contents and coat the chicken evenly. Meanwhile, make the kimchi mayonnaise, the sauce, the spice rub, and the dredge.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Kimchi Mayonnaise: Place chopped drained kimchi in the middle of a clean kitchen towel and gather up the edges. Twist into a bundle and squeeze tightly over the sink to remove as much excess moisture as you can. Combine kimchi with mayonnaise in a food processor and pulse until kimchi is finely chopped and the mixture has the texture of tartar sauce. Transfer to a sealable container and refrigerate until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Sauce: Combine oil, garlic, gochugaru, and black pepper in a small saucepan and heat over medium heat, stirring constantly. Cook until mixture begins to sizzle and smell toasty and garlic is just starting to turn pale golden around the edges. Immediately drain through a fine-mesh strainer into a clean pot or heatproof bowl. Discard solids and allow oil to cool to room temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Combine gochujang, honey, cider vinegar, soy sauce, and a couple tablespoons water in a blender and slowly ramp it up to maximum speed. Drizzle in the chile oil to form an emulsion. Adjust the consistency with more water as needed. The sauce should be runny, but not watery. Transfer to a sealable container and refrigerate until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Spice Mixture: Combine gochugaru, black pepper, sugar, sesame seeds, and salt in a small bowl. Cover and set aside at room temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Dredge: Combine flour, cornstarch, baking powder, gochugaru, black pepper, sesame seeds, garlic powder, and salt in a large bowl and whisk until homogeneous. Cover and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Cook: In a wok or Dutch oven, heat 2 quarts (2L) peanut oil to 325°F (163°C), using an instant-read thermometer to keep it steady at that temperature. Remove 3 tablespoons of the marinade from the zipper-lock bag, add to the dredge mixture, and work marinade into the dredge mixture with your fingertips. Remove 1 piece of chicken from the bag, allowing excess buttermilk to drip off. Drop chicken into dredge mixture and toss to coat. Continue adding chicken pieces to dredge, one at a time, until they are all in the bowl. Toss chicken until every piece is thoroughly coated, pressing with your hands to get the flour to adhere in a thick layer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Working with one piece at a time, transfer coated chicken to a fine-mesh strainer and shake to remove excess flour. Transfer to a wire rack set in a rimmed baking sheet. Once all the chicken pieces are coated, gently slip as many into the wok or Dutch oven as can fit comfortably in a single layer. The temperature should drop to 275°F (135°C); adjust heat to maintain a temperature of 275 to 300°F (135 to 149°C) for the duration of the cooking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fry chicken until deep golden brown on the first side, about 6 minutes; do not move chicken or start checking for doneness until it has fried for at least 3 minutes, or you may knock off the coating. Using tongs or a flexible fish spatula, carefully flip chicken pieces and cook until second side is golden brown and chicken registers at least 160°F (71°C) when an instant-read thermometer is inserted into the deepest part of the thigh, about 4 minutes longer. Transfer the chicken to a rack set on a rimmed baking sheet.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- To Serve: Spread each bottom and top bun (or each biscuit half) with kimchi mayo. Add cabbage and pickles to the bottom half. Brush chicken pieces with sauce until well coated. Sprinkle with spice mixture. Place chicken pieces on top of cabbage, close sandwiches, and serve.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, frying-recipes, fried-chicken-recipes
+
+----
+
+Seo_title: Kimchi-Brined Fried Chicken Sandwich | Avenda Aurora
+
+----
+
+Seo_description: A kimchi-and-buttermilk brine tenderizes and seasons chicken thighs, which are fried until they&#39;re super crisp and stacked on tender toasted buns or homemad
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/01sqSH_aUTnwC_84Dwho3-eMAE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20181218-kimchi-fried-chicken-sandwich-vicky-wasik-07-05f214a163684dc9b7ccb07ae3a70154.jpg

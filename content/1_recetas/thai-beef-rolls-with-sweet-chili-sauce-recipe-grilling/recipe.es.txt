@@ -1,0 +1,209 @@
+Title: Thai Beef Rolls with Sweet Chili Sauce Recipe | Grilling
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: I&#39;m known for going a little overboard with the food when I grill--actually, make that a lot overboard--leaving my guests little incentive to make their own. I need to learn to cut back, because when people do come with their own creations, they tend to be eye-opening, like a Thai basil wrapped beef that graced my grill recently.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fresh lime juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: thinly sliced green onions
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Sriracha
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: ground chuck
+  preparation: 80% lean
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: thinly sliced green onions
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: finely chopped fresh mint
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: finely chopped Thai chilis
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch of Thai basil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: wooden skewers , soaked in water for at least 30 minutes
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Mix all the ingredients for the sauce in a small bowl until the sugar has dissolved.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large bowl, gently combine the ground chuck with the rest of the filling ingredients.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Shape a tablespoon of the filling into a small log. Wrap 1 basil leaf around the beef and thread onto a skewer. Repeat until all of the filling is gone.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and spread coals out evenly over the charcoal grate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Clean and oil the cooking grate. Grill the rolls until the filling is fully cooked and slightly firm, about 6 to 8 minutes, turning once during cooking. Serve immediately with the dipping sauce.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes, ground-beef-recipes
+
+----
+
+Seo_title: Thai Beef Rolls with Sweet Chili Sauce Recipe | Grilling | Avenda Aurora
+
+----
+
+Seo_description: I&#39;m known for going a little overboard with the food when I grill--actually, make that a lot overboard--leaving my guests little incentive to make their own
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/tnRcX2pbXKydu1slNCVElcURRj0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20080827-thai-beef-rolls-ef1d2ae90a7a4970a3ef95a64ab9a537.jpg

@@ -1,0 +1,378 @@
+Title: The Best Chili Ever
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: The best beef chili combines puréed chiles, short ribs, tender kidney beans, and an array of umami-boosting ingredients.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: dried dark red kidney beans
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: kosher salt or 6 tablespoons table salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: whole ancho , pasilla, or mulato chiles , seeded and torn into rough 1-inch pieces
+  preparation: about 1/2 ounce 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole New Mexico red , California, costeño, or choricero chiles , seeded and torn into rough 1-inch pieces
+  preparation: about 1/8 ounce 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole cascabel , árbol, or pequin chile , seeded and torn in half
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: whole cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: whole coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: star anise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: pounds
+  ingredient: bone-in beef short ribs , trimmed of silver skin and excess fat
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: low-sodium chicken broth , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: chopped unsweetened chocolate
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: extra-finely ground coffee beans
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole anchovy fillets
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Marmite
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: yellow onion , diced fine
+  preparation: about 1 1/2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cloves
+  ingredient: garlic , minced
+  preparation: about 1 tablespoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: fresh Thai bird chiles or 1 jalapeño , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can crushed tomatoes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: cider vinegar , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: vodka or bourbon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: dark brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Buffalo-style hot sauce, such as Frank&#39;s RedHot
+  preparation: or more to taste
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Scallions , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cheddar, Jack, or Colby cheese , grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Jalapeño or Poblano peppers , stemmed, seeded, and diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Onion , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Avocado , diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Saltine crackers
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fritos
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place beans, the 6 tablespoons (54g) kosher salt, and 4 quarts (4L) water in a large container or bowl. Allow to soak at room temperature at least 8 hours and up to 1 day. Drain and rinse soaked beans.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add dried chiles to a large heavy-bottomed Dutch oven or stockpot and cook over medium-high heat, stirring frequently, until slightly darkened with an intense, roasted aroma, 2 to 5 minutes. Do not allow to smoke. Remove chiles, place in a small bowl, and set aside. Alternatively, place dried chiles on a microwave-safe plate and microwave on high power in 15-second increments until chiles are pliable and toasted-smelling, about 30 seconds total. Reduce the heat to medium; add the cumin, coriander, cloves, and star anise to the Dutch oven and stir, toasting until the spices become fragrant. Remove spices, cool slightly, then transfer to a spice grinder and grind into a powder. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season short ribs on all sides with salt and freshly ground black pepper. Add oil to Dutch oven and heat over high heat until smoking. Add half of short ribs and brown well on all sides (it may be necessary to brown ribs in 3 batches, depending on size of Dutch oven—do not overcrowd pan), 8 to 12 minutes total, reducing heat if fat begins to smoke excessively or meat begins to burn. Transfer to a large rimmed baking sheet or plate. Repeat with remaining short ribs, browning them in the fat remaining in Dutch oven. Once all short ribs are cooked, transfer all rendered fat into a small bowl and reserve separately. Allow short ribs to cool at room temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, return Dutch oven to medium-high heat and add 1 cup (240ml) chicken broth, using a flat wooden spoon or stiff spatula to scrape browned bits off of bottom of pan. Reduce heat until chicken broth is at a bare simmer, add toasted chiles to liquid, and cook until chiles have softened and liquid is reduced by half, 5 to 8 minutes. Transfer chiles and liquid to a blender. Add ground spices, chocolate, tomato paste, coffee, anchovies, soy sauce, and Marmite. Blend at high speed, scraping down sides as necessary, until a completely smooth purée has formed, about 2 minutes. Set chile purée aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Trim meat from short rib bones and hand-chop into rough 1/2-inch to 1/4-inch pieces (finer or larger, as you prefer), reserving bones separately. Add any accumulated meat juices to chile purée.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat 4 tablespoons (60ml) rendered beef fat (if necessary, add vegetable oil to reach 4 tablespoons) in a large Dutch oven or heavy-bottomed stockpot over medium heat until shimmering. Add onions and cook, stirring frequently, until softened but not browned, 6 to 8 minutes. Add garlic, fresh chiles, and oregano and cook, stirring frequently, until fragrant, about 1 minute. Add chile purée and cook, stirring frequently and scraping bottom of pot, until chile mixture begins to fry and leaves a coating on bottom of pan, 2 to 4 minutes. Add remaining chicken stock, chopped beef, beef bones, and bay leaves. Bring to a simmer, scraping bottom of pan to loosen browned bits. Reduce heat to lowest possible setting, add beans, and cook, with cover slightly ajar, until beans are almost tender, about 1 hour. Add crushed tomatoes and cider vinegar and cook, with cover slightly ajar, until beans and beef are fully tender and broth is rich and lightly thickened, 2 to 3 1/2 hours longer, adding water if necessary to keep beans and meat mostly submerged (a little protrusion is okay).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using tongs, remove and discard bay leaves and bones. (At this point, any excess meat still attached to the bones can be removed, chopped, and added back to the chili, if desired.) Add vodka (or bourbon), brown sugar, and hot sauce and stir to combine. Season to taste with kosher salt, ground black pepper, and additional vinegar.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve immediately, or, for best flavor, allow to cool and refrigerate overnight, or up to 1 week in a sealed container. Reheat and serve with desired garnishes.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, chili-recipes
+
+----
+
+Seo_title: The Best Chili Ever | Avenda Aurora
+
+----
+
+Seo_description: The best beef chili combines puréed chiles, short ribs, tender kidney beans, and an array of umami-boosting ingredients.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/V9u0mZQAnW_upNkZj4ejM5o3Wvg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-best-chili-recipe-HERO-ca6537699d274a44a868be954b520303.JPG

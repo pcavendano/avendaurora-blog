@@ -1,0 +1,206 @@
+Title: Beef Tongue Tacos With Consomé (Tacos de Lengua y Consomé)
+
+----
+
+Category: antojitos
+
+----
+
+Description: These tacos de lengua pair crisped beef tongue with a rich, aromatic consomé. Slow-cooked, deeply beefy, and easier than you think to make at home.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole beef tongue )
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: white onion , peeled and halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: carrots , peeled and halved crosswise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: celery sticks , halved crosswise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch of cilantro stems , thoroughly washed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: garlic cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: whole black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: whole coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Warm tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Finely diced white onion
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salsa verde , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large pot, cover beef tongue with 4 quarts (4 L) water. Bring to a boil over high heat, then reduce to a simmer and cook for 15 minutes, occasionally skimming scum that rises to the surface.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add halved onion, carrots, celery, cilantro stems, garlic cloves, bay leaves, black peppercorns, coriander seeds, cumin seeds, and 1 tablespoon (9 g) salt. Cover and cook at a gentle simmer until the tongue can be easily pierced with a fork, 4 to 5 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large pot, fine-mesh strainer
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+----
+
+Seo_title: Beef Tongue Tacos With Consomé (Tacos de Lengua y Consomé) | Avenda Aurora
+
+----
+
+Seo_description: These tacos de lengua pair crisped beef tongue with a rich, aromatic consomé. Slow-cooked, deeply beefy, and easier than you think to make at home.
+
+----
+
+Original_author: Octavio Peña
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/MnYE7q7O-T-NME5kqjzgXhZYyrU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20260122-SEA-Consome-de-Lengua-Lorena-Masso-HERO-e26a843cfc19407a99b1e6cfedc19879.jpg

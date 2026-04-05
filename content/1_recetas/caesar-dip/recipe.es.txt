@@ -1,0 +1,203 @@
+Title: Caesar Dip
+
+----
+
+Category: antojitos, salsas
+
+----
+
+Description: Thick, cheesy, and briny all at once, this Caesar dip pairs the assertive garlicky anchovy flavor of Caesar dressing with the texture of a cream cheese-based dip. Scoop it up with crunchy vegetables, chips, or salty crackers.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: anchovy fillets packed in oil, rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: garlic cloves , minced
+  preparation: about 2 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: lemon juice from 1 whole lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: Dijon mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: plain, full-fat cream cheese , softened
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: mayonnaise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: freshly grated Parmesan cheese
+  preparation:  1 ounce ; 25 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped parsley for garnish, if desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fresh cut vegetables , romaine lettuce wedges, chips, or crackers for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place anchovies and garlic in a pile on a cutting board and sprinkle with salt. Roughly chop and mash the mixture with the side of a chef’s knife to form a paste, about 2 minutes. Transfer mixture to the base of a food processor and add the lemon juice, mustard and Worcestershire sauce and pulse until well combined.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the cream cheese, mayonnaise, sour cream, and Parmesan and process until smooth, about 30 seconds. Scrape the edges and bottom of the bowl and blend until well combined, about 15 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer the dip to an airtight container and refrigerate for at least 30 minutes, or up to 24 hours. Stir before transferring dip to a serving bowl and garnish with fresh parsley, if desired. Serve with vegetables, lettuce and/or chips.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Kitchen scale, food processor
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe was tested with Philadelphia brand cream cheese, which topped our Serious Eats cream cheese taste test, but it will work with any brand of full-fat cream cheese.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can easily double this recipe, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The longer the dip rests in the refrigerator, the better the flavors will meld. Consider refrigerating overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Store in an airtight container in the refrigerator. For optimal flavor, it&#39;s best enjoyed within two days, but can be safely stored for up to four days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes
+
+----
+
+Seo_title: Caesar Dip | Avenda Aurora
+
+----
+
+Seo_description: Thick, cheesy, and briny all at once, this Caesar dip pairs the assertive garlicky anchovy flavor of Caesar dressing with the texture of a cream cheese-based di
+
+----
+
+Original_author: Adam Dolge
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/lPypu6Hf3u28yWqNkYs_hfNUmjU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240626-Caesar-Dip-Two-Bites-hero-2438bad15fa6472b97930dc9bc09de54.jpg

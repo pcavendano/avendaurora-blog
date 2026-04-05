@@ -1,0 +1,37 @@
+# Pan con Tomate (Spanish-Style Grilled Bread With Tomato)
+
+> Pan con tomate has five ingredients—bread, tomato, olive oil, garlic, and salt. Make this perfect end-of-summer dish when local tomatoes are ripe and abundant.
+
+**Author:** J. Kenji López-Alt
+
+**Original Image:** https://www.seriouseats.com/thmb/9Dj-zumWHlL_QcPB3dyBb2Q6DCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pan-con-tomate-tomato-bread-spanish-recipe-12-45ce91dfa54c43c89086b788067ebb8f.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-world-cuisine, europe-recipes
+
+
+## Ingredients
+
+- 2 large , ripe beefsteak tomatoes
+- Kosher salt
+- 1 loaf ciabatta , split in half horizontally lengthwise, cut crosswise into 1 1/2-inch slices
+- Extra-virgin olive oil ,divided
+- 2 medium cloves garlic , split in half
+- Flaky sea salt , such as Maldon or fleur de sel
+
+
+## Instructions
+
+1. Split tomatoes in half horizontally. Place a box grater into a large bowl. Rub cut faces of tomatoes over the large holes of a box grater, using the flattened palm of your hand to move the tomatoes back and forth. The flesh should be grated off, while the skin remains intact in your hand. Discard skin and season tomato pulp with kosher salt to taste.
+
+2. Adjust oven rack to 4 inches below broiler and preheat broiler to high. Place bread, cut side up, on a cutting board and brush with some of the olive oil. Season with kosher salt. Place bread, oiled side up, on a rack set in a tray or directly on the broiler rack and broil until crisp and starting to char around the edges, 2 to 3 minutes. Remove bread from oven and rub with the split garlic cloves.
+
+3. Spoon tomato mixture over bread. Drizzle with remaining extra-virgin olive oil and season with flaky sea salt. Serve immediately.
+
+
+---
+
+*Extracted from Serious Eats*

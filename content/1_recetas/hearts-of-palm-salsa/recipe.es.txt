@@ -1,0 +1,167 @@
+Title: Hearts of Palm Salsa
+
+----
+
+Category: antojitos
+
+----
+
+Description: Inspired by salada de palmito, a popular side dish in Central and South America, this fresh tomato salsa has creamy, tender hearts of palm.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: ripe plum tomatoes , cut into 1/4-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , plus more for seasoning; for table salt, use half as much by volume or equal amount by weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can hearts of palm , drained and cut into 1/4-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: medium
+  ingredient: red onion , finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: garlic cloves , finely grated or minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño chile , stemmed, seeded, and finely diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: roughly chopped fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh lime juice from 1 whole lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Tortilla chips , for serving
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large bowl, add tomatoes and salt and toss to combine. Transfer tomatoes to a fine-mesh strainer or colander and set inside large bowl. Let drain for 30 minutes; discard liquid and wipe out bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In now-empty bowl, add drained tomatoes, hearts of palm, onion, garlic, jalapeño, cilantro, and lime juice; mix until thoroughly combined.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve immediately with tortilla chips, or transfer to an airtight container and refrigerate for up to 4 days.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Fine-mesh strainer or colander
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Salsa can be refrigerated in an airtight container for up to 4 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes, salsa-recipes
+
+----
+
+Seo_title: Hearts of Palm Salsa | Avenda Aurora
+
+----
+
+Seo_description: Inspired by salada de palmito, a popular side dish in Central and South America, this fresh tomato salsa has creamy, tender hearts of palm.
+
+----
+
+Original_author: Arlyn Osborne
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/86mU3rEr7AKyRG9_pcpMpSzj0dE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210712-hearts-of-palm-salsa-vicky-wasik-seriouseats-2-b8398fa8794647028254a60e5be4810a.jpg

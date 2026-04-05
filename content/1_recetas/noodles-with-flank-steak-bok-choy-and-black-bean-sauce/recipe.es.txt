@@ -1,0 +1,188 @@
+Title: Noodles with Flank Steak, Bok Choy, and Black Bean Sauce
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Chinese black bean sauce has the power to make anything it touches taste meatier and more robust. More importantly, it does this almost instantly, without any long simmering required. This is especially welcome on a busy weeknight, because all I have to do is prep and cook some vegetables and meat, boil some noodles, mix in sauce, and serve.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: canola oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: garlic clove , minced
+  preparation: about 1 teaspoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh ginger , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , ends trimmed, thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Chinese fermented black bean sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Shaoxing wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: homemade or store-bought low sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: flank steak or skirt steak
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: bok choy , ends trimmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: cremini mushrooms , stems removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: Chinese egg noodles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chili oil
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Bring a large pot of water to a boil over high heat. While the water warms up, season flank steak with salt on both sides. Heat a large cast-iron grill pan over medium-high heat. When hot, brush with a tablespoon of canola oil and add the steak. Cook until nicely browned on the bottom, 4 to 5 minutes. Flip and cook until steak registers 125°F on an instant read thermometer, 4 to 5 minutes longer. Transfer to a large plate and set aside to rest.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add mushroom caps and cook until lightly browned on both sides and tender, 2 to 3 minutes per side. Season with salt and set aside. Brush pan with another tablespoon of canola oil if necessary. Add bok choy leaves and cook until leaves wilt and stems brown and become tender, 1 to 2 minutes per side. Turn off heat an set aside. Season bok choy with salt
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat 1 tablespoon oil in a medium saucepan over medium heat. Add garlic, ginger, and scallions and cook, stirring, until fragrant, 30 seconds to 1 minute. Add black bean sauce, rice wine, and chicken broth and stir until combined. Bring to a simmer and cook until thickened, about 2 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add noodles to the boiling water and cook according directions on the packaging. Drain in a colander and then divide the noodles between four large bowls. Spoon over a couple tablespoons of the sauce. Cut the flank steak against the grain into 1/2-inch thick slices. Divide the steak slices, mushrooms, and bok choy between the four bowls. Drizzle on more of the sauce and some chili oil (optional). Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Black bean sauce and Shaoxing wine can be found in most Asian grocers.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, beef-recipes, steak-recipes, flank-steak-recipes
+
+----
+
+Seo_title: Noodles with Flank Steak, Bok Choy, and Black Bean Sauce | Avenda Aurora
+
+----
+
+Seo_description: Chinese black bean sauce has the power to make anything it touches taste meatier and more robust. More importantly, it does this almost instantly, without any l
+
+----
+
+Original_author: Nick Kindelsperger
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/08fBaiyuaDzBoWpQ0Ont6nEHhU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__09__20130925-267579-dinner-tonight-noodles-steak-bok-choy-mushrooms-black-bean-sauce-8e9cf8d44b4a4b42882958de36be0829.jpg

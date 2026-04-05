@@ -1,0 +1,152 @@
+Title: Coconut Rice Porridge
+
+----
+
+Category: desayunos
+
+----
+
+Description: As a person who steers more toward bacon and steak in the morning, this is one of the precious few sweet dishes that graces my breakfast table with any regularity. Inspired by a coconut breakfast porridge found commonly throughout the Caribbean, this aromatic dish makes for a wonderful and filling vegan brunch.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: cardamom pod
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: long grain rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: coconut milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: vanilla extract
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: sweetened coconut flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: mango , peeled and cut into 1/2 inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime , cut into wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Bring 1 1/2 cups water, cardamom pod, and pinch of salt to a boil, add rice and return to a boil then cover and cook over low heat until water has been fully absorbed and rice is cooked, about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove lid, and fluff rice with a fork. Add coconut milk, sugar, and vanilla extract and bring to a simmer over medium heat. Simmer until mixture has thickened, about 5 minutes. Remove from heat and serve immediately garnished with coconut flakes, mango, and lime wedges.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, rice-grain-recipes
+
+----
+
+Seo_title: Coconut Rice Porridge | Avenda Aurora
+
+----
+
+Seo_description: As a person who steers more toward bacon and steak in the morning, this is one of the precious few sweet dishes that graces my breakfast table with any regulari
+
+----
+
+Original_author: Sydney Oland
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Z14_wvQmjZIunroSaUd0Atl4Lxs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__02__20140308-284646-sunday-brunch-coconut-rice-porridge-4d3afdc164e743f89c0f58d8c9b73d7b.JPG

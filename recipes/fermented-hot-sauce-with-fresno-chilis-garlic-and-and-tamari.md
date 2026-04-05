@@ -1,0 +1,53 @@
+# Fermented Hot Sauce With Fresno Chilis, Garlic, and, and Tamari
+
+> Here&#39;s a fermented hot sauce you&#39;re unlikely to find in stores: charred Fresno chiles and a complex pepper flavor and heat, tamari supplies some savory backbone, while garlic oil blends in for an emulsified sauce that&#39;s creamy and rich.
+
+**Author:** Tim Chin
+
+**Original Image:** https://www.seriouseats.com/thmb/bBc2VrbGRGigMXBzcRpUP8-CwUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2021__02__20210128-fermented-hot-sauce-charred-fresno-tamari-vicky-wasik-ec8e5f05468443f9adc456686fbff1c9.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-course, condiment-sauce-recipes, hot-sauce-recipes
+
+
+## Ingredients
+
+- 25 ounces ( 700 g ) stemmed Fresno chile peppers (from about 1 3/4 pounds / 800 g whole peppers)
+- 1/4 cup ( 60 ml ) bottled, filtered, or distilled water
+- 3 tablespoons ( 45 ml ) tamari
+- 1 tablespoon ( 10 g ) Diamond Crystal kosher salt ; for table salt use half as much by volume or the same weight
+- 1/2 cup ( 120 ml ) distilled white vinegar
+- 2 teaspoons ( 10 g ) sugar
+- 2 teaspoons ( 8 g ) Diamond Crystal kosher salt ; for table salt use half as much by volume or the same weight
+- 1/2 cup ( 120 ml ) roasted garlic oil
+
+
+## Instructions
+
+1. For The Mash: Adjust oven rack as close as possible to broiler element and preheat broiler to high. On a foil-lined rimmed baking sheet, arrange 10 1/2 ounces (300g) peppers in a single layer. Broil until peppers are blistered and well charred, 5 to 8 minutes per side. Cooked peppers should weigh about 7 ounces (200g) after broiling. Let peppers cool completely before using.
+
+2. In a food processor, pulse charred peppers, remaining 14 1/2 ounces (400g) fresh peppers, water, tamari, and salt until coarse mash forms, 16 to 20 pulses.
+
+3. Transfer pepper mash to a clean wide-mouth, 1-quart canning jar. Tap jar lightly on palm to remove any air pockets. Cover surface of mash with plastic wrap, pressing gently to ensure full contact, and weigh down with fermentation weight or small jar lid. Seal jar with airlock lid following manufacturer&#39;s instructions.
+
+4. Store pepper mash in dark area away from sun and let ferment, maintaining an ambient temperature between 55°F (13°C) and 75°F (24°C), for 7 days; check mixture daily for signs of gas formation (mash will climb up sides of jar; this is a good sign). Starting on the 7th day, taste mash daily until it has reached a pleasantly sour flavor (like sauerkraut); the total fermentation time can take anywhere from 7 to 21 days.
+
+5. To Finish the Hot Sauce: Scrape mash into a blender. Add vinegar, sugar, and salt, and blend on high speed until smooth, about 1 minute. With blender running, slowly stream in garlic oil and blend until smooth and emulsified, about 1 minute longer. Measure pH using strips or pH-meter to make sure sauce is about 3.4; if it is too high, lower pH to 3.4 with more vinegar as needed.
+
+6. Strain sauce through fine-mesh strainer set over a nonreactive bowl or large container, pressing on solids to extract as much liquid as possible; reserve solids for another use (see note).
+
+7. Transfer strained hot sauce to glass bottles or jar, cover, and keep refrigerated until ready to use. Sauce will keep refrigerated for up to 1 month.
+
+8. Broilers tend to vary greatly in intensity and speed of cooking. Check the peppers after 5 minutes to monitor the rate of charring in Step 1. If you can’t find tamari, regular soy sauce will work as well, but the umami flavor will be slightly less pronounced.
+
+9. Reserved strained solids from the fermentation can be incorporated into a mignonette for oysters, added to sofritos and other sautéed aromatic vegetable bases in soups and stews, and as an alternative to tomato and chile pastes in some recipes.
+
+10. The finished hot sauce can be refrigerated for up to 1 month; after that point it may experience a loss in flavor quality, though will still be safe to eat.
+
+
+---
+
+*Extracted from Serious Eats*

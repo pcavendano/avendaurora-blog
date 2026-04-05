@@ -1,0 +1,159 @@
+title: Ingrediente
+icon: 🌶️
+num: '{{ page.title.slug }}'
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          title:
+            label: Nombre
+            type: text
+            required: true
+            translate: true
+
+          also_known_as:
+            label: También Conocido Como
+            type: tags
+            translate: true
+            help: Otros nombres regionales
+
+          description:
+            label: Descripción
+            type: textarea
+            translate: true
+            size: medium
+
+          cover:
+            label: Imagen Principal
+            type: files
+            max: 1
+            layout: cards
+
+          gallery:
+            label: Galería (formas del ingrediente)
+            type: files
+            layout: cards
+
+          origin:
+            label: Origen e Historia
+            type: textarea
+            translate: true
+
+          flavor_profile:
+            label: Perfil de Sabor
+            type: textarea
+            translate: true
+            help: Describe el sabor, aroma y textura
+
+          culinary_uses:
+            label: Usos Culinarios
+            type: textarea
+            translate: true
+
+          storage_tips:
+            label: Tips de Almacenamiento
+            type: textarea
+            translate: true
+
+          # Relationship section - KEY FEATURE
+          relationship_box:
+            label: Relación con Otros Ingredientes
+            type: info
+            theme: notice
+            text: |
+              Aquí explica si este ingrediente tiene una forma fresca/seca.
+              Ejemplo: Jalapeño (fresco) → Chipotle (ahumado)
+
+          related_ingredients:
+            label: Ingredientes Relacionados
+            type: pages
+            query: site.find('ingredientes').index
+            multiple: true
+            help: Ej. Jalapeño está relacionado con Chipotle
+
+          relationship_explanation:
+            label: Explicación de la Relación
+            type: textarea
+            translate: true
+            help: "Ej: El chipotle es el mismo chile jalapeño pero secado y ahumado"
+
+          substitutes:
+            label: Sustitutos
+            type: pages
+            query: site.find('ingredientes').index
+            multiple: true
+
+  sidebar:
+    width: 1/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          category:
+            label: Categoría
+            type: select
+            required: true
+            options:
+              chiles: Chiles
+              hierbas: Hierbas y Especias
+              maiz: Maíz y Masa
+              frijoles: Frijoles y Legumbres
+              verduras: Verduras
+              frutas: Frutas
+              lacteos: Lácteos y Quesos
+              carnes: Carnes
+              mariscos: Mariscos
+              otros: Otros
+
+          heat_level:
+            label: Nivel de Picor (0-10)
+            type: range
+            min: 0
+            max: 10
+            default: 0
+            help: Solo para chiles
+
+          scoville_min:
+            label: Scoville Mínimo
+            type: number
+            width: 1/2
+
+          scoville_max:
+            label: Scoville Máximo
+            type: number
+            width: 1/2
+
+          available_forms:
+            label: Formas Disponibles
+            type: multiselect
+            options:
+              fresh: Fresco
+              dried: Seco
+              canned: Enlatado
+              frozen: Congelado
+              powder: En Polvo
+              paste: En Pasta
+              pickled: En Escabeche
+
+          season:
+            label: Temporada
+            type: multiselect
+            options:
+              spring: Primavera
+              summer: Verano
+              fall: Otoño
+              winter: Invierno
+              year-round: Todo el Año
+
+      stores:
+        type: fields
+        fields:
+          available_at:
+            label: Disponible en Tiendas
+            type: pages
+            query: site.find('tiendas').children
+            multiple: true

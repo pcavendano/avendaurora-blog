@@ -1,0 +1,179 @@
+Title: Torta de Elotes (Corn Torte)
+
+----
+
+Category: postres
+
+----
+
+Description: To feed the hordes, doña María used to make her torta de elotes in a large, deep, rectangular baking dish, which I suspect was actually a medium-sized roasting pan. It was thick, dense, and hearty; an edible corn brick that tasted of earthy white corn and pungent cheese.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Baking spray
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: ears fresh corn , husks and silk removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans hominy , drained
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2/3"
+  unit: cup
+  ingredient: crema or sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: ounces
+  ingredient: queso duro or haloumi , finely grated
+  preparation: see Notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: eggs , beaten
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter , melted and cooled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and preheat oven to 350°F. Spray 13- by 9-inch baking dish with baking spray.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cut each cob in half crosswise. Stand the cob upright, resting the cut end on a cutting board, pie plate, or large shallow mixing bowl. With a chef’s knife, cut the kernels off, rotating the cob as you go. Discard the cob. Repeat with remaining cobs.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pulse corn in food processor until it turns to pulp—if you have a small food processor, do this in two batches—and transfer it to a large mixing bowl. Pulse hominy in food processor until it turns into a smooth paste and add it to the corn pulp.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir together corn and hominy, then add crema, cheese, sugar, eggs, butter, baking powder, and salt; stir until thoroughly combined.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Scrape batter into prepared baking dish. Bake until torta is set and the sides pull away slightly from the baking dish, 60 to 75 minutes. Cool torta in pan set on cooling rack, about 1 hour. Torta may be served warm or at room temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 13- by 9-inch baking dish, food processor, cooling rack
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, dessert-recipes, cake-recipes, sheet-cake-recipes
+
+----
+
+Seo_title: Torta de Elotes (Corn Torte) | Avenda Aurora
+
+----
+
+Seo_description: To feed the hordes, doña María used to make her torta de elotes in a large, deep, rectangular baking dish, which I suspect was actually a medium-sized roasting 
+
+----
+
+Original_author: María del Mar Cuadra
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/FZrn37ZhozQkyfjIXufq4p7uPws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2011__07__20110722-127677-Dulces-Torta-Elotes-PRIMARY-a35cacabdbc94094ac1a89eead8b599d.jpg

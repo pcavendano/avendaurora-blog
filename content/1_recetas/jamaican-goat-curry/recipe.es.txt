@@ -1,0 +1,174 @@
+Title: Jamaican Goat Curry
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: There are very few Jamaican dishes more popular or delicious than goat curry.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: pounds
+  ingredient: bone-in goat meat for stew
+  preparation: about 2-inch chunks
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: onions , chopped medium
+  preparation: about 2 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: garlic cloves , smashed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: to 5 tablespoons Jamaican curry powder
+  preparation: spicy or non-spicy
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: -inch piece ginger , peeled and minced
+  preparation: about 2 tablespoons minced 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 habanero or Scotch bonnet peppers , seeded and chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: water or low-sodium chicken broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: russet potatoes , peeled and cut into 1-inch cubes
+  preparation: about 2 cups 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Curry: Heat 2 tablespoons of oil in a 3-quart saucepan or dutch oven over medium-high heat until shimmering. Add 1/3 of goat to pan and brown on all sides, about 6 minutes. Transfer to a plate. Repeat with remaining goat in two more batches, adding additional oil as necessary and controlling heat to prevent burning.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return pan to heat and add onions and garlic. Cook, stirring frequently until onions are softened, about 4 minutes. Add curry powder and cook, stirring constantly until fragrant, about 30 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add ginger and pepper and cook, stirring frequently, until fragrant, about 1 minute. Add the water or chicken broth to the pot, along with the browned meat. Add 2 teaspoons kosher salt. Scrape up any browned bits from bottom of pot. Bring to a boil, reduce to a simmer, cover the pot, and cook for 1 1/2 hours. Add potatoes and continue cooking until goat is completely tender, 30 minutes to 1 hour longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Serving: Skim the fat off the broth. Or, let the curry cool and place it into the refrigerator. Skim off the solidified fat on top. Warm the curry again. Season to taste with more salt, and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 3-quart saucepan
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, goat-recipes
+
+----
+
+Seo_title: Jamaican Goat Curry | Avenda Aurora
+
+----
+
+Seo_description: There are very few Jamaican dishes more popular or delicious than goat curry.
+
+----
+
+Original_author: Chichi Wang
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/gi-o1MIyQEdsO4md-n4v0nKThgQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__06__20120612-nasty-bits-goat-cooked-3bbd4592383c489c848e7126be705b3d.jpg

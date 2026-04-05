@@ -1,0 +1,184 @@
+Title: Fresh and Creamy Lime Pie
+
+----
+
+Category: postres
+
+----
+
+Description: This pie relies on the killer combo of citrus and dairy (think Creamsicle) for a mellow, sweet, and sour dessert.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: recipe whole wheat pie crust , blind-baked according to recipe directions
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "9"
+  unit: ounces
+  ingredient: sugar
+  preparation: shy 1 1/3 cups ; 255 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: ounces
+  ingredient: cornstarch
+  preparation: about 1/3 cup plus 1 tablespoon ; 42 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use about half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: eggs
+  preparation: about 7 ounces ; 195 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: ounce
+  ingredient: lime zest , from about 4 limes
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: fresh lime juice , from about 8 limes
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "16"
+  unit: ounces
+  ingredient: milk , any percentage will do
+  preparation: about 2 cups ; 455 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: rosewater
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Swiss meringue , full or half batch as desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Getting Ready: In a 9-inch glass pie dish, prepare and blind-bake the whole wheat pie crust according to the directions in the recipe. This can be done up to a week in advance; crust can be held at room temperature if wrapped tightly in plastic.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Filling: In a 3-quart stainless steel saucier, combine sugar, cornstarch, and salt and mix until smooth, then whisk in eggs, lime zest, and lime juice, followed by milk. Cook over medium-low heat, whisking constantly but gently, until hot to the touch, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Increase heat to medium and continue whisking until thick, about 3 minutes longer. When custard begins to bubble, set a timer and continue whisking for exactly 2 minutes. (This is important to neutralize a starch-dissolving protein found in egg yolks.) Remove from heat and stir in rosewater, if using. Pour into prepared pie crust. For a silkier texture, first strain through a stainless steel sieve, pushing the thick custard through with a flexible spatula.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Topping: Adjust oven rack to lower-middle position and preheat to 375°F (190°C). Prepare Swiss meringue as directed, making a half or full batch depending on your own personal preference for meringue. Transfer to a piping bag fitted with a large star tip. Starting at the very edge of the pie, pipe meringue kisses over surface of custard until completely covered. Alternatively, spread meringue over custard with the back of a spoon. Place on a wire rack set inside a half sheet pan (this setup minimizes heat transfer to the custard) and bake pie until meringue is well browned, about 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Serve: Cool pie to room temperature, then cover loosely in plastic and refrigerate until no warmer than 60°F (16°C), about 3 1/2 hours. Cut with a wet chef&#39;s knife, rinsing the blade clean with cold water between slices. Wrapped in plastic, leftovers can be refrigerated up to 1 week.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can zest and juice the limes right before making the pie, or do it up to 3 days in advance; combine and refrigerate in a nonreactive, airtight container until ready to use. If you like, save the leftover rinds to make a lime variation of fresh lemon syrup .
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When working with citrus, it&#39;s vital to use nonreactive equipment throughout—a stray aluminum whisk, pot, or sieve is all it takes to give the custard a harsh, metallic flavor.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, dessert-recipes, pie-recipes
+
+----
+
+Seo_title: Fresh and Creamy Lime Pie | Avenda Aurora
+
+----
+
+Seo_description: This pie relies on the killer combo of citrus and dairy (think Creamsicle) for a mellow, sweet, and sour dessert.
+
+----
+
+Original_author: Stella Parks
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/WDUVptF3rndXfTJrrOvn_Tm9uNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__01__20171129-lime-meringue-pie-vicky-wasik-12-1500x1125-1-e952df646f0f46cb9305002dde1823cc.jpg

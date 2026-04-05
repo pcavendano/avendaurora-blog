@@ -1,0 +1,179 @@
+Title: Fresh Chili Harissa
+
+----
+
+Category: postres, bebidas
+
+----
+
+Description: This version of the punchy North African chili paste is made with an assortment of fresh chiles that are charred and blended together for smoke and spice. It&#39;s simply seasoned, but can be modified to your taste.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: medium
+  ingredient: red bell peppers
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: poblano pepper
+  preparation:  100 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: Fresno chile peppers
+  preparation:  160 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: serrano chiles
+  preparation:  30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil , such as canola, corn, or grape seed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: ground caraway
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond crystal kosher salt ; for table salt, use about half as much by volume or the same by weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: freshly squeezed lemon juice , from about 1 whole lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat broiler. Line rimmed baking sheet with foil and set bell, poblano, fresno, and serrano peppers on it. Rub peppers with oil. Place under broiler and cook peppers, rotating as needed, until evenly charred all over, about 10 minutes. Transfer charred peppers to large bowl and cover with plastic wrap to steam.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in dry sauté pan, toast coriander and caraway over medium heat until fragrant. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once peppers are cool enough to handle, remove their skins, seeds, and stems with gloved hands. Place cleaned peppers in food processor and blend until smooth.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer pepper paste to bowl. Finish harissa by mixing in toasted coriander and caraway, salt, lemon, and olive oil. The harissa is best the next day and keeps in the refrigerator for a week.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Rimmed baking sheet, food processor , gloves
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Mix and match any fresh chiles you have on hand. For a spicier harissa, use smaller varieties; stick with larger sweet chiles if you prefer a milder condiment.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes
+
+----
+
+Seo_title: Fresh Chili Harissa | Avenda Aurora
+
+----
+
+Seo_description: This version of the punchy North African chili paste is made with an assortment of fresh chiles that are charred and blended together for smoke and spice. It&#3
+
+----
+
+Original_author: Sohla El-Waylly
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/3HV8zcrAVbNd3EpSUAen1vN1SXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__03__20180327-fresh-harissa-vicky-wasik9-fe9edaccc4434189908921924534beb5.jpg

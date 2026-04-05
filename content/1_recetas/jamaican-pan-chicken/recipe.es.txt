@@ -1,0 +1,240 @@
+Title: Jamaican Pan Chicken
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: Marinated with fragrant island spices like Scotch bonnet pepper, scallion, and thyme, pan chicken is hot, smoky, and tender—the ultimate Jamaican fast food.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: scallions , root ends trimmed and scallions roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: ounces
+  ingredient: peeled fresh ginger knob ), roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: Scotch bonnet pepper , stems removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: vegetable oil or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: light brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: picked fresh thyme leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: white cane vinegar , such a Grace Brand, or distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , plus more for seasoning
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole chicken
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: limes , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Ketchup
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Scotch bonnet pepper sauce , such as Walkerswood, Busha Browne, Spur Tree, or Grace brands
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: slices
+  ingredient: Jamaican hardo bread
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a blender or food processor, combine scallions, ginger, garlic, Scotch bonnet, oil, soy sauce, brown sugar, thyme, cane vinegar, salt, paprika, turmeric, and black pepper and pulse, scraping down sides as necessary, until a paste forms.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using kitchen shears or a heavy-duty knife, divide chicken into 4 skin-on, bone-in parts (2 breast halves with wings attached and 2 legs). Rub chicken all over with lime, making sure to get inside cavity and under skin, then rub chicken with salt and pepper in the same manner.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using your hands, massage 1/2 cup (120ml) marinade liberally all over chicken, making sure to get marinade under skin, under the wings, and all over meat; reserve remaining marinade for later use (see notes). Transfer chicken to a rimmed baking sheet or large, heavy-duty zipper-lock bag. Cover chicken or seal bag, pressing out air, and refrigerate for at least 2 hours and preferably overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Light one chimney full of charcoal. When all charcoal is lit and covered with gray ash, pour out and arrange coals on one side of charcoal grate. Set cooking grate in place. Alternatively, turn half the burners on a gas grill to high, leaving the other half off. Cover grill, and allow to preheat for 5 minutes. Clean and oil grilling grate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place chicken, skin side up, on cooler side of grill, with legs facing toward hotter side. Cover grill with vents on lid open and aligned over chicken. Open bottom vents of grill if using a charcoal grill. Cook until an instant-read thermometer inserted into thickest part of breast registers 120°F (50°C). Carefully flip chicken and place on hotter side of grill, skin side down, with breasts pointed toward cooler side. If using a gas grill, reduce heat to medium-low. Press down firmly with a wide, stiff spatula to ensure good contact between bird and grill grates. Cover and cook until skin is crisp and lightly charred and an instant-read thermometer inserted into thickest part of breast registers 150°F (66°C), about 10 minutes longer. If chicken threatens to burn before temperature is achieved, carefully slide to cooler side of grill, cover, and continue to cook until done. Do not leave the lid off for longer than it takes to check temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer chicken to a cutting board and allow to rest for 5 to 10 minutes. Carve and serve with ketchup, pepper sauce, and Jamaican hardo bread.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The extra marinade can be transferred to a small freezer bag; press out air as you seal the bag, then freeze for up to 3 months.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, chicken-recipes
+
+----
+
+Seo_title: Jamaican Pan Chicken | Avenda Aurora
+
+----
+
+Seo_description: Marinated with fragrant island spices like Scotch bonnet pepper, scallion, and thyme, pan chicken is hot, smoky, and tender—the ultimate Jamaican fast food.
+
+----
+
+Original_author: Michelle and Suzanne Rousseau
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/6xOGMN1PiMndv1KYHfBa--b42-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230511-SEA-PanChicken-KarinaMatalon-hero-840f61c426c6444a8fdb3b80d67b577f.jpg

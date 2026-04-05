@@ -1,0 +1,141 @@
+Title: Perfect Guacamole
+
+----
+
+Category: antojitos
+
+----
+
+Description: Properly handling the avocados and flavorings yields the most flavorful guacamole with the best texture.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: of 1 medium white onion , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: serrano chile , stemmed and roughly chopped
+  preparation: remove seeds before chopping for a less hot result
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: picked cilantro leaves and tender stems , finely chopped, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: ripe Hass avocados
+  preparation: about 7 ounces ; 200 g each
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 tablespoons fresh lime juice
+  preparation: from about 2 limes 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place onion, chile, half of cilantro leaves, and a large pinch of salt in a molcajete or mortar and pestle. Pound into a fine paste. Alternatively, combine onion, chile, half of cilantro, salt, and half of lime juice in a food processor or blender and process, scraping down sides as necessary, until smooth paste is formed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Split each avocado in half, discard pits, and spoon out flesh into the molcajete or mortar and pestle (if large enough), or combine with the onion-chile purée in a medium mixing bowl. Roughly mash with the pestle or a stiff whisk.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in remaining cilantro leaves, then season with lime juice and salt to taste. Serve immediately with warm tortilla chips or as desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Guacamole is best made right before serving. If you do need to hold it, it is best kept refrigerated in an airtight container with plastic wrap pressed directly against the surface of the guacamole (this will reduce expose to air and slow down browning caused by oxidation).
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes, guacamole-recipes
+
+----
+
+Seo_title: Perfect Guacamole | Avenda Aurora
+
+----
+
+Seo_description: Properly handling the avocados and flavorings yields the most flavorful guacamole with the best texture.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/VTwhFgnY8zJp89MBmGrbt4vx48k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2012__01__20210318_BasicGuacamole_LizClayman-9-96a19c7b8d6243709b27a44ec65f283b.jpg

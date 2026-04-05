@@ -1,0 +1,461 @@
+Title: Bibimbap
+
+----
+
+Category: salsas, platos-fuertes
+
+----
+
+Description: An assortment of banchan (side dishes), a dollop of gochujang, and a drizzle of sesame oil makes this comforting homestyle bibimbap a favorite in Korea.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "9"
+  unit: ounces
+  ingredient: ground beef
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Yangjo ganjang soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: A drop of toasted sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: minced garlic , about 1 clove
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10 1/2"
+  unit: ounces
+  ingredient: Korean Moo radish , peeled and julienned 1mm thick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt , use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: gochugaru
+  preparation:  Korean chile flakes 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: minced garlic , about 3 medium cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: saeujeot
+  preparation: salted shrimp condiment
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: maesil syrup
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: pinches ground ginger powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: spring onion , sliced 1/4-inch thick crosswise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground toasted sesame seed powder
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10 1/2"
+  unit: ounces
+  ingredient: fresh spinach , washed well of any grit or sand
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: minced garlic , about 2 medium garlic cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Diamond Crystal kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: yangjo ganjang soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: toasted sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground toasted sesame seeds
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7"
+  unit: ounces
+  ingredient: mung bean sprouts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: yangjo ganjang soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Diamond Crystal kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: toasted sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: minced garlic , about 1 clove garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground toasted sesame seeds
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7"
+  unit: ounces
+  ingredient: carrots , peeled and julienned 3mm thick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Diamond Crystal kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: perilla oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "9"
+  unit: ounces
+  ingredient: summer squash or zucchini , cut into 1/4-in-thick strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: saeujeot
+  preparation: salted shrimp condiment
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: perilla oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: minced garlic , about 2 medium cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground toasted sesame seeds
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "7"
+  unit: ounces
+  ingredient: shiitake mushrooms , stemmed and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: perilla oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: yanjo ganjang soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: minced garlic , about 2 medium cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: sushi rice
+  preparation:  14 ounces ; 400 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: vegetable oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Marinated beef
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and gochujang , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Toasted sesame oil , for drizzling
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: To Marinate the Beef: In a medium bowl, season ground beef with soy sauce, sugar, sesame oil, black pepper, and garlic. Let marinate for at least 10 minutes and up to 45 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, for the Radish Kimchi: In a large mixing bowl, combine the radish with salt, gochugaru, garlic, shrimp paste, maesil syrup, and ginger. Massage seasonings into radish until it softens; there may be some juice. Add the sliced spring onion and sesame powder, then toss lightly to combine. Set aside and allow to sit for at least 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Spinach: In a medium saucepan of salted boiling water, cook spinach until wilted, about 1 minute. Immediately drain in a colander or strainer and rinse under cold water. In a medium bowl, toss spinach with chopped garlic, salt, soy sauce, sesame oil, and toasted sesame powder. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Bean Sprouts: In a medium saucepan, combine bean sprouts with just enough water to cover. Cover saucepan and set over medium heat until water comes to simmer and sprouts are steamed and crisp-tender, about 10 minutes total. Drain and rinse sprouts immediately under cold water. In a medium bowl, season sprouts with soy sauce, salt, toasted sesame powder, chopped garlic, and sesame oil. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Carrots: Wipe the pan out, drizzle in perilla oil, and set over medium heat. Add perilla oil, carrots, a pinch of salt, and cook, stirring often, until slightly softened, about 8 minutes; add water as needed in 1 tablespoon (15ml) increments to keep the carrots plump during cooking and prevent browning, but without making them overly wet. Transfer to a plate or small bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Squash: In a 10-inch nonstick skillet, combine perilla oil with squash, garlic, and shrimp paste and set over medium heat. Cover and cook, stirring often and lifting the lid only to check cooking progress, until squash is tender but still holds its shape, about 5 minutes. (Covering the skillet traps stream, which we want here to prevent browning and keep the squash extra plump). Transfer to a plate or small bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Shiitake Mushrooms: Wipe the pan out, drizzle in the perilla oil, and set over medium heat. Add sliced mushrooms, and garlic, and cook, stirring often, until mushrooms begin to soften, about 7 minutes; add water as needed in 1 tablespoon (15ml) increments to keep the mushroom plump and tender during cooking and prevent browning, but do not make them overly wet. Stir in soy sauce and freshly ground black pepper. Transfer to a plate or bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Rice: In a large bowl, cover rice with water and, using your hands, swish and rinse rice until water becomes cloudy, about 30 seconds. Using a fine-mesh strainer, drain rice, then repeat until the water runs clear. Transfer drained rice to the bowl of a rice cooker. Add 1 cup water and cook according to manufacturer&#39;s instructions. Alternatively, in a medium saucepan, combine drained rice with 1 cup water, bring to a simmer over medium heat, then cover, lower heat to low, and cook until rice is tender and fluffy, about 15 minutes or following timing on rice package. Remove from heat, fluff rice, then keep warm until ready to serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Finish and Serve: In a large nonstick skillet, heat 1 tablespoon (15ml) oil over medium-high until it begins to shimmer. Add the marinated beef and cook, stirring often, until cooked through and lightly browned, about 10 to 15 minutes. Transfer beef to a clean bowl and set aside; wipe out skillet. Add the remaining 2 tablespoons (30ml) oil and heat until slightly shimmering. Break four eggs into the skillet, season with salt, and cook until whites are just set and the yolks are still runny, about 3 minutes.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Fill four bowls with steamed rice. Wet the radish kimchi in its juice and arrange the prepared toppings on the rice in a circular pattern. Top each bowl with a sunnyside egg, a spoonful of gochujang, and a drizzle of sesame oil. Serve, passing additional gochujang at the table for diners to mix in to taste.
+- 10-inch nonstick skillet
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, east-asian-recipes, korean-recipes
+
+----
+
+Seo_title: Bibimbap | Avenda Aurora
+
+----
+
+Seo_description: An assortment of banchan (side dishes), a dollop of gochujang, and a drizzle of sesame oil makes this comforting homestyle bibimbap a favorite in Korea.
+
+----
+
+Original_author: Seoyoung Jung
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/9gYczIvS4R7ZvK19ahBns0xOG_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230113-Bibimbap-AmandaSuarez-hero-331e5e1ffa5b400fbb684e59b14d57c1.JPG

@@ -1,0 +1,203 @@
+Title: Salsa Negra (Sinaloan Salsa for Seafood)
+
+----
+
+Category: bebidas, salsas
+
+----
+
+Description: Salsa negra’s punch of heat, complexity, and savory backbone pairs perfectly with seafood and more.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Worcestershire sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh lime juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: tomato paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: onion powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Jugo Maggi
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: ground clove
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch dried Mexican oregano
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: small
+  ingredient: dried árbol chiles , stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 6 dried chiltepín chiles
+  preparation: also called tepín chiles
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium bowl, whisk together soy sauce, Worcestershire sauce, lime juice, tomato paste, onion powder, Jugo Maggi, cumin, black pepper, and clove. Crumble the oregano into powder with your fingers, then stir into the soy sauce mixture.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small cast iron or stainless-steel skillet, toast the árbol chiles and chiltepín chiles over medium heat, stirring frequently, until fragrant, about 2 minutes. Transfer to a molcajete or mortar and pestle.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add 1 tablespoon (15ml) soy sauce mixture and chiles and grind until seeds are mostly pulverized and the largest remaining scraps of dried chile are no more than 1/4-inch long (see notes). Scrape in remaining soy sauce mixture and stir and scrape until well combined with chile paste. Grind in additional chiltepîn chiles one or two at a time until desired heat level is reached. Let stand at least 1 hour for flavors to meld, then serve with your favorite seafood dishes or refrigerate in an airtight container for up to 2 weeks.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Molcajete or textured mortar and pestle
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can find Jugo Maggi at most Mexican grocery stores or on Amazon. The version available in the U.S. is called Maggi Seasoning, but the recipe and taste are quite different; both use wheat protein but Jugo Maggi is more concentrated, with additional spices and vinegar.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Make sure to use Mexican oregano, a plant in the verbena family, and not Italian oregano (which is in the mint family). If it isn’t available at your regular grocery store, you can find it at a Mexican grocery store.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The more finely ground the chiles are, the thicker the salsa will be. You can thin out the final salsa with a small amount of water or soy sauce, if needed. Adjust to your desired consistency.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This salsa is best if made at least 1 hour ahead of serving to give the flavors time to meld. It can be refrigerated in an airtight container for up to 2 weeks.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, pepper-recipes, chile-pepper-recipes
+
+----
+
+Seo_title: Salsa Negra (Sinaloan Salsa for Seafood) | Avenda Aurora
+
+----
+
+Seo_description: Salsa negra’s punch of heat, complexity, and savory backbone pairs perfectly with seafood and more.
+
+----
+
+Original_author: Rose Egelhoff
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/V8thb8tPz9T3SB9dHVQuXF6Sduo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230823-SEA-SalsaNegra-AmandaSuarez-32-2d5a987c06de4aecb7f6f22c9be371ec.jpg

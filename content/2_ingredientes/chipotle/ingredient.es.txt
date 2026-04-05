@@ -1,0 +1,93 @@
+Title: Chipotle
+
+----
+
+Category: chiles
+
+----
+
+Cover:
+
+----
+
+Also_known_as: Chile ahumado, chilpotle, chile meco
+
+----
+
+Description:
+
+El chipotle es un jalapeño rojo maduro que ha sido secado y ahumado, un proceso que transforma completamente su perfil de sabor. El nombre viene del náhuatl "chilpoctli" que significa "chile ahumado".
+
+Existen dos variedades principales: el chipotle meco (más grande y de color tabaco) y el chipotle morita (más pequeño y de color morado oscuro).
+
+----
+
+Heat_level: 6
+
+----
+
+Scoville_min: 5000
+
+----
+
+Scoville_max: 10000
+
+----
+
+Available_forms: dried, canned, powder
+
+----
+
+Flavor_profile:
+
+El chipotle tiene un perfil de sabor complejo y profundo. El ahumado es predominante, seguido de notas terrosas, ligeramente dulces y con un picor que se desarrolla lentamente.
+
+En adobo (enlatado en salsa de tomate y especias), gana dimensiones adicionales de acidez y dulzura.
+
+----
+
+Culinary_uses:
+
+- **Adobos y marinados**: Perfecto para carnes, especialmente cerdo y pollo
+- **Salsas**: La salsa de chipotle es cremosa y adictiva
+- **Tinga**: El platillo por excelencia del chipotle
+- **Mayonesa chipotle**: Un condimento moderno muy popular
+- **Sopas y guisos**: Añade profundidad y sabor ahumado
+
+----
+
+Storage_tips:
+
+- **Secos**: En lugar fresco y oscuro hasta 1 año
+- **En adobo**: Una vez abierta la lata, transferir a frasco de vidrio y refrigerar hasta 1 mes
+- **En polvo**: En recipiente hermético hasta 6 meses
+
+----
+
+Origin:
+
+El proceso de ahumar chiles data de la época prehispánica, cuando era una forma de preservar los chiles para su uso fuera de temporada. La región de Chihuahua es famosa por su producción de chipotles de alta calidad.
+
+----
+
+Related_ingredients: - ingredientes/jalapeno
+
+----
+
+Relationship_explanation: El chipotle no es una variedad diferente de chile, sino un jalapeño que ha madurado hasta ponerse rojo y luego ha sido secado lentamente con humo de madera. Esta transformación le da su característico sabor ahumado y terroso, completamente diferente al jalapeño fresco.
+
+----
+
+Available_at:
+
+----
+
+Substitutes:
+
+----
+
+Seo_title: Chile Chipotle | Guía del Jalapeño Ahumado
+
+----
+
+Seo_description: Descubre el chipotle: el jalapeño ahumado. Aprende sus usos, cómo guardarlo y por qué su sabor es tan único en la cocina mexicana.

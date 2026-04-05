@@ -1,0 +1,107 @@
+title: Home / Inicio
+icon: 🏠
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      hero:
+        type: fields
+        fields:
+          hero_title:
+            label: Título del Hero
+            type: text
+            translate: true
+            default: Avenda Aurora
+
+          hero_subtitle:
+            label: Subtítulo
+            type: text
+            translate: true
+
+          hero_description:
+            label: Descripción
+            type: textarea
+            translate: true
+
+          hero_image:
+            label: Imagen del Hero
+            type: files
+            max: 1
+            layout: cards
+
+          hero_cta_text:
+            label: Texto del Botón
+            type: text
+            translate: true
+            default: Ver Recetas
+
+          hero_cta_link:
+            label: Link del Botón
+            type: pages
+            max: 1
+
+      featured:
+        type: fields
+        fields:
+          featured_recipes:
+            label: Recetas Destacadas
+            type: pages
+            query: site.find('recetas').index.filterBy('is_featured', true)
+            max: 8
+
+          featured_ingredient:
+            label: Ingrediente Destacado (Sabías que...)
+            type: pages
+            query: site.find('ingredientes').index
+            max: 1
+            help: Se mostrará la relación con otros ingredientes
+
+      about_section:
+        type: fields
+        fields:
+          about_title:
+            label: Título Sección Chef
+            type: text
+            translate: true
+            default: Sobre el Chef
+
+          about_text:
+            label: Texto Breve
+            type: textarea
+            translate: true
+
+          about_image:
+            label: Foto del Chef
+            type: files
+            max: 1
+
+  sidebar:
+    width: 1/3
+    sections:
+      categories:
+        type: fields
+        fields:
+          show_categories:
+            label: Mostrar Categorías
+            type: toggle
+            default: true
+
+          category_order:
+            label: Orden de Categorías
+            type: tags
+            options:
+              antojitos: Antojitos
+              platos-fuertes: Platos Fuertes
+              sopas-caldos: Sopas
+              mariscos: Mariscos
+              postres: Postres
+              bebidas: Bebidas
+
+      stores:
+        type: fields
+        fields:
+          show_stores:
+            label: Mostrar Tiendas Asociadas
+            type: toggle
+            default: true

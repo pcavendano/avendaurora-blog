@@ -1,0 +1,222 @@
+Title: Cuban Medianoche Sandwich
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: The medianoche (&#34;midnight&#34;) is a hot pressed sandwich featuring sweet egg bread stuffed with roast pork, ham, cheese, and pickles—perfect after a long night of dancing.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: pork tenderloin
+  preparation:  3/4 pound ; 340 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 2 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: juice from 1 orange
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter , softened
+  preparation: divided
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: yellow mustard
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: Challah rolls , split
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: slices
+  ingredient: deli ham
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "32"
+  unit: 
+  ingredient: dill or bread-and-butter pickle chips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: thin slices Swiss cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Pork: Adjust oven rack to upper middle position and preheat oven to 450°F (230°C). Line a rimmed baking sheet with foil and set pork tenderloin on it. Poke pork tenderloin all over with a paring knife, then season all over with salt and pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 4-cup measuring cup, combine garlic and olive oil and microwave for 45 seconds. Stir in orange juice, lime juice, oregano, and cumin.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour garlic mixture over pork tenderloin, rubbing into perforations; lift foil around tenderloin to form low walls around it (this will prevent the sauce from spreading out all over the baking sheet and burning). Roast until temperature reads 145°F (60°C) on instant-read thermometer, about 20 minutes. Let cool completely, about 30 minutes. Thinly slice pork on a bias.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Sandwiches: In a small bowl, stir together 2 tablespoons softened butter with mustard until well combined. Spread the cut sides of the rolls evenly with butter-mustard mixture.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Top roll bottoms with a layer of sliced roasted pork, 2 slices ham, 8 pickle chips, 2 slices cheese, and roll tops.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 12-inch skillet, melt 1 tablespoon butter over medium heat until foaming. Add sandwiches and set a weight (such as a second heavy skillet) on top, pressing down with your hands to compress. Cook until toasted toasted, about 4 minutes. Lift weight, remove sandwiches, add remaining 1 tablespoon butter to skillet, and cook until melted. Return sandwiches to skillet, untoasted side down, and set weight on top once more, pressing down once again. Cook until toasted on second side and cheese is melted, about 4 minutes longer. Alternatively, heat a panini press according to manufacturer’s instructions and cook sandwiches until crisp and golden. Allow sandwiches to set about 2 minutes, then serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Rimmed baking sheet, foil, large skillet plus a weight (such as a second heavy skillet) or panini press, instant-read thermometer
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Medianoches are usually made with &#34;pan suave,&#34; a soft, sweet bread. This recipe calls for easier-to-find 6 inch-long challah rolls, which are sweet and soft like the original. If you have access to pan suave, that will work as well if not better.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The pork tenderloin can be roasted up to 1 day in advance; let cool, then transfer to an airtight container and refrigerate until ready to slice and use.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, sandwich-recipes
+
+----
+
+Seo_title: Cuban Medianoche Sandwich | Avenda Aurora
+
+----
+
+Seo_description: The medianoche (&#34;midnight&#34;) is a hot pressed sandwich featuring sweet egg bread stuffed with roast pork, ham, cheese, and pickles—perfect after a long n
+
+----
+
+Original_author: María del Mar Cuadra
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Bi8nf3rHGYWjWcGVX2CG2bNniWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231004-SEA-Medinoche-AmandaSuarez-31-058a8034349442c0b46d9b0482caacaa.jpg

@@ -1,0 +1,187 @@
+Title: Quick Indian Mango Pickle
+
+----
+
+Category: salsas
+
+----
+
+Description: With its zesty combination of spices and crunchy texture, this Indian quick mango pickle is a great addition to almost any meal.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: fresh unripe green mangoes , pitted, peeled, and diced into 3/4-inch pieces or unpeeled and cut into 1/2-inch pieces
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: crumbled jaggery or 2 tablespoons white sugar
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: neutral oil such as vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: brown mustard seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: to 2 teaspoons Kashmiri red chile powder , as desired
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: asafetida
+  preparation: hing; see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: fenugreek seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large metal bowl, toss diced mangoes with salt and jaggery or sugar until combined; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Let mango stand at room temperature, stirring occasionally until well macerated, at least 3 and up to 4 hours. Then transfer to an airtight glass container or jar and refrigerate until ready to use. Before serving, stir to combine and serve in a small bowl as a condiment.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Carrot Quick Pickle: Substitute mango with 2 1/2 pounds medium carrots, cut into 1/4 -inch pieces, and continue with recipe as written.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Cauliflower Quick Pickle: Substitute 1 large head cauliflower (about 2 pounds), trimmed and cut into 1/2-inch florets and continue with recipe as written.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pear or Apple Quick Pickle: Substitute 4 crisp apples or slightly underripe, firm pears; core and cut into 1/2-inch chunks, leaving the peel on. Continue with recipe as written.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Metal or glass mixing bowl, large metal spoon (so turmeric does not stain it), Indian seasoning wok or a small sauté pan, canning jars or glass containers for storage
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Make sure to use unripe mango that are not yet mature and will not mature, and not to be confused with underripe mangos, which are mature mangos that just have not peaked in ripeness yet.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If using jaggery, a couple seconds in the microwave will help soften it. Then you can chop it just like chocolate with a bread knife. Alternatively, a microplane works as well.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Asafetida can be found at most Indian grocers. I recommend the powder sold in small jars, rather than large plastic containers, because the plastic can hold the aroma. Keep it tightly shut between uses, otherwise the smell will pervade your entire kitchen. While it adds a distinct flavor to the chutney, you can omit it if unavailable, though the chutney will be less aromatic.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- A seasoning wok is a small wok that is used in Indian cooking for toasting spices and for making seasoned oil blends. They generally are made from thicker metal than Chinese woks. I often use a seasoning wok at home to make spice blends for a variety of dishes, but a small sauté pan or skillet will work well in its place.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, condiment-sauce-recipes
+
+----
+
+Seo_title: Quick Indian Mango Pickle | Avenda Aurora
+
+----
+
+Seo_description: With its zesty combination of spices and crunchy texture, this Indian quick mango pickle is a great addition to almost any meal.
+
+----
+
+Original_author: Kaumudi Marathé
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/t2reAoSt-v-LgpHWTqy6d332buQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250205-SEA-QuickMangoPickle-KanikaAndJatinSharma-Beauty3-75-d0494c5d97b948b0a3883a93a09c0ed2.jpg

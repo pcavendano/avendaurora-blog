@@ -1,0 +1,194 @@
+Title: Sweet Potato and Pepitas Dip
+
+----
+
+Category: antojitos, platos-fuertes
+
+----
+
+Description: Smoky, creamy, and rich, this roasted sweet potato dip is the one everyone will hover around at your next party.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "18"
+  unit: ounces
+  ingredient: sweet potatoes
+  preparation:  510 g ; about 2 medium 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: raw pepitas
+  preparation:  2 ounces ; 56 g ; see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: large
+  ingredient: garlic cloves , thinly sliced
+  preparation: about 1/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: teaspoons
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: Ancho chili powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoons
+  ingredient: flaky sea salt , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: tap water , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/4"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Torn pita bread
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle and upper-middle positions and preheat oven to 300°F (150°C). Place 1 large piece of heavy-duty aluminum foil on a work surface. Place sweet potatoes in center; fold up foil and crimp edges to seal tightly. Transfer wrapped sweet potatoes to a rimmed baking sheet and roast on middle oven rack until a skewer or butter knife inserted into potatoes meets little resistance, 90 minutes to 105 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While sweet potatoes cook, spread pepitas in an even layer on a rimmed baking sheet. Roast on upper-middle oven rack until lightly toasted, 10 to 12 minutes. Remove from the oven and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Carefully unwrap sweet potatoes; place unwrapped potatoes in an even layer on same sheet pan. Increase oven temperature to 400°F (205ºC) and roast until sweet potatoes are caramelized and a thin skewer or butter knife inserted into potatoes meets no resistance, about 30 minutes. Remove potatoes from oven and set aside until cool enough to handle, about 20 minutes. Peel sweet potatoes and discard skins.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Roughly chop 1 tablespoon pepitas and set aside. Transfer remaining 5 tablespoons toasted pepitas to a mortar and pestle, and in batches, if needed, pound and grind until seeds are finely ground and nearly a paste. Set aside. (Alternatively, process the pepitas in a spice grinder or small food processor until finely ground, about 30 seconds.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small skillet, add olive oil, garlic, and cumin seeds and cook over medium heat, stirring often, until garlic begins to brown around the edges, 3 to 4 minutes. Remove from heat, and transfer to a heatproof bowl; stir in ancho chile powder.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small bowl, add 2 tablespoons of chile-oil mixture, making sure to get both oil and crispy bits, along with 1/2 teaspoon flaky sea salt and reserved chopped seeds. Stir to combine; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a food processor bowl, add the remaining chile-oil mixture and ground seeds and process until garlic pieces are finely chopped, about 1 minute. Add peeled roasted sweet potatoes, water, and kosher salt. Process until smooth and creamy, about 1 minute, adding additional water, about 1 tablespoon at a time, to reach desired smooth dip consistency.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer sweet potato dip to a shallow serving bowl. Drizzle with reserved chile-oil mixture and sprinkle with remaining 1/4 teaspoon flaky sea salt. Serve with pita bread.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Aluminum foil, mortar and pestle or spice grinder, small skillet, food processor
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- You can also start with roasted pepitas and skip the roasting step in the recipe.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes
+
+----
+
+Seo_title: Sweet Potato and Pepitas Dip | Avenda Aurora
+
+----
+
+Seo_description: Smoky, creamy, and rich, this roasted sweet potato dip is the one everyone will hover around at your next party.
+
+----
+
+Original_author: Leah Colins
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/lK88fWghYW3HBYrLQ320N2nPWuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251007-SEA-SweetPotatoPepitaDip-RobbyLozano-08-c16121383f764b2dba06601f83d62c75.jpg

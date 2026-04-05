@@ -1,0 +1,223 @@
+Title: Baechu Kimchi (Napa Cabbage Kimchi)
+
+----
+
+Category: mariscos
+
+----
+
+Description: Spicy, fermented Napa cabbage kimchi can be eaten at any stage of the fermenting process: My preferred aging time for baechu kimchi is between two and three weeks, when it has acidic funk and slight effervescence, but the vegetables retain their textural crunch.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: 
+  ingredient: head Napa cabbage
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: filtered or bottled water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4 3/4"
+  unit: ounces
+  ingredient: Diamond Crystal kosher salt or sea salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: coarse ground gochugaru
+  preparation: Korean chile powder
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: glutinous rice flour
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: saeujeot , with its brine, minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: garlic cloves , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 2-inch piece fresh ginger , peeled and finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: Asian pear , peeled, cored, and cut into 1/4- by 1/4- by 2-inch batons
+  preparation: yielding about 3 1/2 ounces; 100g total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: daikon radish , peeled and cut into 1/4- by 1/4- by 2-inch batons
+  preparation: yielding about 3 1/2 ounces; 100g total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: carrot , peeled and cut into 1/4- by 1/4- by 2-inch batons
+  preparation: yielding about 3 1/2 ounces; 100g total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "16"
+  unit: 
+  ingredient: scallions , root end trimmed and discarded, scallions halved lengthwise and cut crosswise into 2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For Brining the Cabbage: Remove and discard any blemished outer leaves from cabbage head. Using a sharp knife, trim root end, then cut through bottom quarter of cabbage head lengthwise, as if to halve it, but stopping where core meets leafy part. Using your hands, tear cabbage head in half lengthwise. Repeat process by cutting each half through core, stopping where core meets leafy part, and use your hands to tear cabbage head lengthwise into quarters.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large bowl, whisk together water and salt until salt is fully dissolved, about 45 seconds.&nbsp;Add cabbage, arranging pieces cut side up. Cover surface of brine with sheet of plastic wrap or parchment paper, then place a weight on top to keep cabbage as submerged as possible&nbsp;( Chef's press weights , fermentation weights, or a large bowl filled with water all make good weights). Cabbage may not be fully submerged at the beginning of the brining process; as water expels from the cabbage during first hour of brining, volume of brine will increase, submerging cabbage pieces. Set aside to brine, maintaining an ambient temperature between 55°F (13°C) and 75°F (24°C), for at least 12 hours and up to 14 hours, flipping cabbage quarters twice over the course of brining.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove cabbage from brine, and working with one quarter head at a time, rinse under cold water; discard brine. Using your hands, squeeze cabbage to wring out excess water (cabbage should be quite limp at this point), and set pieces aside on a rimmed baking sheet, cut side up.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For Making the Kimchi: In a small bowl, stir together gochugaru and 1/2 cup (120ml) warm water until well combined; set aside to bloom (gochugaru will brighten in color). In a small saucepan, combine rice flour, sugar, and 1 cup (240ml) water, and whisk to combine. Bring to a simmer over medium heat, whisking constantly to prevent mixture from scorching and forming lumps, and cook until mixture thickens to a paste, 3 to 4 minutes. Remove from heat, stir in bloomed gochugaru, and transfer to a medium bowl. Set aside until cool enough to touch, 8 to 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Once cooled, stir in fish sauce, salted shrimp, chopped garlic, and ginger until thoroughly combined. Add Asian pear, daikon, carrot, and scallions. Using clean hands, gently mix until thoroughly combined, and vegetables are evenly coated with paste mixture, 3 to 4 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Working with one piece of cabbage at a time, starting with outermost layer of leaves and working in toward the core, use your hands to evenly spread kimchi paste mixture over each cabbage leaf, making sure to thoroughly coat the core as well. Repeat seasoning process with remaining pieces of cabbage.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Working with one piece of cabbage at a time, cut side up, roll tightly into a compact parcel, starting from the core and working toward the top, so that outer layer of leaves is wrapped around quarter head of cabbage. Transfer to a non-reactive 1-gallon container, such as a fermentation crock or glass canning jar. Repeat rolling process with remaining pieces of cabbage, nestling them tightly into the container, and pressing down to eliminate air pockets.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a rubber spatula, scrape any leftover kimchi paste and accumulated juices from the bowl and baking sheet over the cabbage. Press down on mixture to eliminate air pockets, cover surface of mixture with plastic wrap, pressing gently to ensure full contact, and weigh down with fermentation weight. Seal container with airlock lid, if using, following manufacturer&#39;s instructions.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Store kimchi in dark area away from sun and let ferment, maintaining an ambient temperature between 55°F (13°C) and 75°F (24°C) for 3 days; check mixture daily for signs of gas formation (this is a good sign). After first 24 hours, vegetables should have released a good deal of moisture; using a clean spoon, press down on cabbage to submerge in liquid.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- After 3 days, transfer container to refrigerator and continue to ferment for at least 2 more days before eating. After 5 total days of fermentation, begin tasting kimchi daily until it has reached desired flavor. Kimchi will continue to slowly ferment while refrigerated, becoming more "ripe" in flavor over time. Properly stored, baechu kimchi can be refrigerated for up to 2 months. "Young" baechu kimchi is ideal for serving as a banchan, whereas older kimchi is better suited for cooking, as in dishes like kimchi jjigae .&nbsp;
+- To serve as a banchan, transfer one (or more) of the cabbage parcels to a cutting board, and unroll. Using a sharp knife, remove core, and cut cabbage into 2-inch pieces. Divide between small individual serving dishes, spoon liquid from fermentation container over top, and sprinkle with toasted sesame seeds. Serve.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, east-asian-recipes, korean-recipes
+
+----
+
+Seo_title: Baechu Kimchi (Napa Cabbage Kimchi) | Avenda Aurora
+
+----
+
+Seo_description: Spicy, fermented Napa cabbage kimchi can be eaten at any stage of the fermenting process: My preferred aging time for baechu kimchi is between two and three wee
+
+----
+
+Original_author: Sunny Lee
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/m16sray_HxYpJebVbXMxv906bhk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210527-baechu-kimchi-vicky-wasik-seriouseats-seriouseats-3-18a2d6d7d1d74a7a82cb13ed350218be.jpg

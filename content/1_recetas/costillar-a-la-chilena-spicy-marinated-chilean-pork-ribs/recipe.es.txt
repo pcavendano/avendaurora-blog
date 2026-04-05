@@ -1,0 +1,172 @@
+Title: Costillar a la Chilena (Spicy Marinated Chilean Pork Ribs)
+
+----
+
+Category: salsas
+
+----
+
+Description: Spicy, garlicky Chilean pork ribs get a kick from vinegar, hot sauce, and dried spices.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: good-quality red or white wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: Chilean Ají Crema or Ají Pebre hot sauce, or sriracha
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: garlic cloves , finely minced or grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: dried oregano, preferably Chilean or good-quality Italian
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Diamond Crystal kosher salt ; for table salt , use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: sweet paprika
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: - to 4 - pounds pork rib racks , either meaty baby back ribs or spare ribs
+  preparation: the number of racks will depend on the type of ribs
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium bowl, stir together vinegar, hot sauce, garlic, oregano, salt, paprika, cumin, and pepper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place the ribs in a large zipper-lock bag; if ribs don&#39;t fit in the bag, divide it into sections that will fit. Pour the marinade in the bag, then seal while pressing out as much air as possible; turn bag to ensure ribs are evenly coated in marinade. Refrigerate at least 3 and up to 6 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Adjust oven rack to lower-middle position and preheat to 325℉ (160℃). Transfer ribs and marinade to a large baking dish and add 1 cup (237ml) water. Cover dish tightly with aluminum foil and bake for 1 1/2 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove dish from oven and increase oven temperature to 375℉ F (190℃). Being careful of hot steam, remove foil and, using a spoon, baste the ribs all over with cooking liquid. Return ribs to oven and cook, uncovered, basting once halfway through, until a paring knife inserts easily into the meat with slight resistance, the ribs are tender but not falling off the bone, the cooking liquid is reduced, and the ribs are lightly browned, 30 to 45 minutes. Slice racks into 2- or 3-rib sections and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Large baking dish, large zipper-lock bag
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The fully cooked ribs will keep well in a sealed container in the refrigerator for up to 4 days, or in the freezer for up to 6 months.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, pork-main-recipes
+
+----
+
+Seo_title: Costillar a la Chilena (Spicy Marinated Chilean Pork Ribs) | Avenda Aurora
+
+----
+
+Seo_description: Spicy, garlicky Chilean pork ribs get a kick from vinegar, hot sauce, and dried spices.
+
+----
+
+Original_author: Isidora Díaz
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/vt-HL4ZVGmaN6Tg7bLVRI1qYrQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240214-SEA-CostillaralaChilena-EstudioComo-09-0c28929305314374b038f8506c3a74ab.jpg

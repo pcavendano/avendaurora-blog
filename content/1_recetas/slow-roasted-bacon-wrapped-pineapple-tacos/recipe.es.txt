@@ -1,0 +1,234 @@
+Title: Slow-Roasted Bacon-Wrapped-Pineapple Tacos
+
+----
+
+Category: salsas
+
+----
+
+Description: You know those actors who seem to spend their entire careers in supporting roles, yet manage to steal every scene? I think about that when I get great al pastor tacos—the crisp-edged pork is the star, but it&#39;d be nothing without that sweet roasted pineapple. Here, pineapple graduates from supporting role to star.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: 
+  ingredient: whole dried ancho chiles , stems and seeds removed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: whole chipotle peppers , canned in adobo
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: oregano , preferably Mexican
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: whole cumin seeds , toasted and ground
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole coriander seeds , toasted and ground
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: Small
+  ingredient: pinch ground cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: dark brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: cider vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Asian fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole pineapple , skin and core removed , cut into 4 large chunks
+  preparation: about 2 1/2 pounds ; 1.15 kg pineapple meat
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: sliced bacon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "40"
+  unit: 
+  ingredient: corn tortillas , heated and kept warm
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Charred salsa verde
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crumbled cotija cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thinly sliced red or green jalapeño or serrano chiles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Roughly chopped fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Adobo Marinade: Adjust oven rack to center position and preheat oven to 350°F (175°C). Place dried ancho chiles on a microwave-safe plate and microwave until pliable and toasty-smelling, 10 to 20 seconds. Transfer to the jar of a blender and add chipotle peppers, olive oil, garlic, oregano, cumin seeds, coriander seeds, cloves, brown sugar, vinegar, soy sauce, and fish sauce. Blend until a smooth sauce has formed, about 1 minute. Season to taste with salt. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Pineapple: Rub pineapple on all sides with half of the marinade and arrange on a foil-lined rimmed baking sheet. Drape pineapple with bacon slices. Transfer to oven and roast until pineapple is tender and deepens in color and bacon is crisp, 45 minutes to 1 hour.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Serve: Remove bacon and cut into 2-inch pieces. Slice pineapple into 1/4- to 1/2-inch slices. Serve pineapple and bacon tucked into double-stacked corn tortillas topped with remaining marinade, salsa verde, cotija, fresh chiles, and cilantro.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+----
+
+Seo_title: Slow-Roasted Bacon-Wrapped-Pineapple Tacos | Avenda Aurora
+
+----
+
+Seo_description: You know those actors who seem to spend their entire careers in supporting roles, yet manage to steal every scene? I think about that when I get great al pastor
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/TGFJS9jU1D_yLCJrq227GiFAv9U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__01__20160207-pineapple-bacon-tacos-recipe-14-062cec0112284ec68201212c39238429.jpg

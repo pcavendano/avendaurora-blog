@@ -1,0 +1,174 @@
+Title: Broccoli Romanesco Pasta
+
+----
+
+Category: postres, salsas
+
+----
+
+Description: This cozy Roman pasta recipe features broccoli romanesco—an unusual vegetable with spiky, spiraled florets that turns tender and sweet when cooked. Here’s how to make it.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: head broccoli romanesco , stem end and leaves trimmed and florets and stalk cut into 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: pinch red pepper flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: oil-packed anchovy fillets
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: tomato paste
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: small dried pasta , such as mezzi rigatoni or ditalini
+  preparation: whole wheat/farro options are good here
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Grated Pecorino Romano or Parmigiano-Reggiano , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a large pot of salted boiling water, cook romanesco until tender, about 6 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a large skillet or sauté pan, heat olive oil with garlic and red pepper flakes over medium heat until garlic is just starting to turn golden, about 2 minutes. Add anchovy fillets and tomato paste, if using, and cook, stirring, until anchovies have dissolved and tomato paste has darkened slightly, about 2 minutes longer. Season with black pepper. (If garlic threatens to burn, add a splash of water to the pan to lower the temperature and prevent unwanted scorching.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using a spider strainer or slotted spoon, transfer romanesco to skillet. Immediately add dried pasta to same pot of salted boiling water and cook until al dente according to package instructions. While the pasta boils, cook romanesco, stirring, until romanesco is very tender and starting to break down and the bottom of the skillet is beginning to brown in spots, about 5 minutes. (Add a splash of water at any point if the sauce begins to scorch.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Measure out and set aside about 1 cup of pasta water, then strain pasta and add to romanesco along with 1/2 cup of the pasta water. Cook, stirring, until romanesco breaks down even more and the pasta water has reduced to a pasta-coating consistency, about 3 minutes (if needed, add more reserved pasta water if the pasta gets too dry or needs to cook together longer). Season with additional salt, if needed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer to serving bowls and sprinkle with cheese. Serve right way.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, pasta-main-recipes
+
+----
+
+Seo_title: Broccoli Romanesco Pasta | Avenda Aurora
+
+----
+
+Seo_description: This cozy Roman pasta recipe features broccoli romanesco—an unusual vegetable with spiky, spiraled florets that turns tender and sweet when cooked. Here’s how t
+
+----
+
+Original_author: Gina DePalma
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/imt-Bbv-rk37kaMVQxvFbBSOssE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250917-SEA-BroccoliRomanescoPasta-AmandaSuarez-11-e8dc77e6e3074df586b47b09776ea540.jpg

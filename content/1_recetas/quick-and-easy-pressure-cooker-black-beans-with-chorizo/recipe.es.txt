@@ -1,0 +1,169 @@
+Title: Quick and Easy Pressure Cooker Black Beans With Chorizo
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: The fastest and easiest way to cook black beans is in the pressure cooker. In this recipe, we combine them with spicy, smoky chorizo.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: ounces
+  ingredient: Spanish-style chorizo , split in half lengthwise and cut into 1/4-inch half moons
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: dried black beans
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole onion , split in half
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: whole garlic cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: orange , split in half
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: kosher salt , plus more for seasoning
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped fresh cilantro , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat oil in pressure cooker until shimmering. Add chorizo and cook, stirring, until it releases its fat and starts to crisp, about 2 minutes. Add beans, onion, garlic cloves, orange, bay leaves, chicken stock, and 2 teaspoons salt. Cover and cook at high pressure for 40 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For extra-tender and creamy beans, allow pressure to release naturally. For firmer beans, use quick-release valve on an electric pressure cooker, or run a stovetop pressure cooker under cold running water until pressure dissipates. Remove lid and discard onion, orange, and bay leaves. Season to taste with salt and serve. Sprinkle with fresh cilantro at the table.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Electric or stovetop pressure cooker
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In place of chorizo, you can use any type of firm, cured sausage, such as andouille, kielbasa, pepperoni, or salami.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, pressure-cooker-recipes, pressure-cooked-bean-recipes
+
+----
+
+Seo_title: Quick and Easy Pressure Cooker Black Beans With Chorizo | Avenda Aurora
+
+----
+
+Seo_description: The fastest and easiest way to cook black beans is in the pressure cooker. In this recipe, we combine them with spicy, smoky chorizo.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/077biKfqqRPFFbS9jn8HVTBjcfU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__10__20150921-black-bean-sausage-stew-pressure-cooker-1-4f24f2695ae74574ab3a485e0892116a.jpg

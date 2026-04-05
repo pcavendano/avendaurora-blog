@@ -1,0 +1,210 @@
+Title: Law Bok Gow (Chinese Turnip Cake)
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: Studded with Chinese sausage, Chinese bacon, and shiitake mushrooms, this steamed (and then, optionally, pan-fried) daikon radish-based snack is a classic at both the Chinese New Year, and also on dim sum tables year-round.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: dried shiitake mushrooms , about 10 to 15 mushrooms
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: pounds
+  ingredient: daikon radish , peeled and finely grated on a box grater
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plus 2 teaspoons brown sugar , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: Chinese bacon , such as lap yuk, diced, see note
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: Chinese sausages , such as lap cheong, diced, see note
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: small dried shrimp , rinsed and patted dry, see note
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: rice flour
+  preparation: 227g; 2 1/4 cups
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Toasted sesame oil , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , white and light green parts only, chopped
+  preparation: about 1/4 cup
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped fresh cilantro , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Toasted sesame seeds , for serving
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Hoisin sauce and Sriracha, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place dried shiitakes in a heatproof bowl and pour over enough hot water to cover. Soak until rehydrated and plump, about 30 minutes. Drain mushrooms, rinse under cold running water, and squeeze out excess water. Trim and discard stems and dice caps.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set a large pot, Dutch oven, or wok over medium heat and add grated daikon and 1/4 cup (60ml) water. Bring to a simmer, cover and cook, stirring occasionally, until daikon is slightly translucent, about 20 minutes. Stir in 1 tablespoon brown sugar until dissolved. Transfer everything to a bowl and set aside. Wipe Dutch oven or wok clean.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the same Dutch oven or wok, add diced shiitakes, bacon, sausage, and dried shrimp. Cook, stirring, until bacon and sausage have rendered some fat, about 5 to 7 minutes. Add remaining 2 teaspoons brown sugar and the soy sauce and cook, stirring often, until liquid is evaporated, about 1 minute longer. Transfer everything to a bowl with the cooked daikon.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add rice flour in thirds to the daikon mixture, mixing thoroughly between additions (make sure no traces of flour are left at the bottom). If flour mixture becomes too difficult to stir, stir in up to 2 tablespoons (30ml) water to loosen slightly; the final texture should be sticky and the mixture will be somewhat loose.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Scrape mixture into two 7- by 5-inch baking dishes (greased with cooking spray) or disposable aluminum baking trays. Set up a steamer large enough to hold one of the baking dishes, then, working 1 baking dish at a time, steam turnip cake until cooked through, 25 to 30 minutes. Repeat with remaining baking dish. Let cooked turnip cakes rest 20 minutes. Loosen the sides with an offset spatula or butter knife and turn it out onto a cutting board. Slice each cake into 9 even squares.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat a large nonstick with 1 tablespoon oil over medium heat. Add cakes; cook, undisturbed, until golden brown and crisp, about 2 minutes per side. Transfer to a platter.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drizzle turnip cakes with sesame oil and top with chopped scallions, cilantro, and sesame oil, if using. Slice and serve with hoisin sauce and/or Sriracha on the side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 2 (7- by 5-inch) baking dishes or disposable aluminum baking trays)
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes, turnip-recipes
+
+----
+
+Seo_title: Law Bok Gow (Chinese Turnip Cake) | Avenda Aurora
+
+----
+
+Seo_description: Studded with Chinese sausage, Chinese bacon, and shiitake mushrooms, this steamed (and then, optionally, pan-fried) daikon radish-based snack is a classic at bo
+
+----
+
+Original_author: Shao Z.
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/6uJjVRIYFa1OLVdtheQ6SKXr9jE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chinese_Turnip_Cake_With_Sausage_Bacon_and_Mushrooms_heroAntonisAchilleos-789c769465374683ae96c059c804e810.JPG

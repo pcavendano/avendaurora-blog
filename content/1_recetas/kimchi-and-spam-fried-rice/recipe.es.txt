@@ -1,0 +1,214 @@
+Title: Kimchi and Spam Fried Rice
+
+----
+
+Category: platos-fuertes, mariscos
+
+----
+
+Description: Whatever the provenance of the can of Spam I found hanging out in my pantry, I knew its destination: Add to it an egg, an onion, and a few other aromatics, and I had everything on hand to make myself a big ol&#39; plate of the ultimate Korean-American late-night drunk food: kimchi and Spam fried rice.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: cups
+  ingredient: cooked white rice
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: pound
+  ingredient: kimchi with juices
+  preparation: about 1 cup packed ; 340 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable or canola oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can of Spam , cut into 1/4- to 1/2-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: onion , finely diced
+  preparation:  1 1/2 cups ; 12 ounces ; 340 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: scallions , white and pale green parts only, thinly sliced
+  preparation: about 1/4 cup ; 40 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 2 teaspoons ; 10 ml 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: hot red or green chile , stemmed and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: Asian fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: toasted sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chopped fresh cilantro leaves and fine stems
+  preparation:  1/2 ounce ; 14 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Fried eggs , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Hot sauce , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: If using day-old rice, transfer to a medium bowl and break rice up with your hands into individual grains before proceeding. Place kimchi in a fine-mesh strainer set over a large bowl and squeeze out excess liquid. Reserve liquid and finely chop kimchi.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat 1/2 tablespoon oil in a wok over medium-high heat until shimmering. Add Spam and cook, tossing and stirring frequently, until well browned and starting to crisp. Add chopped kimchi and onion and cook, stirring and tossing regularly, until vegetables are softened, about 4 minutes. Transfer to a bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add another 1/2 tablespoon oil to wok. Increase heat to high and heat until smoking. Add half of rice and cook, stirring and tossing, until rice is pale brown, toasted, and has a slightly chewy texture, about 3 minutes. Transfer to a medium bowl. Repeat with another 1/2 tablespoon oil and remaining rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return all rice to wok and press it up the sides, leaving a space in the middle. Add another 1/2 tablespoon oil to the space. Add scallions (reserving some for garnish), garlic, and chile. Stir gently and cook until lightly softened and fragrant, about 1 minute. Toss with rice to combine. Add onion, kimchi, and Spam mixture and toss to combine. Pour in reserved kimchi juice and season generously with black pepper. Add fish sauce, sesame oil, and cilantro (reserving some cilantro for garnish). Toss everything to combine. Season to taste with salt if necessary. When ready to serve, allow rice to sit in wok without tossing for 45 seconds to create a crisp crust underneath.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Turn rice out onto a serving platter, trying to get as much of the crispy rice facing up as possible. Top with fried eggs, sprinkle with reserved scallions and cilantro, and serve immediately with hot sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For best results, use Chinese-style medium-grain rice, jasmine rice, or sushi rice. Rice should either be cooked fresh, spread on a tray, and allowed to cool for 5 minutes, or transferred to a loosely covered container and refrigerated for at least 12 hours and up to three days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, rice-grains-main-recipes
+
+----
+
+Seo_title: Kimchi and Spam Fried Rice | Avenda Aurora
+
+----
+
+Seo_description: Whatever the provenance of the can of Spam I found hanging out in my pantry, I knew its destination: Add to it an egg, an onion, and a few other aromatics, and 
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/HW5-Bz2bjgwIao8Ri3G2fMyg0mc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__03__20160403-spam-kimchi-fried-rice-21-ea4ab61a2c5a4813846fac0c6755d6e6.jpg

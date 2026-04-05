@@ -1,0 +1,241 @@
+Title: Creamy Almond Mughlai Cauliflower
+
+----
+
+Category: vegetarianos, platos-fuertes
+
+----
+
+Description: This vegetarian side dish or main course features roasted cauliflower in a fragrant, creamy sauce, spiced with ginger, cinnamon, anise, and more, and studded with plump raisins and slivers of crisp almonds.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: large
+  ingredient: head cauliflower , halved, cored, and cut into 3-inch florets
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: vegetable oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: yellow onions , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: cinnamon stick , broken in half
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: star anise pod
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: piece ginger , peeled and grated
+  preparation: about 1 ounce ; 30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic , grated or minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground coriander
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried chile flakes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: garam masala
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: ground almonds
+  preparation:  30 g ; can be ground in a food processor from about 1/3 cup slivered raw almonds
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: Greek yogurt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: homemade quick vegetable stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: heavy cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: golden raisins
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: light brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: toasted slivered almonds , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cilantro leaves and tender stems , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat oven to 450°F (230°C) and place rack in middle position. Place cauliflower on a rimmed baking sheet and toss with 2 tablespoons (30ml) oil. Season with salt and pepper. Roast until golden brown on one side, about 10 minutes. Turn and roast until brown on second side and just tender, 7 to 10 minutes longer. Remove from oven and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large cast iron skillet or stainless steel sauté pan, heat remaining 2 tablespoons (30ml) oil over medium-high heat until shimmering. Add onions, cinnamon stick, cloves, and star anise and cook, stirring, until onions are soft and lightly browned, 5 to 7 minutes. Stir in ginger, garlic, cumin, coriander, chile flakes, garam masala, ground almonds, and 1/2 cup (120ml) water. Cook, stirring often, until water is absorbed and ground almonds begin to look and smell toasted, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Feel free to use either standard white cauliflower or, if you can find it, the orange variety pictured here.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, vegetable-main-recipes
+
+----
+
+Seo_title: Creamy Almond Mughlai Cauliflower | Avenda Aurora
+
+----
+
+Seo_description: This vegetarian side dish or main course features roasted cauliflower in a fragrant, creamy sauce, spiced with ginger, cinnamon, anise, and more, and studded wi
+
+----
+
+Original_author: Emily and Matt Clifton
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/VLKX8mv91GkYXchRxc-jF7vFsdo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__06__20170606-mughlai-cauliflower-matt-clifton-1-592df9c97bcb4e69b63a6106243ab357.jpg

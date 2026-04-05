@@ -1,0 +1,236 @@
+Title: Nigerian Pepper Soup
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: A one-pot dish that&#39;s defined by the nutty, bitter, woodsy, and floral notes imparted by a mix of spices and herbs.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: 
+  ingredient: urheri pods , seeded
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: erhe seeds , shelled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: gbafilo seeds , shelled and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: umilo seeds , shelled and roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: alligator pepper
+  preparation:  grains of paradise 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: uziza seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: chicken , cut into 2-inch pieces
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: cold water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground crayfish
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , plus more to taste; for table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Nigerian red dry pepper or cayenne pepper , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: fresh lemongrass leaves , divided
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: fresh makrut lime leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 sprigs fresh scent leaf , finely chopped, for garnish
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Boiled yam , plantain , white sweet potatoes , or cooked white rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Unrefined West African red palm oil , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Spice Mix: In a small stainless steel or cast iron skillet, combine urheri, erhe, gbafilo, umilo, alligator pepper, and uziza. Over medium-low heat, toast spices, stirring and swirling frequently, until fragrant, about 5 minutes. Let cool to room temperature, about 10 minutes. Transfer spices to a spice grinder and grind until a crumbly, coarse powder forms, 2 to 3 minutes. Empty into a small bowl; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Pepper Soup: In a large stockpot, combine chicken, water, ground crayfish, salt, cayenne pepper, half of the lemongrass, and prepared spice mix. Bring to a boil over high heat, then reduce heat to maintain a simmer. Simmer until chicken is cooked through and tender, but not falling off the bone, about 45 minutes (the time may vary depending on how the meat was cut).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add lime leaves and remaining lemongrass. Season with salt and cayenne pepper to taste. Let stand to allow flavors to develop, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To serve, divide chicken between warmed soup bowls. Ladle broth on top, garnish with scent leaf, and serve with or alongside boiled yams, plantains, white sweet potatoes, or rice, and a small bowl of palm oil for dipping.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The spice mix can be stored in an airtight container at cool room temperature for up to 6 months. Store away from light and heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: I prefer bone-in, skin-on chicken for its richer flavor. Cutting the chicken into bite-size pieces through the bone requires a heavy-duty cleaver. If you are unable to cut up the chicken yourself and you can’t find a butcher to do it for you, substitute with 1 1/2 pounds (680g) boneless, skin-on chicken thighs, cut into bite-size pieces, and 1/2 pound (225g) chicken wings, separated into drumettes and flats.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can substitute ground crayfish with an equal volume of dried prawns or shrimp, which are available in Chinese or Asian markets.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe is ideally made with the leaves of the lemongrass plant, which are more flavorful and aromatic than lemongrass stalks. If you can’t find them, substitute with 2 stalks of lemongrass. To prepare, discard the outer layer, smash the stalk under the flat side of a knife, and cut crosswise into 3 equal lengths.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Scent leaf is a Nigerian herb, which is available fresh or dried . If you can't find it, feel free to substitute with cinnamon basil or other clove-flavored varieties of basil.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, african-recipes, west-african-recipes, nigerian-recipes
+
+----
+
+Seo_title: Nigerian Pepper Soup | Avenda Aurora
+
+----
+
+Seo_description: A one-pot dish that&#39;s defined by the nutty, bitter, woodsy, and floral notes imparted by a mix of spices and herbs.
+
+----
+
+Original_author: Ozoz Sokoh
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/93j0_6zLPZiwj22ac-ZYcDGOi9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220425-peppersoup-Maureen-Celestine-23-hero-01-9e718e54b58b4b19af8b6f7011ca7b16.JPG

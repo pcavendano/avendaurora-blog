@@ -1,0 +1,176 @@
+Title: Baked Cod and Summer Squash in Foil Packets
+
+----
+
+Category: mariscos
+
+----
+
+Description: This easy dish of cod cooked in foil packets with squash and fresh herbs is one of the easiest recipes to scale: it works the same whether you make it for one, two, three, four or fourteen people.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: 
+  ingredient: cod fillets or other mild white-fleshed fish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: zucchini , sliced into thin rounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: yellow summer squash , sliced into thin rounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crushed red pepper flakes , for sprinkling
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: dry white wine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lemon , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: sprigs fresh thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh juice from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat the oven to 450°F (230°C). Season fish with salt and pepper. Arrange 4 large sheets of aluminum foil on a work surface and set 1 fish fillet on each piece of foil. Arrange zucchini, squash, and onion around each fillet and season with salt and pepper. Sprinkle fish and vegetables with red chile flakes. Drizzle 1/2 tablespoon oil and 1/2 tablespoon wine onto vegetables and fish.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Arrange a few lemon slices on top of each fillet and top with a thyme sprig. Wrap foil around fish and vegetables, leaving some air space within each packet, and seal very well. Set packets on a rimmed baking sheet and bake for 8 minutes. Carefully open 1 packet to confirm fish is just cooked through; if not, re-seal packet and return to oven to continue cooking until cooked through. Serve right away, opening packets at the table.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Aluminum foil, rimmed baking sheet
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe can easily be scaled up or down to serve as many or as few people as you like.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: Baked Cod and Summer Squash in Foil Packets | Avenda Aurora
+
+----
+
+Seo_description: This easy dish of cod cooked in foil packets with squash and fresh herbs is one of the easiest recipes to scale: it works the same whether you make it for one, 
+
+----
+
+Original_author: Yasmin Fahr
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/-XWnPWGtYXss5Wf6anhBvXWyCc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__08__20140810-fish-foil-yasmin-fahr3-c4af408d75394cfc8be7d3d7f01760c2.jpg

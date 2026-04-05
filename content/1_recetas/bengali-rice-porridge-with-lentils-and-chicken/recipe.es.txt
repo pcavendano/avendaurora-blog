@@ -1,0 +1,231 @@
+Title: Bengali Rice Porridge With Lentils and Chicken
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: This rice porridge, made with aromatic jasmine rice and hearty red lentils, is bright from plenty of turmeric and ginger, with a pungent hit of mustard oil and a garnish of spicy green-chile chutney.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: jasmine rice
+  preparation:  5 1/3 ounces ; 150 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: inch
+  ingredient: fresh turmeric , or 1 teaspoon dried turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: inch
+  ingredient: fresh ginger
+  preparation:  1/2 ounce ; 15 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: unsalted butter or ghee
+  preparation:  1 ounce ; 30 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Kashmiri red chile powder or 1/4 teaspoon cayenne
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: red lentils , sorted and rinsed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: cups
+  ingredient: chicken stock , homemade or store-bought
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper , to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: russet potato , peeled and diced into 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: chicken thighs
+  preparation:  8 ounces ; 224 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: bunch cilantro , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: Thai green chiles , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: freshly squeezed lime juice from 2 whole limes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: mustard oil
+  preparation:  1 ounce ; 30 ml 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crispy fried shallots , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium bowl, rinse rice with cold water until water runs clear. Cover rice with fresh cold water and set aside to soak.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, peel turmeric (if using fresh) and ginger with a spoon. Thinly slice crosswise into 1/8-inch coins and slice each coin into 1/8-inch matchsticks.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain rice and return to bowl. Gently crush with a muddler, rolling pin, or pestle, breaking rice into uneven pieces ranging from cornmeal-sized grains to larger pieces that are cracked or shattered in half.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a 4-quart saucepan over medium heat, melt butter until foamy. Add turmeric, ginger, and red chile and cook until fragrant, about 2 minutes. Add rice, lentils, and chicken stock. Season with kosher salt and freshly ground black pepper. Bring to a boil, then reduce to a bare simmer. Simmer porridge, uncovered, until rice and lentils are tender, about 30 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add potato and chicken thighs to porridge. Cook gently until potatoes are tender, chicken is cooked through, and porridge is thickened, about 30 minutes, stirring occasionally to prevent sticking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, prepare the cilantro chutney. In a small bowl, mix cilantro and green chiles with lime juice and mustard oil, then season with salt. Stir to combine.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove chicken from porridge and transfer to a cutting board. When cool enough to handle, dice chicken into 1/2-inch pieces and return to porridge. Adjust seasoning to taste with kosher salt and freshly ground black pepper, and add water if porridge becomes too thick.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove from heat and pour porridge into bowls. Garnish with cilantro chutney and crispy fried shallots to taste.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, rice-grains-main-recipes
+
+----
+
+Seo_title: Bengali Rice Porridge With Lentils and Chicken | Avenda Aurora
+
+----
+
+Seo_description: This rice porridge, made with aromatic jasmine rice and hearty red lentils, is bright from plenty of turmeric and ginger, with a pungent hit of mustard oil and 
+
+----
+
+Original_author: Sohla El-Waylly
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ImiG6-9eDjCufUz_LrKZp1_9tco=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__01__20180112-rice-porridge-vicky-wasik-16-40281257b3d2401cade1ba2eada3798e.jpg

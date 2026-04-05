@@ -1,0 +1,233 @@
+Title: Bollito Misto (Italian Feast of Mixed Boiled Meats)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: The ultimate meat-lover&#39;s feast, Northern Italy&#39;s bollito misto is not an affair to be taken lightly; it will take some effort to procure all the meat and requires quite the appetite on the part of the diners. With long, slow cooking, the result is delicately and beautifully poached meats that are tender and silky, plus a flavorful broth that can be enjoyed as part of the meal, or at another time. Two bright, fresh, and very different sauces make the perfect condiments for the meats.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: beef oxtail
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole beef tongue
+  preparation:  2 pounds ; 1 kg 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 3/4"
+  unit: pounds
+  ingredient: bone-in beef short ribs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: pound
+  ingredient: s bone-in, cross-cut beef shanks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 3/4"
+  unit: pounds
+  ingredient: boneless beef chuck roast
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: yellow onion , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole coriander seeds
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bay leaf
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: rosemary sprigs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: celery rib
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole head garlic , cut in half crosswise with skin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: chicken , divided into the bone-in breast, legs, and back
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Flaky salt or coarse sea salt, for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salsa verde and salsa rossa , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: One day before serving, in a large stockpot or Dutch oven, combine oxtail, beef tongue, short ribs, beef shanks, and chuck roast. Stick the cloves into the onion halves and add to pot along with coriander seed, peppercorns, bay leaf, rosemary, celery, and halved garlic head. Add 1 1/2 tablespoons kosher salt and enough water to cover all ingredients (about 5 quarts; 4.75L).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Bring to a simmer and cook until meats are beginning to become tender, 1 to 2 hours. Add chicken legs and back and continue cooking until all cuts are tender enough to be easily pierced by a fork. Top up with water if needed at any point, to keep the meats submerged. The exact time it takes for all the cuts to become tender will depend heavily on the beef you have. They may not all cook at the same rate; if any become tender well before the others, transfer the finished piece to a pot or heatproof bowl with enough broth to keep it moistened, and set aside. Return to the pot with the broth when all the other cuts are tender.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer to a refrigerator overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The next day, remove solidified rendered fat from surface of broth and return pot to the heat. Add bone-in, skin-on chicken breast and bring broth to 150°F (65°C); adjust heat to maintain a temperature around 150 to 160°F (71°C), until thickest part of chicken registers 150°F on an instant-read thermometer, about 1 hour.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer all the meats to a work surface. Remove and discard bones from short ribs and carve into slices. Remove and reserve bones from beef shanks and carve shank meat. Peel outer layer of skin off tongue and discard, then trim any gristle and slice. Discard the chicken back and all the herbs, spices, and aromatic vegetables. Carve the chuck roast and chicken breast.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Arrange all the carved meats on a large platter, along with the oxtails, chicken legs, and reserved shank bones (this is the osso buco , and it has delicious marrow in it).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The meats listed here are just suggestions. Feel free to omit any you don&#39;t want or can&#39;t find, replacing them with more of some of the others (or make a smaller batch of boiled meats, as this recipe serves many people). If you can find cotechino sausage, a type of pork sausage from Northern Italy, feel free to poach it and add it, sliced, to the platter.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, beef-main-recipes
+
+----
+
+Seo_title: Bollito Misto (Italian Feast of Mixed Boiled Meats) | Avenda Aurora
+
+----
+
+Seo_description: The ultimate meat-lover&#39;s feast, Northern Italy&#39;s bollito misto is not an affair to be taken lightly; it will take some effort to procure all the meat a
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/DfjSGYGWrHtyukND9bv2batZA2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__01__20171219-bollito-misto-vicky-wasik-12-1bc64a0e7e454ecbb776118eb2143e4d.jpg

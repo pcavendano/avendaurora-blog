@@ -1,0 +1,186 @@
+Title: Hot and Numbing Xi'an-Style Oven-Fried Chicken Wings
+
+----
+
+Category: platos-fuertes, antojitos
+
+----
+
+Description: These wings, packed with Sichuan pepper and fresh spices, are at once mouth-numbing and wonderfully flavorful.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: pounds
+  ingredient: chicken wings , cut into drumettes and flats
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: whole cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole fennel seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: dried red pepper flakes
+  preparation: preferably Thai 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: whole Sichuan peppercorns , seeds removed
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chopped fresh cilantro leaves and fine stems
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: scallions , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Line rimmed baking sheet with aluminum foil, and set rack inside. Carefully dry chicken wings with paper towels. Place 1/3 of wings in large bowl, sprinkle with 1 teaspoon baking powder and 1 teaspoon salt, and toss until thoroughly and evenly coated. Place on rack, leaving slight space between each wing. Repeat with remaining two batches of wings.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place baking sheet with wings in refrigerator and allow to rest, uncovered, at least 8 hours, and up to 18 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Adjust oven rack to upper-middle position and preheat oven to 450°F (230°C). Add chicken wings and cook for 20 minutes. Flip wings and continue to cook until crisp and golden brown, 15 to 25 minutes longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, combine cumin, fennel, pepper flakes, and Sichuan peppercorns in a small skillet and toast over medium-low heat until fragrant, about 1 minute. Transfer to a mortar and pestle or a spice grinder. Add remaining 1/2 tablespoon salt and sugar and grind until a rough powder is formed.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When wings are finished, transfer to a large bowl and toss with oil. Add half of the spice powder and all of the cilantro and scallions. Toss until coated. Taste one wing, then add more spice powder to taste. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can find Sichuan peppercorns online.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, frying-recipes, fried-chicken-recipes
+
+----
+
+Seo_title: Hot and Numbing Xi'an-Style Oven-Fried Chicken Wings | Avenda Aurora
+
+----
+
+Seo_description: These wings, packed with Sichuan pepper and fresh spices, are at once mouth-numbing and wonderfully flavorful.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/lax2r8-u6-BIcct1wpOExX994_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__01__20150125-xian-spicy-cumin-chili-sichuan-chicken-wings-recipe-6-f8f66b54d23246128b0cb425f06731f3.jpg

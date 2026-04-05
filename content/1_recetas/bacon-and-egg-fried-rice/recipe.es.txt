@@ -1,0 +1,207 @@
+Title: Bacon and Egg Fried Rice
+
+----
+
+Category: desayunos, salsas
+
+----
+
+Description: An answer for leftover rice after a few too many drinks the night before.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: pound
+  ingredient: bacon , coarsely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: tablespoons
+  ingredient: vegetable oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: onion , finely chopped
+  preparation: about 1/2 cup
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: minced or grated ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic , minced
+  preparation: about 1 teaspoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: cooked white rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: thawed frozen green peas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: eggs , beaten, plus 4 un-cracked whole eggs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: chili paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: tablespoon
+  ingredient: toasted sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: tsp salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: scallions
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Cook bacon in a large skillet over medium heat until crisp, about 10 minutes total. Transfer to a paper towel-lined plate to drain.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour excess bacon fat into a small bowl, rinse and wipe out skillet, then return to high heat. Add one tablespoon bacon fat and heat until shimmering. Add onion and cook, stirring frequently, until translucent, about 4 minutes. Add ginger and garlic and cook until fragrant, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add 3 more tablespoons bacon fat to skillet (if there is not enough bacon fat, add vegetable oil to make up the difference), then add cooled rice. Cook, stirring and shaking constantly, until rice grains are separated, pressing to break up lumps with a spatula, about 2 minutes. Add peas and mix until ingredients are evenly combined.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Move the rice to the sides of the pan, creating a well in the center. Add the beaten egg. When it starts to set, stir it into the rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add soy sauce, chili paste, and sesame oil, and stir and toss to combine until well coated. Mix in reserved bacon, cover and remove from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat vegetable oil in a large non-stick skillet over high heat until shimmering. Add whole eggs and fry to desired doneness, seasoning to taste with salt and pepper. Divide rice between 4 plates, top each plate with a fried egg, sprinkle with scallions and/or cilantro, and serve immediately with extra chili sauce to pass.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, rice-grain-recipes
+
+----
+
+Seo_title: Bacon and Egg Fried Rice | Avenda Aurora
+
+----
+
+Seo_description: An answer for leftover rice after a few too many drinks the night before.
+
+----
+
+Original_author: Sydney Oland
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/insQ4DG0tT0QrxpP4n7ZVX9sXM8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__10__226982-20121027-sunday-brunch-bacon-egg-fried-rice-58ce746e844547a8addd4af69f1fec22.JPG

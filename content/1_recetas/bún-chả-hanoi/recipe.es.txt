@@ -1,0 +1,365 @@
+Title: Bún Chả Hanoi
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: This quintessential northern Vietnamese dish features charred pork patties and pork belly slices bathed in a steaming dipping sauce served alongside tender rice noodles, fresh herbs, and crunchy pickles for a satisfying meal.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/4"
+  unit: pounds
+  ingredient: ground pork , 20 percent fat
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: shallot , finely chopped
+  preparation: about 2 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation:  2 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: granulated sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vegetable or other neutral oil, for brushing
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: skin-on pork belly , frozen for 45 to 50 minutes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: hot water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: granulated sugar
+  preparation:  1 ounce ; 28 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fish sauce
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , white and green parts, thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: shallot , roughly chopped
+  preparation:  2 tablespoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: rice vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: carrot , peeled and thinly sliced
+  preparation:  1/2 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: kohlrabi , thinly sliced, then cut into small pieces , see note
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: granulated sugar
+  preparation:  5.25 ounces ; 150 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fish sauce
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: uncooked rice vermicelli noodles
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: head butter lettuce , leaves picked and washed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch Thai basil , leaves picked
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch Vietnamese coriander , leaves picked
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch perilla , leaves picked
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch peppermint , leaves picked
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: bunch fish mint , leaves picked
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: cloves
+  ingredient: garlic , chopped
+  preparation: about 1/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bird’s eye chiles , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Pork Patties : In a large bowl, combine ground pork, shallots, garlic, sugar, fish sauce, and pepper and mix well. Cover bowl and refrigerate mixture for at least 4 and up to 24 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Pork Belly: Using a very sharp knife, slice semi-frozen pork belly into 2-inch-long, 1/4-inch-thick slices.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In another large bowl, combine hot water and sugar and stir until sugar has dissolved. Add fish sauce, vegetable oil, scallions, shallot, garlic, and pepper and whisk to combine. Add pork belly slices and toss well to coat. Cover bowl and refrigerate for at least 4 and up to 24 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Pickled Carrot and Kohlrabi: In small bowl, stir water, rice vinegar, and sugar until sugar has dissolved. Add sliced carrot and kohlrabi and let sit at room temperature until pickled, 2 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Dipping Sauce: In a small saucepan, combine water, sugar, and fish sauce. Bring to a boil over medium-high heat, stirring until the sugar has dissolved, then boil for 5 minutes. Keep hot. (If making ahead of time, reheat before serving.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To Grill the Meats: When ready to grill, remove pork mixture and pork belly from fridge. Weigh out about 2 ounces of pork mixture for each patty. Using oiled hands, form pork mixture into small patties, about 2 1/2 inches in diameter and 1/2 inch thick. Place formed patties on baking sheet lined with aluminum foil or parchment paper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Light 1 chimney full of charcoal. When all charcoal is lit and covered with gray ash, pour out and arrange coals on one side of grill. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes. Alternatively, turn on all the burners of a gas grill to high, close grill, and preheat for 5 minutes. Clean and oil the grill grate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Brush both sides of pork patties with vegetable oil. Transfer 6 pork patties to a metal grilling basket. Grill over direct heat, turning every minute, until cooked through and browned on the outside, about 8 minutes. Transfer cooked patties to a platter or baking sheet. Repeat with remaining pork patties. Keep warm.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer pork belly slices to now-empty grilling basket. Grill over direct heat, turning every minute until cooked through and browned, 5 to 6 minutes. Transfer to the platter with the patties. Repeat with remaining pork belly slices. Keep warm.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- For Serving: Cook the noodles according to the package instructions. Drain and run under cold water. Drain again and set aside.
+- Place the noodles, lettuce, and herbs on a platter. Place the garlic and sliced bird’s eye chiles in separate small bowls.
+- Divide grilled pork patties and pork belly slices into 4 bowls. Add pickled vegetables. Ladle about 1 cup of hot dipping sauce into each bowl. Serve immediately with noodles, fresh herbs,raw garlic, and bird’s eye chiles alongside.
+- Make sure to use a traditionally made fish sauce; I prefer Red Boat brand.
+- For the rice vermicelli, Three Ladies is a good brand.
+- Green papaya makes a great substitute for kohlrabi.
+- The listed fresh herbs are available at most Asian grocery stores or well stocked markets. Any combination of the listed fresh herbs that are available to you will work in this recipe. Cilantro may be substituted for the Vietnamese coriander (rau răm).
+- The vermicelli rice noodles can be prepared a few hours before assembling the bowl.
+- The meat can be marinated the night before.
+- The dipping sauce can be made the day before and warmed up when ready to use.
+- The pickled carrot and kohlrabi can be made up to 48 hours ahead. Refrigerate them until ready to use.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, meatball-recipes
+
+----
+
+Seo_title: Bún Chả Hanoi | Avenda Aurora
+
+----
+
+Seo_description: This quintessential northern Vietnamese dish features charred pork patties and pork belly slices bathed in a steaming dipping sauce served alongside tender rice
+
+----
+
+Original_author: Vy Tran
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/J0g7JWjk9r6CHESo1CIrD1BfGd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231204-SEA-VyTran-BunChaHanoi-19-f623913c6ef34a9185bcd6e5680c545f.jpg

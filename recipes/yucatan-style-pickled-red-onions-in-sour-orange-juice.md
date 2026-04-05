@@ -1,0 +1,39 @@
+# Yucatán-Style Pickled Red Onions in Sour-Orange Juice
+
+> These sweet, salty, and tangy pickled onions are the perfect accompaniment to braised, slow-roasted, or smoked meats. Use them in tacos, burritos, fajitas, or sandwiches.
+
+**Author:** J. Kenji López-Alt
+
+**Original Image:** https://www.seriouseats.com/thmb/SPnrvErj5QDs7yEVWSw0nL90-zs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__05__20160510-pickled-red-onion-yucatan-baefd1b6417e46fe911ffc412f4830c9.jpg
+
+
+## Recipe Details
+
+
+**Tags:** all-recipes, recipes-by-course, condiment-sauce-recipes
+
+
+## Ingredients
+
+- 1 red onion , finely diced
+- 15 whole black peppercorns
+- 15 whole allspice berries
+- 4 bay leaves
+- 1/3 cup juice from 1 grapefruit ( 2 1/2 ounces ; 80 ml ) (see note)
+- 1/3 cup juice from 1 to 2 oranges ( 2 1/2 ounces ; 80 ml ) (see note)
+- 1/3 cup juice from 4 to 5 limes ( 2 1/2 ounces ; 80 ml ) (see note), plus a little extra just in case
+- Salt
+
+
+## Instructions
+
+1. Place onion, peppercorns, allspice, and bay leaves in a small saucepan and cover with water. Bring to a boil over high heat. Remove from heat, drain carefully, and transfer onions to a sealable container, such as a Mason jar.
+
+2. Add grapefruit, orange, and lime juice. Onions should be submerged at this point; if they aren&#39;t, top off with extra lime juice. Stir to combine, season to taste with salt (they should be quite salty—use about 1 teaspoon of kosher salt or 1/2 teaspoon of table salt), cover, and refrigerate until color deepens, about 2 hours. Onions can be stored in the refrigerator for up to 2 weeks. Do not eat peppercorns, allspice berries, or bay leaves.
+
+3. Seville oranges are sometimes available in Latin markets. If available, use 6 tablespoons Seville orange juice in place of the grapefruit, lime, and orange juice combination.
+
+
+---
+
+*Extracted from Serious Eats*

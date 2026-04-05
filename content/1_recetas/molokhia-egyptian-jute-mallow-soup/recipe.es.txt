@@ -1,0 +1,221 @@
+Title: Molokhia (Egyptian Jute Mallow Soup)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Cooked in a rich chicken broth and flavored with a fragrant garlic-coriander paste, molokhia soup—jute mallow soup—is an iconic Egyptian dish.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: fresh lemon juice from 1 large lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: red onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 2 1/2 cups homemade chicken stock or store-bought low-sodium chicken broth , see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "14"
+  unit: ounces
+  ingredient: frozen minced molokhia , fully defrosted
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: minced fresh cilantro leaves and tender stems, optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: clove garlic , minced
+  preparation: about 1 teaspoon 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: tomato , grated, optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt , use a pinch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: ghee
+  preparation: about 1 ounce ; 28 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Warmed pita
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vermicelli rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Pickled Onions : In a medium bowl, pour distilled white vinegar and lemon juice over thinly sliced onions. Set aside for at least an hour.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Molokhia: In a 4-quart Dutch oven, heat chicken stock over low heat until just beginning to bubble, about 3 minutes, then reduce heat. Add thawed molokhia to warm broth, whisking until fully incorporated. Add cilantro, if using, and garlic, whisking well to incorporate. Bring molokhia to a gentle simmer, uncovered, over low heat and cook until edges begin to bubble, 5 to 7 minutes. (Be careful not to let the soup boil.) If soup is too thick for your liking, add 1/2 cup chicken stock. If you prefer your molokhia soup less slimy, add the grated tomato.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Tasha : While the soup is cooking, in a mortar and pestle, pound garlic, coriander, and salt until smooth. In a small nonstick skillet, heat 2 tablespoons ghee over medium heat until shimmering. Add garlic and coriander paste and cook, stirring constantly to prevent burning, until fragrant and garlic is crispy and golden, about 1 1/2 minutes. Immediately add tasha to hot molokhia. (To catch any remaining bits of garlic and coriander, add a ladle of soup to the skillet, swirl, then add liquid back to the soup pot.) Remove from heat and season to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve molokhia in individual soup bowls and garnish with pickled red onions with hot pita bread, vermicelli rice, roast chicken, and/or kabab halla, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Frozen minced molokhia can be found at Middle Eastern grocery stores.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The garlic and coriander paste can be frozen in an ice cube tray (top each cube with some olive oil), transferred to an airtight container or freezer bag, and stored in the freezer for up to 3 months. Use a cube or two each time you make molokhia soup.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, african-recipes, north-african-recipes, egyptian-recipes
+
+----
+
+Seo_title: Molokhia (Egyptian Jute Mallow Soup) | Avenda Aurora
+
+----
+
+Seo_description: Cooked in a rich chicken broth and flavored with a fragrant garlic-coriander paste, molokhia soup—jute mallow soup—is an iconic Egyptian dish.
+
+----
+
+Original_author: Nermine Mansour
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Y8YAbyT5bpgc8May3c3X-dkPIl8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240405-SEA-Molokhia-KevinWhite-14-405db3f90b1c4367a8ecac6e77beca96.jpg

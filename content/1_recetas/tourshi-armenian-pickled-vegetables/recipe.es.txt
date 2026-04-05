@@ -1,0 +1,209 @@
+Title: Tourshi (Armenian Pickled Vegetables)
+
+----
+
+Category: postres, antojitos
+
+----
+
+Description: These tangy, lightly-spiced pickled vegetables are an essential part of the Armenian table, and can be made with just about any crisp, edible-when-raw vegetable you can think of.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: yellow or brown mustard seeds , or a combination
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: whole black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: allspice berries
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Aleppo pepper
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves , lightly crushed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: each of carrots , cauliflower, celery, green cabbage, green tomatoes, and turnips, or any combination of these totaling at least 3 1/2 pounds
+  preparation:  1.6 kg 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: sweet, long, tender-skinned peppers , such as Anaheim , cubanelle, banana, stemmed, seeded, and cut into 1/2-inch-wide strips, or pepperoncini, stemmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: to 8 fresh hot peppers , such as cayenne, serrano, red jalapeño, or cherry peppers, stemmed and cut into 1-inch pieces
+  preparation: optional, to taste; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: medium
+  ingredient: garlic cloves , peeled, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: sprigs flat leaf parsley , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: whole cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8 1/3"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3 1/3"
+  unit: cups
+  ingredient: cider vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume or the same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a small bowl, combine mustard, coriander, peppercorns, allspice, Aleppo pepper, and bay leaves. Stir until evenly combined, then set spice mixture aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: On a clean work surface, cut vegetables into uniform pieces. For carrots, peel and cut into 1/2-inch sticks about 2 or 3 inches long. For cabbage, cut into quarters, remove core and tender outer leaves, and cut into 3/4- to 1-inch wide wedges lengthwise. For cauliflower, remove stem and cut into large florets. For celery, trim ends and cut into 1/2-inch sticks about 3 or 4 inches long. For green tomatoes, cut into 1-inch cubes. For turnips, peel and cut into 1/2-inch sticks about 2 to 3 inches long.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In the bottom of each clean, wide-mouth 1-quart canning jar, place 2 garlic cloves, 2 sprigs parsley, 1 clove, and 2 teaspoons of the spice mixture, then divide the remaining spice mixture evenly among the jars. Add vegetables, sweet peppers, and hot peppers, a few pieces at a time, to the jars, rotating between them, until each jar is filled to within 1/2 inch of rim, packing them as tightly as possible without crushing the contents. (You will have leftover vegetables; save remainder for another use.)
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a nonreactive stainless-steel pot or enameled Dutch oven, combine cider vinegar, water, and salt and bring to boil over high heat. Pour brine into jars until vegetables are covered; discard any remaining brine). Using a spoon, push contents of jars down into brine to ensure everything is submerged, then seal tightly, and invert jars. Let sit at room temperature for 5 days, turning jars over once a day. Refrigerate jars for at least 1 day before serving.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve as a snack, as part of a mezze spread, or as a side alongside a main course of your choosing.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, vegetable-recipes
+
+----
+
+Seo_title: Tourshi (Armenian Pickled Vegetables) | Avenda Aurora
+
+----
+
+Seo_description: These tangy, lightly-spiced pickled vegetables are an essential part of the Armenian table, and can be made with just about any crisp, edible-when-raw vegetable
+
+----
+
+Original_author: Andrew Janjigian
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/uQeEIawswJk3hopfN3pWBYGlZac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230314-SEA-Tourshi-VickyWasik-hero-b897b4ac0afb459fa5e95b67549d1997.JPG

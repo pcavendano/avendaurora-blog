@@ -1,0 +1,194 @@
+Title: Crispy Kimchi Cheese Rice
+
+----
+
+Category: salsas
+
+----
+
+Description: Crispy-chewy rice, gooey cheese, funky and sour kimchi...what&#39;s not to like?
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: unsalted butter , softened
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: cooked short-grain rice
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: gochujang
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: rice vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: thinly sliced medium scallions , white and green parts divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: grated low-moisture mozzarella cheese , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: grated Gruyère cheese , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: ounces
+  ingredient: chopped drained kimchi
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: ounce
+  ingredient: grated Cotija cheese
+  preparation: see note
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat oven to 400°F (200°C). Grease a 10-inch cast iron pan with 1 tablespoon (15g) butter, making sure to fully cover both the bottom and the sides.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a medium mixing bowl, combine rice, gochujang, soy sauce, rice vinegar, and sliced scallion whites. Using a flexible spatula, mix thoroughly.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Scrape half of rice mixture into buttered cast iron skillet and, using the bottom of a drinking glass or measuring cup, press down firmly to create a single even layer of seasoned rice. Distribute half of the mozzarella and Gruyère over the layer of rice, then scrape the rest of the rice mixture over grated cheese. Using the bottom of a drinking glass or measuring cup, press down firmly to create an even top layer of seasoned rice. Transfer pan to oven and cook for 35 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Remove pan from oven. Turn off oven and turn broiler on high. While broiler preheats, top rice with chopped kimchi. Distribute remaining Gruyère and mozzarella over kimchi and sprinkle Cotija over the other cheeses.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Place pan under broiler for about 2 minutes, or until Gruyère and mozzarella melt and bubble and Cotija begins to char in spots. Remove pan from under broiler, top with sliced scallion greens, and serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 10-inch cast iron skillet
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe was designed to use up leftover rice, but you can use freshly cooked rice, too, without altering the recipe. Short- or medium-grain rice is preferred, but any rice variety works.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you have more than one type of kimchi available, feel free to use a mix for even greater flavor. Similarly, this recipe offers suggestions of types of cheeses to use, but any good melting cheese will work for the interior and on top, and most any hard cheese will work for the broiling step, too.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: This recipe is best eaten immediately after being prepared.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, side-recipes, rice-grains-side-recipes
+
+----
+
+Seo_title: Crispy Kimchi Cheese Rice | Avenda Aurora
+
+----
+
+Seo_description: Crispy-chewy rice, gooey cheese, funky and sour kimchi...what&#39;s not to like?
+
+----
+
+Original_author: Sho Spaeth
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/FpZlQan7XTk0pEn-PMLDCay598w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__10__20191014-cheesy-rice-vicky-wasik-13-b353b816b4f147cca230eed39cc193fe.jpg

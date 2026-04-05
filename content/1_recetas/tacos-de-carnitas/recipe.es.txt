@@ -1,0 +1,173 @@
+Title: Tacos de Carnitas
+
+----
+
+Category: antojitos, platos-fuertes
+
+----
+
+Description: Carnitas estilo Michoacán con carne de cerdo confitada lentamente hasta quedar dorada y crujiente por fuera, tierna por dentro.
+
+----
+
+Cover:
+
+----
+
+Prep_time: 30
+
+----
+
+Cook_time: 180
+
+----
+
+Total_time: 210
+
+----
+
+Servings: 8 porciones
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: kg
+  ingredient: Pierna de cerdo
+  preparation: cortada en trozos grandes
+  optional: false
+  ingredient_link:
+-
+  quantity: "1"
+  unit: taza
+  ingredient: Manteca de cerdo
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "1"
+  unit: ""
+  ingredient: Naranja
+  preparation: en cuartos
+  optional: false
+  ingredient_link:
+-
+  quantity: "1"
+  unit: ""
+  ingredient: Cebolla blanca
+  preparation: en cuartos
+  optional: false
+  ingredient_link:
+-
+  quantity: "6"
+  unit: dientes
+  ingredient: Ajo
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "2"
+  unit: cucharadas
+  ingredient: Sal
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "1"
+  unit: cucharadita
+  ingredient: Pimienta negra
+  preparation: molida
+  optional: false
+  ingredient_link:
+-
+  quantity: "1"
+  unit: cucharadita
+  ingredient: Comino
+  preparation: molido
+  optional: false
+  ingredient_link:
+-
+  quantity: "1"
+  unit: taza
+  ingredient: Leche evaporada
+  preparation:
+  optional: true
+  ingredient_link:
+
+----
+
+Instructions:
+-
+  step_title: Preparar la carne
+  instruction: Corta la pierna de cerdo en trozos de aproximadamente 5cm. Sazona generosamente con sal, pimienta y comino. Deja reposar 15 minutos.
+  tip: La carne a temperatura ambiente se cocina más uniformemente.
+  step_image:
+-
+  step_title: Dorar la carne
+  instruction: En una olla grande o cazo de cobre, derrite la manteca a fuego medio-alto. Dora los trozos de cerdo por todos lados hasta que estén bien sellados.
+  tip:
+  step_image:
+-
+  step_title: Agregar aromáticos
+  instruction: Añade la naranja, cebolla y ajo a la olla. El jugo de la naranja le dará un sabor característico a las carnitas.
+  tip: Puedes agregar una ramita de canela para un sabor más tradicional.
+  step_image:
+-
+  step_title: Cocción lenta
+  instruction: Reduce el fuego a bajo, tapa parcialmente y cocina por 2.5 a 3 horas, volteando ocasionalmente. La carne debe estar muy tierna.
+  tip: Si la carne se seca, agrega un poco de agua o caldo.
+  step_image:
+-
+  step_title: Dorar las carnitas
+  instruction: Cuando la carne esté tierna, sube el fuego para que la manteca burbujee y dore los trozos. Desmenuza con dos tenedores.
+  tip: El secreto de unas buenas carnitas es el dorado final.
+  step_image:
+-
+  step_title: Servir
+  instruction: Sirve en tortillas de maíz calientes con cebolla, cilantro, salsa verde y limón.
+  tip:
+  step_image:
+
+----
+
+Tips:
+
+## Consejos del Chef
+
+- Usa manteca de cerdo de buena calidad para el mejor sabor
+- La leche evaporada opcional ayuda a que la carne quede más tierna
+- Guarda la manteca sobrante para otras recetas
+- Las carnitas saben mejor al día siguiente recalentadas en su propia grasa
+
+----
+
+History:
+
+## Historia
+
+Las carnitas son originarias del estado de Michoacán, donde se preparan desde la época colonial. La técnica de confitar la carne en su propia grasa fue adoptada de las tradiciones españolas y adaptada con ingredientes locales como la naranja agria.
+
+----
+
+Enable_kits: true
+
+----
+
+Store_kits:
+
+----
+
+Tags: cerdo, tacos, michoacan, tradicional, fiesta
+
+----
+
+Seo_title: Tacos de Carnitas Estilo Michoacán | Receta Auténtica
+
+----
+
+Seo_description: Aprende a hacer carnitas tradicionales estilo Michoacán. Carne de cerdo confitada, dorada y crujiente. Receta paso a paso.

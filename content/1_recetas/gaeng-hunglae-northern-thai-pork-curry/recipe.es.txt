@@ -1,0 +1,239 @@
+Title: Gaeng Hunglae (Northern Thai Pork Curry)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Seasoned with palm sugar, tamarind paste, and hunglae powder—a regional variation on garam masala—this sweet and sour pork curry is deeply aromatic, and one of northern Thailand’s most iconic dishes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "10"
+  unit: 
+  ingredient: dried Thai red chiles , stemmed and seeded see notes)
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh galangal , finely chopped, see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: lemongrass stalks , thinly sliced cross-wise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "13"
+  unit: medium
+  ingredient: clove s garlic
+  preparation:  2 1/4 ounces ; 65 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: shallot , thinly sliced cross-wise
+  preparation:  1/2 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: kapi shrimp paste
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: neutral oil , such as vegetable or canola
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: skin-on pork belly , cut into 1-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: pork shoulder , cut into 1-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: hunglae powder or garam masala
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: sweet soy sauce , such as kecap manis
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: palm sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: Thai tamarind paste
+  preparation:  2 1/2 ounces ; 70 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: water , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: pickled garlic cloves , lightly smashed, see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: medium
+  ingredient: cloves garlic , peeled and lightly smashed
+  preparation: about 1/4 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 5-inch piece ginger , peeled and julienned, divided, plus more for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: peanuts , roasted and unsalted, roughly chopped
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Steamed white rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Curry Paste: In a small bowl, soak chiles in just enough hot water to cover; let sit until softened, about 5 minutes. Using a fine-mesh sieve, drain chiles.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a mortar and pestle, pound chiles with salt until a thick paste begins to form, 2 to 3 minutes. Add galangal and lemongrass and continue pounding until finely ground, about 5 minutes. Add garlic, shallots, and shrimp paste, and continue pounding until a smooth paste forms, about 5 more minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Curry: In a 5-quart Dutch oven or heavy-bottomed pot, heat oil over medium heat until shimmering. Add curry paste and fry, stirring frequently, until fragrant and color deepens, 2 to 3 minutes. Add pork belly and pork shoulder, stirring to evenly coat with curry paste. Add hunglae powder, sweet soy sauce, palm sugar, and tamarind, stirring to combine. Add pickled garlic, fresh garlic, and half the ginger.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add enough water to fully submerge pork, about 5 cups. Bring to a boil over high heat, then reduce to a simmer. Simmer on low heat until curry is thick enough to coat a spoon and pork is very tender, using a wooden spoon to stir and scrape occasionally, about 4 hours. The pork should be just submerged throughout the cooking process; if curry gets too dry, add more water to cover. (If sauce remains thin after 4 hours, remove pork, set aside, and reduce sauce until thick enough to coat a spoon, 15 to 20 minutes. Return pork to sauce and cook until warmed through, and proceed with step 5 of recipe.)
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, curry-recipes
+
+----
+
+Seo_title: Gaeng Hunglae (Northern Thai Pork Curry) | Avenda Aurora
+
+----
+
+Seo_description: Seasoned with palm sugar, tamarind paste, and hunglae powder—a regional variation on garam masala—this sweet and sour pork curry is deeply aromatic, and one of 
+
+----
+
+Original_author: Pruitt Kerdchoochuen
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/4NzXC964kpUQ0HbQ8OD02on_s_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250205-SEA-GaengHunglae-NorthernThaiPorkCurry-QiAi-Beauty1-64-184d3f660ea646c098c16ce4cb6d0268.jpg

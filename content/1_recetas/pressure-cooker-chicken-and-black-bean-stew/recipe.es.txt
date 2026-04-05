@@ -1,0 +1,190 @@
+Title: Pressure Cooker Chicken and Black Bean Stew
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Black beans are stewed in the pressure cooker with spicy Hatch chiles, smoky andouille sausage, and fall-off-the-bone tender chicken legs.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: vegetable or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: smoked sausage , such as andouille or kielbasa , sliced into 1/4-inch disks
+  preparation:  1 2/3 cups 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , diced
+  preparation: about 1 cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cans diced green chiles
+  preparation: preferably Hatch
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: dried black beans
+  preparation:  1 heaping cup 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: sprigs cilantro , leaves roughly chopped , stems tied together with a piece of kitchen twine, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , plus more to taste; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: chicken legs , divided into thighs and drumsticks
+  preparation: about 2 pounds ; 900 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sour cream , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a pressure cooker, heat oil over medium-high heat until shimmering. Add sausage and cook until starting to crisp around edges, about 2 minutes. Add onion and cook, stirring, until softened, about 3 minutes longer. Add cumin and cook until fragrant, about 30 seconds. Add chiles, dried black beans, cilantro stems, and stock. Season with salt and pepper and stir to combine. Seal pressure cooker and bring to high pressure. Cook for 30 minutes. Cool pressure cooker under a cold running tap (if using an electric cooker, use the quick release valve), and open.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add chicken pieces to pressure cooker. Seal pressure cooker and bring to high pressure. Cook for 10 minutes. Cool pressure cooker under a cold running tap (if using an electric cooker, use the quick release valve), and open. Using tongs, transfer chicken pieces to a medium bowl. Discard cilantro stems. Return beans in pressure cooker to high heat and continue cooking, stirring, until reduced to a thick, stew-like consistency, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, shred chicken and discard skin and bones. Stir chicken into beans, season to taste with salt and pepper, and stir in half of chopped cilantro leaves. Serve with sour cream, lime wedges, and remaining cilantro at the table.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Electric or stovetop pressure cooker
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Pressure Cooker Chicken and Black Bean Stew | Avenda Aurora
+
+----
+
+Seo_description: Black beans are stewed in the pressure cooker with spicy Hatch chiles, smoky andouille sausage, and fall-off-the-bone tender chicken legs.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/0Fj2KLs6loDO3NhRV7ATs30QNOU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SEA-SoupsandStewsMPP-PressureCookerChickenandBlackBeanStew-GregDupree-a2c3e1670e424cf8a47715984f27bba6.jpg

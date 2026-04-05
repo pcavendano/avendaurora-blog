@@ -1,0 +1,169 @@
+Title: Tacos de Camarones al Mojo de Ajo (Sautéed Shrimp Tacos)
+
+----
+
+Category: antojitos
+
+----
+
+Description: Even though it sounds impressive, mojo de ajo is essentially just a mixture of garlic and oil—two very simple ingredients which nonetheless make a huge impression.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: white onion , sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: shrimp , peeled, deveined, and cut lengthwise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: jalapeño chile , stem removed, thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chopped garlic
+  preparation: from about 4 garlic cloves 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: bunch Italian parsley , stems discard, leaves chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "16"
+  unit: 
+  ingredient: corn tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Pour the canola oil into a large skillet set over high heat. When just starting to smoke, add the onions and stir. Cook until they just start to turn soft, stirring constantly, about one minute. Add the shrimp and cook, stirring occasionally, until the shrimp are mostly pink.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the butter, jalapeño, and garlic, and cook, stirring often, until the garlic is very fragrant, about one minute. Season with salt, and cook until the shrimp are completely cooked, about 30 seconds. Turn off the heat, and stir in the parsley.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat a second skillet over medium heat. Add as many tortillas as will fit in one layer, and warm them a few seconds on each side until soft. Set aside and cover with a towel. Repeat until all the tortillas are warm.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spoon a little of the shrimp filling into each tortilla. Serve with the lime wedges.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, taco-recipes
+
+----
+
+Seo_title: Tacos de Camarones al Mojo de Ajo (Sautéed Shrimp Tacos) | Avenda Aurora
+
+----
+
+Seo_description: Even though it sounds impressive, mojo de ajo is essentially just a mixture of garlic and oil—two very simple ingredients which nonetheless make a huge impressi
+
+----
+
+Original_author: Nick Kindelsperger
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/8ubUB2IpwcUHH7iRZSNeiYEZ4XM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20120116-189303-dinner-tonight-tacos-de-camarones-primary-591a3faa1e9e4bbcaad0f63834406092.jpg

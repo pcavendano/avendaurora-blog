@@ -1,0 +1,237 @@
+Title: Nigerian Beef Curry
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: This Nigerian beef curry is hearty and aromatic, with tender meat and vegetables. It&#39;s a family recipe I return to week after week.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: thinly shaved beef ribeye or chuck steak
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: Diamond Crystal kosher salt , plus more as needed; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: grated fresh ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: minced garlic
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: peanut oil or neutral oil such as canola or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: red onions , cut into 1-inch chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: dried bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: Nigerian-style curry powder , such as Lion brand
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: starchy potatoes such as Yukon Gold or russets , peeled and cut into 1-inch chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: carrots cut into 1-inch chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: red bell pepper , cut into 1-inch chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: red bell pepper , cut into 1-inch chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: Curry-Flavored Nigerian Stock or store-bought chicken broth
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped cilantro to serve, optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Plain white rice for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a medium bowl, combine beef, 1 teaspoon salt, ginger, and garlic. Rub seasonings into beef, then cover and refrigerate for at least 30 minutes or up to 4 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large high-sided sauté pan or large Dutch oven, heat peanut oil over medium heat until shimmering. Add half of the onions, the bay leaves, and remaining 1/2 teaspoon salt. Cook until onions are softened and browned, about 8 minutes. Stir in curry powder and thyme and cook until fragrant, 1 to 2 minutes. Add beef, potatoes, and carrots. Cook, stirring occasionally, until beef begins to brown, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining onions, red bell pepper, half of green bell pepper, black pepper, turmeric, curry stock, and 1 cup (240 ml) water and stir. Reduce heat to low, cover, and cook until beef and vegetables are tender, 15 to 25 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a small bowl, whisk together cornstarch and 1 cup (240 ml) water to form a smooth slurry. Whisk slurry into curry to incorporate, then cook until sauce bubbles and starts to thicken, stirring occasionally, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining green bell pepper and cook until they are tender-crisp, about 5 minutes. Season with salt and additional stock to taste, if needed. Discard bay leaves and serve with white rice, if desired.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, curry-recipes
+
+----
+
+Seo_title: Nigerian Beef Curry | Avenda Aurora
+
+----
+
+Seo_description: This Nigerian beef curry is hearty and aromatic, with tender meat and vegetables. It&#39;s a family recipe I return to week after week.
+
+----
+
+Original_author: Ozoz Sokoh
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/aCrveWtTEkLTUaoVVBQ_dE_BKTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250912-SEA-NigerianBeefCurry-MaureenCelestine-28-52602d88b4534cb78785025fa832dd07.jpg

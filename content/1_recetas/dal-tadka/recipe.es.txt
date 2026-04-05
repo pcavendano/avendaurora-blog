@@ -1,0 +1,195 @@
+Title: Dal Tadka
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: If there is one dish that&#39;s common through the extreme diversity of Indian cuisine, it&#39;s daal (lentils). Rich and poor, festival fare or frugal meal, it&#39;s the great leveler of Indian food. In India, the word daal refers to the lentil as well as the finished dish.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: cup
+  ingredient: tuvar daal
+  preparation: yellow lentils/pigeon peas
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ghee
+  preparation:  clarified butter 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch asafoetida
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: turmeric powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: ghee
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: Mundu chiles
+  preparation: these are small, round chiles from South India, alternatively any dry red chile will do
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole black mustard seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole cumin seed , plus 1 1/2 teaspoons toasted and ground cumin seed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: curry leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: asafoetida
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: red chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Daal : Wash and drain tuvar daal in a large fine mesh strainer. Heat ghee in pressure cooker over high heat until shimmering. Add asafoetida, turmeric, and washed daal. Cook, stirring frequently till the ghee coats the daal, about 20 seconds.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add water and salt to taste. Close pressure cooker, increase heat to high, and heat until pressure cooker is pressurized to high pressure. Reduce heat to low and cook ten minutes. Remove from heat and allow pressure to dissipate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Open pressure cooker and break up daal with a whisk. Set aside while you make the tadka.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Tadka : Heat ghee in a skillet over high heat until lightly smoking. Reduce heat to medium.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add mundu chiles, mustard seeds, and whole cumin seed (stand away from skillet as the seeds pop). Wait until seeds sizzle, about 10 seconds, then add curry leaves and stir. Cook until the curry leaves sizzle, about 10 seconds longer, then add asafoetida, red chile and roasted cumin powder. Stir vigorously and immediately transfer all contents to the daal and lightly stir. Do not mix thoroughly. Some of the ghee should float on top. Serve immediately with white rice, Indian bread (roti), or as an accompaniment to any Indian meal.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, bean-recipes, lentil-recipes
+
+----
+
+Seo_title: Dal Tadka | Avenda Aurora
+
+----
+
+Seo_description: If there is one dish that&#39;s common through the extreme diversity of Indian cuisine, it&#39;s daal (lentils). Rich and poor, festival fare or frugal meal, it
+
+----
+
+Original_author: Denise D'silva Sankhé
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/fS5yvTX6R3EW_Z3fJnthMxMCShU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2011__10__20111017-Indian-Daal-Tadka-d6611388dfbb4eafab7be765088718f3.jpg

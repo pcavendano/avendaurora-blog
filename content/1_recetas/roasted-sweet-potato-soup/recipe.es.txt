@@ -1,0 +1,207 @@
+Title: Roasted Sweet Potato Soup
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: This simple soup is made with roasted sweet potatoes, a splash of orange juice, and topped with crushed pistachios, olive oil, mint, scallions, and orange zest.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "4"
+  unit: pounds
+  ingredient: sweet potato , peeled and cut into 1/2-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: tablespoons
+  ingredient: vegetable, canola, or grapeseed oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: carrots , peeled and diced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: cloves
+  ingredient: garlic , crushed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: sprigs sage
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: homemade or store-bought low-sodium chicken stock or vegetable stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh juice and 1 tablespoon freshly grated zest from 1 medium orange , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: shelled roasted pistachios , crushed in a mortar and pestle or food processor
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , thinly sliced, white and light green parts only
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: very thinly sliced fresh mint leaves
+  preparation: from about 5 sprigs
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Pinch cayenne pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: extra-virgin olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat oven to 300°F (150°F). Toss sweet potato with 4 tablespoons vegetable oil and salt. Spread sweet potato on 2 rimmed baking sheets and bake for 1 hour, rotating pans front to back and top to bottom halfway through cooking. Increase oven temperature to 375°F (190°C) and cook until sweet potatoes are tender and lightly browned around the edges, about 25 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large pot, heat remaining 2 tablespoons vegetable oil over medium-high heat until shimmering. Add carrot, onion, garlic, sage (if using), and a generous pinch of salt and cook, stirring, until vegetables are just tender.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add sweet potatoes and stock and bring to a simmer. Cook for 10 minutes until vegetables are very tender. Discard sage, if using. Add orange juice. Using an immersion blender or countertop blender, blend soup until smooth. Season with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If desired, pass soup through a fine-mesh strainer using a rubber spatula to plunge and scrape it through (it may not seem like it at first, but almost all of the soup will pass through).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a mixing bowl, stir together pistachios, orange zest, scallions, mint, and cayenne pepper. Fold in olive oil and season with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Serve soup, spooning pistachio salsa on top.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, holiday-season-recipes, fall-recipes, thanksgiving-recipes, thanksgiving-sweet-potato-recipes
+
+----
+
+Seo_title: Roasted Sweet Potato Soup | Avenda Aurora
+
+----
+
+Seo_description: This simple soup is made with roasted sweet potatoes, a splash of orange juice, and topped with crushed pistachios, olive oil, mint, scallions, and orange zest.
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/j1TtpK0k3B0yolh7vhKNbsllXRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20141125-sweet-potato-soup-vicky-wasik--ed937c27cc224c6d9fdbd016891ea227.jpg

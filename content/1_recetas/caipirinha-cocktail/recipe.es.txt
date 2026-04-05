@@ -1,0 +1,105 @@
+Title: Caipirinha Cocktail
+
+----
+
+Category: bebidas
+
+----
+
+Description: Learn how to make a classic caipirinha with just lime, sugar, and cachaça—Brazil’s popular cocktail. It’s refreshing, vibrant, and perfect for warm-weather sipping.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: ounces
+  ingredient: cachaça
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: of a fresh lime , cut into quarters
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: to 2 teaspoons superfine sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place the lime pieces and sugar in the cocktail shaker and crush with a muddler. Add cachaça and a handful of ice; shake well and pour, unstrained, into a rocks or old fashioned glass. Serve.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, holiday-season-recipes, summer-recipes, summer-drink-recipes
+
+----
+
+Seo_title: Caipirinha Cocktail | Avenda Aurora
+
+----
+
+Seo_description: Learn how to make a classic caipirinha with just lime, sugar, and cachaça—Brazil’s popular cocktail. It’s refreshing, vibrant, and perfect for warm-weather sipp
+
+----
+
+Original_author: Paul Clarke
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/_fhSWEOpYDE_KnJPkgAtZ2gexNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250710-Caipirinha-TwoBites-10-870da052047d48dd898286ec86a38fe9.jpg

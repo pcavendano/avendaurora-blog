@@ -1,0 +1,318 @@
+Title: Pío V (Nicaraguan Christmas Cake)
+
+----
+
+Category: postres
+
+----
+
+Description: Pío V—allegedly named for 16th century Pope Pius V, though there are no written records or even verbal conjectures to explain the odd handle—is a Nicaraguan dessert typically served around Christmastime.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: unsalted butter , softened
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: fine white cornmeal
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: all-purpose flour , sifted
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: teaspoons
+  ingredient: baking powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: unsweetened cocoa powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground cinnamon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: large
+  ingredient: eggs , separated and at room temperature
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: teaspoon
+  ingredient: salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: pure vanilla extract
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: cups
+  ingredient: water
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3 1/2"
+  unit: cups
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: cinnamon sticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Peel of 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3/4"
+  unit: cup
+  ingredient: gold rum
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: raisins
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: 
+  ingredient: prunes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: milk
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: cinnamon sticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: egg yolks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: butter , cut into 4 pieces and chilled
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: pure vanilla extract
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Marquesote Cake: Adjust oven rack to middle position and preheat oven to 350°F. Grease a 13- by 9-inch baking dish with butter.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In medium skillet over medium-low heat, cook cornmeal, stirring frequently, until light golden and fragrant, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Whisk together cornmeal, flour, baking powder, and cocoa powder in medium bowl; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In large bowl, beat egg whites and salt with whisk attachment on medium-low speed until whites begin to froth, about 1 minute. Increase speed to medium-high and beat whites until soft peaks form, 1 to 2 minutes. Slowly add sugar, then continue beating until stiff, glossy peaks form, 2 to 3 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add egg yolks to egg whites and beat just until combined. Decrease speed to low and add flour mixture in three additions, alternating with milk, scraping sides and bottom of bowl as necessary. Add vanilla and beat just until combined.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Scrape batter into prepared baking dish. Bake until tester inserted in center of cake comes out clean, 30 to 35 minutes. Transfer cake to cooling rack and cool in pan completely, 1 to 2 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Sopa Borracha Syrup: Bring water, sugar, cinnamon sticks, cloves, and lemon peel to boil in large, heavy-bottomed saucepan over medium-high heat. Reduce heat to medium and simmer until reduced to 4 1/2 cups, about 30 minutes. Strain and discard solids.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in rum, raisins, and prunes and cool to room temperature, about 30 minutes. Once cooled, strain once again, reserving prunes and raisins.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Manjar Custard: Bring milk and cinnamon sticks to boil over medium heat in small saucepan or in (glass) liquid measuring cup in microwave. Remove and reserve cinnamon sticks.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- In a large, heavy-bottomed saucepan whisk together sugar, cornstarch, egg yolks, and salt. While vigorously whisking, add 1/4 cup of hot milk, then, add remaining milk in a slow steady stream, all the while whisking.
+- Add reserved cinnamon sticks and bring the mixture to boil over medium heat, whisking constantly. Once mixture thickens to the consistency of yogurt, continue to boil for 1 to 2 minutes. Remove from heat and stir in butter and vanilla.
+- Press a piece of plastic wrap directly onto the custard’s surface and refrigerate until cold, 2 to 3 hours. Otherwise, place the custard bowl over in an ice bath and stir until completely cooled, 10 to 15 minutes.
+- To Assemble: Poke cake all over with skewer or fork. Pour sopa borracha over cake. Once absorbed, pour custard over cake, smoothing out surface with rubber spatula. Top with raisins and prunes.
+- Chill cake at least 1 hour prior to serving.
+- Medium skillet, sifter/strainer, mixing bowls, whisk, electric mixer, rubber spatula, 13- by 9-inch baking dish, cooling rack, large, heavy-bottomed saucepan, plastic wrap
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, dessert-recipes, cake-recipes
+
+----
+
+Seo_title: Pío V (Nicaraguan Christmas Cake) | Avenda Aurora
+
+----
+
+Seo_description: Pío V—allegedly named for 16th century Pope Pius V, though there are no written records or even verbal conjectures to explain the odd handle—is a Nicaraguan des
+
+----
+
+Original_author: María del Mar Cuadra
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ml6681Aw2hEjrcZ23IJLDoXQMoc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2011__12__20111209-127677-Dulces-Pio-V-PRIMARY-21a3d3dd7d1b4941aac80489a2db0a38.jpg

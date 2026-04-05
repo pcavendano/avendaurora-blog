@@ -1,0 +1,157 @@
+Title: Stir-Fried Green Beans and Five-Spice Dry Tofu
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: There&#39;s tofu, and then there&#39;s dry tofu. This stir-fry with snappy green beans and rice has a hint of chili and a gingery kick for a tasty and filling meal with that takes all of five minutes to cook.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: dry five-spice tofu
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: vegetable, peanut, or canola oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh ginger , peeled and sliced to matchsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: to 2 fresh small chiles , such as Thai , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: ounces
+  ingredient: fresh green beans , trimmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: light soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: chili sauce, such as sambal oelek
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , sliced thinly on a bias
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Slice the dry tofu blocks into thin, roughly 1/8&#34; rectangular slices. Heat 2 tablespoons of the oil in a wok over high heat until smoking. Add the tofu slices and stir-fry until just crispy on both sides, 2 to 3 minutes. Transfer the tofu to a plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining tablespoon of oil and heat until lightly smoking. Add the ginger and optional chilies. Stir fry until fragrant, about 30 seconds, then add the green beans along with a pinch of salt. Stir fry for until the green beans are lightly softened, deeper green in color, and a little seared on their sides, about 30 seconds
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return the dry tofu to the pan and stir with the green beans. Add the soy sauce and optional chili sauce and stir immediately to incorporate evenly. Stir in the scallions and cook, stirring, for another minute. Season with more salt if desired, and serve.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, vegetable-main-recipes
+
+----
+
+Seo_title: Stir-Fried Green Beans and Five-Spice Dry Tofu | Avenda Aurora
+
+----
+
+Seo_description: There&#39;s tofu, and then there&#39;s dry tofu. This stir-fry with snappy green beans and rice has a hint of chili and a gingery kick for a tasty and filling m
+
+----
+
+Original_author: Cathy Erway
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Zn7KtSRcSGTKEfr3JafLHLnyLqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__08__20130826-seriously20asian20taiwan-green20beans20with20dry20tofu-finished20dish-e1bbaa966e004243a3af3f97c66d9cc1.jpg

@@ -1,0 +1,241 @@
+Title: Jamaican Beef Stew With Rice
+
+----
+
+Category: platos-fuertes, sopas-caldos
+
+----
+
+Description: Spicy-sweet jerk beef stew offers a sunny taste of the Caribbean, even when it&#39;s cold outside.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: pounds
+  ingredient: boneless beef stew meat , cut into 1-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: white onion , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: carrots , peeled and cut into chunks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: habanero chiles , seeded and minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: about 2 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: rum
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: homemade or store-bought low-sodium chicken stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: allspice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: cinnamon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: hot pepper sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: sprigs fresh thyme
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: red wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: can diced tomatoes , preferably fire roasted
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: steak sauce , such as A-1
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: chopped scallions
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: cooked long-grain white rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to lower-middle position and preheat oven to 300°F. Heat olive oil in a Dutch oven over high heat until smoking. Season beef with salt and pepper. Add beef to pan and cook without moving until well-browned on one side, about 6 minutes. Stir to loosen meat, and add onions and carrots. Cook, stirring, for 2 minutes, reduce heat to medium and add habaneros, garlic and rum. Bring to a boil and simmer for 2 minutes before adding chicken broth, allspice, cinnamon, hot pepper sauce, thyme, bay leaves, brown sugar, red wine vinegar, tomatoes, soy sauce, and steak sauce.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Return to a boil, cover, and transfer to oven. Continue cooking until meat is tear-apart-tender when pierced with a fork, about 1 1/2 hours longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When stew is done, remove from oven and discard thyme sprigs and bay leaves. If stew is not thick enough, reduce over the stovetop until desired consistency is reached. Season to taste with salt and pepper. Garnish with green onions and serve immediately with rice.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, braising-stewing-recipes, braised-stewed-beef-recipes
+
+----
+
+Seo_title: Jamaican Beef Stew With Rice | Avenda Aurora
+
+----
+
+Seo_description: Spicy-sweet jerk beef stew offers a sunny taste of the Caribbean, even when it&#39;s cold outside.
+
+----
+
+Original_author: Jennifer Olvera
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/gRWLEDpuZlWjbuB85wVy_pa80WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__04__040313-246922-Sunday-Supper-Jamaican-Beef-StewB-4e9b5747040f4aecbc8d77d2854039ac.jpg

@@ -1,0 +1,293 @@
+title: Recipe / Receta
+icon: 🍽️
+num: date
+
+status:
+  draft:
+    label: Borrador
+    text: La receta está en borrador
+  unlisted:
+    label: En revisión
+    text: La receta está en revisión
+  listed:
+    label: Publicada
+    text: La receta está publicada
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          title:
+            label: Título / Title
+            type: text
+            required: true
+            translate: true
+
+          description:
+            label: Descripción corta
+            type: textarea
+            maxlength: 300
+            translate: true
+            help: Descripción breve para tarjetas y SEO
+
+          cover:
+            label: Imagen Principal
+            type: files
+            max: 1
+            layout: cards
+            size: large
+            uploads:
+              template: recipe-image
+
+          gallery:
+            label: Galería de Fotos
+            type: files
+            layout: cards
+            uploads:
+              template: recipe-image
+
+          video:
+            label: Video (YouTube/Vimeo URL)
+            type: url
+
+          prep_time:
+            label: Tiempo de Preparación
+            type: number
+            after: minutos
+            width: 1/4
+
+          cook_time:
+            label: Tiempo de Cocción
+            type: number
+            after: minutos
+            width: 1/4
+
+          total_time:
+            label: Tiempo Total
+            type: number
+            after: minutos
+            width: 1/4
+
+          servings:
+            label: Porciones
+            type: number
+            width: 1/4
+
+          difficulty:
+            label: Dificultad
+            type: select
+            width: 1/2
+            options:
+              easy: Fácil / Easy
+              medium: Medio / Medium
+              hard: Difícil / Hard
+
+          ingredients:
+            label: Ingredientes
+            type: structure
+            translate: true
+            fields:
+              ingredient:
+                label: Ingrediente
+                type: text
+                width: 1/2
+                required: true
+
+              quantity:
+                label: Cantidad
+                type: text
+                width: 1/4
+
+              unit:
+                label: Unidad
+                type: select
+                width: 1/4
+                options:
+                  piezas: piezas
+                  tazas: tazas
+                  cucharadas: cucharadas
+                  cucharaditas: cucharaditas
+                  gramos: g
+                  kg: kg
+                  ml: ml
+                  litros: L
+                  lb: lb
+                  oz: oz
+
+              preparation:
+                label: Preparación
+                type: text
+                width: 1/2
+                placeholder: picado, rebanado, etc.
+
+              optional:
+                label: Opcional
+                type: toggle
+                width: 1/4
+
+              ingredient_link:
+                label: Link a Ingrediente
+                type: pages
+                query: site.find('ingredientes').index
+                width: 1/4
+
+          instructions:
+            label: Instrucciones
+            type: structure
+            translate: true
+            fields:
+              step_title:
+                label: Título del Paso (opcional)
+                type: text
+                width: 1/2
+
+              step_image:
+                label: Imagen del Paso
+                type: files
+                max: 1
+                width: 1/2
+
+              instruction:
+                label: Instrucción
+                type: textarea
+                required: true
+
+              tip:
+                label: Tip del Chef
+                type: text
+                icon: lightbulb
+
+          tips:
+            label: Tips y Variaciones
+            type: textarea
+            translate: true
+            size: medium
+
+          history:
+            label: Historia del Platillo
+            type: textarea
+            translate: true
+            size: medium
+
+  sidebar:
+    width: 1/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          is_featured:
+            label: Destacar en Inicio
+            type: toggle
+            text: Mostrar en página principal
+
+          category:
+            label: Categorías
+            type: multiselect
+            required: true
+            options:
+              antojitos: Antojitos y Botanas
+              platos-fuertes: Platos Fuertes
+              sopas-caldos: Sopas y Caldos
+              salsas: Salsas y Aderezos
+              mariscos: Mariscos
+              desayunos: Desayunos
+              postres: Postres
+              bebidas: Bebidas
+              vegetarianos: Vegetarianos
+            help: Selecciona una o más categorías
+
+          subcategory:
+            label: Subcategoría
+            type: tags
+            options:
+              tacos: Tacos
+              quesadillas: Quesadillas
+              tostadas: Tostadas
+              enchiladas: Enchiladas
+              tamales: Tamales
+              moles: Moles
+              ceviches: Ceviches
+              caldos: Caldos
+              aguas-frescas: Aguas Frescas
+
+          region:
+            label: Región de México
+            type: select
+            options:
+              oaxaca: Oaxaca
+              yucatan: Yucatán
+              jalisco: Jalisco
+              michoacan: Michoacán
+              veracruz: Veracruz
+              puebla: Puebla
+              norte: Norte de México
+              centro: Centro
+              sur: Sur
+              costeno: Costeño
+
+          tags:
+            label: Etiquetas
+            type: tags
+            translate: true
+
+          date:
+            label: Fecha de Publicación
+            type: date
+            default: now
+
+      kits:
+        type: fields
+        fields:
+          enable_kits:
+            label: Habilitar Kits
+            type: toggle
+            text: Permitir compra de kit de ingredientes
+
+          store_kits:
+            label: Disponibilidad en Tiendas
+            type: structure
+            fields:
+              store:
+                label: Tienda
+                type: pages
+                query: site.find('tiendas').children
+                max: 1
+
+              availability:
+                label: Disponibilidad (%)
+                type: range
+                min: 0
+                max: 100
+                default: 100
+
+              kit_price:
+                label: Precio del Kit
+                type: number
+                step: 0.01
+                before: $
+
+              kit_link:
+                label: Link al Carrito
+                type: url
+
+              missing_items:
+                label: Ingredientes Faltantes
+                type: text
+
+      seo:
+        type: fields
+        fields:
+          seo_title:
+            label: SEO Título
+            type: text
+            translate: true
+            counter: 60
+
+          seo_description:
+            label: SEO Descripción
+            type: textarea
+            translate: true
+            counter: 160

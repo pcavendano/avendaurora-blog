@@ -1,0 +1,197 @@
+Title: Oven-Fried Chicken Wings Al Pastor
+
+----
+
+Category: platos-fuertes, antojitos
+
+----
+
+Description: Al pastor on its own is pretty awesome, but on chicken wings—now that&#39;s something special. Guajillo and chipotle chilies give the baked wings an earthy heat, while pineapple, cilantro, and lime add freshness to create a combination that&#39;s hard to beat.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "6"
+  unit: 
+  ingredient: guajillo chiles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: white onion , coarsely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3 1/2"
+  unit: 
+  ingredient: -inch thick pineapple rounds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: fresh orange juice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: garlic cloves , halved
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: coarse kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: dried Mexican oregano
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground cumin
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: large
+  ingredient: or 2 small chipotle chiles in adobo
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: adobo from canned chipotle chiles in adobo
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: pounds
+  ingredient: chicken wings , cut into drumettes and flats
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: chopped fresh cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat oven to 350°F. Place guajillo chiles on a baking sheet and heat in oven until puffed up and aromatic, about 3-5 minutes. Remove from the oven and allow to cool. Seed chiles, tear into pieces, and process in a spice grinder into a fine powder.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Coarsely chop 2 pineapple rounds, discarding core; cover and chill remaining pineapple. Place chopped onion and chopped pineapple in the jar of a blender. Add orange juice, vinegar, chili powder, garlic, salt, oregano, cumin, chipotles, and adobo; puree marinade until smooth. Place chicken wings in large resealable plastic bag. Add marinade and seal bag, releasing excess air. Turn to coat. Chill at least 4 hours to overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pre-heat oven to 425 degrees. Line rimmed baking sheet with aluminum foil and lay a wire rack inside. Arrange chicken wings on rack, leaving a little space between each wing. Place in the oven and cook until deeply browned, about 45 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Finely dice the remaining pineapple round. Move wings to a platter, sprinkle with pineapple, cilantro, and the juice of 1 lime. Serve immediately.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, hors-doeuvre-recipes
+
+----
+
+Seo_title: Oven-Fried Chicken Wings Al Pastor | Avenda Aurora
+
+----
+
+Seo_description: Al pastor on its own is pretty awesome, but on chicken wings—now that&#39;s something special. Guajillo and chipotle chilies give the baked wings an earthy heat
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/DoAexh5k3ENcLVpOzIocyQFRKVU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20110120-133803-wings-al-pastor-c400576961b142669ea44a22b32d541d.jpg

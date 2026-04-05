@@ -1,0 +1,155 @@
+Title: French in a Flash: Moroccan Baked Scallops
+
+----
+
+Category: mariscos
+
+----
+
+Description: These scallops are the perfect example of easy. Broil the scallops for 10 minutes and you have sweet, aromatic scallops in spicy butter with bright, citrusy, crispy breadcrumbs.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: 
+  ingredient: U-10 sea scallops
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: lemon zest
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: chopped fresh cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: panko breadcrumbs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter , room temperature
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: ras-el-hanout
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: harissa
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat the broiler. Slice the scallops in half horizontally. Spray two small or one large gratin dish lightly with cooking spray. Arrange the scallops in a single layer in the dishes, and season with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Mix the lemon zest, cilantro, and panko together in a small bowl. Sprinkle over the scallops.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Mash together the butter, ras-el-hanout, and harissa in a small bowl. Place one dollop of compound butter on each scallop.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Sit the gratin dishes on a rimmed baking sheet, and broil until the panko is crisp and the scallops are opaque, 10 minutes. Serve right away.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: French in a Flash: Moroccan Baked Scallops | Avenda Aurora
+
+----
+
+Seo_description: These scallops are the perfect example of easy. Broil the scallops for 10 minutes and you have sweet, aromatic scallops in spicy butter with bright, citrusy, cr
+
+----
+
+Original_author: Kerry Saretsky
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Hy_jCyw1ZplgGVkVF9WdB6G06ow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20110308MoroccanBakedScallopsIndividual-51a44dea15e642778ea0f01597402cfb.jpg

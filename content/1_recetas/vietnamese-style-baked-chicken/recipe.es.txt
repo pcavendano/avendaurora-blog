@@ -1,0 +1,173 @@
+Title: Vietnamese-Style Baked Chicken
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: For an easy, flavorful dinner recipe, marinate chicken thighs in Vietnamese fish sauce, palm sugar, herbs, and spices, then bake until golden brown.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: bone-in, skin-on chicken thighs
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: Asian fish sauce , such as Red Boat
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: palm or dark brown sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: grapeseed or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: packed tablespoons fresh cilantro leaves and tender stems , finely chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: fresh juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: finely grated zest from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: minced peeled fresh ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: hot chile paste
+  preparation: sambal oelek
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: cloves garlic , minced or grated
+  preparation: about 2 teaspoons 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sliced limes and cilantro leaves , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place thighs in a large zipper-lock bag. In a medium bowl, whisk together soy sauce, fish sauce, sugar, oil, cilantro, lime juice and zest, ginger, chili-garlic paste, and garlic. Pour marinade into bag with chicken, seal bag, and toss to coat well. Let chicken marinate for at least 30 minutes and up to 4 hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Preheat oven to 425°F (220°C) and set oven rack to middle position. Line a rimmed baking sheet with foil and place a wire rack on top. Remove chicken from bag, allowing marinade to drip off, and set on wire rack skin-side up, making sure to leave space between thighs. Discard marinade. Bake until thighs register 155 to 160°F (68 to 71°C) on an instant-read thermometer, about 35 minutes. (Be sure to measure temperature in the center of the thickest part of the thighs, but not directly against the bone.) If chicken skin is not brown and crisp enough by the time the thighs are cooked through, set broiler to high and broil until browned and crisp, about 1 minute, being careful not to burn the skin. Transfer chicken to a platter and let rest for 5 minutes. Garnish with lime slices and cilantro, then serve.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, chicken-main-recipes
+
+----
+
+Seo_title: Vietnamese-Style Baked Chicken | Avenda Aurora
+
+----
+
+Seo_description: For an easy, flavorful dinner recipe, marinate chicken thighs in Vietnamese fish sauce, palm sugar, herbs, and spices, then bake until golden brown.
+
+----
+
+Original_author: Emily and Matt Clifton
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/bDS_gav-6UGuy8fWpE2pjKvmCjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-vietnamese-chicken-emily-matt-clifton-3-2243dd83bfaf46719e90310efcca3c80.jpg

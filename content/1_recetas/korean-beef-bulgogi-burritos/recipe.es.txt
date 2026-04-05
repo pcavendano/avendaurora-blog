@@ -1,0 +1,244 @@
+Title: Korean Beef Bulgogi Burritos
+
+----
+
+Category: antojitos, platos-fuertes
+
+----
+
+Description: These beef bulgogi burritos are a fusion dish, combining the essentials of traditional Korean bulgogi in a delicious wrapped burrito. Loaded with flavorful add-ins, like kimchi and pickled daikon radish, they&#39;re a winner for the mouth and the eyes.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/3"
+  unit: cup
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: toasted sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: of an Asian pear , peeled, cored, and coarsely grated
+  preparation: about 1/4 cup ; see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: medium
+  ingredient: cloves garlic , minced or grated
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: minced or grated ginger , from about 1 piece
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: boneless English-style beef short ribs , ribeye , or sirloin , very thinly sliced against the grain to no more than 1/8 inch thick
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: scallions , white and light green parts only, sliced into 2-inch lengths
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: 
+  ingredient: of a medium yellow onion , halved crosswise, then thinly sliced pole to pole
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: neutral-flavored oil , divided, plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: sour cream
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Korean gochujang chile paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: cups
+  ingredient: hot cooked short-grain rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: large
+  ingredient: flour tortillas , warmed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped kimchi , for stuffing burritos
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Danmuji , for stuffing burritos
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: finely shredded red cabbage
+  preparation: from 1 head 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: cilantro leaves and tender stems
+  preparation:  2 ounces ; 60 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: scallions , white and light green parts only, thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: For the Marinated Beef: In a large bowl, whisk together soy sauce, sugar, sesame oil, Asian pear, garlic, and ginger. When sugar has dissolved, add beef, scallion, and onion slices to bowl and toss to coat. Cover and refrigerate for at least 1 hour or up to overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large cast iron or heavy stainless steel skillet, heat 1 tablespoon (15ml) oil over medium-high heat until shimmering. Working in batches, add beef and onions, working quickly to arrange them in a flat, even layer against bottom of skillet; try not to overcrowd pan. Cook on one side for 1 minute, then flip and cook second side until browned and crisp in spots, about 2 minutes longer. Transfer cooked beef and onions to a plate and repeat with remaining beef, onions, and oil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Burritos: In a small bowl, stir together sour cream and gochujang. Spread rice onto warm tortillas, then top with a layer of beef and onions, followed by kimchi, a few pickled daikon radish strips, red cabbage, cilantro, scallions, and gochujang sour cream. Roll tightly, folding sides of tortilla in as you go. (Wrapping the burritos in foil will make them portable and less messy to eat.) Serve with lime wedges.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you&#39;re slicing the beef yourself, it helps to freeze it slightly first and use a very sharp slicing knife. Even easier is to find the beef presliced at a Korean or Japanese market.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you can&#39;t find Asian pear, you can use about 2 tablespoons (30ml) pineapple juice to get a similar tenderizing effect. However, in that case, don&#39;t marinate the beef for more than 2 hours, as pineapple can over-tenderize the meat. If using beef ribeye, you can omit the Asian pear and the pineapple, as it is a naturally tender cut.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, beef-main-recipes
+
+----
+
+Seo_title: Korean Beef Bulgogi Burritos | Avenda Aurora
+
+----
+
+Seo_description: These beef bulgogi burritos are a fusion dish, combining the essentials of traditional Korean bulgogi in a delicious wrapped burrito. Loaded with flavorful add-
+
+----
+
+Original_author: Emily and Matt Clifton
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/OUIzG7etl3Pr4KU-xlZo5swlzUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__03__20170210-korean-bulgogi-emily-matt-clifton-3-9de680d9abb84e11bb8c05fd1b8612b4.jpg

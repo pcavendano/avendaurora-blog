@@ -1,0 +1,183 @@
+Title: Curd Rice (Indian Rice with Yogurt)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: This stuff is pure comfort food, the Indian macaroni and cheese (well, if your spicy-happy grandmother made macaroni and cheese). Flash-fried curd chiles serve as a garnish here, to be broken into bits with a spoon and mixed with the...
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: long grain rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: tablespoons
+  ingredient: unsalted butter
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: Curd Chiles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: whole mustard seed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: whole cumin seed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: asafoetida
+  preparation: start with 1/4 teaspoon if you&#39;re less of a fan
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: curry leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: thick strained yogurt , preferably at room temperature
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: pomegranate seeds , fresh or dried
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cilantro , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In large saucepan or rice cooker, combine rice, butter, 3 cups water, and 1 teaspoon salt. Cover and bring to boil, then reduce to a simmer and cook until rice is tender, about 20 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While rice is cooking, heat oil over high heat in slope-sided pan (if you have a wok, use it; if not, use small saucepan), just enough to coat bottom by 1/2 inch. When oil shimmers, add curd chiles. Toss continually until golden brown, 15-30 seconds. Set aside to drain.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Discard all but two tablespoons oil and return to heat. When oil shimmers, add mustard seeds and stir to coat in oil. When seeds begin to pop, add asafoetida, cumin, and curry leaves. Fry until aromatic, about 10 seconds, then remove from heat.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If using wok, add cooked rice to spice oil and mix to combine. Otherwise pour and mix spice oil into pot of cooked rice. Stir in yogurt and add salt to taste. Serve in small bowls with pomegranate seeds, cilantro sprigs, and a couple curd chiles to garnish.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-ingredient-recipes, rice-grain-recipes
+
+----
+
+Seo_title: Curd Rice (Indian Rice with Yogurt) | Avenda Aurora
+
+----
+
+Seo_description: This stuff is pure comfort food, the Indian macaroni and cheese (well, if your spicy-happy grandmother made macaroni and cheese). Flash-fried curd chiles serve 
+
+----
+
+Original_author: Max Falkowitz
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/qtzrEnZnyMHxdpL8jDYsvGKRHEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20101130curdrice-c29455285cfa440b85d3e9e75c9be97d.jpg

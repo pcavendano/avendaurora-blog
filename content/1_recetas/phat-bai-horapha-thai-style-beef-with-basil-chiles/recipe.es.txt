@@ -1,0 +1,229 @@
+Title: Phat Bai Horapha (Thai-Style Beef With Basil & Chiles)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Slice beef and Thai purple basil combine for a very quick but super-flavorful stir-fry.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: flank steak , skirt steak, hanger steak, or flap meat, cut into 1/4-inch-thick strips
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: soy sauce , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: teaspoons
+  ingredient: Asian fish sauce , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: white sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: to 6 fresh red or green Thai bird chiles , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: medium
+  ingredient: cloves garlic , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: palm sugar
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: shallot , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: makrut lime leaves , very thinly sliced into hairs , plus more for garnish
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable or canola oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: packed Thai purple basil
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Dried Thai chile flakes or red pepper flakes to taste
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fried shallots
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Cooked rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine beef, 1 teaspoon soy sauce, 2 teaspoons fish sauce, and white sugar in a bowl. Toss to combine and set in refrigerator to marinate for at least 15 minutes and up to overnight.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Roughly chop half of Thai chiles and garlic and place inside a stone mortar with palm sugar. Grind with pestle until a mostly smooth paste has formed. Add remaining fish sauce and soy sauce and mash in mortar to form a sauce. Set aside. Finely slice remaining garlic and chiles and combine with shallot and lime leaves in a small bowl.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When ready to cook, heat 1 tablespoon oil in a wok over high heat until smoking. Add half of beef and cook, without moving, until well seared, about 1 minute. Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute. Transfer to a large bowl. Repeat with 1 more tablespoon oil and remaining beef, transferring beef to the same bowl. Wipe out wok.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Reheat wok over high heat and add all of the beef, along with sliced garlic-chile-lime leaf mixture. Continue to cook, tossing and stirring constantly, until stir-fry is aromatic and shallots have completely softened, about 1 minute.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add sauce mixture to wok and cook, tossing and stirring constantly, until completely reduced. (The beef should look moist, but there should be no liquid in the bottom of the wok.) Immediately add basil and toss to combine. Season to taste with salt and optional Thai chile or red pepper flakes. Transfer to a serving platter. Top with more makrut lime threads and fried shallots. Serve immediately with rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Palm sugar is available in most Asian grocery stores. Light brown sugar or panela can be used in place of palm sugar.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Makrut lime leaf is sold fresh or frozen in Southeast Asian specialty shops, often under the name &#34;kaffir&#34; lime leaf. (Note that &#34;kaffir&#34; is a derogatory term.) It can be omitted if you can&#39;t find it.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Holy basil (ka-phrao, often marketed as &#34;krapow&#34; in the States) or sweet Italian basil can be used in place of purple basil.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: You can make the crispy fried shallots yourself, or buy them: Check the dried-goods areas of most well-stocked Asian supermarkets.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Garlic, chiles, and palm sugar can be ground in a mini food processor, chopper, or blender, but a mortar and pestle will deliver the best flavor.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, stir-fry-recipes, beef-stir-fry-recipes
+
+----
+
+Seo_title: Phat Bai Horapha (Thai-Style Beef With Basil & Chiles) | Avenda Aurora
+
+----
+
+Seo_description: Slice beef and Thai purple basil combine for a very quick but super-flavorful stir-fry.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ArbBuA6qbiJUnllyKCWhI0ArBRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__01__20160126-thai-beef-basil-35-kenji-ab1b59dd5a8344d2b21295fd1716a6b1.jpg

@@ -1,0 +1,335 @@
+Title: Kala Bhuna (Bengali Spiced Beef Stew)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: This coveted dish from Chittagong, Bangladesh, traditionally involves a good amount of elbow grease—but using the oven makes it a little less labor-intensive.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: black peppercorns
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "5"
+  unit: 
+  ingredient: blade mace , see notes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: celery seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: tablespoons
+  ingredient: cumin seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: tablespoons
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: 
+  ingredient: cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "10"
+  unit: 
+  ingredient: green cardamom pod s
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: black cardamom pod s
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: mustard seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2 1/2"
+  unit: 
+  ingredient: to 3 pounds boneless chuck , cut into 1 1/2 to 2-inch cubes
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: red onions , halved and thinly sliced cross-wise, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: ginger paste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: garlic paste
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: plus 1 teaspoon Kashmiri red chile powder
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: ground turmeric
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: ground nutmeg
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: large
+  ingredient: bay leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: cinnamon stick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: Indian or Thai green chiles , split in half lengthwise, divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: distilled white vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Diamond Crystal kosher salt ; for table salt, use half as much by volume or same weight
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: mustard oil or canola oil, divided
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: panch phoron
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: dark soy sauce , such as Lee Kum Kee
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: garam masala , homemade or store-bought
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Steamed rice , such as basmati or jasmine
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: red onion , thinly sliced lengthwise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: English cucumber , thinly sliced cross-wise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Lime wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 3 Indian or Thai green chiles , thinly sliced cross-wise
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Adjust oven rack to middle position and preheat to 300ºF (150ºC).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Spice Blend: In a small skillet or sauté pan set over medium heat, toast black peppercorns, mace, celery seeds, cumin seeds, coriander seeds, cloves, green cardamom pods, black cardamom pods, and, if using canola oil instead of mustard oil in step 3, black mustard seeds, tossing frequently, until the spices are warm, fragrant, and slightly browned, about 1 minute. Remove from heat, transfer to a small bowl, and let cool slightly, about 3 minutes. Transfer to a spice grinder or mortar and pestle and finely grind.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: For the Kala Bhuna: In a 5- to 7-quart Dutch oven, combine beef, half the onions, ginger paste, garlic paste, red chile powder, turmeric, nutmeg, bay leaves, cinnamon stick, 3 green chiles, vinegar, salt, 3/4 cup mustard oil or canola oil, and all of the spice blend. Using your hands or a wooden spoon, toss beef and onions to evenly coat with spices. (Mixing with a clean hand instead of a spatula or wooden spoon will ensure the spices are well-dispersed).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Set the Dutch oven over high heat and cook, stirring often, to cook meat until evenly warmed through, 4 to 5 minutes. Reduce heat to low and cook, covered, until the meat releases a good amount of moisture, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add 2/3 cup water, stir to combine, and bring to a simmer. Cover with lid, transfer to the oven and cook until meat is tender and knife pierces it easily without resistance, about two hours.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When meat has cooked for 1 1/2 hours, add remaining 1/4 cup mustard oil or canola oil and 2 teaspoons panch phoron to a small saucepan set over medium heat. When seeds begin to sizzle, reduce heat to low and add remaining onions and cook, stirring occasionally, until golden brown and tender, 20 to 25 minutes. Remove from heat; set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Using oven mitts or kitchen towels, carefully transfer pot to stovetop. Add fried onions, dark soy sauce, and garam masala. Using a flexible, heat-proof spatula, stir and scrape the bottom and sides frequently, and cook, uncovered, until the sauce has reduced and darkened, and remaining sauce is thick and clings to the beef, 12 to 15 minutes. Skim off excess fat as needed. (When stirring and scraping, be sure not to break the chunks of beef.) Add the remaining three green chiles. Cover, remove from heat, and let rest until green chiles are fragrant, about 5 minutes. Serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Ginger and garlic pastes can be purchased at South Asian grocery stores.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Panch phoron is a Bengali whole spice blend made of cumin, brown mustard seeds, fenugreek, fennel, and nigella seeds. It’s often used in achars and is easily available at any South Asian grocery store.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- The spice blend can be made ahead and stored in an airtight container at room temperature for 4 to 6 months.
+- Kala bhuna is great served immediately, but the flavors tend to intensify after a day as the meat sits in the clingy sauce. Once cooled, kala bhuna can be refrigerated in an airtight container for up to 4 days. It can also be frozen in an airtight container for up to 6 months.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, braising-stewing-recipes, braised-stewed-beef-recipes
+
+----
+
+Seo_title: Kala Bhuna (Bengali Spiced Beef Stew) | Avenda Aurora
+
+----
+
+Seo_description: This coveted dish from Chittagong, Bangladesh, traditionally involves a good amount of elbow grease—but using the oven makes it a little less labor-intensive.
+
+----
+
+Original_author: Anikah Shaokat
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/XzK-YgU4L5FN2TGhKb328HHegIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251021-SEA-20250922-SEA-KalaBhuna-QiAi-HERO-3f84e866405c4e1384e1142f692488c4.jpg

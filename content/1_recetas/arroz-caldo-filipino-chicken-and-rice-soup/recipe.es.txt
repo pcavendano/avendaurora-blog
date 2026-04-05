@@ -1,0 +1,202 @@
+Title: Arroz Caldo (Filipino Chicken and Rice Soup)
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: Arroz caldo is a hearty Filipino congee made with chicken and rice and seasoned with onion, garlic, ginger, and fish sauce and topped with crunchy fried garlic. The result is a quick, comforting bowl that&#39;s a perfect wintertime meal.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: plus 3 tablespoons canola oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: freshly minced garlic , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: pounds
+  ingredient: boneless, skinless chicken thighs , cut into bite-size pieces
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: medium
+  ingredient: onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: freshly minced ginger
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Asian fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: freshly ground black pepper , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: uncooked jasmine rice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: cups
+  ingredient: homemade chicken stock or low-sodium broth
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: calamansi , key lime , or lime juice
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: scallions , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: hard-boiled eggs , cut into 1/4-inch slices
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: fresh limes or calamansi , quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place 1/2 cup oil and 2/3 of garlic in a small saucepan over medium heat. Cook, stirring occasionally, until garlic turns light golden brown. Transfer garlic to fine-mesh strainer and drain. Spread garlic out on a paper towel-lined plate and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large Dutch oven or soup pot, heat remaining 3 tablespoons oil over medium-high heat until shimmering. Add chicken and cook, stirring occasionally, until browned, about 6 minutes. Add onion and cook, stirring and scraping, until onion softens and releases its liquid, about 3 minutes. Stir in ginger and remaining garlic and cook until onion begins to brown, about 3 minutes. Stir in fish sauce and pepper and cook for 1 minute. Add rice and stir until well coated.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Stir in chicken stock, running spoon along bottom of Dutch oven to release any browned bits. Bring to a boil, then reduce to a simmer, cover, and cook until rice is completely tender and stock has thickened, about 30 minutes. Stir in lime or calamansi juice and season with salt and pepper to taste.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Ladle arroz caldo into bowls. Top with scallions, fried garlic, and egg slices, if using. Serve immediately with additional lime or calamansi wedges on the side.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While we prefer this dish with tender chicken thighs, you can substitute an equal quantity of breast meat.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, soup-recipes
+
+----
+
+Seo_title: Arroz Caldo (Filipino Chicken and Rice Soup) | Avenda Aurora
+
+----
+
+Seo_description: Arroz caldo is a hearty Filipino congee made with chicken and rice and seasoned with onion, garlic, ginger, and fish sauce and topped with crunchy fried garlic.
+
+----
+
+Original_author: Joshua Bousel
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Uw29OFjIBZTATJ6PpSMC2hckCGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210508-arroz-caldo-melissa-hom-Hero-seriouseats-6-dbc8058635c64ac0bd3eeadd8da5ddee.jpg

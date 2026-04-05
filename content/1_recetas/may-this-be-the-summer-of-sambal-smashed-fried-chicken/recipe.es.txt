@@ -1,0 +1,110 @@
+Title: May This Be the Summer of Sambal-Smashed Fried Chicken
+
+----
+
+Category: platos-fuertes, salsas
+
+----
+
+Description: Based on the Indonesian street food called ayam geprek, this recipe features crisp boneless fried chicken smashed with flavorful and spicy condiments. It&#39;s even more delicious than it is easy and quick.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: 
+  ingredient: to 4 pieces homemade or store-bought boneless fried chicken
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Homemade or store-bought sambal , chili crisp , or other flavorful sauce of your choice
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: White rice , for serving
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a mixing bowl or mortar and pestle, smash the fried chicken until pulverized into large chunks. Spoon enough sauce on top to coat generously and stir and smash until thoroughly combined. Stir in more sauce, if desired. Serve on rice.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: I beg you to be an underachiever here: Just buy the ingredients and smash them together. But if you must make this from scratch, the following recipes are good options for the sauce:
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, frying-recipes, fried-chicken-recipes
+
+----
+
+Seo_title: May This Be the Summer of Sambal-Smashed Fried Chicken | Avenda Aurora
+
+----
+
+Seo_description: Based on the Indonesian street food called ayam geprek, this recipe features crisp boneless fried chicken smashed with flavorful and spicy condiments. It&#39;s 
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/DUV7hwv34hTERCKMuHQHhlOTV9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250429-SEA-SmashedSambalChicken-AmandaSuarez-hero-5926085fcc4048edbc4f45909ba0424d.jpg

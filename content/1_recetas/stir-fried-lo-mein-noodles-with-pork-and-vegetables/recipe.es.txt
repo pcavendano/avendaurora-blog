@@ -1,0 +1,266 @@
+Title: Stir-Fried Lo Mein Noodles With Pork and Vegetables
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: This lo mein is tossed with a colorful and crisp cabbage mix and tenderized strips of pork. It&#39;s a quick and well-rounded stir-fry.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: fresh lo mein noodles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: pound
+  ingredient: country-style boneless pork ribs or boneless pork loin chops
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: baking soda
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: sugar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: soy sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: oyster sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Chinese black or balsamic vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: toasted sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: Shaoxing rice wine or dry sherry
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Asian fish sauce
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: cornstarch
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: tablespoons
+  ingredient: neutral oil , such as grapeseed, peanut, or canola , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: knob fresh ginger , peeled and minced
+  preparation: about 2 tablespoons ; 12 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: medium
+  ingredient: garlic cloves , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: scallions , white parts cut in 1-inch pieces, light green parts very thinly sliced; divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: shredded cored purple cabbage
+  preparation:  5 ounces ; 150 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: cups
+  ingredient: shredded Chinese broccoli or cored Napa cabbage
+  preparation:  5 ounces ; 150 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: cup
+  ingredient: julienned carrots
+  preparation:  2 1/2 ounces ; 75 g 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Toasted sesame seeds , for garnish
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Sambal oelek , for serving
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Bring a pot of salted water to a boil and cook noodles according to package directions, stirring regularly with tongs or long chopsticks, until al dente and separated. Drain noodles and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Trim pork of excess fat and cut into thin strips, about 1/4 inch wide by 2 inches long. In a bowl, stir together baking soda and 1/2 cup cold water. Add pork, stir until thoroughly coated, then let stand at room temperature for 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a medium bowl, whisk together sugar, soy sauce, oyster sauce, vinegar, sesame oil, wine, fish sauce, and cornstarch until sugar is dissolved. Set sauce aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Drain pork well, rinse with cold water, then pat dry with paper towels. Add pork back to rinsed and dried bowl. Stir in 2 tablespoons (15ml) of the sauce and mix well.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a wok or large cast iron skillet, heat 1 tablespoon (15ml) neutral oil over medium-high heat until shimmering. Add ginger, garlic, and white scallion pieces and stir-fry for 30 seconds. Increase heat to high and add purple cabbage, Chinese broccoli (or Napa cabbage), and carrots. Cook, stirring and tossing, until vegetables are charred in spots and just softened, 3 to 5 minutes. Transfer to a plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add 1 tablespoon (15ml) neutral oil to wok or skillet and heat over high heat until smoking. Add pork, spreading it out in a single layer, and let cook on one side until crisp and brown, 2 to 3 minutes. Continue to cook, stirring and tossing, until just cooked through, about 1 minute longer. Transfer to plate with vegetables.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Wipe out wok or skillet, then add remaining 1 tablespoon (15ml) neutral oil and heat over high heat until smoking. Add noodles and cook, tossing and stirring, until hot.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add remaining sauce, vegetables, and pork to noodles and toss well over heat to combine. Transfer lo mein to a platter and sprinkle sliced green scallions all over, along with sesame seeds, if using. Serve right away, passing sambal oelek at the table if desired.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-method, stir-fry-recipes, stir-fry-noodle-recipes
+
+----
+
+Seo_title: Stir-Fried Lo Mein Noodles With Pork and Vegetables | Avenda Aurora
+
+----
+
+Seo_description: This lo mein is tossed with a colorful and crisp cabbage mix and tenderized strips of pork. It&#39;s a quick and well-rounded stir-fry.
+
+----
+
+Original_author: Emily and Matt Clifton
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/KOV3OvnLeh6RW64lEnRixbRxOq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SEA-QiAi-stir-fried-lo-mein-noodles-pork-vegetables-recipe-hero-a55a4baa9f22449fbe036142f1047430.jpg

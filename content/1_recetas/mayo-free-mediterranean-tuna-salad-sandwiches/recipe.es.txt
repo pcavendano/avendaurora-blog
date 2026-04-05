@@ -1,0 +1,197 @@
+Title: Mayo-Free Mediterranean Tuna Salad Sandwiches
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: This mayo-free tuna salad is loaded with Mediterranean flavors, including plenty of fresh olive oil, capers, olives, fennel, celery, and a splash of lemon.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/2"
+  unit: medium
+  ingredient: red onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: red wine vinegar
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "20"
+  unit: ounces
+  ingredient: oil-packed tuna , preferably ventresca , drained and flaked by hand into roughly 1/2-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: stalk celery , sliced thinly on the bias
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: medium
+  ingredient: bulb fennel , cored and thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Handful flat-leaf parsley leaves , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: drained brined capers
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: drained pitted briny black or green olives , quartered lengthwise
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: plus 2 tablespoons extra-virgin olive oil , plus more as needed
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: fresh juice from 1 lemon
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Asian fish sauce or very finely minced oil-packed anchovy fillets
+  preparation: about 2 small fillets 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt and freshly ground black pepper
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "8"
+  unit: slices
+  ingredient: rustic sandwich bread , such as a Pullman loaf , brushed with olive oil and toasted
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Arugula , for garnish
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a small bowl, combine onion and vinegar (vinegar should just cover onion; add more if it does not) and let stand 15 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Meanwhile, in a medium bowl, combine tuna with celery, fennel, parsley, capers, olives, olive oil, lemon juice, and fish sauce or anchovy. Drain onion well, then add to bowl. Mix gently until thoroughly combined; season with salt and pepper. Dress with more olive oil if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Spoon tuna salad onto 4 slices of toast, top with arugula, then close sandwiches and serve.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: The quality of the tuna you use will make a difference here. I recommend oil-packed ventresca tuna, which comes from the richer, fatty belly; it&#39;s moister and more flavorful than other canned or jarred tuna. I like the ventresca from both Ortiz and Tonnino.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-type, sandwich-recipes
+
+----
+
+Seo_title: Mayo-Free Mediterranean Tuna Salad Sandwiches | Avenda Aurora
+
+----
+
+Seo_description: This mayo-free tuna salad is loaded with Mediterranean flavors, including plenty of fresh olive oil, capers, olives, fennel, celery, and a splash of lemon.
+
+----
+
+Original_author: Daniel Gritzer
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Gmvr3KuY25TtuoitSRprDEu_-bo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__06__20160614-tuna-salad-sandwich-vicky-wasik-12-ff7484a7a6854b9eb700c1caa954a342.jpg

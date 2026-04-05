@@ -1,0 +1,160 @@
+Title: Quick Broiled Shrimp With Harissa and Beer
+
+----
+
+Category: mariscos
+
+----
+
+Description: Spicy harissa paired with bitter and hoppy beer make the ultimate broiled shrimp.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: pound
+  ingredient: 16/20 shrimp , shell-on, deveined
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1 1/2"
+  unit: teaspoons
+  ingredient: kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: 
+  ingredient: bottle beer , whatever kind you&#39;re drinking
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cloves
+  ingredient: garlic , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: butter , room temperature, cut into 1-inch pieces
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fresh chile harissa
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: dried chile harissa
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Bread and more beer to serve
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Place a sheet tray lined with foil or a large cast iron skillet under the broiler to preheat. Toss the cleaned shrimp with salt. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the beer and garlic to a small, 2-quart saucepan over medium-high heat. Reduce until it is sticky and only about 3 tablespoons in volume, about 5 minutes. The beer will foam up while boiling. Set the pot askew on the burner to prevent it from boiling over.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add the butter to the beer one tablespoon at a time while constantly swirling until incorporated and thick, about 2 minutes. Remove from heat and stir in the harissas.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pour the butter sauce over the shrimp and toss to combine. Pour the shrimp and all the sauce on the preheated sheet tray or skillet. It will hiss and sputter. Make sure the shrimp is in one even layer and place the tray or the skillet under the broiler until shrimp are opaque and cooked through, about 4 minutes. Serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Store-bought harissa works just as well. Feel free to add more or less to your taste. Other chili pastes that work well in this dish are canned chipotles, sambal, and curry paste.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, main-recipes-by-ingredient, seafood-main-recipes
+
+----
+
+Seo_title: Quick Broiled Shrimp With Harissa and Beer | Avenda Aurora
+
+----
+
+Seo_description: Spicy harissa paired with bitter and hoppy beer make the ultimate broiled shrimp.
+
+----
+
+Original_author: Sohla El-Waylly
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/SpWrYkPoUpovSZWBjYU8A1rKamM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__03__20180323-beer-beurre-blanc-harissa-shrimp-vicky-wasik-1-dfb1b05bf2024f418b370117d0ff500c.jpg

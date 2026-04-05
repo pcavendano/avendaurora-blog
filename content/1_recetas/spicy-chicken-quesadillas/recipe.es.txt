@@ -1,0 +1,148 @@
+Title: Spicy Chicken Quesadillas
+
+----
+
+Category: platos-fuertes, antojitos
+
+----
+
+Description: The keys to kickass quesadillas are mixing the filling right in with the cheese and using enough oil to get the tortillas to puff and crisp up golden brown.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "3"
+  unit: ounces
+  ingredient: shredded cooked chicken breast
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: minced pickled jalapeño
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: minced fresh cilantro leaves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: ounces
+  ingredient: shredded Pepper Jack cheese
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: flour tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Combine chicken, jalapeño, cilantro, and pepper Jack in a medium bowl and mix to combine. Spread half of mixture evenly over half of one tortilla, leaving a 1/2-inch border. Fold tortilla over and seal edges by pressing down firmly. Repeat with remaining filling and second tortilla.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat oil in a 10-inch cast iron or nonstick skillet over medium heat until shimmering. Carefully add both folded tortillas and cook, swirling and moving tortillas around, until golden brown and puffy on first side, about 2 minutes. Using a flexible metal spatula, flip quesadillas, season with salt, and continue cooking until golden brown and puffy on second side, about 2 minutes longer.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer quesadillas to a paper towel to drain. Cut into triangles and serve immediately.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: 10-inch cast iron skillet or 10-inch nonstick skillet
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, main-recipes, quick-dinner-recipes
+
+----
+
+Seo_title: Spicy Chicken Quesadillas | Avenda Aurora
+
+----
+
+Seo_description: The keys to kickass quesadillas are mixing the filling right in with the cheese and using enough oil to get the tortillas to puff and crisp up golden brown.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/6wQ2QEjAi082_WKz5ga1lkemuK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__01__20170131-quesadillas-three-variations-2-1b23e719356c49f592c8777553c14484.jpg

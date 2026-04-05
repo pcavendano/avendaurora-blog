@@ -1,0 +1,230 @@
+Title: Obe Ata (Nigerian Red Pepper Sauce)
+
+----
+
+Category: sopas-caldos, platos-fuertes
+
+----
+
+Description: This versatile recipe for Nigerian obe ata delivers a rich and flavorful red pepper-and-tomato-based sauce that can be used in stews and braises, or cooked down into a condiment for dipping.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "8"
+  unit: 
+  ingredient: red bell peppers , stemmed, cored, and cut into roughly 1/2-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "9"
+  unit: tablespoons
+  ingredient: red palm oil , divided
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "12"
+  unit: medium
+  ingredient: cloves garlic , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: large
+  ingredient: plum tomatoes , cored and quartered
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: Fresno chile peppers , stemmed, seeded, and cut into roughly 1/2-inch dice
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: habanero or Scotch bonnet peppers , stemmed, seeded, and cut into roughly 1/2-inch dice
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: red onions , peeled and cut into roughly 1/2-inch dice
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: One 2-inch segment peeled fresh ginger , roughly chopped
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: quart
+  ingredient: homemade chicken stock or store-bought, low-sodium broth , or vegetable stock
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "9"
+  unit: tablespoons
+  ingredient: canola or other neutral oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: teaspoon
+  ingredient: Nigerian curry powder , such as Lion&#39;s Brand, or more to taste
+  preparation: optional, see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Ground Cameroon pepper , to taste
+  preparation: see notes
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: pounds
+  ingredient: cooked bone-in chicken
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Torn fresh basil leaves , for garnish
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Preheat oven to 400°F (200°C) and set oven racks in the top- and bottom-third positions. Line two rimmed baking sheets with parchment paper.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: In a large bowl, toss red bell peppers with 2 tablespoons (30ml) palm oil. Season with salt. Transfer in an even layer to one of the rimmed baking sheets. In the same large bowl, toss garlic, tomato, Fresno chile, habanero, onion, and ginger with 4 tablespoons (60ml) palm oil. Season with salt. Transfer in an even layer to the other rimmed baking sheet.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Roast the vegetables, stirring and rotating baking sheets once or twice during cooking, until all are tender, some of their juices have cooked off, and they are charred in spots, about 45 minutes for the red bell peppers and 30 minutes for the tomatoes, chiles, and onions.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Scrape all of the roasted vegetables into a blender jar and blend until either a chunky or smooth purée forms (the consistency of your obe ata is up to you; we like a smoother sauce for when it is used for stews and a chunkier one when it is used as a dip or condiment).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Transfer vegetable purée to a Dutch oven. Stir in chicken stock, remaining 3 tablespoons (45ml) palm oil, canola oil, curry powder, and Cameroon pepper. Bring to a simmer. Season lightly with salt, then simmer until sauce is reduced to a good stew-like thickness that can coat pieces of meat well, about 1 hour. If desired, season with additional curry powder and/or Cameroon pepper to meet your desired flavor and spice level.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If serving with chicken, add cooked chicken to the Dutch oven and simmer until chicken is warmed through, about 15 minutes. Serve with warm rice and garnish with torn basil leaves, if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Alternatively, you can continue to cook down the sauce until it thickens to a dip-like consistency, about 3 hours; the oils will break from the sauce in this time and fry the vegetable purée, deepening its flavor further.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you are unable to find Fresno chiles, you can substitute that amount with another mild red chiles. The number of hot chile peppers called for here doesn&#39;t make a very spicy sauce, so feel free to add as many more as you wish based on your own tolerance for spiciness.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you can&#39;t find Lion&#39;s brand curry powder, you can substitute another curry powder of your choosing (note that it will taste different), or leave it out if you don&#39;t want to add those spice flavors to this dish.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+- Ground Cameroon pepper is a hot and smoky dried pepper powder. If you can&#39;t find it, you can substitute ground chipotle powder, or freshly ground black pepper.
+- Obe ata can be kept in an airtight container in the refrigerator for up to five days and in the freezer for up to three months.
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, african-recipes, west-african-recipes, nigerian-recipes
+
+----
+
+Seo_title: Obe Ata (Nigerian Red Pepper Sauce) | Avenda Aurora
+
+----
+
+Seo_description: This versatile recipe for Nigerian obe ata delivers a rich and flavorful red pepper-and-tomato-based sauce that can be used in stews and braises, or cooked down
+
+----
+
+Original_author: Jenny Dorsey
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/zO5qobwKewdVMul9U2vxXL3Tupc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__02__20200224-obe-ata-vicky-wasik-23-48ef3dfb1176452f99d4a0c6fbed3e16.jpg

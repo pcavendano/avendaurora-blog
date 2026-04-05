@@ -1,0 +1,143 @@
+Title: Ssamjang (Korean Barbecue Dipping Sauce)
+
+----
+
+Category: platos-fuertes
+
+----
+
+Description: Korean ssamjang combines the savory funk of doenjang with the sweet heat of gochujang for the perfect grilled meat condiment.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: doenjang
+  preparation: Korean fermented soybean paste
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: gochujang
+  preparation: Korean chile paste
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: Korean rice syrup
+  preparation: see note
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: toasted sesame oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: scallions , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: large
+  ingredient: garlic cloves , minced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: toasted sesame seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: In a small bowl, stir together doenjang, gochujang, rice syrup, sesame oil, scallions, garlic, and sesame seeds until well-combined. Serve, or transfer to an airtight container and refrigerate until ready to use.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Honey or corn syrup can be substituted for Korean rice syrup.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Ssamjang can be refrigerated for up to 3 days in an airtight container. Bring to room temperature before serving.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, east-asian-recipes, korean-recipes
+
+----
+
+Seo_title: Ssamjang (Korean Barbecue Dipping Sauce) | Avenda Aurora
+
+----
+
+Seo_description: Korean ssamjang combines the savory funk of doenjang with the sweet heat of gochujang for the perfect grilled meat condiment.
+
+----
+
+Original_author: Sasha Marx
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/Tc6B_gcR7xeazNh5K8n8w2YZPm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__07__20190619-korean-bbq-vicky-wasik-28-961e7fe053d14d6c8e680f475a468c66.jpg

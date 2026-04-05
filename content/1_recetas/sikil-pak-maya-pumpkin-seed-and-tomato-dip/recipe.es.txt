@@ -1,0 +1,208 @@
+Title: Sikil Pak (Maya Pumpkin Seed and Tomato Dip)
+
+----
+
+Category: antojitos
+
+----
+
+Description: The traditional Maya dip sikil pak combines toasted pumpkin seeds and roasted tomatoes for a rich, smoky flavor. This recipe for sikil pak is easy, make-ahead friendly, and perfect for parties.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "1"
+  unit: cup
+  ingredient: raw pepitas , see note
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: neutral oil , such as canola or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: plum or Roma tomatoes
+  preparation:  16 ounces total
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole shallot , peel intact
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: whole cloves garlic , peel intact
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: whole habanero
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: teaspoon
+  ingredient: Diamond Crystal kosher salt , divided; for table salt, use half as much by volume
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: tablespoon
+  ingredient: fresh lime juice from 1 lime
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: teaspoons
+  ingredient: fresh orange juice from 1 orange
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/8"
+  unit: teaspoon
+  ingredient: dried Mexican oregano , see note
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Tortilla chips or fresh warm tortillas
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Crisp radish slices or cucumber spears , optional
+  preparation: 
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Heat an empty large cast iron skillet over medium heat until hot, 2 to 3 minutes. Add pepitas and toast, stirring frequently, until lightly golden and starting to pop, 3 to 5 minutes. Transfer to a large bowl and set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Brush skillet lightly with vegetable oil. Add tomatoes, garlic cloves, shallot, and habanero. Cook over medium-low heat, turning occasionally, until the tomatoes are juicy and charred on all sides and the shallot and garlic are softened in their shells, 10 to 15 minutes. Adjust the heat as needed to prevent the outsides from charring before the insides are tender.Transfer to a cutting board and let cool slightly, about 10 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: When cool enough to handle, peel garlic and shallot. Wearing gloves, remove and discard habanero stem and seeds. Set aside.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Working in 2 to 3 small batches, place a portion of toasted pepitas in a molcajete or mortar and pound with pestle until finely ground (see notes). Transfer to a medium bowl. Place the garlic, shallot, habanero, and a large pinch of salt in mortar or molcajete and pound into a fine paste. Scrape the mixture into the bowl with ground pepitas.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Working with 1 tomato at a time, pound in the molcajete or mortar until fully broken down; note that the skins won&#39;t completely break down (this is fine). Add each batch to the pepita mixture, stirring to combine. In the bowl with the pepita mixture, use a spoon to mix in the lime juice, orange juice, and Mexican oregano until fully incorporated. Season to taste with salt, if needed. Serve with tortilla chips.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Plain dried oregano can be used as a 1:1 substitute for Mexican oregano, but it has a more earthy, herbal flavor and misses the citrusy, slightly minty notes that give Mexican oregano its lift.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: If you do not have a molcajete or a mortar and pestle, this recipe can be prepared in a food processor or blender, but note that the texture will be less smooth.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Pepitas can be toasted up to 2 weeks ahead and stored in an airtight container at room temperature.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Sikil pak can be stored in an airtight container for up to 5 days.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: all-recipes, recipes-by-course, snack-appetizer-recipes, dip-recipes
+
+----
+
+Seo_title: Sikil Pak (Maya Pumpkin Seed and Tomato Dip) | Avenda Aurora
+
+----
+
+Seo_description: The traditional Maya dip sikil pak combines toasted pumpkin seeds and roasted tomatoes for a rich, smoky flavor. This recipe for sikil pak is easy, make-ahead f
+
+----
+
+Original_author: Patricia Ysabella Suarez
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/ZmsEfU3Eq_Zq8kuhVXwrRixQ5mg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251118-SEA-SilikPak-DeliStudios-HERO-4df09cf13e7b43918be7820836d62080.jpg

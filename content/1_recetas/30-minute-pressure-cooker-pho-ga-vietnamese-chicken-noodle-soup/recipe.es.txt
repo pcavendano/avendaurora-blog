@@ -1,0 +1,248 @@
+Title: 30-Minute Pressure Cooker Pho Ga (Vietnamese Chicken Noodle Soup)
+
+----
+
+Category: sopas-caldos
+
+----
+
+Description: Make a superb bowl of Vietnamese pho ga (chicken noodle soup) with rich, aromatic broth and fall-off-the-bone tender chicken in 30 minutes using a pressure cooker.
+
+----
+
+Cover: 
+
+----
+
+Prep-time: 
+
+----
+
+Cook-time: 
+
+----
+
+Total-time: 
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: canola or vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: yellow onions , split in half
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: hand of ginger , roughly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "6"
+  unit: 
+  ingredient: to 8 chicken drumsticks
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: bunch cilantro
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "3"
+  unit: 
+  ingredient: star anise pods
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: fennel seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: teaspoon
+  ingredient: coriander seeds
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: 
+  ingredient: cinnamon stick
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: cloves
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/4"
+  unit: cup
+  ingredient: fish sauce , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: rock sugar or raw sugar , plus more to taste
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: servings pho noodles , prepared according to package directions
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: white or yellow onion , thinly sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1/2"
+  unit: cup
+  ingredient: thinly sliced scallions
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: mixed herbs
+  preparation:  cilantro , basil , and mint 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: cups
+  ingredient: trimmed bean sprouts
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Thinly sliced Thai chiles
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: 
+  ingredient: limes , each cut into 4 wedges
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Hoisin sauce and Sriracha , for serving
+  preparation: 
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: ""
+  instruction: Heat oil in a pressure cooker over high heat until smoking. Add halved onions and ginger, cut sides down. Cook without moving, reducing heat if smoking excessively, until onion and ginger are well charred, about 5 minutes.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add chicken, cilantro, star anise, fennel seed, coriander, cinnamon, and cloves to the pot. Add 2 quarts (1.9 liters) of water, the fish sauce, and the sugar to the pot. Seal the pressure cooker and bring it to high pressure over high heat. Cook on high pressure for 20 minutes, then shock under cold running water in the sink (or release pressure valve if using an electric pressure cooker).
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Open pressure cooker. Transfer chicken legs to a plate. Pour broth through a fine mesh strainer into a clean pot and discard solids. Skim any scum off the surface of the broth using a ladle, but leave the small bubbles of fat intact. Season broth to taste with more fish sauce and sugar if desired.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: To serve, place prepared pho noodles in individual bowls. Top with chicken legs, sliced onions, and scallions. Pour hot broth over chicken and noodles. Serve immediately, allowing guests to add herbs, bean sprouts, chiles, lime, and sauces as they wish.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Electric or stovetop pressure cooker
+  tip: ""
+  step_image:
+
+----
+
+Tips: 
+
+----
+
+History: 
+
+----
+
+Enable-kits: false
+
+----
+
+Store-kits: 
+
+----
+
+Tags: all-recipes, recipes-by-world-cuisine, asian-recipes, southeast-asian-recipes, vietnamese-recipes
+
+----
+
+Seo-title: 30-Minute Pressure Cooker Pho Ga (Vietnamese Chicken Noodle Soup) | Avenda Aurora
+
+----
+
+Seo-description: Make a superb bowl of Vietnamese pho ga (chicken noodle soup) with rich, aromatic broth and fall-off-the-bone tender chicken in 30 minutes using a pressure cook
+
+----
+
+Original-author: J. Kenji López-Alt
+
+----
+
+Original-image: https://www.seriouseats.com/thmb/_5QHejAJ6Y3ZjV_T_XFWG3kwBSo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__01__20140108-pressure-cooker-pho-ga-vietnamese-chicken-noodle-soup-06-16a750a314f7453084da70c4ba982ee2.jpg
+
+----
+
+Uuid: pxFduypuLkUoXHaw

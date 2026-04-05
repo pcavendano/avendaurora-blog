@@ -1,0 +1,165 @@
+Title: Patacones Con Hogao (Colombian-Style Fried Plantains with Tomato-Onion Sauce)
+
+----
+
+Category: mariscos, salsas
+
+----
+
+Description: You can serve these as-is as a side dish (they commonly go with whole fried fish), or you can make a sauce for them.
+
+----
+
+Cover:
+
+----
+
+Prep_time:
+
+----
+
+Cook_time:
+
+----
+
+Total_time:
+
+----
+
+Servings: 4
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+-
+  quantity: "2"
+  unit: pounds
+  ingredient: ripe roma tomatoes
+  preparation: about 8 tomatoes 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: tablespoons
+  ingredient: olive oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "1"
+  unit: small
+  ingredient: onion , finely sliced
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: medium
+  ingredient: cloves garlic , minced
+  preparation: optional
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Kosher salt
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "2"
+  unit: quarts
+  ingredient: vegetable oil
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: "4"
+  unit: 
+  ingredient: green plantains , peeled and cut into 1-inch segments
+  preparation: 
+  optional: false
+  ingredient_link: 
+-
+  quantity: ""
+  unit: 
+  ingredient: Chopped parsley
+  preparation: optional
+  optional: false
+  ingredient_link: 
+
+----
+
+Instructions:
+-
+  step_title: ""
+  instruction: Bring a large pot of water to a boil and cut a small X into the bottom of each tomato. Drop the tomatoes into the boiling water and cook until skins are loosened, about 30 seconds. Transfer to an ice bath. Peel and discard skins. Split each tomato into quarters and remove the seeds and pale inner core with a knife. Slice resulting tomato filets into thin slices.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Add tomatoes, olive oil, onion, and garlic to a large skillet. Season well with salt. Set over medium-high heat and bring to a simmer, stirring constantly. Reduce heat to low, cover, and allow sauce to cook, stirring occasionally, until all vegetables are completely tender, about 30 minutes. Remove lid for last 5 minutes of cooking.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: While sauce simmers, heat oil in a wok or Dutch oven until it registers 300°F on an instant read or deep-fry thermometer. Add plantains and cook, stirring occasionally, until cooked through, about 5 minutes. Transfer to a paper towel-lined plate.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Line your cutting board with plastic wrap. Smash plantains under a plastic wrap-lined metal can or heavy skillet to roughly 1/8th to 1/4-inch thickness.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Heat oil up to 350°F to 375°F and return plantains to pot. Cook, stirring and flipping occasionally until golden brown and crisp. Transfer to a paper towel-line plate and immediately season with salt.
+  tip: ""
+  step_image: 
+-
+  step_title: ""
+  instruction: Season sauce to taste with salt. Serve fried plantains topped with sauce and sprinkled with parsley.
+  tip: ""
+  step_image: 
+
+----
+
+Tips:
+
+
+
+----
+
+History:
+
+----
+
+Enable_kits: false
+
+----
+
+Store_kits:
+
+----
+
+Tags: world-cuisine-guides, south-american-cuisine-guides, colombian-cuisine-guides, colombian-recipes
+
+----
+
+Seo_title: Patacones Con Hogao (Colombian-Style Fried Plantains with Tomato-Onion Sauce) | Avenda Aurora
+
+----
+
+Seo_description: You can serve these as-is as a side dish (they commonly go with whole fried fish), or you can make a sauce for them.
+
+----
+
+Original_author: J. Kenji López-Alt
+
+----
+
+Original_image: https://www.seriouseats.com/thmb/RU1fZpZB8VEuqHthyfWEvum240c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__05__20120501-colombian-patacones-con-guiso-hogao-11-1b383d625b394eaa95289a90ae745a84.jpg
