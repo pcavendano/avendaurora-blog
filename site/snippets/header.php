@@ -57,11 +57,6 @@
                     </a>
                 </li>
                 <li class="nav__item">
-                    <a href="<?= page('tiendas')->url() ?>" class="nav__link <?= $page->is(page('tiendas')) ? 'is-active' : '' ?>">
-                        <?= t('nav.stores') ?>
-                    </a>
-                </li>
-                <li class="nav__item">
                     <a href="<?= page('blog')->url() ?>" class="nav__link <?= $page->is(page('blog')) || $page->parent() && $page->parent()->is(page('blog')) ? 'is-active' : '' ?>">
                         Blog
                     </a>
@@ -87,15 +82,6 @@
                 </svg>
             </button>
 
-            <!-- Cart (for shop) -->
-            <button class="header__cart-btn snipcart-checkout" aria-label="<?= t('nav.cart') ?>">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <circle cx="9" cy="21" r="1"></circle>
-                    <circle cx="20" cy="21" r="1"></circle>
-                    <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
-                </svg>
-                <span class="snipcart-items-count"></span>
-            </button>
         </div>
 
         <!-- Mobile Menu Toggle -->

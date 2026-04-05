@@ -83,16 +83,5 @@
 <!-- Scripts -->
 <script src="<?= url('assets/js/app.js') ?>"></script>
 
-<!-- Snipcart (E-commerce) - Add your API key -->
-<script>
-    window.SnipcartSettings = {
-        publicApiKey: "YOUR_SNIPCART_API_KEY",
-        loadStrategy: "on-user-interaction",
-        currency: "usd"
-    };
-</script>
-<script defer src="https://cdn.snipcart.com/themes/v3.0/default/snipcart.js"></script>
-<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0/default/snipcart.css" />
-
 </body>
 </html>
