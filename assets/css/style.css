@@ -8,26 +8,28 @@
    ---------------------------------------- */
 :root {
     /* Tlacotalpan Color Palette */
-    --color-primary: #D4736C;         /* Coral pink - iconic Tlacotalpan */
-    --color-primary-dark: #B85A54;
-    --color-primary-light: #F2C4BF;
-    --color-secondary: #7CAFC4;       /* Colonial sky blue */
-    --color-secondary-dark: #5E95AB;
+    --color-primary: #C4856C;         /* Terracotta / burnt sienna */
+    --color-primary-dark: #A06B55;
+    --color-primary-light: #EECDBE;
+    --color-secondary: #5B8FA8;       /* Colonial teal blue */
+    --color-secondary-dark: #477384;
+    --color-secondary-light: #C1DAE5;
     --color-accent: #D4A94B;          /* Warm gold */
     --color-accent-light: #F0DFA8;
-    --color-green: #8BB89A;           /* Soft mint green */
+    --color-green: #7BA888;           /* Soft sage green */
+    --color-rose: #E8A0B4;           /* Tlacotalpan pastel pink */
 
-    --color-text: #2A2522;            /* Warm charcoal */
-    --color-text-light: #5C5652;
-    --color-text-muted: #8A847F;
+    --color-text: #3A3330;            /* Warm charcoal */
+    --color-text-light: #6B6058;
+    --color-text-muted: #9A918A;
 
-    --color-bg: #FBF7F2;             /* Warm cream paper */
-    --color-bg-alt: #F3ECE2;         /* Darker cream */
-    --color-bg-white: #FFFFFF;
-    --color-bg-dark: #2A2522;
+    --color-bg: #FAF6F0;             /* Warm cream paper */
+    --color-bg-alt: #F0E8DC;         /* Darker cream / parchment */
+    --color-bg-white: #FFFDF9;
+    --color-bg-dark: #2E2724;
 
-    --color-border: #E8E0D6;
-    --color-border-dark: #D4C9BC;
+    --color-border: #E0D5C8;
+    --color-border-dark: #CFC1B2;
 
     /* Typography */
     --font-heading: 'Playfair Display', Georgia, 'Times New Roman', serif;
@@ -84,14 +86,35 @@ body {
     line-height: 1.7;
     color: var(--color-text);
     background-color: var(--color-bg);
-    /* Subtle paper texture */
+    /* Visible paper texture */
     background-image:
-        url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100' height='100' filter='url(%23noise)' opacity='0.015'/%3E%3C/svg%3E");
+        url("data:image/svg+xml,%3Csvg width='200' height='200' viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+}
+
+/* Tlacotalpan-inspired colorful accent stripe at the very top */
+body::before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(
+        90deg,
+        #E8A0B4 0%,         /* pastel pink */
+        #C4856C 20%,         /* terracotta */
+        #D4A94B 40%,         /* gold */
+        #7BA888 60%,         /* sage green */
+        #5B8FA8 80%,         /* colonial blue */
+        #E8A0B4 100%         /* pastel pink */
+    );
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
 }
 
 .main {
@@ -186,12 +209,12 @@ h4 { font-size: 1.25rem; }
 .section__link {
     font-family: var(--font-heading);
     font-style: italic;
-    color: var(--color-primary);
+    color: var(--color-secondary);
     transition: color var(--transition-fast);
 }
 
 .section__link:hover {
-    color: var(--color-primary-dark);
+    color: var(--color-secondary-dark);
 }
 
 /* ----------------------------------------
@@ -199,7 +222,7 @@ h4 { font-size: 1.25rem; }
    ---------------------------------------- */
 .header {
     position: sticky;
-    top: 0;
+    top: 5px;  /* below the accent stripe */
     z-index: 100;
     background: var(--color-bg);
     border-bottom: 1px solid var(--color-border);
@@ -224,7 +247,7 @@ h4 { font-size: 1.25rem; }
     font-size: 1.75rem;
     font-weight: 400;
     font-style: italic;
-    color: var(--color-text);
+    color: var(--color-secondary-dark);
     letter-spacing: 0.02em;
     transition: transform var(--transition-slow) cubic-bezier(0.25, 0.46, 0.45, 0.94);
     transform-origin: center center;
@@ -274,8 +297,8 @@ h4 { font-size: 1.25rem; }
 
 .nav__link:hover,
 .nav__link.is-active {
-    color: var(--color-text);
-    border-bottom-color: var(--color-primary);
+    color: var(--color-secondary-dark);
+    border-bottom-color: var(--color-secondary);
 }
 
 .header__actions {
@@ -293,7 +316,7 @@ h4 { font-size: 1.25rem; }
 
 .header__search-btn:hover,
 .header__cart-btn:hover {
-    color: var(--color-primary);
+    color: var(--color-secondary);
 }
 
 .header__menu-toggle {
@@ -547,7 +570,7 @@ h4 { font-size: 1.25rem; }
 }
 
 .about-preview__subtitle {
-    color: var(--color-primary);
+    color: var(--color-secondary);
     font-family: var(--font-heading);
     font-style: italic;
     font-weight: 400;
@@ -578,12 +601,12 @@ h4 { font-size: 1.25rem; }
 }
 
 .btn--primary {
-    background: var(--color-primary);
+    background: var(--color-secondary);
     color: white;
 }
 
 .btn--primary:hover {
-    background: var(--color-primary-dark);
+    background: var(--color-secondary-dark);
 }
 
 .btn--outline {
@@ -729,7 +752,7 @@ h4 { font-size: 1.25rem; }
 
 .recipe-card__kit-price {
     font-weight: 700;
-    color: var(--color-primary);
+    color: var(--color-accent);
 }
 
 /* ----------------------------------------
@@ -793,8 +816,8 @@ h4 { font-size: 1.25rem; }
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.15em;
-    color: var(--color-primary);
-    border: 1px solid var(--color-primary-light);
+    color: var(--color-secondary-dark);
+    border: 1px solid var(--color-secondary-light);
     margin-bottom: var(--space-lg);
 }
 
@@ -843,8 +866,8 @@ h4 { font-size: 1.25rem; }
 }
 
 .recipe__action:hover {
-    color: var(--color-primary);
-    border-color: var(--color-primary);
+    color: var(--color-secondary);
+    border-color: var(--color-secondary);
 }
 
 .recipe__hero {
@@ -1047,7 +1070,7 @@ h4 { font-size: 1.25rem; }
     font-family: var(--font-heading);
     font-size: 1.25rem;
     font-weight: 600;
-    color: var(--color-primary);
+    color: var(--color-accent);
 }
 
 /* Related Recipes Sidebar */
@@ -1324,13 +1347,13 @@ h4 { font-size: 1.25rem; }
 }
 
 .ingredient-highlight__link {
-    color: var(--color-primary);
+    color: var(--color-secondary);
     font-weight: 500;
     font-size: 0.9375rem;
 }
 
 .ingredient-highlight__link:hover {
-    color: var(--color-primary-dark);
+    color: var(--color-secondary-dark);
 }
 
 .ingredient-highlight__image img {
@@ -1418,7 +1441,7 @@ h4 { font-size: 1.25rem; }
 }
 
 .footer__social a:hover {
-    color: var(--color-primary-light);
+    color: var(--color-secondary-light);
 }
 
 .footer__title {
@@ -1473,7 +1496,7 @@ h4 { font-size: 1.25rem; }
 
 .newsletter-form button {
     padding: var(--space-md) var(--space-lg);
-    background: var(--color-primary);
+    background: var(--color-secondary);
     color: white;
     font-size: 0.8125rem;
     font-weight: 600;
@@ -1483,7 +1506,7 @@ h4 { font-size: 1.25rem; }
 }
 
 .newsletter-form button:hover {
-    background: var(--color-primary-dark);
+    background: var(--color-secondary-dark);
 }
 
 .footer__bottom {
@@ -1580,7 +1603,7 @@ h4 { font-size: 1.25rem; }
 .featured-article__category {
     font-size: 0.6875rem;
     font-weight: 600;
-    color: var(--color-primary);
+    color: var(--color-secondary-dark);
     text-transform: uppercase;
     letter-spacing: 0.15em;
     margin-bottom: var(--space-md);
@@ -1721,7 +1744,7 @@ h4 { font-size: 1.25rem; }
     display: inline-block;
     font-size: 0.6875rem;
     font-weight: 600;
-    color: var(--color-primary);
+    color: var(--color-secondary-dark);
     text-transform: uppercase;
     letter-spacing: 0.15em;
     margin-bottom: var(--space-lg);
@@ -1882,7 +1905,7 @@ h4 { font-size: 1.25rem; }
 }
 
 .tag:hover {
-    background: var(--color-primary);
+    background: var(--color-secondary);
     color: white;
 }
 
@@ -1974,19 +1997,116 @@ h4 { font-size: 1.25rem; }
 }
 
 .author-box__link {
-    color: var(--color-primary);
+    color: var(--color-secondary);
     font-weight: 500;
     font-size: 0.9375rem;
 }
 
 /* ----------------------------------------
-   About Page
+   About Page (Great British Chefs style)
    ---------------------------------------- */
 .about-hero {
-    padding: var(--space-4xl) 0;
-    background: var(--color-bg-alt);
+    padding: 0;
+    background: var(--color-bg);
 }
 
+/* Name + subtitle centered */
+.about-hero__header {
+    text-align: center;
+    padding: var(--space-3xl) var(--container-padding) var(--space-xl);
+    max-width: var(--container-width);
+    margin: 0 auto;
+}
+
+.about-hero__title {
+    font-family: var(--font-heading);
+    font-size: 3rem;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: var(--space-sm);
+    color: var(--color-text);
+}
+
+@media (min-width: 768px) {
+    .about-hero__title {
+        font-size: 4rem;
+    }
+}
+
+.about-hero__subtitle {
+    font-family: var(--font-heading);
+    font-size: 1.25rem;
+    font-style: italic;
+    color: var(--color-secondary);
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+/* Full-width hero photo */
+.about-hero__photo {
+    width: 100%;
+    max-height: 65vh;
+    overflow: hidden;
+    position: relative;
+}
+
+.about-hero__photo::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    background: linear-gradient(to top, var(--color-bg), transparent);
+    pointer-events: none;
+}
+
+.about-hero__photo img {
+    width: 100%;
+    height: 65vh;
+    object-fit: cover;
+    object-position: center 30%;
+}
+
+.about-hero__photo-placeholder {
+    width: 100%;
+    height: 45vh;
+    background: linear-gradient(135deg, var(--color-bg-alt) 0%, var(--color-border) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-text-muted);
+}
+
+.about-hero__photo-placeholder svg {
+    margin-bottom: var(--space-md);
+    opacity: 0.4;
+}
+
+.about-hero__photo-placeholder span {
+    font-size: 0.9375rem;
+    font-family: var(--font-heading);
+    font-style: italic;
+}
+
+/* Intro text below the photo */
+.about-hero__intro-section {
+    text-align: center;
+    padding: var(--space-xl) var(--container-padding) var(--space-2xl);
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.about-hero__intro {
+    font-family: var(--font-heading);
+    font-size: 1.125rem;
+    font-style: italic;
+    line-height: 1.8;
+    color: var(--color-text-light);
+}
+
+/* Legacy grid layout (fallback) */
 .about-hero__grid {
     display: grid;
     grid-template-columns: 280px 1fr;
@@ -2029,36 +2149,6 @@ h4 { font-size: 1.25rem; }
 
 .about-hero__placeholder span {
     font-size: 0.875rem;
-}
-
-.about-hero__title {
-    font-family: var(--font-heading);
-    font-size: 3rem;
-    font-weight: 400;
-    font-style: italic;
-    margin-bottom: var(--space-sm);
-    color: var(--color-text);
-}
-
-@media (min-width: 768px) {
-    .about-hero__title {
-        font-size: 3.5rem;
-    }
-}
-
-.about-hero__subtitle {
-    font-family: var(--font-heading);
-    font-size: 1.25rem;
-    font-style: italic;
-    color: var(--color-primary);
-    font-weight: 400;
-    margin-bottom: var(--space-lg);
-}
-
-.about-hero__intro {
-    font-size: 1.125rem;
-    line-height: 1.8;
-    color: var(--color-text-light);
 }
 
 /* Biography */
@@ -2144,7 +2234,7 @@ h4 { font-size: 1.25rem; }
     font-family: var(--font-heading);
     font-size: 1.125rem;
     font-weight: 400;
-    color: var(--color-primary);
+    color: var(--color-secondary);
 }
 
 .about-timeline__title {

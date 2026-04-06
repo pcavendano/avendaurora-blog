@@ -1,38 +1,37 @@
 <?php snippet('header') ?>
 
 <section class="about-hero">
-    <div class="container">
-        <div class="about-hero__grid">
-            <!-- Portrait -->
-            <div class="about-hero__portrait">
-                <?php if ($portrait = $page->portrait()->toFile()): ?>
-                    <img src="<?= $portrait->thumb(['width' => 500, 'height' => 600, 'crop' => true])->url() ?>"
-                         alt="<?= $page->title() ?>"
-                         class="about-hero__image">
-                <?php else: ?>
-                    <!-- Portrait Placeholder -->
-                    <div class="about-hero__placeholder">
-                        <svg width="120" height="120" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1">
-                            <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
-                            <circle cx="12" cy="7" r="4"/>
-                        </svg>
-                        <span>Agregar foto de perfil</span>
-                    </div>
-                <?php endif ?>
-            </div>
-
-            <!-- Intro Content -->
-            <div class="about-hero__content">
-                <h1 class="about-hero__title"><?= $page->title() ?></h1>
-                <?php if ($page->subtitle()->isNotEmpty()): ?>
-                    <p class="about-hero__subtitle"><?= $page->subtitle() ?></p>
-                <?php endif ?>
-                <?php if ($page->intro()->isNotEmpty()): ?>
-                    <p class="about-hero__intro"><?= $page->intro() ?></p>
-                <?php endif ?>
-            </div>
-        </div>
+    <!-- Centered name + subtitle -->
+    <div class="about-hero__header">
+        <h1 class="about-hero__title"><?= $page->title() ?></h1>
+        <?php if ($page->subtitle()->isNotEmpty()): ?>
+            <p class="about-hero__subtitle"><?= $page->subtitle() ?></p>
+        <?php endif ?>
     </div>
+
+    <!-- Full-width hero photo (horizontal, like Great British Chefs) -->
+    <div class="about-hero__photo">
+        <?php if ($portrait = $page->portrait()->toFile()): ?>
+            <img src="<?= $portrait->url() ?>"
+                 alt="<?= $page->title() ?>">
+        <?php else: ?>
+            <div class="about-hero__photo-placeholder">
+                <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="0.8">
+                    <rect x="3" y="3" width="18" height="18" rx="2"/>
+                    <circle cx="8.5" cy="8.5" r="1.5"/>
+                    <path d="M21 15l-5-5L5 21"/>
+                </svg>
+                <span>Agregar foto horizontal del chef</span>
+            </div>
+        <?php endif ?>
+    </div>
+
+    <!-- Intro text below photo -->
+    <?php if ($page->intro()->isNotEmpty()): ?>
+    <div class="about-hero__intro-section">
+        <p class="about-hero__intro"><?= $page->intro() ?></p>
+    </div>
+    <?php endif ?>
 </section>
 
 <!-- Biography -->

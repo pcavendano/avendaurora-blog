@@ -21,12 +21,12 @@ columns:
             placeholder: "Chef Profesional | Montreal, Quebec"
 
           portrait:
-            label: Foto de Perfil
+            label: Foto Principal del Chef
             type: files
             max: 1
             layout: cards
             size: large
-            help: Imagen profesional del chef (recomendado 500x600px)
+            help: Foto horizontal del chef en accion (recomendado 1600x900px o mas ancha)
 
           intro:
             label: Introducción
