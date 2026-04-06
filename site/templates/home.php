@@ -11,7 +11,11 @@
 
     <?php if ($heroImage = $page->hero_image()->toFile()): ?>
         <div class="hero__image-wrapper">
-            <img src="<?= $heroImage->url() ?>" alt="<?= $page->hero_title() ?>" class="hero__fullwidth-image">
+            <img src="<?= $heroImage->thumb(['width' => 1440])->url() ?>"
+                 srcset="<?= $heroImage->srcset([800, 1024, 1440, 2048]) ?>"
+                 sizes="100vw"
+                 alt="<?= $page->hero_title() ?>"
+                 class="hero__fullwidth-image">
         </div>
     <?php endif ?>
 

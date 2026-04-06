@@ -11,6 +11,8 @@
         <div class="recipe-card__image">
             <?php if ($cover = $recipe->cover()->toFile()): ?>
                 <img src="<?= $cover->thumb(['width' => 600, 'height' => 400, 'crop' => true])->url() ?>"
+                     srcset="<?= $cover->srcset([300, 450, 600, 900]) ?>"
+                     sizes="(max-width: 600px) 100vw, (max-width: 1024px) 50vw, 33vw"
                      alt="<?= $recipe->title() ?>"
                      loading="lazy">
             <?php elseif ($recipe->original_image()->isNotEmpty()): ?>

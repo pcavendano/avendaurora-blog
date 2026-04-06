@@ -81,7 +81,7 @@
 </footer>
 
 <!-- Scripts -->
-<script src="<?= url('assets/js/app.js') ?>"></script>
+<script src="<?= url('assets/js/app.js') ?>?v=<?= filemtime(kirby()->root('assets') . '/js/app.js') ?>"></script>
 
 </body>
 </html>

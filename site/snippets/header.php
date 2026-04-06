@@ -22,8 +22,8 @@
     <link rel="icon" href="<?= $site->favicon()->toFile()->url() ?>">
     <?php endif ?>
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="<?= url('assets/css/style.css') ?>">
+    <!-- CSS (cache-busted) -->
+    <link rel="stylesheet" href="<?= url('assets/css/style.css') ?>?v=<?= filemtime(kirby()->root('assets') . '/css/style.css') ?>">
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

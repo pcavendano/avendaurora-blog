@@ -52,7 +52,9 @@
     <?php if ($cover = $page->cover()->toFile()): ?>
     <div class="recipe__hero">
         <div class="container">
-            <img src="<?= $cover->url() ?>"
+            <img src="<?= $cover->thumb(['width' => 1200])->url() ?>"
+                 srcset="<?= $cover->srcset([600, 900, 1200, 1800]) ?>"
+                 sizes="(max-width: 1200px) 100vw, 1200px"
                  alt="<?= $page->title() ?>"
                  itemprop="image"
                  class="recipe__hero-image">

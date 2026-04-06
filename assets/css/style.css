@@ -2151,6 +2151,103 @@ h4 { font-size: 1.25rem; }
     font-size: 0.875rem;
 }
 
+/* About Intro + Social Links */
+.about-intro {
+    padding: var(--space-2xl) 0;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.about-intro__text {
+    text-align: center;
+    margin-bottom: var(--space-xl);
+}
+
+.about-intro__text p {
+    font-family: var(--font-heading);
+    font-size: 1.25rem;
+    font-style: italic;
+    line-height: 1.8;
+    color: var(--color-text-light);
+}
+
+.about-social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-lg);
+    padding-top: var(--space-lg);
+    border-top: 1px solid var(--color-border);
+}
+
+.about-social__label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-text-muted);
+}
+
+.about-social__link {
+    font-size: 0.875rem;
+    color: var(--color-secondary);
+    font-weight: 500;
+    transition: color var(--transition-fast);
+}
+
+.about-social__link:hover {
+    color: var(--color-secondary-dark);
+}
+
+/* Signature Dishes (2-up grid) */
+.about-dishes {
+    padding: var(--space-4xl) 0;
+}
+
+.about-dishes__grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-2xl);
+    margin-top: var(--space-2xl);
+}
+
+@media (max-width: 768px) {
+    .about-dishes__grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.about-dishes__item {
+    overflow: hidden;
+}
+
+.about-dishes__image {
+    overflow: hidden;
+    margin-bottom: var(--space-md);
+}
+
+.about-dishes__image img {
+    width: 100%;
+    height: auto;
+    transition: transform var(--transition-slow);
+}
+
+.about-dishes__item:hover .about-dishes__image img {
+    transform: scale(1.03);
+}
+
+.about-dishes__title {
+    font-family: var(--font-heading);
+    font-size: 1.375rem;
+    font-weight: 400;
+    margin-bottom: var(--space-sm);
+}
+
+.about-dishes__description {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    line-height: 1.7;
+}
+
 /* Biography */
 .about-bio {
     padding: var(--space-4xl) 0;

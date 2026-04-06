@@ -37,6 +37,8 @@
                 <div class="featured-article__image">
                     <?php if ($cover = $featured->cover()->toFile()): ?>
                         <img src="<?= $cover->thumb(['width' => 1200, 'height' => 600, 'crop' => true])->url() ?>"
+                             srcset="<?= $cover->srcset([600, 900, 1200, 1800]) ?>"
+                             sizes="(max-width: 768px) 100vw, 60vw"
                              alt="<?= $featured->title() ?>">
                     <?php endif ?>
                     <span class="featured-article__badge">Destacado</span>
@@ -73,6 +75,8 @@
                     <div class="article-card__image">
                         <?php if ($cover = $article->cover()->toFile()): ?>
                             <img src="<?= $cover->thumb(['width' => 600, 'height' => 400, 'crop' => true])->url() ?>"
+                                 srcset="<?= $cover->srcset([300, 450, 600, 900]) ?>"
+                                 sizes="(max-width: 600px) 100vw, (max-width: 1024px) 50vw, 33vw"
                                  alt="<?= $article->title() ?>"
                                  loading="lazy">
                         <?php else: ?>

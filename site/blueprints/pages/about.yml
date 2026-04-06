@@ -115,16 +115,51 @@ columns:
                 type: textarea
                 size: small
 
+      signature_dishes:
+        type: fields
+        fields:
+          signature_dishes_title:
+            label: Titulo de Seccion
+            type: text
+            translate: true
+            default: Mis Platos Insignia
+
+          signature_dishes:
+            label: Platos Insignia
+            type: structure
+            max: 4
+            fields:
+              title:
+                label: Nombre del Plato
+                type: text
+                translate: true
+                width: 1/2
+
+              image:
+                label: Foto del Plato
+                type: files
+                max: 1
+                layout: cards
+                width: 1/2
+                help: Foto horizontal del plato (recomendado 1200x800px)
+
+              description:
+                label: Descripcion
+                type: textarea
+                translate: true
+                size: small
+                help: Breve descripcion del plato y su significado
+
       philosophy:
         type: fields
         fields:
           philosophy_title:
-            label: Título de Sección
+            label: Titulo de Seccion
             type: text
-            default: Mi Filosofía Culinaria
+            default: Mi Filosofia Culinaria
 
           philosophy:
-            label: Filosofía
+            label: Filosofia
             type: textarea
             translate: true
             size: medium
