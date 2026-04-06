@@ -102,15 +102,7 @@ body::before {
     display: block;
     width: 100%;
     height: 5px;
-    background: linear-gradient(
-        90deg,
-        #E8A0B4 0%,         /* pastel pink */
-        #C4856C 20%,         /* terracotta */
-        #D4A94B 40%,         /* gold */
-        #7BA888 60%,         /* sage green */
-        #5B8FA8 80%,         /* colonial blue */
-        #E8A0B4 100%         /* pastel pink */
-    );
+    background: #E4007C;     /* Rosa mexicano */
     position: fixed;
     top: 0;
     left: 0;
