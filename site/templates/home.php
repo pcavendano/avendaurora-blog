@@ -1,31 +1,34 @@
 <?php snippet('header') ?>
 
-<!-- Hero Section -->
+<!-- Hero Section (GBC-Style) -->
 <section class="hero">
-    <div class="hero__container">
-        <div class="hero__content">
-            <h1 class="hero__title"><?= $page->hero_title()->or($site->title()) ?></h1>
-            <?php if ($page->hero_subtitle()->isNotEmpty()): ?>
-                <p class="hero__subtitle"><?= $page->hero_subtitle() ?></p>
-            <?php endif ?>
-            <?php if ($page->hero_description()->isNotEmpty()): ?>
-                <p class="hero__description"><?= $page->hero_description() ?></p>
-            <?php endif ?>
-            <div class="hero__ctas">
-                <a href="<?= $page->hero_cta_link()->toPage() ? $page->hero_cta_link()->toPage()->url() : url('about') ?>"
-                   class="hero__cta btn btn--primary">
-                    <?= $page->hero_cta_text()->or('Conoce Mi Historia') ?>
-                </a>
-                <a href="<?= url('recetas') ?>" class="hero__cta btn btn--outline">
-                    <?= t('nav.mi_cocina') ?> &rarr;
-                </a>
-            </div>
-        </div>
-        <?php if ($heroImage = $page->hero_image()->toFile()): ?>
-            <div class="hero__image">
-                <img src="<?= $heroImage->url() ?>" alt="<?= $page->hero_title() ?>">
-            </div>
+    <div class="hero__brand-section">
+        <h1 class="hero__name"><?= $page->hero_title()->or('Aurora') ?></h1>
+        <?php if ($page->hero_subtitle()->isNotEmpty()): ?>
+            <p class="hero__tagline"><?= $page->hero_subtitle() ?></p>
         <?php endif ?>
+    </div>
+
+    <?php if ($heroImage = $page->hero_image()->toFile()): ?>
+        <div class="hero__image-wrapper">
+            <img src="<?= $heroImage->url() ?>" alt="<?= $page->hero_title() ?>" class="hero__fullwidth-image">
+        </div>
+    <?php endif ?>
+
+    <?php if ($page->hero_description()->isNotEmpty()): ?>
+        <div class="hero__description-wrapper">
+            <p class="hero__description"><?= $page->hero_description() ?></p>
+        </div>
+    <?php endif ?>
+
+    <div class="hero__ctas">
+        <a href="<?= $page->hero_cta_link()->toPage() ? $page->hero_cta_link()->toPage()->url() : url('about') ?>"
+           class="hero__cta btn btn--primary">
+            <?= $page->hero_cta_text()->or('Conoce Mi Historia') ?>
+        </a>
+        <a href="<?= url('recetas') ?>" class="hero__cta btn btn--outline">
+            <?= t('nav.mi_cocina') ?> &rarr;
+        </a>
     </div>
 </section>
 
@@ -77,10 +80,10 @@
 
 <!-- Categories -->
 <?php if ($page->show_categories()->toBool(true)): ?>
-<section class="section section--categories">
+<section class="section section--categories section--alt">
     <div class="container">
         <header class="section__header">
-            <h2 class="section__title"><?= $page->categories_title()->or('Explora por Categoría') ?></h2>
+            <h2 class="section__title"><?= $page->categories_title()->or('Explora por Categoria') ?></h2>
         </header>
 
         <div class="category-grid">
@@ -111,7 +114,7 @@
     <div class="container">
         <div class="ingredient-highlight">
             <div class="ingredient-highlight__icon">
-                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
                     <circle cx="12" cy="12" r="10"/>
                     <path d="M12 16v-4"/>
                     <path d="M12 8h.01"/>

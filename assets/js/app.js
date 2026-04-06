@@ -1,50 +1,73 @@
 /**
- * Avenda Aurora - Main JavaScript
- * Mexican Cuisine Blog
+ * Aurora - Mexican Cuisine Blog
+ * Main JavaScript
  */
 
 (function() {
     'use strict';
 
-    // Mobile Navigation Toggle
-    const navToggle = document.querySelector('.nav__toggle');
-    const navMenu = document.querySelector('.nav__menu');
+    // ========================================
+    // Header Scroll Effect (Epicurious-style logo grow)
+    // ========================================
+    var header = document.getElementById('siteHeader');
 
-    if (navToggle && navMenu) {
-        navToggle.addEventListener('click', function() {
-            navMenu.classList.toggle('is-open');
-            navToggle.classList.toggle('is-active');
+    if (header) {
+        var lastScroll = 0;
+
+        window.addEventListener('scroll', function() {
+            var scrollY = window.scrollY;
+
+            if (scrollY > 50) {
+                header.classList.add('is-scrolled');
+            } else {
+                header.classList.remove('is-scrolled');
+            }
+
+            lastScroll = scrollY;
+        }, { passive: true });
+    }
+
+    // ========================================
+    // Mobile Navigation Toggle
+    // ========================================
+    var menuToggle = document.getElementById('menuToggle');
+    var mainNav = document.getElementById('mainNav');
+
+    if (menuToggle && mainNav) {
+        menuToggle.addEventListener('click', function() {
+            mainNav.classList.toggle('is-open');
+            menuToggle.classList.toggle('is-active');
             document.body.classList.toggle('nav-open');
         });
 
         // Close menu when clicking outside
         document.addEventListener('click', function(e) {
-            if (!navMenu.contains(e.target) && !navToggle.contains(e.target)) {
-                navMenu.classList.remove('is-open');
-                navToggle.classList.remove('is-active');
+            if (!mainNav.contains(e.target) && !menuToggle.contains(e.target)) {
+                mainNav.classList.remove('is-open');
+                menuToggle.classList.remove('is-active');
                 document.body.classList.remove('nav-open');
             }
         });
     }
 
+    // ========================================
     // Ingredient Checkbox Persistence
-    const ingredientCheckboxes = document.querySelectorAll('.ingredient__checkbox');
+    // ========================================
+    var ingredientCheckboxes = document.querySelectorAll('.ingredient__checkbox');
 
     if (ingredientCheckboxes.length > 0) {
-        const recipeId = window.location.pathname;
-        const storageKey = 'checkedIngredients_' + recipeId;
+        var recipeId = window.location.pathname;
+        var storageKey = 'checkedIngredients_' + recipeId;
 
         // Load saved state
-        const savedState = JSON.parse(localStorage.getItem(storageKey) || '{}');
+        var savedState = JSON.parse(localStorage.getItem(storageKey) || '{}');
 
         ingredientCheckboxes.forEach(function(checkbox, index) {
-            // Restore saved state
             if (savedState[index]) {
                 checkbox.checked = true;
                 checkbox.closest('.ingredient').classList.add('is-checked');
             }
 
-            // Save state on change
             checkbox.addEventListener('change', function() {
                 savedState[index] = this.checked;
                 localStorage.setItem(storageKey, JSON.stringify(savedState));
@@ -57,8 +80,7 @@
             });
         });
 
-        // Add "Clear All" button functionality
-        const clearAllBtn = document.querySelector('.ingredients-clear-all');
+        var clearAllBtn = document.querySelector('.ingredients-clear-all');
         if (clearAllBtn) {
             clearAllBtn.addEventListener('click', function() {
                 ingredientCheckboxes.forEach(function(checkbox) {
@@ -70,13 +92,15 @@
         }
     }
 
+    // ========================================
     // Smooth Scroll for Anchor Links
+    // ========================================
     document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
         anchor.addEventListener('click', function(e) {
-            const targetId = this.getAttribute('href');
+            var targetId = this.getAttribute('href');
             if (targetId === '#') return;
 
-            const target = document.querySelector(targetId);
+            var target = document.querySelector(targetId);
             if (target) {
                 e.preventDefault();
                 target.scrollIntoView({
@@ -87,18 +111,17 @@
         });
     });
 
-    // Recipe Category Filter is handled inline in recetas.php
-    // (supports comma-separated categories per card)
-
+    // ========================================
     // Search Functionality
-    const searchInput = document.querySelector('.search__input');
-    const searchResults = document.querySelector('.search__results');
+    // ========================================
+    var searchInput = document.querySelector('.search__input');
+    var searchResults = document.querySelector('.search__results');
 
     if (searchInput) {
-        let searchTimeout;
+        var searchTimeout;
 
         searchInput.addEventListener('input', function() {
-            const query = this.value.trim();
+            var query = this.value.trim();
 
             clearTimeout(searchTimeout);
 
@@ -108,15 +131,12 @@
             }
 
             searchTimeout = setTimeout(function() {
-                // In a real implementation, this would call an API
-                // For now, we'll just show a placeholder
                 if (searchResults) {
                     searchResults.innerHTML = '<p class="search__loading">Buscando...</p>';
                 }
             }, 300);
         });
 
-        // Close search on escape
         searchInput.addEventListener('keydown', function(e) {
             if (e.key === 'Escape') {
                 this.value = '';
@@ -125,14 +145,16 @@
         });
     }
 
+    // ========================================
     // Lazy Loading Images
+    // ========================================
     if ('IntersectionObserver' in window) {
-        const lazyImages = document.querySelectorAll('img[loading="lazy"]');
+        var lazyImages = document.querySelectorAll('img[loading="lazy"]');
 
-        const imageObserver = new IntersectionObserver(function(entries) {
+        var imageObserver = new IntersectionObserver(function(entries) {
             entries.forEach(function(entry) {
                 if (entry.isIntersecting) {
-                    const img = entry.target;
+                    var img = entry.target;
                     if (img.dataset.src) {
                         img.src = img.dataset.src;
                         img.removeAttribute('data-src');
@@ -147,15 +169,16 @@
         });
     }
 
-    // Print Recipe Functionality
+    // ========================================
+    // Print & Share Recipe
+    // ========================================
     window.printRecipe = function() {
         window.print();
     };
 
-    // Share Recipe Functionality
     window.shareRecipe = function() {
-        const title = document.querySelector('.recipe__title');
-        const description = document.querySelector('.recipe__description');
+        var title = document.querySelector('.recipe__title');
+        var description = document.querySelector('.recipe__description');
 
         if (navigator.share) {
             navigator.share({
@@ -166,12 +189,10 @@
                 console.log('Share cancelled:', err);
             });
         } else {
-            // Fallback: Copy to clipboard
             navigator.clipboard.writeText(window.location.href).then(function() {
                 showToast('Link copiado al portapapeles');
             }).catch(function() {
-                // Fallback for older browsers
-                const input = document.createElement('input');
+                var input = document.createElement('input');
                 input.value = window.location.href;
                 document.body.appendChild(input);
                 input.select();
@@ -182,19 +203,20 @@
         }
     };
 
+    // ========================================
     // Toast Notification
+    // ========================================
     function showToast(message, duration) {
         duration = duration || 3000;
 
-        const existing = document.querySelector('.toast');
+        var existing = document.querySelector('.toast');
         if (existing) existing.remove();
 
-        const toast = document.createElement('div');
+        var toast = document.createElement('div');
         toast.className = 'toast';
         toast.textContent = message;
         document.body.appendChild(toast);
 
-        // Trigger animation
         setTimeout(function() {
             toast.classList.add('is-visible');
         }, 10);
@@ -207,55 +229,60 @@
         }, duration);
     }
 
+    // ========================================
     // Servings Calculator
-    const servingsInput = document.querySelector('.servings-input');
+    // ========================================
+    var servingsInput = document.querySelector('.servings-input');
 
     if (servingsInput) {
-        const originalServings = parseInt(servingsInput.value) || 4;
+        var originalServings = parseInt(servingsInput.value) || 4;
 
         servingsInput.addEventListener('change', function() {
-            const newServings = parseInt(this.value) || originalServings;
-            const ratio = newServings / originalServings;
+            var newServings = parseInt(this.value) || originalServings;
+            var ratio = newServings / originalServings;
 
             document.querySelectorAll('.ingredient__quantity').forEach(function(qty) {
-                const original = parseFloat(qty.dataset.original || qty.textContent);
+                var original = parseFloat(qty.dataset.original || qty.textContent);
                 if (!qty.dataset.original) {
                     qty.dataset.original = original;
                 }
 
-                const newQty = (original * ratio).toFixed(2).replace(/\.?0+$/, '');
+                var newQty = (original * ratio).toFixed(2).replace(/\.?0+$/, '');
                 qty.textContent = newQty;
             });
         });
     }
 
+    // ========================================
     // Scroll Progress Indicator
-    const progressBar = document.querySelector('.reading-progress');
+    // ========================================
+    var progressBar = document.querySelector('.reading-progress');
 
     if (progressBar) {
         window.addEventListener('scroll', function() {
-            const scrollTop = window.scrollY;
-            const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-            const progress = (scrollTop / docHeight) * 100;
+            var scrollTop = window.scrollY;
+            var docHeight = document.documentElement.scrollHeight - window.innerHeight;
+            var progress = (scrollTop / docHeight) * 100;
             progressBar.style.width = progress + '%';
-        });
+        }, { passive: true });
     }
 
+    // ========================================
     // Newsletter Form
-    const newsletterForm = document.querySelector('.newsletter__form');
+    // ========================================
+    var newsletterForm = document.querySelector('.newsletter__form');
 
     if (newsletterForm) {
         newsletterForm.addEventListener('submit', function(e) {
             e.preventDefault();
 
-            const email = this.querySelector('input[type="email"]').value;
-            const submitBtn = this.querySelector('button[type="submit"]');
-            const originalText = submitBtn.textContent;
+            var email = this.querySelector('input[type="email"]').value;
+            var submitBtn = this.querySelector('button[type="submit"]');
+            var originalText = submitBtn.textContent;
 
             submitBtn.disabled = true;
             submitBtn.textContent = 'Enviando...';
 
-            // Simulate API call (replace with actual implementation)
             setTimeout(function() {
                 submitBtn.textContent = 'Suscrito!';
                 showToast('Gracias por suscribirte!');
@@ -269,12 +296,14 @@
         });
     }
 
+    // ========================================
     // Heat Level Tooltip
-    const heatDots = document.querySelectorAll('.heat-meter__dot');
+    // ========================================
+    var heatDots = document.querySelectorAll('.heat-meter__dot');
 
     heatDots.forEach(function(dot, index) {
         dot.addEventListener('mouseenter', function() {
-            const levels = [
+            var levels = [
                 'Sin picor', 'Muy suave', 'Suave', 'Suave-Medio',
                 'Medio', 'Medio-Alto', 'Alto', 'Muy alto',
                 'Extremo', 'Extremadamente picante'
@@ -283,11 +312,13 @@
         });
     });
 
+    // ========================================
     // Animate on Scroll
+    // ========================================
     if ('IntersectionObserver' in window) {
-        const animateElements = document.querySelectorAll('.animate-on-scroll');
+        var animateElements = document.querySelectorAll('.animate-on-scroll');
 
-        const animateObserver = new IntersectionObserver(function(entries) {
+        var animateObserver = new IntersectionObserver(function(entries) {
             entries.forEach(function(entry) {
                 if (entry.isIntersecting) {
                     entry.target.classList.add('is-animated');
