@@ -2,7 +2,7 @@ Title: Inicio
 
 ----
 
-Hero-title: Chef Aurora Avendano
+Hero-title: Chef Aurora Avendaño
 
 ----
 

@@ -83,7 +83,7 @@ columns:
           author:
             label: Autor
             type: text
-            default: Aurora Avendano
+            default: Aurora Avendaño
 
           category:
             label: Categoría

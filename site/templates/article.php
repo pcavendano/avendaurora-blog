@@ -33,7 +33,7 @@
             <?php endif ?>
 
             <div class="article__meta">
-                <span class="article__author" itemprop="author"><?= $page->author()->or('Aurora Avendano') ?></span>
+                <span class="article__author" itemprop="author"><?= $page->author()->or('Aurora Avendaño') ?></span>
                 <span class="article__separator">•</span>
                 <time class="article__date" itemprop="datePublished" datetime="<?= $page->date()->toDate('Y-m-d') ?>">
                     <?= $page->date()->toDate('d de F, Y') ?>
@@ -158,7 +158,7 @@
                 <?php endif ?>
                 <div class="author-box__content">
                     <span class="author-box__label">Escrito por</span>
-                    <h3 class="author-box__name"><?= $page->author()->or('Aurora Avendano') ?></h3>
+                    <h3 class="author-box__name"><?= $page->author()->or('Aurora Avendaño') ?></h3>
                     <p class="author-box__bio">Chef profesional con más de 15 años de experiencia en la cocina mexicana.</p>
                     <a href="<?= page('about')->url() ?>" class="author-box__link">Conocer más →</a>
                 </div>

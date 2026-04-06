@@ -12,7 +12,7 @@ columns:
             label: Título del Hero
             type: text
             translate: true
-            default: Chef Aurora Avendano
+            default: Chef Aurora Avendaño
 
           hero_subtitle:
             label: Subtítulo
