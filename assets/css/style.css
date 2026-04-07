@@ -11,9 +11,9 @@
     --color-primary: #C4856C;         /* Terracotta / burnt sienna */
     --color-primary-dark: #A06B55;
     --color-primary-light: #EECDBE;
-    --color-secondary: #5B8FA8;       /* Colonial teal blue */
-    --color-secondary-dark: #477384;
-    --color-secondary-light: #C1DAE5;
+    --color-secondary: #E4007C;       /* Rosa mexicano */
+    --color-secondary-dark: #C2006A;
+    --color-secondary-light: #F5A0CC;
     --color-accent: #D4A94B;          /* Warm gold */
     --color-accent-light: #F0DFA8;
     --color-green: #7BA888;           /* Soft sage green */
@@ -26,7 +26,7 @@
     --color-bg: #FAF6F0;             /* Warm cream paper */
     --color-bg-alt: #F0E8DC;         /* Darker cream / parchment */
     --color-bg-white: #FFFDF9;
-    --color-bg-dark: #2E2724;
+    --color-bg-dark: #1B3A4B;         /* Deep petrol teal (footer) */
 
     --color-border: #E0D5C8;
     --color-border-dark: #CFC1B2;
@@ -96,18 +96,6 @@ body {
     flex-direction: column;
 }
 
-/* Tlacotalpan-inspired colorful accent stripe at the very top */
-body::before {
-    content: '';
-    display: block;
-    width: 100%;
-    height: 5px;
-    background: #E4007C;     /* Rosa mexicano */
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1000;
-}
 
 .main {
     flex: 1;
@@ -214,7 +202,7 @@ h4 { font-size: 1.25rem; }
    ---------------------------------------- */
 .header {
     position: sticky;
-    top: 5px;  /* below the accent stripe */
+    top: 0;
     z-index: 100;
     background: var(--color-bg);
     border-bottom: 1px solid var(--color-border);
