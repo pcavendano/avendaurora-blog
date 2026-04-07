@@ -21,6 +21,7 @@ tabs:
               - ingredients
               - stores
               - about
+              - interview
               - default
 
   general:

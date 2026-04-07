@@ -1,0 +1,291 @@
+title: Entrevista Aurora
+icon: chat
+status:
+  draft: true
+  listed: false
+
+tabs:
+  infancia:
+    label: "1. Veracruz e Infancia"
+    icon: heart
+    sections:
+      intro_1:
+        type: info
+        text: >
+          Estas preguntas son sobre tu infancia en Veracruz y tus primeros
+          recuerdos con la comida. Responde con todo el detalle que quieras,
+          como si estuvieras platicando.
+      fields_1:
+        type: fields
+        fields:
+          q01:
+            label: "1. Describe tu infancia en Veracruz. ¿En que ciudad o pueblo creciste? ¿Como era tu casa, tu barrio, tu vida diaria?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q02:
+            label: "2. ¿Cual es tu primer recuerdo cocinando o viendo cocinar? ¿Quien cocinaba en tu familia? ¿Que olores y sabores asocias con tu infancia?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q03:
+            label: "3. ¿Cual era el plato que mas te gustaba de niña? ¿Hay algun platillo que tu mama o abuela hacia que nadie mas puede replicar?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q04:
+            label: "4. ¿Que hace unica a la cocina veracruzana dentro de Mexico? ¿Como era la comida en Veracruz comparada con lo que conociste despues en Canada?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+  camino:
+    label: "2. El Camino a Canada"
+    icon: globe
+    sections:
+      intro_2:
+        type: info
+        text: >
+          Cuentanos sobre tu decision de emigrar, los primeros dias en Montreal,
+          y como fue dejar la informatica atras.
+      fields_2:
+        type: fields
+        fields:
+          q05:
+            label: "5. ¿Por que decidiste emigrar a Quebec? ¿Que esperabas encontrar? ¿Que dejaste atras?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q06:
+            label: "6. Describe tus primeros dias en Montreal. ¿Que fue lo mas dificil? ¿Que te sorprendio? ¿Como te sentiste?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q07:
+            label: "7. Estudiaste informatica en la Universidad Veracruzana. ¿Como fue llegar a Canada y no poder ejercer tu profesion por el idioma?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q08:
+            label: "8. ¿Hubo un momento especifico en que dijiste 'voy a dedicarme a la cocina'? ¿O fue algo gradual? Describe ese momento."
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+  revelacion:
+    label: "3. La Revelacion"
+    icon: star
+    sections:
+      intro_3:
+        type: info
+        text: >
+          El momento en que descubriste tu vocacion en la cocina profesional.
+      fields_3:
+        type: fields
+        fields:
+          q09:
+            label: "9. Tu primer trabajo en cocina fue en un restaurante mexicano en Montreal. ¿Como se llamaba? ¿Que sentiste el primer dia? ¿Que aprendiste ahi?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q10:
+            label: "10. Descubriste tu don no solo para cocinar sino para organizar y gestionar una cocina. ¿Que significa eso para ti? ¿Como descubriste esa habilidad?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q11:
+            label: "11. ¿Cual fue el momento mas dificil de tu carrera en la cocina? Un servicio que salio mal, un momento de crisis. Cuentalo con detalle."
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q12:
+            label: "12. ¿Y el momento mas orgulloso? ¿Cuando supiste que habias tomado la decision correcta?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+  formacion:
+    label: "4. Formacion Profesional"
+    icon: book
+    sections:
+      intro_4:
+        type: info
+        text: >
+          Tu crecimiento como chef profesional: estudios, lugares donde trabajaste,
+          mentores y lo que implica dirigir una cocina.
+      fields_4:
+        type: fields
+        fields:
+          q13:
+            label: "13. ¿Por que decidiste estudiar formalmente cocina en la EMRT despues de ya tener años trabajando? ¿Que cambio en ti despues de esa formacion?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q14:
+            label: "14. Has trabajado en el Ritz-Carlton, Fairmont, Le Jardin Nelson, Château Vincent D'Indy, residencias... ¿Que aprendiste en cada tipo de cocina? ¿Cual te marco mas?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q15:
+            label: "15. ¿Hubo algun chef, mentor o compañero de cocina que te haya marcado profundamente? ¿Que te enseño?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q16:
+            label: "16. ¿Como es un dia tipico tuyo cuando estas a cargo de una cocina? Desde que llegas hasta que cierras."
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+  identidad:
+    label: "5. Tu Cocina"
+    icon: food
+    sections:
+      intro_5:
+        type: info
+        text: >
+          Tu estilo de cocina, tus platos insignia y lo que significa
+          representar a Veracruz en Montreal.
+      fields_5:
+        type: fields
+        fields:
+          q17:
+            label: "17. ¿Como describirias tu estilo de cocina? ¿Es cocina mexicana pura? ¿Fusion? ¿Algo nuevo?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q18:
+            label: "18. ¿Que ingredientes de Veracruz extrañas mas en Montreal? ¿Has encontrado formas de conseguirlos o sustituirlos?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q19:
+            label: "19. ¿Cual es tu plato insignia — el que mejor te representa como cocinera? Describelo y explicame por que es tan importante para ti."
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q20:
+            label: "20. ¿Un segundo plato que la gente deberia probar? ¿Que historia cuenta?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q21:
+            label: "21. ¿Que significa para ti cocinar comida veracruzana en Montreal? ¿Sientes una responsabilidad de representar tu cultura?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+  personal:
+    label: "6. La Persona"
+    icon: user
+    sections:
+      intro_6:
+        type: info
+        text: >
+          La persona detras del uniforme de chef.
+      fields_6:
+        type: fields
+        fields:
+          q22:
+            label: "22. ¿Que te dicen tus colegas de cocina sobre tu forma de trabajar? ¿Como te describirian ellos?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q23:
+            label: "23. ¿Que haces cuando no estas cocinando? ¿Tienes algun ritual o costumbre que te ayuda a recargar energia?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q24:
+            label: "24. ¿Que le dirias a alguien que esta pensando en dejar su carrera para dedicarse a la cocina profesional?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q25:
+            label: "25. Escribiste 'cada plato cuenta un exilio, un renacimiento, un orgullo.' ¿Puedes explicar eso un poco mas?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+  futuro:
+    label: "7. El Futuro"
+    icon: sun
+    sections:
+      intro_7:
+        type: info
+        text: >
+          Tus sueños y lo que viene.
+      fields_7:
+        type: fields
+        fields:
+          q26:
+            label: "26. ¿Cual es tu sueño profesional? ¿Tener tu propio restaurante? ¿Catering? ¿Enseñar? ¿Que te imaginas en 5 años?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q27:
+            label: "27. Si pudieras abrir tu propio lugar mañana, ¿como se llamaria? ¿Que tipo de comida servirias? ¿Como seria el ambiente?"
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          q28:
+            label: "28. ¿Hay algo mas que quieras contar? Algo que la gente deberia saber sobre ti o sobre tu cocina."
+            type: textarea
+            translate: true
+            size: large
+            buttons: false
+
+          fotos_disponibles:
+            label: Fotos disponibles
+            type: textarea
+            size: small
+            buttons: false
+            help: "Lista las fotos que tienes disponibles para acompañar el articulo (cocinando, platos, Veracruz, etc.)"
