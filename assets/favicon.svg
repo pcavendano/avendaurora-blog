@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- Chilpaya pepper - tiny round Veracruz chile -->
+  <!-- Body: small oval/round shape -->
+  <ellipse cx="16" cy="19" rx="6" ry="7.5" fill="#E4007C" opacity="0.25"/>
+  <ellipse cx="16" cy="19" rx="6" ry="7.5" stroke="#3A3330" stroke-width="1.6"/>
+  <!-- Highlight line -->
+  <path d="M13 15c1-2 3-3 5-2" stroke="#E4007C" stroke-width="1.2" stroke-linecap="round" opacity="0.6"/>
+  <!-- Stem -->
+  <path d="M16 11.5v-3" stroke="#3A3330" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- Two small leaves -->
+  <path d="M16 9c-2-1-4 0-5 1" stroke="#7BA888" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M16 9c2-1 4 0 5 1" stroke="#7BA888" stroke-width="1.4" stroke-linecap="round"/>
+  <!-- Tiny point at bottom -->
+  <path d="M16 26.5v1.5" stroke="#3A3330" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

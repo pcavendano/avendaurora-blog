@@ -17,9 +17,10 @@
     <meta property="og:image" content="<?= $page->cover()->toFile()->url() ?>">
     <?php endif ?>
 
-    <!-- Favicon -->
+    <!-- Favicon (chilpaya pepper) -->
+    <link rel="icon" href="<?= url('assets/favicon.svg') ?>" type="image/svg+xml">
     <?php if ($site->favicon()->toFile()): ?>
-    <link rel="icon" href="<?= $site->favicon()->toFile()->url() ?>">
+    <link rel="icon" href="<?= $site->favicon()->toFile()->url() ?>" type="image/png">
     <?php endif ?>
 
     <!-- CSS (cache-busted) -->
