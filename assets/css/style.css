@@ -2602,3 +2602,209 @@ h4 { font-size: 1.25rem; }
 ::-webkit-scrollbar-thumb:hover {
     background: var(--color-text-muted);
 }
+
+/* ----------------------------------------
+   Account / Auth
+   ---------------------------------------- */
+.header__account-link,
+.header__account-btn {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    padding: var(--space-sm);
+    color: var(--color-text-light);
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font: inherit;
+    transition: color var(--transition-fast);
+}
+
+.header__account-link:hover,
+.header__account-btn:hover {
+    color: var(--color-secondary);
+}
+
+.header__account {
+    position: relative;
+}
+
+.header__account-name {
+    max-width: 120px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.header__account-menu {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    min-width: 180px;
+    background: #fff;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    padding: var(--space-xs) 0;
+    display: none;
+    z-index: 100;
+}
+
+.header__account.is-open .header__account-menu {
+    display: block;
+}
+
+.header__account-menu a {
+    display: block;
+    padding: var(--space-sm) var(--space-md);
+    color: var(--color-text);
+    text-decoration: none;
+    transition: background var(--transition-fast);
+}
+
+.header__account-menu a:hover {
+    background: var(--color-bg);
+    color: var(--color-secondary);
+}
+
+.auth-form {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-md);
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+.auth-form__label {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    font-weight: 500;
+}
+
+.auth-form__label input,
+.auth-form__label select {
+    padding: var(--space-sm) var(--space-md);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 4px;
+    font: inherit;
+    font-weight: 400;
+}
+
+.auth-form__label input:focus,
+.auth-form__label select:focus {
+    outline: none;
+    border-color: var(--color-secondary);
+}
+
+.auth-form__label small {
+    font-weight: 400;
+    color: var(--color-text-light);
+    font-size: 0.85rem;
+}
+
+.auth-form__checkbox {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    cursor: pointer;
+}
+
+.auth-form__error {
+    padding: var(--space-sm) var(--space-md);
+    background: #fee;
+    border: 1px solid #fcc;
+    color: #c33;
+    border-radius: 4px;
+}
+
+.auth-form__success {
+    padding: var(--space-sm) var(--space-md);
+    background: #efe;
+    border: 1px solid #cfc;
+    color: #383;
+    border-radius: 4px;
+}
+
+.auth-form__alt {
+    text-align: center;
+    color: var(--color-text-light);
+    font-size: 0.95rem;
+}
+
+.auth-form__alt a {
+    color: var(--color-secondary);
+    font-weight: 600;
+}
+
+.btn--block {
+    width: 100%;
+}
+
+.auth-choice {
+    display: grid;
+    gap: var(--space-lg);
+    grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 600px) {
+    .auth-choice {
+        grid-template-columns: 1fr;
+    }
+}
+
+.auth-choice__card {
+    padding: var(--space-xl);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.auth-choice__card h2 {
+    margin-bottom: var(--space-sm);
+}
+
+.auth-choice__card p {
+    color: var(--color-text-light);
+    margin-bottom: var(--space-lg);
+}
+
+.profile-grid {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: var(--space-2xl);
+}
+
+@media (max-width: 800px) {
+    .profile-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.profile-sidebar h2,
+.profile-main h2 {
+    margin-bottom: var(--space-lg);
+}
+
+.profile-logout {
+    display: block;
+    margin-top: var(--space-lg);
+    text-align: center;
+    color: var(--color-text-light);
+    text-decoration: underline;
+    font-size: 0.9rem;
+}
+
+/* Favorite button on recipe page */
+.recipe__action--favorite.is-favorite {
+    color: #e4007c;
+}
+
+.recipe__action--favorite.is-favorite svg {
+    fill: #e4007c;
+}
+
+.recipe__action--favorite.is-loading {
+    opacity: 0.5;
+    pointer-events: none;
+}

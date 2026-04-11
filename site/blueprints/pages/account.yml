@@ -1,0 +1,24 @@
+title: Cuenta
+icon: 👤
+
+options:
+  delete: false
+  changeStatus: false
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      content:
+        type: fields
+        fields:
+          title:
+            label: Título
+            type: text
+            translate: true
+      subpages:
+        type: pages
+        templates:
+          - register
+          - login
+          - profile

@@ -92,6 +92,30 @@
                 </button>
             </form>
 
+            <!-- Account -->
+            <?php if ($currentUser = $kirby->user()): ?>
+                <div class="header__account" id="headerAccount">
+                    <button type="button" class="header__account-btn" id="headerAccountToggle" aria-haspopup="true" aria-expanded="false">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                            <circle cx="12" cy="8" r="4"></circle>
+                            <path d="M4 21v-1a8 8 0 0 1 16 0v1"></path>
+                        </svg>
+                        <span class="header__account-name"><?= esc($currentUser->display_name()->or(strstr($currentUser->email(), '@', true))) ?></span>
+                    </button>
+                    <div class="header__account-menu">
+                        <a href="<?= page('cuenta/perfil')->url() ?>"><?= t('account.my_profile') ?></a>
+                        <a href="<?= url('cuenta/salir') ?>"><?= t('account.sign_out') ?></a>
+                    </div>
+                </div>
+            <?php else: ?>
+                <a href="<?= page('cuenta/iniciar-sesion')->url() ?>" class="header__account-link" aria-label="<?= t('account.sign_in') ?>">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <circle cx="12" cy="8" r="4"></circle>
+                        <path d="M4 21v-1a8 8 0 0 1 16 0v1"></path>
+                    </svg>
+                </a>
+            <?php endif ?>
+
         </div>
 
         <!-- Mobile Menu Toggle -->

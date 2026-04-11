@@ -1,0 +1,13 @@
+title: Registro
+icon: user-add
+
+options:
+  delete: false
+  changeSlug: false
+  changeStatus: false
+
+fields:
+  title:
+    label: Título
+    type: text
+    translate: true

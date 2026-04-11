@@ -150,6 +150,66 @@
     }
 
     // ========================================
+    // Account Dropdown
+    // ========================================
+    var accountWrap = document.getElementById('headerAccount');
+    var accountToggle = document.getElementById('headerAccountToggle');
+
+    if (accountWrap && accountToggle) {
+        accountToggle.addEventListener('click', function(e) {
+            e.stopPropagation();
+            var isOpen = accountWrap.classList.toggle('is-open');
+            accountToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        });
+
+        document.addEventListener('click', function(e) {
+            if (!accountWrap.contains(e.target)) {
+                accountWrap.classList.remove('is-open');
+                accountToggle.setAttribute('aria-expanded', 'false');
+            }
+        });
+    }
+
+    // ========================================
+    // Favorite Button
+    // ========================================
+    document.querySelectorAll('[data-favorite-btn]').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            if (btn.dataset.loggedIn !== '1') {
+                window.location.href = btn.dataset.loginUrl;
+                return;
+            }
+
+            var recipeId = btn.dataset.recipeId;
+            btn.classList.add('is-loading');
+
+            fetch('/api/favorite/' + recipeId, {
+                method: 'POST',
+                credentials: 'same-origin',
+                headers: { 'Accept': 'application/json' }
+            })
+            .then(function(res) {
+                if (!res.ok) throw new Error('Request failed');
+                return res.json();
+            })
+            .then(function(data) {
+                btn.classList.toggle('is-favorite', data.favorited);
+                btn.setAttribute('aria-pressed', data.favorited ? 'true' : 'false');
+                var svg = btn.querySelector('svg');
+                if (svg) svg.setAttribute('fill', data.favorited ? 'currentColor' : 'none');
+                var label = btn.querySelector('.recipe__action-label');
+                if (label) label.textContent = data.favorited ? (window.AURORA_T_UNFAV || 'Quitar') : (window.AURORA_T_FAV || 'Favorito');
+            })
+            .catch(function() {
+                showToast('Error');
+            })
+            .finally(function() {
+                btn.classList.remove('is-loading');
+            });
+        });
+    });
+
+    // ========================================
     // Lazy Loading Images
     // ========================================
     if ('IntersectionObserver' in window) {

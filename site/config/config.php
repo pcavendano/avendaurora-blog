@@ -51,6 +51,60 @@ return [
             'action'  => function () {
                 return go('ingredientes');
             }
+        ],
+
+        // Logout
+        [
+            'pattern' => 'cuenta/salir',
+            'action'  => function () {
+                if ($user = kirby()->user()) {
+                    $user->logout();
+                }
+                return go('/');
+            }
+        ],
+
+        // Toggle favorite recipe (AJAX)
+        [
+            'pattern' => 'api/favorite/(:any)',
+            'method'  => 'POST',
+            'action'  => function ($recipeId) {
+                $kirby = kirby();
+                $user = $kirby->user();
+
+                if (!$user) {
+                    return \Kirby\Http\Response::json(['error' => 'unauthorized'], 401);
+                }
+
+                $recipe = $kirby->page('recetas/' . $recipeId);
+                if (!$recipe) {
+                    return \Kirby\Http\Response::json(['error' => 'not_found'], 404);
+                }
+
+                $favorites = $user->favorites()->toPages();
+                $isFavorite = $favorites->has($recipe);
+
+                $newIds = [];
+                foreach ($favorites as $fav) {
+                    if ($fav->id() !== $recipe->id()) {
+                        $newIds[] = $fav->id();
+                    }
+                }
+                if (!$isFavorite) {
+                    $newIds[] = $recipe->id();
+                }
+
+                $kirby->impersonate('kirby');
+                $user->update([
+                    'favorites' => \Kirby\Data\Yaml::encode($newIds)
+                ]);
+                $kirby->impersonate(null);
+
+                return \Kirby\Http\Response::json([
+                    'favorited' => !$isFavorite,
+                    'count'     => count($newIds)
+                ]);
+            }
         ]
     ]
 ];
