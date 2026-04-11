@@ -9,6 +9,18 @@
     </div>
 </section>
 
+<?php if ($cover = $page->cover()->toFile()): ?>
+<div class="article__cover">
+    <div class="container">
+        <img src="<?= $cover->thumb(['width' => 1200])->url() ?>"
+             srcset="<?= $cover->srcset([600, 900, 1200, 1800]) ?>"
+             sizes="(max-width: 1200px) 100vw, 1200px"
+             alt="<?= $page->title() ?>"
+             class="article__cover-image">
+    </div>
+</div>
+<?php endif ?>
+
 <section class="section">
     <div class="container">
         <!-- Category Filter -->

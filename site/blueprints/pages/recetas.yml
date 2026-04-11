@@ -27,6 +27,8 @@ columns:
             label: Imagen de Cabecera
             type: files
             max: 1
+            layout: cards
+            size: large
 
       recipes:
         type: pages
