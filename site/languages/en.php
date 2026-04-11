@@ -85,6 +85,9 @@ return [
         'general.back' => 'Back',
         'general.search_placeholder' => 'Search recipes, ingredients...',
         'general.no_results' => 'No results found',
+        'search.result' => 'result',
+        'search.results' => 'results',
+        'search.for' => 'for',
         'general.no_stores' => 'No stores available',
         'general.loading' => 'Loading...',
 

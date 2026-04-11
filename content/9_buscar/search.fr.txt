@@ -1,0 +1,9 @@
+Title: Rechercher
+
+----
+
+Slug: recherche
+
+----
+
+Description: Recherchez des recettes, des ingrédients et des articles du blog.

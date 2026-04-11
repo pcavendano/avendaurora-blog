@@ -76,12 +76,21 @@
             <?php snippet('language-switcher') ?>
 
             <!-- Search -->
-            <button class="header__search-btn" aria-label="<?= t('nav.search') ?>">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-                    <circle cx="11" cy="11" r="8"></circle>
-                    <path d="m21 21-4.35-4.35"></path>
-                </svg>
-            </button>
+            <?php $searchPage = page('buscar') ?>
+            <form action="<?= $searchPage ? $searchPage->url() : url('buscar') ?>" method="get" class="header__search" id="headerSearch" role="search">
+                <input type="search"
+                       name="q"
+                       class="header__search-input"
+                       id="headerSearchInput"
+                       placeholder="<?= t('general.search_placeholder') ?>"
+                       aria-label="<?= t('nav.search') ?>">
+                <button type="button" class="header__search-btn" id="headerSearchToggle" aria-label="<?= t('nav.search') ?>" aria-expanded="false">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                </button>
+            </form>
 
         </div>
 

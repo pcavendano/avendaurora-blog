@@ -1,0 +1,24 @@
+title: Buscar
+icon: search
+
+options:
+  delete: false
+  changeSlug: false
+  changeStatus: false
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      content:
+        type: fields
+        fields:
+          title:
+            label: Título
+            type: text
+            translate: true
+
+          description:
+            label: Descripción
+            type: textarea
+            translate: true

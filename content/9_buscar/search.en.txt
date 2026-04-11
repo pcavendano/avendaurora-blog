@@ -1,0 +1,9 @@
+Title: Search
+
+----
+
+Slug: search
+
+----
+
+Description: Search recipes, ingredients, and blog articles.

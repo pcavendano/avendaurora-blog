@@ -112,35 +112,39 @@
     });
 
     // ========================================
-    // Search Functionality
+    // Header Search Toggle
     // ========================================
-    var searchInput = document.querySelector('.search__input');
-    var searchResults = document.querySelector('.search__results');
+    var searchForm = document.getElementById('headerSearch');
+    var searchToggle = document.getElementById('headerSearchToggle');
+    var searchInput = document.getElementById('headerSearchInput');
 
-    if (searchInput) {
-        var searchTimeout;
+    if (searchForm && searchToggle && searchInput) {
+        searchToggle.addEventListener('click', function() {
+            var isOpen = searchForm.classList.toggle('is-open');
+            searchToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
 
-        searchInput.addEventListener('input', function() {
-            var query = this.value.trim();
-
-            clearTimeout(searchTimeout);
-
-            if (query.length < 2) {
-                if (searchResults) searchResults.innerHTML = '';
+            if (isOpen) {
+                searchInput.focus();
+            } else if (searchInput.value.trim() === '') {
                 return;
+            } else {
+                searchForm.submit();
             }
-
-            searchTimeout = setTimeout(function() {
-                if (searchResults) {
-                    searchResults.innerHTML = '<p class="search__loading">Buscando...</p>';
-                }
-            }, 300);
         });
 
         searchInput.addEventListener('keydown', function(e) {
             if (e.key === 'Escape') {
                 this.value = '';
-                if (searchResults) searchResults.innerHTML = '';
+                searchForm.classList.remove('is-open');
+                searchToggle.setAttribute('aria-expanded', 'false');
+                this.blur();
+            }
+        });
+
+        document.addEventListener('click', function(e) {
+            if (!searchForm.contains(e.target) && searchInput.value.trim() === '') {
+                searchForm.classList.remove('is-open');
+                searchToggle.setAttribute('aria-expanded', 'false');
             }
         });
     }

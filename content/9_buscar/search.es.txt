@@ -1,0 +1,5 @@
+Title: Buscar
+
+----
+
+Description: Busca en recetas, ingredientes y artículos del blog.

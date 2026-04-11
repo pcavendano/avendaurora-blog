@@ -86,6 +86,9 @@ return [
         'general.back' => 'Volver',
         'general.search_placeholder' => 'Buscar recetas, ingredientes...',
         'general.no_results' => 'No se encontraron resultados',
+        'search.result' => 'resultado',
+        'search.results' => 'resultados',
+        'search.for' => 'para',
         'general.no_stores' => 'No hay tiendas disponibles',
         'general.loading' => 'Cargando...',
 

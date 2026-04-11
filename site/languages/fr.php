@@ -85,6 +85,9 @@ return [
         'general.back' => 'Retour',
         'general.search_placeholder' => 'Rechercher recettes, ingrédients...',
         'general.no_results' => 'Aucun résultat trouvé',
+        'search.result' => 'résultat',
+        'search.results' => 'résultats',
+        'search.for' => 'pour',
         'general.no_stores' => 'Aucune boutique disponible',
         'general.loading' => 'Chargement...',
 
