@@ -8,7 +8,7 @@ $totalResults = 0;
 if ($query !== '') {
     $recipesParent = page('recetas');
     if ($recipesParent) {
-        $recipeResults = $recipesParent->children()->listed()->search($query, 'title|description|tags|category');
+        $recipeResults = $recipesParent->children()->search($query, 'title|description|tags|category');
         $totalResults += $recipeResults->count();
     }
 
@@ -20,7 +20,7 @@ if ($query !== '') {
 
     $ingredientsParent = page('ingredientes');
     if ($ingredientsParent) {
-        $ingredientResults = $ingredientsParent->children()->listed()->search($query, 'title|description|category');
+        $ingredientResults = $ingredientsParent->children()->search($query, 'title|description|category');
         $totalResults += $ingredientResults->count();
     }
 }
