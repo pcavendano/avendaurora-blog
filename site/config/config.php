@@ -21,7 +21,7 @@ return [
     ],
 
     'session' => [
-        'timeout' => 120,
+        'timeout' => 7200,
         'cookieName' => 'avendaurora_session',
     ],
 
