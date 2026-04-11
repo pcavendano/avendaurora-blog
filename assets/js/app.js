@@ -189,10 +189,17 @@
                 headers: { 'Accept': 'application/json' }
             })
             .then(function(res) {
-                if (!res.ok) throw new Error('Request failed');
-                return res.json();
+                return res.json().then(function(data) {
+                    return { ok: res.ok, status: res.status, data: data };
+                });
             })
-            .then(function(data) {
+            .then(function(result) {
+                if (!result.ok) {
+                    var msg = (result.data && result.data.error) || ('HTTP ' + result.status);
+                    showToast(msg);
+                    return;
+                }
+                var data = result.data;
                 btn.classList.toggle('is-favorite', data.favorited);
                 btn.setAttribute('aria-pressed', data.favorited ? 'true' : 'false');
                 var svg = btn.querySelector('svg');
@@ -200,8 +207,8 @@
                 var label = btn.querySelector('.recipe__action-label');
                 if (label) label.textContent = data.favorited ? (window.AURORA_T_UNFAV || 'Quitar') : (window.AURORA_T_FAV || 'Favorito');
             })
-            .catch(function() {
-                showToast('Error');
+            .catch(function(err) {
+                showToast('Network error: ' + err.message);
             })
             .finally(function() {
                 btn.classList.remove('is-loading');

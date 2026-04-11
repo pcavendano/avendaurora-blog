@@ -34,3 +34,9 @@ fields:
     label: Biografía
     type: textarea
     translate: true
+
+  favorites:
+    label: Recetas Favoritas
+    type: pages
+    query: site.find('recetas').index
+    multiple: true
