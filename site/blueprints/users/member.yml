@@ -22,7 +22,7 @@ fields:
     query: site.find('recetas').index
     multiple: true
 
-  language:
+  preferred_language:
     label: Idioma Preferido
     type: select
     options:

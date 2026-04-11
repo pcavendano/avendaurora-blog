@@ -16,9 +16,9 @@ if ($kirby->request()->is('POST')) {
 
         $kirby->impersonate('kirby');
         $user = $user->update([
-            'display_name' => trim((string) get('display_name')),
-            'language'     => get('language'),
-            'newsletter'   => get('newsletter') ? 'true' : 'false',
+            'display_name'       => trim((string) get('display_name')),
+            'preferred_language' => get('preferred_language'),
+            'newsletter'         => get('newsletter') ? 'true' : 'false',
         ]);
         $kirby->impersonate(null);
         $success = true;
@@ -61,12 +61,13 @@ $favorites = $user->favorites()->toPages();
                         <input type="text" name="display_name" value="<?= esc($user->display_name()) ?>">
                     </label>
 
+                    <?php $prefLang = $user->preferred_language()->or('es')->value(); ?>
                     <label class="auth-form__label">
                         <?= t('account.field_language') ?>
-                        <select name="language">
-                            <option value="es" <?= $user->language()->value() === 'es' ? 'selected' : '' ?>>Español</option>
-                            <option value="en" <?= $user->language()->value() === 'en' ? 'selected' : '' ?>>English</option>
-                            <option value="fr" <?= $user->language()->value() === 'fr' ? 'selected' : '' ?>>Français</option>
+                        <select name="preferred_language">
+                            <option value="es" <?= $prefLang === 'es' ? 'selected' : '' ?>>Español</option>
+                            <option value="en" <?= $prefLang === 'en' ? 'selected' : '' ?>>English</option>
+                            <option value="fr" <?= $prefLang === 'fr' ? 'selected' : '' ?>>Français</option>
                         </select>
                     </label>
 

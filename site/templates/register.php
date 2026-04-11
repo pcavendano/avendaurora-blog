@@ -40,9 +40,9 @@ if ($kirby->request()->is('POST')) {
             'role'     => 'member',
             'language' => $kirby->language()->code(),
             'content'  => [
-                'display_name' => $name,
-                'language'     => $kirby->language()->code(),
-                'newsletter'   => 'true',
+                'display_name'       => $name,
+                'preferred_language' => $kirby->language()->code(),
+                'newsletter'         => 'true',
             ]
         ]);
         $kirby->impersonate(null);
