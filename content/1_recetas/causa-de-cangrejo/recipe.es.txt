@@ -1,0 +1,163 @@
+Title: Causa de Cangrejo
+
+----
+
+Category: mariscos, antojitos
+
+----
+
+Description: Una interpretación refinada de la causa peruana, que destaca el cangrejo de las nieves, equilibrada por la frescura de la lima y la dulzura de la papa.
+
+----
+
+Cover:
+
+----
+
+Prep-time: 45
+
+----
+
+Cook-time: 30
+
+----
+
+Total-time: 75
+
+----
+
+Servings: 30
+
+----
+
+Difficulty: medium
+
+----
+
+Ingredients:
+
+-
+  quantity: "4.3"
+  unit: kg
+  ingredient: Puré de papa
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "1.320"
+  unit: kg
+  ingredient: Cangrejo de las nieves
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "120"
+  unit: gramos
+  ingredient: Cebolla roja
+  preparation: picada finamente
+  optional: false
+  ingredient_link:
+-
+  quantity: "100"
+  unit: ml
+  ingredient: Mayonesa
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "9"
+  unit: gramos
+  ingredient: Sal
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "2"
+  unit: gramos
+  ingredient: Glutamato monosódico (GMS)
+  preparation:
+  optional: true
+  ingredient_link:
+-
+  quantity: "23"
+  unit: gramos
+  ingredient: Chile rojo largo
+  preparation: picado
+  optional: false
+  ingredient_link:
+-
+  quantity: "23"
+  unit: ml
+  ingredient: Jugo de lima
+  preparation: recién exprimido
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: Preparar la base
+  instruction: Preparar un puré de papas liso y suave. Dejar enfriar antes de usar.
+  tip: Para una textura más sedosa, pasar las papas por un pasapurés en lugar de aplastarlas con tenedor.
+  step_image:
+-
+  step_title: Mezclar el relleno
+  instruction: Mezclar delicadamente el cangrejo con la cebolla roja picada, la mayonesa, el chile rojo largo y el jugo de lima.
+  tip:
+  step_image:
+-
+  step_title: Sazonar
+  instruction: Añadir la sal y el GMS si se usa. Probar y ajustar la sazón al gusto.
+  tip:
+  step_image:
+-
+  step_title: Montar
+  instruction: Montar en capas alternando puré de papa y mezcla de cangrejo. Decorar y guarnecer según tu creatividad.
+  tip: Servir frío. Puede prepararse con anticipación y refrigerarse hasta servir.
+  step_image:
+
+----
+
+Tips: Esta receta es de proporciones grandes (rinde aproximadamente 30 porciones). Para reducirla a porciones caseras (4-6 personas), divide todas las cantidades por 6.
+
+----
+
+History: La causa es uno de los platos más emblemáticos de la cocina peruana. Tradicionalmente se prepara con pollo, atún o mariscos, capeados entre capas de puré de papa amarilla sazonado con ají amarillo y lima. Esta versión con cangrejo de las nieves es una interpretación moderna y refinada del clásico.
+
+----
+
+Region:
+
+----
+
+Tags: causa, peruano, cangrejo, mariscos, papa, lima, frio
+
+----
+
+Subcategory:
+
+----
+
+Is-featured: false
+
+----
+
+Date: 2026-04-11
+
+----
+
+Enable-kits: false
+
+----
+
+Store-kits:
+
+----
+
+Seo-title: Causa de Cangrejo | Avenda Aurora
+
+----
+
+Seo-description: Causa peruana de cangrejo de las nieves, equilibrada con lima fresca y puré de papa suave. Una interpretación refinada del clásico peruano.

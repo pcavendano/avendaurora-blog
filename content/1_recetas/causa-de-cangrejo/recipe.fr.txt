@@ -1,0 +1,111 @@
+Title: Causa de crabe
+
+----
+
+Description: Une interprétation raffinée de la causa péruvienne, mettant en valeur le crabe des neiges, équilibrée par la fraîcheur du lime et la douceur de la pomme de terre.
+
+----
+
+Ingredients:
+
+-
+  quantity: "4.3"
+  unit: kg
+  ingredient: Purée de patate
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "1.320"
+  unit: kg
+  ingredient: Crabe des neiges
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "120"
+  unit: gramos
+  ingredient: Oignon rouge
+  preparation: ciselé
+  optional: false
+  ingredient_link:
+-
+  quantity: "100"
+  unit: ml
+  ingredient: Mayonnaise
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "9"
+  unit: gramos
+  ingredient: Sel
+  preparation:
+  optional: false
+  ingredient_link:
+-
+  quantity: "2"
+  unit: gramos
+  ingredient: GMS
+  preparation:
+  optional: true
+  ingredient_link:
+-
+  quantity: "23"
+  unit: gramos
+  ingredient: Piment long rouge
+  preparation: haché
+  optional: false
+  ingredient_link:
+-
+  quantity: "23"
+  unit: ml
+  ingredient: Jus de lime
+  preparation: fraîchement pressé
+  optional: false
+  ingredient_link:
+
+----
+
+Instructions:
+
+-
+  step_title: Préparer la base
+  instruction: Préparer une purée de pommes de terre lisse et souple. Laisser refroidir avant utilisation.
+  tip: Pour une texture plus soyeuse, passer les pommes de terre au presse-purée plutôt qu'à la fourchette.
+  step_image:
+-
+  step_title: Mélanger la garniture
+  instruction: Mélanger délicatement le crabe avec l'oignon rouge ciselé, la mayonnaise, le piment long rouge et le jus de lime.
+  tip:
+  step_image:
+-
+  step_title: Assaisonner
+  instruction: Ajouter le sel et le GMS si utilisé. Goûter et ajuster l'assaisonnement.
+  tip:
+  step_image:
+-
+  step_title: Monter
+  instruction: Monter en couches en alternant purée de pomme de terre et mélange de crabe. Garnir selon votre créativité.
+  tip: Servir froid. Peut être préparé à l'avance et conservé au réfrigérateur jusqu'au service.
+  step_image:
+
+----
+
+Tips: Cette recette est de grandes proportions (environ 30 portions). Pour la réduire à des portions familiales (4-6 personnes), divisez toutes les quantités par 6.
+
+----
+
+History: La causa est l'un des plats les plus emblématiques de la cuisine péruvienne. Elle est traditionnellement préparée avec du poulet, du thon ou des fruits de mer, en couches entre une purée de pomme de terre jaune assaisonnée au piment ají amarillo et au lime. Cette version au crabe des neiges en est une interprétation moderne et raffinée.
+
+----
+
+Tags: causa, péruvien, crabe, fruits de mer, pomme de terre, lime, froid
+
+----
+
+Seo-title: Causa de crabe | Avenda Aurora
+
+----
+
+Seo-description: Causa péruvienne au crabe des neiges, équilibrée par le lime frais et la purée de pomme de terre. Une interprétation raffinée du classique péruvien.
