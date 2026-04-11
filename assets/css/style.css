@@ -16,7 +16,9 @@
     --color-secondary-light: #F5A0CC;
     --color-accent: #D4A94B;          /* Warm gold */
     --color-accent-light: #F0DFA8;
-    --color-green: #7BA888;           /* Soft sage green */
+    --color-green: #3DB066;           /* Verde esmeralda */
+    --color-green-dark: #1F5F3A;      /* Verde esmeralda oscuro */
+    --color-green-light: #C6EBD2;     /* Verde esmeralda claro */
     --color-rose: #E8A0B4;           /* Tlacotalpan pastel pink */
 
     --color-text: #3A3330;            /* Warm charcoal */
@@ -26,7 +28,7 @@
     --color-bg: #FAF6F0;             /* Warm cream paper */
     --color-bg-alt: #F0E8DC;         /* Darker cream / parchment */
     --color-bg-white: #FFFDF9;
-    --color-bg-dark: #1B3A4B;         /* Deep petrol teal (footer) */
+    --color-bg-dark: #1F5F3A;         /* Verde esmeralda oscuro (footer) */
 
     --color-border: #E0D5C8;
     --color-border-dark: #CFC1B2;
