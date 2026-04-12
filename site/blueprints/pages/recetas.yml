@@ -5,60 +5,134 @@ options:
   delete: false
   changeSlug: false
 
-columns:
-  main:
-    width: 2/3
-    sections:
-      content:
-        type: fields
-        fields:
-          title:
-            label: Título de la Página
-            type: text
-            translate: true
-            default: Recetas
+tabs:
+  overview:
+    label: Configuración
+    icon: settings
+    columns:
+      main:
+        width: 2/3
+        sections:
+          content:
+            type: fields
+            fields:
+              title:
+                label: Título de la Página
+                type: text
+                translate: true
+                default: Recetas
 
-          description:
-            label: Descripción
-            type: textarea
-            translate: true
+              description:
+                label: Descripción
+                type: textarea
+                translate: true
 
-          cover:
-            label: Imagen de Cabecera
-            type: files
-            max: 1
+              cover:
+                label: Imagen de Cabecera
+                type: files
+                max: 1
+                layout: cards
+                size: large
+
+      sidebar:
+        width: 1/3
+        sections:
+          filter:
+            type: fields
+            fields:
+              default_category:
+                label: Categoría por Defecto
+                type: select
+                empty: Todas
+                options:
+                  antojitos: Antojitos
+                  platos-fuertes: Platos Fuertes
+                  sopas-caldos: Sopas
+                  salsas: Salsas
+                  mariscos: Mariscos
+                  desayunos: Desayunos
+                  postres: Postres
+                  bebidas: Bebidas
+
+  drafts:
+    label: Borradores
+    icon: edit
+    columns:
+      main:
+        width: 1/1
+        sections:
+          draft_recipes:
+            type: pages
+            headline: Borradores (por completar)
+            template: recipe
+            status: drafts
             layout: cards
-            size: large
+            size: small
+            info: "{{ page.category }} | {{ page.prep_time }} min"
+            image:
+              query: page.cover.toFile
+              ratio: 3/2
+              cover: true
+            empty: No hay borradores. Cuando importes o crees una receta, aparecerá aquí.
 
-      recipes:
-        type: pages
-        headline: Recetas
-        template: recipe
-        status: all
-        layout: cards
-        size: small
-        info: "{{ page.category }} | {{ page.prep_time }} min"
-        image:
-          query: page.cover.toFile
-          ratio: 3/2
-          cover: true
+  review:
+    label: En Revisión
+    icon: preview
+    columns:
+      main:
+        width: 1/1
+        sections:
+          review_recipes:
+            type: pages
+            headline: En Revisión
+            template: recipe
+            status: unlisted
+            layout: cards
+            size: small
+            info: "{{ page.category }} | {{ page.prep_time }} min"
+            image:
+              query: page.cover.toFile
+              ratio: 3/2
+              cover: true
+            empty: No hay recetas en revisión.
 
-  sidebar:
-    width: 1/3
-    sections:
-      filter:
-        type: fields
-        fields:
-          default_category:
-            label: Categoría por Defecto
-            type: select
-            empty: Todas
-            options:
-              antojitos: Antojitos
-              platos-fuertes: Platos Fuertes
-              sopas-caldos: Sopas
-              salsas: Salsas
-              mariscos: Mariscos
-              desayunos: Desayunos
-              postres: Postres
-              bebidas: Bebidas
+  published:
+    label: Publicadas
+    icon: check
+    columns:
+      main:
+        width: 1/1
+        sections:
+          published_recipes:
+            type: pages
+            headline: Publicadas
+            template: recipe
+            status: listed
+            layout: cards
+            size: small
+            info: "{{ page.category }} | {{ page.prep_time }} min"
+            image:
+              query: page.cover.toFile
+              ratio: 3/2
+              cover: true
+            empty: Aún no hay recetas publicadas.
+
+  all:
+    label: Todas
+    icon: page
+    columns:
+      main:
+        width: 1/1
+        sections:
+          all_recipes:
+            type: pages
+            headline: Todas las recetas
+            template: recipe
+            status: all
+            layout: cards
+            size: small
+            info: "{{ page.category }} | {{ page.prep_time }} min"
+            image:
+              query: page.cover.toFile
+              ratio: 3/2
+              cover: true
