@@ -9,7 +9,24 @@
         imageFilename: null,
         pageId: null,
         panelUrl: null,
+        ingredientOptions: [],
     };
+
+    // Fetch existing ingredient titles for autocomplete
+    fetch('/api/ingredients', { credentials: 'same-origin' })
+        .then(r => r.ok ? r.json() : null)
+        .then(data => {
+            if (data && Array.isArray(data.ingredients)) {
+                state.ingredientOptions = data.ingredients;
+                const dl = document.getElementById('ingredientsDatalist');
+                if (dl) {
+                    dl.innerHTML = state.ingredientOptions
+                        .map(i => `<option value="${i.title.replace(/"/g, '&quot;')}"></option>`)
+                        .join('');
+                }
+            }
+        })
+        .catch(() => { /* autocomplete is optional, ignore */ });
 
     const CATEGORIES = {
         'antojitos': 'Antojitos y Botanas',
@@ -127,7 +144,7 @@
             <div class="review-row" data-ing-index="${i}">
                 <input type="text" class="ing-qty" placeholder="Cant." value="${escapeHtml(ing.quantity || '')}" style="width:70px">
                 <select class="ing-unit">${unitOpts}</select>
-                <input type="text" class="ing-name" placeholder="Ingrediente" value="${escapeHtml(ing.ingredient || '')}" style="flex:2">
+                <input type="text" class="ing-name" list="ingredientsDatalist" placeholder="Ingrediente" value="${escapeHtml(ing.ingredient || '')}" style="flex:2">
                 <input type="text" class="ing-prep" placeholder="Preparación" value="${escapeHtml(ing.preparation || '')}" style="flex:1">
                 <label class="review-optional"><input type="checkbox" class="ing-opt" ${ing.optional ? 'checked' : ''}> opt.</label>
                 <button type="button" class="btn btn--ghost btn--icon" data-remove-ing="${i}">✕</button>

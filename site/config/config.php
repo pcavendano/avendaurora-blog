@@ -65,6 +65,33 @@ return [
             }
         ],
 
+        // List existing ingredient pages (for autocomplete)
+        [
+            'pattern' => 'api/ingredients',
+            'method'  => 'GET',
+            'action'  => function () {
+                $kirby = kirby();
+                $user = $kirby->user();
+                if (!$user || $user->role()->name() !== 'admin') {
+                    return \Kirby\Http\Response::json(['error' => 'Admin only'], 403);
+                }
+                $parent = $kirby->page('ingredientes');
+                if (!$parent) {
+                    return \Kirby\Http\Response::json(['ingredients' => []]);
+                }
+                $items = [];
+                foreach ($parent->children() as $ingredient) {
+                    $items[] = [
+                        'id'    => $ingredient->id(),
+                        'title' => (string) $ingredient->title(),
+                        'slug'  => $ingredient->slug(),
+                    ];
+                }
+                usort($items, fn($a, $b) => strcasecmp($a['title'], $b['title']));
+                return \Kirby\Http\Response::json(['ingredients' => $items]);
+            }
+        ],
+
         // Recipe importer: extract recipe from image via OpenAI
         [
             'pattern' => 'api/import/extract',

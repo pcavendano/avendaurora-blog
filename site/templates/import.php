@@ -16,6 +16,8 @@ if (!$user || $user->role()->name() !== 'admin') {
 <section class="section">
     <div class="container container--narrow">
 
+        <datalist id="ingredientsDatalist"></datalist>
+
         <div class="wizard" id="importWizard">
             <!-- Progress -->
             <div class="wizard__progress">
