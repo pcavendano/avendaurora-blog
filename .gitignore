@@ -26,6 +26,13 @@
 # Project submission archive
 /projet-web-scrapping-pedro-colbert.zip
 
+# Secrets (API keys, etc.) — never commit
+/site/config/secrets.php
+
+# Recipe importer cache
+/storage/cache/imports
+/site/cache/imports
+
 # OS junk
 .DS_Store
 Thumbs.db

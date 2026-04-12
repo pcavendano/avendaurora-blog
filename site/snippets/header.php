@@ -104,6 +104,11 @@
                     </button>
                     <div class="header__account-menu">
                         <a href="<?= page('cuenta/perfil')->url() ?>"><?= t('account.my_profile') ?></a>
+                        <?php if ($currentUser->role()->name() === 'admin'): ?>
+                            <?php if ($importPage = page('importar-receta')): ?>
+                                <a href="<?= $importPage->url() ?>">Importar Receta</a>
+                            <?php endif ?>
+                        <?php endif ?>
                         <a href="<?= url('cuenta/salir') ?>"><?= t('account.sign_out') ?></a>
                     </div>
                 </div>
