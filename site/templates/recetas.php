@@ -26,15 +26,28 @@
         <!-- Category Filter (dynamic: only categories with listed recipes) -->
         <?php
         $listedRecipes = $page->children()->listed();
+        $allViews = class_exists('PageStats') ? PageStats::all() : [];
         $categoryCounts = [];
+        $categoryViews = [];
         foreach ($listedRecipes as $recipe) {
+            $recipeViews = (int) ($allViews[$recipe->id()] ?? 0);
             foreach ($recipe->category()->split(',') as $cat) {
                 $cat = trim($cat);
                 if ($cat === '') continue;
                 $categoryCounts[$cat] = ($categoryCounts[$cat] ?? 0) + 1;
+                $categoryViews[$cat] = ($categoryViews[$cat] ?? 0) + $recipeViews;
             }
         }
-        ksort($categoryCounts);
+        // Sort: total views desc → recipe count desc → alphabetical
+        uksort($categoryCounts, function ($a, $b) use ($categoryViews, $categoryCounts) {
+            $va = $categoryViews[$a] ?? 0;
+            $vb = $categoryViews[$b] ?? 0;
+            if ($va !== $vb) return $vb <=> $va;
+            $ca = $categoryCounts[$a];
+            $cb = $categoryCounts[$b];
+            if ($ca !== $cb) return $cb <=> $ca;
+            return strcmp($a, $b);
+        });
         ?>
         <?php if (!empty($categoryCounts)): ?>
         <div class="recipe-filters">
