@@ -43,7 +43,7 @@
         <div class="recipe-grid" id="recipe-grid">
             <?php
             // Paginate - 25 recipes per page
-            $recipes = $page->children()->sortBy('title', 'asc')->paginate(25);
+            $recipes = $page->children()->listed()->sortBy('title', 'asc')->paginate(25);
 
             foreach ($recipes as $recipe):
                 snippet('recipe-card', ['recipe' => $recipe]);

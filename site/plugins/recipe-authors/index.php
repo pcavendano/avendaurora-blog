@@ -31,6 +31,59 @@ App::plugin('avendaurora/recipe-authors', [
     ],
 
     'routes' => [
+        // One-shot migration: set every recipe that is not already a draft
+        // to unlisted ("En Revisión"). Safe to run repeatedly — skips drafts
+        // and already-listed recipes you have explicitly published.
+        [
+            'pattern' => 'api/admin/migrate-status-unlisted',
+            'method'  => 'POST',
+            'action'  => function () {
+                $kirby = kirby();
+                $user = $kirby->user();
+                if (!$user || $user->role()->name() !== 'admin') {
+                    return \Kirby\Http\Response::json(['error' => 'Admin only'], 403);
+                }
+
+                try {
+                    $recetas = $kirby->page('recetas');
+                    if (!$recetas) {
+                        return \Kirby\Http\Response::json(['error' => 'Recetas parent not found'], 404);
+                    }
+
+                    $changed = 0;
+                    $skippedDraft = 0;
+                    $skippedListed = 0;
+
+                    $kirby->impersonate('kirby');
+                    foreach ($recetas->childrenAndDrafts() as $recipe) {
+                        $status = $recipe->status();
+                        if ($status === 'draft') {
+                            $skippedDraft++;
+                            continue;
+                        }
+                        if ($status === 'listed') {
+                            $skippedListed++;
+                            continue;
+                        }
+                        if ($status !== 'unlisted') {
+                            $recipe->changeStatus('unlisted');
+                            $changed++;
+                        }
+                    }
+                    $kirby->impersonate(null);
+
+                    return \Kirby\Http\Response::json([
+                        'changed'         => $changed,
+                        'skipped_drafts'  => $skippedDraft,
+                        'skipped_listed'  => $skippedListed,
+                    ]);
+                } catch (\Throwable $e) {
+                    $kirby->impersonate(null);
+                    return \Kirby\Http\Response::json(['error' => $e->getMessage()], 500);
+                }
+            }
+        ],
+
         // One-shot migration: creates a Sistema user and assigns it as
         // created_by on every recipe that does not have a creator yet.
         [

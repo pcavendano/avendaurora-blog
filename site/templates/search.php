@@ -8,7 +8,7 @@ $totalResults = 0;
 if ($query !== '') {
     $recipesParent = page('recetas');
     if ($recipesParent) {
-        $recipeResults = $recipesParent->children()->search($query, 'title|description|tags|category');
+        $recipeResults = $recipesParent->children()->listed()->search($query, 'title|description|tags|category');
         $totalResults += $recipeResults->count();
     }
 
