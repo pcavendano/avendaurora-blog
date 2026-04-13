@@ -13,6 +13,17 @@ tabs:
       main:
         width: 2/3
         sections:
+          ai_import:
+            type: info
+            label: Importar con IA
+            theme: positive
+            text: |
+              🪄 **Importa una receta desde una imagen.**
+
+              Arrastra una foto de una receta y la IA extraerá el contenido para revisión antes de guardarla como borrador.
+
+              [**Abrir importador →**](../importar-receta)
+
           content:
             type: fields
             fields:
