@@ -182,12 +182,18 @@ PROMPT;
             $slug .= '-' . date('YmdHis');
         }
 
+        $creator = kirby()->user();
+        $content = self::recipeToContent($recipe);
+        if ($creator) {
+            $content['created_by'] = $creator->id();
+        }
+
         kirby()->impersonate('kirby');
         $page = $recetas->createChild([
             'slug' => $slug,
             'template' => 'recipe',
             'draft' => true,
-            'content' => self::recipeToContent($recipe),
+            'content' => $content,
         ]);
 
         if ($coverImage && file_exists($coverImage['path'])) {

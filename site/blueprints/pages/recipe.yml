@@ -238,6 +238,12 @@ columns:
             type: date
             default: now
 
+          created_by:
+            label: Creado por
+            type: users
+            max: 1
+            help: Usuario que creó esta receta. Se rellena automáticamente.
+
       kits:
         type: fields
         fields:

@@ -54,6 +54,26 @@ tabs:
                   postres: Postres
                   bebidas: Bebidas
 
+  mine:
+    label: Mis Recetas
+    icon: user
+    columns:
+      main:
+        width: 1/1
+        sections:
+          my_recipes:
+            type: pages
+            headline: Recetas creadas por mí
+            template: recipe
+            status: all
+            layout: list
+            size: medium
+            limit: 20
+            info: "{{ page.category }} | {{ page.status }}"
+            search: true
+            query: page.children.filterBy('created_by', kirby.user.id)
+            empty: No has creado ninguna receta aún.
+
   drafts:
     label: Borradores
     icon: edit
