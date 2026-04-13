@@ -188,16 +188,21 @@ columns:
             type: multiselect
             required: true
             options:
-              antojitos: Antojitos y Botanas
-              platos-fuertes: Platos Fuertes
-              sopas-caldos: Sopas y Caldos
-              salsas: Salsas y Aderezos
-              mariscos: Mariscos
-              desayunos: Desayunos
-              postres: Postres
-              bebidas: Bebidas
-              vegetarianos: Vegetarianos
-            help: Selecciona una o más categorías
+              type: query
+              query: site.find('recetas').categories.toStructure
+              text: "{{ structureItem.label_es }}"
+              value: "{{ structureItem.slug }}"
+            help: Selecciona una o más categorías (administradas en Recetas › Configuración)
+
+          country:
+            label: País de Origen
+            type: select
+            options:
+              type: query
+              query: site.find('recetas').countries.toStructure
+              text: "{{ structureItem.label_es }}"
+              value: "{{ structureItem.slug }}"
+            help: Administrado en Recetas › Configuración
 
           subcategory:
             label: Subcategoría

@@ -225,6 +225,7 @@ return [
                         'description'       => $page->description()->value(),
                         'category'          => $page->category()->split(','),
                         'subcategory'       => $page->subcategory()->split(','),
+                        'country'           => $page->country()->value(),
                         'region'            => $page->region()->value(),
                         'prep_time_minutes' => $page->prep_time()->toInt() ?: null,
                         'cook_time_minutes' => $page->cook_time()->toInt() ?: null,

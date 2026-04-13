@@ -34,6 +34,56 @@ tabs:
                 layout: cards
                 size: large
 
+              categories:
+                label: Categorías
+                type: structure
+                help: Añade, edita o elimina categorías. Los cambios se reflejan en el editor de recetas, en los filtros públicos y en el importador.
+                fields:
+                  slug:
+                    label: Slug
+                    type: text
+                    required: true
+                    width: 1/4
+                    help: minúsculas, guiones, sin espacios
+                  label_es:
+                    label: Nombre (ES)
+                    type: text
+                    required: true
+                    width: 1/4
+                  label_en:
+                    label: Name (EN)
+                    type: text
+                    width: 1/4
+                  label_fr:
+                    label: Nom (FR)
+                    type: text
+                    width: 1/4
+
+              countries:
+                label: Países
+                type: structure
+                help: País de origen de la receta. Úsalo como filtro principal (p.ej. Mexicana, Peruana, Francesa).
+                fields:
+                  slug:
+                    label: Slug
+                    type: text
+                    required: true
+                    width: 1/4
+                    help: minúsculas, guiones, sin espacios (p.ej. "mexico")
+                  label_es:
+                    label: Nombre (ES)
+                    type: text
+                    required: true
+                    width: 1/4
+                  label_en:
+                    label: Name (EN)
+                    type: text
+                    width: 1/4
+                  label_fr:
+                    label: Nom (FR)
+                    type: text
+                    width: 1/4
+
       sidebar:
         width: 1/3
         sections:

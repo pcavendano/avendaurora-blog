@@ -28,17 +28,17 @@
         })
         .catch(() => { /* autocomplete is optional, ignore */ });
 
-    const CATEGORIES = {
-        'antojitos': 'Antojitos y Botanas',
-        'platos-fuertes': 'Platos Fuertes',
-        'sopas-caldos': 'Sopas y Caldos',
-        'salsas': 'Salsas y Aderezos',
-        'mariscos': 'Mariscos',
-        'desayunos': 'Desayunos',
-        'postres': 'Postres',
-        'bebidas': 'Bebidas',
-        'vegetarianos': 'Vegetarianos',
-    };
+    let CATEGORIES = {};
+    let COUNTRIES = {};
+
+    // Fetch categories & countries from the taxonomy API
+    Promise.all([
+        fetch('/api/taxonomy/categories', { credentials: 'same-origin' }).then(r => r.ok ? r.json() : { items: [] }),
+        fetch('/api/taxonomy/countries', { credentials: 'same-origin' }).then(r => r.ok ? r.json() : { items: [] }),
+    ]).then(([cats, countries]) => {
+        (cats.items || []).forEach(c => { CATEGORIES[c.slug] = c.label_es || c.slug; });
+        (countries.items || []).forEach(c => { COUNTRIES[c.slug] = c.label_es || c.slug; });
+    }).catch(() => { /* fall back to empty, review step will still render */ });
 
     const UNITS = ['', 'piezas', 'tazas', 'cucharadas', 'cucharaditas', 'gramos', 'kg', 'ml', 'litros', 'lb', 'oz'];
     const DIFFICULTIES = { '': '—', 'easy': 'Fácil', 'medium': 'Medio', 'hard': 'Difícil' };
@@ -164,6 +164,7 @@
         `).join('');
 
         const regionOpts = Object.entries(REGIONS).map(([v, l]) => `<option value="${v}">${l}</option>`).join('');
+        const countryOpts = '<option value="">—</option>' + Object.entries(COUNTRIES).map(([v, l]) => `<option value="${v}">${l}</option>`).join('');
         const diffOpts = Object.entries(DIFFICULTIES).map(([v, l]) => `<option value="${v}">${l}</option>`).join('');
 
         container.innerHTML = `
@@ -177,6 +178,7 @@
                 <div class="review-chips">${catsHtml}</div>
                 <label>Subcategorías (separadas por coma) <input type="text" id="f-subcategory" value="${escapeHtml((r.subcategory || []).join(', '))}"></label>
                 <div class="review-row">
+                    <label>País <select id="f-country">${countryOpts}</select></label>
                     <label>Región <select id="f-region">${regionOpts}</select></label>
                     <label>Dificultad <select id="f-difficulty">${diffOpts}</select></label>
                     <label>Porciones <input type="number" id="f-servings" value="${r.servings || ''}" style="width:80px"></label>
@@ -208,6 +210,7 @@
         `;
 
         // Set pre-selected values for selects
+        el('f-country').value = r.country || '';
         el('f-region').value = r.region || '';
         el('f-difficulty').value = r.difficulty || '';
 
@@ -254,6 +257,7 @@
         r.description = el('f-description').value.trim();
         r.category = Array.from(document.querySelectorAll('input[name="category"]:checked')).map(c => c.value);
         r.subcategory = el('f-subcategory').value.split(',').map(s => s.trim()).filter(Boolean);
+        r.country = el('f-country').value || null;
         r.region = el('f-region').value || null;
         r.difficulty = el('f-difficulty').value || null;
         r.servings = Number(el('f-servings').value) || null;

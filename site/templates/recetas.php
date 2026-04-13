@@ -43,7 +43,7 @@
             </button>
             <?php foreach ($categoryCounts as $cat => $count): ?>
             <button class="filter-btn" data-category="<?= esc($cat) ?>">
-                <?= t('category.' . $cat, $cat) ?> (<?= $count ?>)
+                <?= esc($page->categoryLabel($cat)) ?> (<?= $count ?>)
             </button>
             <?php endforeach ?>
         </div>

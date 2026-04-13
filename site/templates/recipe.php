@@ -1,3 +1,4 @@
+<?php PageStats::record($page->id()); ?>
 <?php snippet('header') ?>
 
 <article class="recipe" itemscope itemtype="https://schema.org/Recipe">

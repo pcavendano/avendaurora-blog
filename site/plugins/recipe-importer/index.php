@@ -11,10 +11,25 @@ class RecipeImporter
 You are a recipe extraction assistant. Given an image of a recipe, extract the content as structured JSON matching the provided schema. Always respond in Spanish (es) unless the source is clearly written in another language, in which case translate fields that make sense into Spanish while keeping ingredient brand/name proper nouns. Be conservative: if a field is not clearly present, leave it empty or null. For times, infer in minutes. Always populate ingredients and instructions if present. Categories must come from the allowed enum.
 PROMPT;
 
-    private const ALLOWED_CATEGORIES = [
-        'antojitos', 'platos-fuertes', 'sopas-caldos', 'salsas',
-        'mariscos', 'desayunos', 'postres', 'bebidas', 'vegetarianos'
-    ];
+    private static function allowedCategories(): array
+    {
+        if (class_exists('Taxonomy')) {
+            $slugs = Taxonomy::slugs('categories');
+            if (!empty($slugs)) return $slugs;
+        }
+        // Fallback if taxonomy plugin hasn't loaded yet
+        return ['antojitos', 'platos-fuertes', 'sopas-caldos', 'salsas',
+                'mariscos', 'desayunos', 'postres', 'bebidas', 'vegetarianos'];
+    }
+
+    private static function allowedCountries(): array
+    {
+        if (class_exists('Taxonomy')) {
+            $slugs = Taxonomy::slugs('countries');
+            if (!empty($slugs)) return $slugs;
+        }
+        return ['mexico'];
+    }
 
     private const ALLOWED_UNITS = [
         '', 'piezas', 'tazas', 'cucharadas', 'cucharaditas',
@@ -228,8 +243,9 @@ PROMPT;
         return array_filter([
             'title'       => $r['title'] ?? '',
             'description' => $r['description'] ?? '',
-            'category'    => self::cleanEnumList($r['category'] ?? [], self::ALLOWED_CATEGORIES),
+            'category'    => self::cleanEnumList($r['category'] ?? [], self::allowedCategories()),
             'subcategory' => self::listToString($r['subcategory'] ?? []),
+            'country'     => self::cleanEnum($r['country'] ?? '', self::allowedCountries()),
             'region'      => self::cleanEnum($r['region'] ?? '', self::ALLOWED_REGIONS),
             'prep_time'   => $r['prep_time_minutes'] ?? '',
             'cook_time'   => $r['cook_time_minutes'] ?? '',
@@ -287,8 +303,9 @@ PROMPT;
             'properties' => [
                 'title'             => ['type' => 'string'],
                 'description'       => ['type' => 'string'],
-                'category'          => ['type' => 'array', 'items' => ['type' => 'string', 'enum' => self::ALLOWED_CATEGORIES]],
+                'category'          => ['type' => 'array', 'items' => ['type' => 'string', 'enum' => self::allowedCategories()]],
                 'subcategory'       => ['type' => 'array', 'items' => ['type' => 'string']],
+                'country'           => ['type' => ['string', 'null'], 'enum' => array_merge(self::allowedCountries(), [null])],
                 'region'            => ['type' => ['string', 'null'], 'enum' => array_merge(self::ALLOWED_REGIONS, [null])],
                 'prep_time_minutes' => ['type' => ['integer', 'null']],
                 'cook_time_minutes' => ['type' => ['integer', 'null']],
@@ -328,7 +345,7 @@ PROMPT;
                 'tags'    => ['type' => 'array', 'items' => ['type' => 'string']],
             ],
             'required' => [
-                'title', 'description', 'category', 'subcategory', 'region',
+                'title', 'description', 'category', 'subcategory', 'country', 'region',
                 'prep_time_minutes', 'cook_time_minutes', 'total_time_minutes',
                 'servings', 'difficulty', 'ingredients', 'instructions',
                 'tips', 'history', 'tags',

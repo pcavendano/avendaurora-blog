@@ -6,4 +6,94 @@ Description: Descubre nuestra colección de recetas auténticas mexicanas.
 
 ----
 
+Categories:
+
+-
+  slug: antojitos
+  label_es: Antojitos y Botanas
+  label_en: Appetizers & Snacks
+  label_fr: Amuse-bouches
+-
+  slug: platos-fuertes
+  label_es: Platos Fuertes
+  label_en: Main Courses
+  label_fr: Plats Principaux
+-
+  slug: sopas-caldos
+  label_es: Sopas y Caldos
+  label_en: Soups & Broths
+  label_fr: Soupes et Bouillons
+-
+  slug: salsas
+  label_es: Salsas y Aderezos
+  label_en: Sauces & Dressings
+  label_fr: Sauces et Vinaigrettes
+-
+  slug: mariscos
+  label_es: Mariscos
+  label_en: Seafood
+  label_fr: Fruits de Mer
+-
+  slug: desayunos
+  label_es: Desayunos
+  label_en: Breakfasts
+  label_fr: Petits-déjeuners
+-
+  slug: postres
+  label_es: Postres
+  label_en: Desserts
+  label_fr: Desserts
+-
+  slug: bebidas
+  label_es: Bebidas
+  label_en: Drinks
+  label_fr: Boissons
+-
+  slug: vegetarianos
+  label_es: Vegetarianos
+  label_en: Vegetarian
+  label_fr: Végétariens
+
+----
+
+Countries:
+
+-
+  slug: mexico
+  label_es: México
+  label_en: Mexico
+  label_fr: Mexique
+-
+  slug: peru
+  label_es: Perú
+  label_en: Peru
+  label_fr: Pérou
+-
+  slug: francia
+  label_es: Francia
+  label_en: France
+  label_fr: France
+-
+  slug: canada
+  label_es: Canadá
+  label_en: Canada
+  label_fr: Canada
+-
+  slug: estados-unidos
+  label_es: Estados Unidos
+  label_en: United States
+  label_fr: États-Unis
+-
+  slug: espana
+  label_es: España
+  label_en: Spain
+  label_fr: Espagne
+-
+  slug: italia
+  label_es: Italia
+  label_en: Italy
+  label_fr: Italie
+
+----
+
 Uuid: 1tRBp7yJ6URsO4qk
