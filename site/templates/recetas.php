@@ -23,21 +23,31 @@
 
 <section class="section">
     <div class="container">
-        <!-- Category Filter -->
+        <!-- Category Filter (dynamic: only categories with listed recipes) -->
+        <?php
+        $listedRecipes = $page->children()->listed();
+        $categoryCounts = [];
+        foreach ($listedRecipes as $recipe) {
+            foreach ($recipe->category()->split(',') as $cat) {
+                $cat = trim($cat);
+                if ($cat === '') continue;
+                $categoryCounts[$cat] = ($categoryCounts[$cat] ?? 0) + 1;
+            }
+        }
+        ksort($categoryCounts);
+        ?>
+        <?php if (!empty($categoryCounts)): ?>
         <div class="recipe-filters">
-            <button class="filter-btn is-active" data-category="all">Todas</button>
-            <?php
-            $categories = [
-                'antojitos', 'platos-fuertes', 'sopas-caldos', 'salsas',
-                'mariscos', 'desayunos', 'postres', 'bebidas', 'vegetarianos'
-            ];
-            foreach ($categories as $cat):
-            ?>
-            <button class="filter-btn" data-category="<?= $cat ?>">
-                <?= t('category.' . $cat) ?>
+            <button class="filter-btn is-active" data-category="all">
+                Todas (<?= $listedRecipes->count() ?>)
+            </button>
+            <?php foreach ($categoryCounts as $cat => $count): ?>
+            <button class="filter-btn" data-category="<?= esc($cat) ?>">
+                <?= t('category.' . $cat, $cat) ?> (<?= $count ?>)
             </button>
             <?php endforeach ?>
         </div>
+        <?php endif ?>
 
         <!-- Recipe Grid -->
         <div class="recipe-grid" id="recipe-grid">
