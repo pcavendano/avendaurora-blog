@@ -1,4 +1,4 @@
-Title: Avenda Aurora
+Title: Aurora
 
 ----
 
@@ -31,7 +31,7 @@ Social:
 
 ----
 
-Seo_title: Avenda Aurora | Recetas Auténticas de Cocina Mexicana
+Seo_title: Aurora | Recetas Auténticas de Cocina Mexicana
 
 ----
 

@@ -1,0 +1,806 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Avendaurora — Design Guide Preview</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..900,0..100;1,9..144,300..900,0..100&family=Rozha+One&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    /* core palette */
+    --c-marigold: #ECA825;
+    --c-hibiscus: #C8194A;
+    --c-talavera: #1B7FA8;
+    --c-carbon: #1C140E;
+    --c-maiz: #FBEFD8;
+    --c-papel: #FFFAF0;
+    /* support */
+    --c-rosa: #E94B8E;
+    --c-nopal: #4A6B2E;
+    --c-comal: #6B4423;
+    --c-cal: #F2EAD3;
+    --c-charro: #2A1A14;
+    /* type */
+    --f-display: "Fraunces", "Iowan Old Style", Georgia, serif;
+    --f-wordmark: "Rozha One", "Bodoni 72", serif;
+    --f-body: "DM Sans", system-ui, sans-serif;
+    --f-hand: "Caveat", "Comic Sans MS", cursive;
+    /* rhythm */
+    --s-1: 4px;  --s-2: 8px;  --s-3: 12px; --s-4: 16px;
+    --s-5: 24px; --s-6: 32px; --s-7: 48px; --s-8: 64px;
+    --s-9: 96px; --s-10: 128px;
+    --container: 1280px;
+    --reading: 720px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: var(--f-body);
+    color: var(--c-carbon);
+    background: var(--c-papel);
+    font-size: 16px;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  ::selection { background: var(--c-hibiscus); color: var(--c-maiz); }
+
+  /* ============== Layout primitives ============== */
+  .container { max-width: var(--container); margin: 0 auto; padding-inline: clamp(24px, 5vw, 80px); }
+  .reading   { max-width: var(--reading);  margin: 0 auto; padding-inline: 24px; }
+  .stack > * + * { margin-top: var(--s-5); }
+  .section { padding-block: clamp(64px, 8vw, 96px); }
+  .section--first { padding-top: clamp(80px, 10vw, 128px); }
+
+  /* ============== Header / nav ============== */
+  header.site {
+    position: sticky; top: 0; z-index: 50;
+    background: var(--c-papel);
+    border-bottom: 1px solid rgba(28,20,14,0.08);
+    backdrop-filter: blur(8px);
+  }
+  .site__inner {
+    max-width: var(--container); margin: 0 auto;
+    padding: var(--s-4) clamp(24px, 5vw, 80px);
+    display: flex; align-items: center; gap: var(--s-7);
+  }
+  .wordmark {
+    font-family: var(--f-wordmark);
+    font-size: 28px; line-height: 1; color: var(--c-carbon);
+    letter-spacing: -0.01em;
+  }
+  .wordmark em { color: var(--c-hibiscus); font-style: normal; }
+  nav.primary { margin-left: auto; display: flex; gap: var(--s-6); }
+  nav.primary a {
+    font-family: var(--f-body);
+    font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase;
+    color: var(--c-carbon); text-decoration: none;
+    padding-bottom: 4px; border-bottom: 1.5px solid transparent;
+    transition: border-color 200ms ease;
+  }
+  nav.primary a:hover { border-color: var(--c-hibiscus); }
+  .lang { color: var(--c-comal); font-size: 12px; letter-spacing: 0.18em; }
+
+  /* ============== Hero ============== */
+  .hero { background: var(--c-marigold); position: relative; overflow: hidden; }
+  .hero__inner {
+    display: grid; grid-template-columns: 5fr 7fr; gap: var(--s-8);
+    align-items: center;
+  }
+  @media (max-width: 880px) { .hero__inner { grid-template-columns: 1fr; gap: var(--s-7); } }
+
+  .eyebrow {
+    font-family: var(--f-body); font-weight: 500;
+    font-size: 12px; letter-spacing: 0.22em; text-transform: uppercase;
+    color: var(--c-hibiscus);
+  }
+  .eyebrow::before {
+    content: ""; display: inline-block; width: 28px; height: 1.5px;
+    background: var(--c-hibiscus); vertical-align: middle; margin-right: 12px;
+    transform: translateY(-2px);
+  }
+  h1.hero__title {
+    font-family: var(--f-display);
+    font-weight: 500;
+    font-variation-settings: "opsz" 144, "SOFT" 50;
+    font-size: clamp(3.5rem, 8vw, 6rem);
+    line-height: 0.95; letter-spacing: -0.02em;
+    color: var(--c-carbon);
+    margin-top: var(--s-4);
+  }
+  h1.hero__title em {
+    font-style: italic; color: var(--c-hibiscus);
+    font-variation-settings: "opsz" 144, "SOFT" 100;
+  }
+  .hero__lede {
+    font-family: var(--f-display); font-weight: 300;
+    font-size: clamp(1.125rem, 1.6vw, 1.375rem);
+    line-height: 1.55; max-width: 36ch; margin-top: var(--s-5);
+    color: var(--c-charro);
+  }
+  .hero__cta { display: flex; gap: var(--s-4); margin-top: var(--s-6); flex-wrap: wrap; }
+
+  .hero__media {
+    position: relative; aspect-ratio: 4/3;
+    margin-right: clamp(-80px, -5vw, -24px);
+  }
+  .photo-frame {
+    position: relative;
+    background: var(--c-maiz);
+    padding: 12px;
+    box-shadow: 0 30px 70px -28px rgba(28,20,14,0.45);
+    transform: rotate(-2deg);
+  }
+  .photo-frame::after {
+    content: ""; position: absolute; inset: 12px;
+    border: 2px solid var(--c-maiz); pointer-events: none;
+    box-shadow: inset 0 0 0 1px rgba(28,20,14,0.06);
+  }
+  .photo-frame img { display: block; width: 100%; height: 100%; object-fit: cover; }
+
+  .meta-ribbon {
+    position: absolute; left: -32px; bottom: -28px; z-index: 2;
+    background: var(--c-talavera); color: var(--c-maiz);
+    padding: 14px 28px 14px 22px;
+    clip-path: polygon(0 0, 100% 0, 96% 100%, 0% 100%);
+    display: flex; gap: var(--s-6);
+    box-shadow: 0 14px 30px -14px rgba(27,127,168,0.55);
+  }
+  .meta-ribbon dt {
+    font-size: 10px; letter-spacing: 0.22em; text-transform: uppercase;
+    opacity: 0.85;
+  }
+  .meta-ribbon dd {
+    font-family: var(--f-display); font-weight: 600;
+    font-size: 22px; line-height: 1;
+    font-variant-numeric: tabular-nums; margin-top: 2px;
+  }
+  .meta-ribbon dd small { font-size: 11px; opacity: 0.85; margin-left: 2px; }
+
+  /* petal scatter (decorative anchor, top-left of hero) */
+  .petals { position: absolute; top: 32px; left: 24px; opacity: 0.85; }
+
+  /* ============== Buttons ============== */
+  .btn {
+    display: inline-flex; align-items: center; gap: 10px;
+    font-family: var(--f-body); font-weight: 500;
+    font-size: 14px; letter-spacing: 0.06em; text-transform: uppercase;
+    padding: 14px 28px; border-radius: 4px; border: 1.5px solid transparent;
+    text-decoration: none; cursor: pointer;
+    transition: transform 180ms ease, background 180ms ease, color 180ms ease;
+  }
+  .btn--primary { background: var(--c-hibiscus); color: var(--c-maiz); }
+  .btn--primary:hover { transform: translateY(2px); background: #B0143F; }
+  .btn--secondary { border-color: var(--c-carbon); color: var(--c-carbon); background: transparent; }
+  .btn--secondary:hover { background: var(--c-carbon); color: var(--c-maiz); }
+  .btn .arrow { transition: transform 180ms ease; }
+  .btn:hover .arrow { transform: translateX(4px); }
+
+  /* ============== Section headings ============== */
+  .section-head {
+    display: flex; justify-content: space-between; align-items: end;
+    gap: var(--s-7); margin-bottom: var(--s-7);
+    padding-bottom: var(--s-4);
+    border-bottom: 1.5px solid var(--c-carbon);
+  }
+  .section-head h2 {
+    font-family: var(--f-display); font-weight: 400;
+    font-variation-settings: "opsz" 96, "SOFT" 30;
+    font-size: clamp(2rem, 4vw, 2.75rem); line-height: 1.05;
+    letter-spacing: -0.015em;
+  }
+  .section-head h2 em { font-style: italic; color: var(--c-hibiscus); }
+  .section-head .more {
+    font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase;
+    color: var(--c-carbon); text-decoration: none;
+    border-bottom: 2px solid var(--c-hibiscus); padding-bottom: 2px;
+    white-space: nowrap;
+  }
+
+  /* ============== Color swatches ============== */
+  .swatches {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: var(--s-4);
+  }
+  .swatch {
+    border-radius: 4px; overflow: hidden;
+    border: 1px solid rgba(28,20,14,0.1);
+  }
+  .swatch__chip { aspect-ratio: 4/3; }
+  .swatch__meta {
+    padding: var(--s-4); background: var(--c-papel);
+  }
+  .swatch__name {
+    font-family: var(--f-display); font-weight: 500; font-size: 18px;
+    font-variation-settings: "opsz" 36, "SOFT" 30;
+  }
+  .swatch__token {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px; color: var(--c-comal); margin-top: 2px;
+  }
+  .swatch__hex {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px; color: var(--c-carbon); margin-top: 2px;
+    text-transform: uppercase;
+  }
+
+  /* ============== Type specimen ============== */
+  .specimen { display: grid; gap: var(--s-6); }
+  .specimen-row {
+    display: grid; grid-template-columns: 180px 1fr; gap: var(--s-6);
+    align-items: baseline;
+    padding-bottom: var(--s-5); border-bottom: 1px dashed rgba(28,20,14,0.15);
+  }
+  .specimen-row .label {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px; color: var(--c-comal); text-transform: uppercase;
+    letter-spacing: 0.1em; padding-top: 12px;
+  }
+  .t-display-xl {
+    font-family: var(--f-display); font-weight: 400;
+    font-variation-settings: "opsz" 144, "SOFT" 50;
+    font-size: 4rem; line-height: 0.95; letter-spacing: -0.02em;
+  }
+  .t-display-lg {
+    font-family: var(--f-display); font-weight: 400;
+    font-variation-settings: "opsz" 96, "SOFT" 30;
+    font-size: 3rem; line-height: 1.05; letter-spacing: -0.015em;
+  }
+  .t-display-md {
+    font-family: var(--f-display); font-weight: 400;
+    font-size: 2.25rem; line-height: 1.1;
+  }
+  .t-h4 {
+    font-family: var(--f-display); font-weight: 500; font-size: 1.563rem;
+    line-height: 1.3;
+  }
+  .t-body-lg { font-family: var(--f-body); font-size: 1.125rem; line-height: 1.65; }
+  .t-body    { font-family: var(--f-body); font-size: 1rem; line-height: 1.65; }
+  .t-micro {
+    font-family: var(--f-body); font-size: 12px; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--c-hibiscus); font-weight: 500;
+  }
+  .t-hand { font-family: var(--f-hand); font-size: 1.75rem; color: var(--c-hibiscus); }
+
+  /* ============== Recipe card grid ============== */
+  .cards {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--s-6);
+  }
+  @media (max-width: 880px) { .cards { grid-template-columns: 1fr; } }
+
+  .card {
+    background: var(--c-maiz);
+    padding: var(--s-5);
+    transition: transform 240ms ease, box-shadow 240ms ease;
+  }
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 30px 50px -28px rgba(28,20,14,0.4);
+  }
+  .card__media {
+    aspect-ratio: 4/5; overflow: hidden;
+    background: var(--c-cal);
+  }
+  .card__media img { width: 100%; height: 100%; object-fit: cover; transition: transform 600ms ease; }
+  .card:hover .card__media img { transform: scale(1.04); }
+  .card__body { padding-top: var(--s-4); }
+  .card__title {
+    font-family: var(--f-display); font-weight: 500;
+    font-variation-settings: "opsz" 36, "SOFT" 40;
+    font-size: 1.5rem; line-height: 1.2; margin-top: var(--s-2);
+  }
+  .card__desc {
+    font-family: var(--f-display); font-weight: 300; font-style: italic;
+    font-size: 14px; color: var(--c-comal); margin-top: 6px;
+  }
+  .card__meta {
+    display: flex; gap: var(--s-4); margin-top: var(--s-4);
+    padding-top: var(--s-3); border-top: 1px solid rgba(28,20,14,0.12);
+    font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--c-comal);
+  }
+  .card__meta strong {
+    color: var(--c-carbon); font-family: var(--f-display);
+    font-size: 14px; letter-spacing: 0; text-transform: none; margin-right: 4px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ============== Decorative motifs ============== */
+  .motif-grid {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--s-6);
+  }
+  @media (max-width: 720px) { .motif-grid { grid-template-columns: 1fr; } }
+  .motif {
+    border: 1px solid rgba(28,20,14,0.12); padding: var(--s-5);
+    background: var(--c-papel);
+  }
+  .motif h4 {
+    font-family: var(--f-display); font-size: 18px; margin-bottom: var(--s-3);
+  }
+  .motif__demo {
+    background: var(--c-marigold); padding: var(--s-5); margin-top: var(--s-4);
+    overflow: hidden;
+  }
+  .talavera-demo {
+    height: 80px;
+    background-color: var(--c-maiz);
+    background-image:
+      radial-gradient(circle at 20px 20px, var(--c-talavera) 6px, transparent 7px),
+      radial-gradient(circle at 0 0, transparent 14px, var(--c-talavera) 14px, var(--c-talavera) 16px, transparent 17px),
+      radial-gradient(circle at 40px 0, transparent 14px, var(--c-talavera) 14px, var(--c-talavera) 16px, transparent 17px),
+      radial-gradient(circle at 0 40px, transparent 14px, var(--c-talavera) 14px, var(--c-talavera) 16px, transparent 17px),
+      radial-gradient(circle at 40px 40px, transparent 14px, var(--c-talavera) 14px, var(--c-talavera) 16px, transparent 17px);
+    background-size: 40px 40px;
+  }
+  .sarape-demo {
+    height: 16px;
+    background: linear-gradient(90deg,
+      var(--c-hibiscus) 0 18%,
+      var(--c-marigold) 18% 36%,
+      var(--c-talavera) 36% 54%,
+      var(--c-nopal) 54% 72%,
+      var(--c-rosa) 72% 100%);
+  }
+  .dashed-rule { height: 1px; background-image: linear-gradient(90deg, var(--c-carbon) 50%, transparent 50%); background-size: 8px 1px; }
+
+  /* ============== Editorial recipe sample ============== */
+  .recipe {
+    display: grid; grid-template-columns: 4fr 8fr; gap: var(--s-8);
+  }
+  @media (max-width: 880px) { .recipe { grid-template-columns: 1fr; } }
+  .ingredients h3, .steps h3 {
+    font-family: var(--f-display); font-weight: 500;
+    font-size: 22px; margin-bottom: var(--s-4);
+    padding-bottom: var(--s-2); border-bottom: 1.5px solid var(--c-hibiscus);
+    display: inline-block;
+  }
+  .ingredients ul { list-style: none; }
+  .ingredients li {
+    display: flex; gap: var(--s-3);
+    padding: var(--s-3) 0; border-bottom: 1px dashed rgba(28,20,14,0.15);
+    font-variant-numeric: tabular-nums;
+  }
+  .ingredients li .qty { color: var(--c-hibiscus); font-weight: 500; min-width: 4ch; }
+  .steps ol { list-style: none; counter-reset: step; }
+  .steps li {
+    counter-increment: step; padding: var(--s-5) 0;
+    border-bottom: 1px solid rgba(28,20,14,0.1);
+    display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: var(--s-5) var(--s-5);
+  }
+  .steps li::before {
+    content: counter(step, decimal-leading-zero);
+    font-family: var(--f-display); font-style: italic; font-weight: 400;
+    font-variation-settings: "opsz" 96;
+    font-size: 2.25rem; color: var(--c-hibiscus); line-height: 1;
+    grid-column: 1; grid-row: 1;
+  }
+  .steps li > p, .steps li > .chef-note { grid-column: 2; }
+  .steps p { line-height: 1.7; }
+  .chef-note {
+    margin-top: 0; padding: var(--s-5);
+    background: var(--c-cal); border-left: 4px solid var(--c-hibiscus);
+  }
+  .chef-note .label {
+    font-family: var(--f-hand); font-size: 22px; color: var(--c-hibiscus);
+    line-height: 1; margin-bottom: 6px;
+  }
+
+  /* ============== Footer ============== */
+  footer.site {
+    background: var(--c-charro); color: var(--c-maiz);
+    margin-top: var(--s-9); position: relative;
+  }
+  footer.site .talavera-band {
+    height: 12px;
+    background-color: var(--c-charro);
+    background-image:
+      radial-gradient(circle at 12px 6px, var(--c-marigold) 3px, transparent 4px),
+      radial-gradient(circle at 24px 6px, var(--c-rosa) 3px, transparent 4px);
+    background-size: 24px 12px;
+  }
+  .foot {
+    display: grid; grid-template-columns: 2fr 1fr 1fr; gap: var(--s-7);
+    padding-block: var(--s-8);
+  }
+  @media (max-width: 720px) { .foot { grid-template-columns: 1fr; } }
+  .foot h5 {
+    font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+    color: var(--c-marigold); margin-bottom: var(--s-3);
+  }
+  .foot a { color: var(--c-maiz); text-decoration: none; display: block; padding: 4px 0; }
+  .foot a:hover { color: var(--c-marigold); }
+  .foot .tagline {
+    font-family: var(--f-display); font-style: italic; font-weight: 300;
+    font-size: 22px; max-width: 32ch; line-height: 1.4; margin-top: var(--s-3);
+  }
+
+  /* ============== Papel picado divider ============== */
+  .picado {
+    height: 36px;
+    background: var(--c-rosa);
+    --cut: radial-gradient(circle at 12px 36px, var(--c-papel) 10px, transparent 11px);
+    -webkit-mask-image: var(--cut);
+    mask-image: var(--cut);
+    -webkit-mask-size: 24px 36px;
+    mask-size: 24px 36px;
+    -webkit-mask-repeat: repeat-x;
+    mask-repeat: repeat-x;
+    /* Above mask cuts holes; we still need the colored band visible. Use a layered approach instead: */
+  }
+  /* Better: SVG inline for crisp papel picado */
+  .picado-svg { display: block; width: 100%; height: 36px; }
+
+  /* table of contents floating */
+  .toc {
+    position: fixed; right: 24px; top: 50%; transform: translateY(-50%);
+    background: var(--c-papel); border: 1px solid rgba(28,20,14,0.15);
+    padding: var(--s-3) var(--s-4); z-index: 40;
+    font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
+    box-shadow: 0 12px 30px -16px rgba(28,20,14,0.3);
+  }
+  .toc a { display: block; color: var(--c-carbon); text-decoration: none; padding: 4px 0; }
+  .toc a:hover { color: var(--c-hibiscus); }
+  @media (max-width: 1100px) { .toc { display: none; } }
+
+  /* prefers-reduced-motion */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { transition: none !important; animation: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ===== Header ===== -->
+<header class="site">
+  <div class="site__inner">
+    <a class="wordmark" href="#">avend<em>aurora</em></a>
+    <nav class="primary" aria-label="Primary">
+      <a href="#hero">Inicio</a>
+      <a href="#recetas">Recetas</a>
+      <a href="#historia">Mi Historia</a>
+      <a href="#diario">Diario</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+    <span class="lang">ES · EN</span>
+  </div>
+</header>
+
+<!-- ===== Floating TOC ===== -->
+<aside class="toc" aria-label="Preview sections">
+  <a href="#hero">Hero</a>
+  <a href="#colors">Colores</a>
+  <a href="#type">Tipografía</a>
+  <a href="#recetas">Tarjetas</a>
+  <a href="#receta">Receta</a>
+  <a href="#motifs">Motivos</a>
+</aside>
+
+<!-- ===== Hero ===== -->
+<section id="hero" class="hero section--first section">
+  <div class="container">
+    <div class="hero__inner">
+      <div>
+        <svg class="petals" width="92" height="48" viewBox="0 0 92 48" aria-hidden="true">
+          <g fill="#C8194A">
+            <ellipse cx="14" cy="24" rx="6" ry="3"/>
+            <ellipse cx="14" cy="24" rx="3" ry="6"/>
+            <ellipse cx="14" cy="24" rx="5.2" ry="5.2" transform="rotate(45 14 24)"/>
+            <circle cx="14" cy="24" r="2.4" fill="#ECA825"/>
+          </g>
+          <g fill="#1B7FA8" transform="translate(36 -2)">
+            <ellipse cx="14" cy="24" rx="6" ry="3"/>
+            <ellipse cx="14" cy="24" rx="3" ry="6"/>
+            <circle cx="14" cy="24" r="2.4" fill="#FBEFD8"/>
+          </g>
+          <g fill="#4A6B2E" transform="translate(64 4)">
+            <ellipse cx="14" cy="24" rx="5" ry="2.5"/>
+            <ellipse cx="14" cy="24" rx="2.5" ry="5"/>
+          </g>
+        </svg>
+        <span class="eyebrow">Cocina mexicana de autora · Montréal</span>
+        <h1 class="hero__title">Sabores con<br/><em>historia</em>, mesa con alma.</h1>
+        <p class="hero__lede">
+          Soy Aurora Avendaño Avendaño, chef mexicana. Cocino recetas heredadas y reinterpretadas —
+          de mi cocina a tu mesa, en cenas privadas, talleres y este diario.
+        </p>
+        <div class="hero__cta">
+          <a href="#recetas" class="btn btn--primary">Explorar recetas <span class="arrow">→</span></a>
+          <a href="#contacto" class="btn btn--secondary">Reservar una cena</a>
+        </div>
+      </div>
+
+      <div class="hero__media">
+        <div class="photo-frame">
+          <img alt="" loading="lazy"
+               src="https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=1200&q=80" />
+        </div>
+        <dl class="meta-ribbon" aria-label="Receta destacada">
+          <div><dt>Prep</dt><dd>30<small>min</small></dd></div>
+          <div><dt>Total</dt><dd>11<small>hr</small></dd></div>
+          <div><dt>Ingredientes</dt><dd>23</dd></div>
+          <div><dt>Porciones</dt><dd>18</dd></div>
+        </dl>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Papel picado divider ===== -->
+<svg class="picado-svg" viewBox="0 0 240 36" preserveAspectRatio="none" aria-hidden="true">
+  <defs>
+    <pattern id="papel" width="24" height="36" patternUnits="userSpaceOnUse">
+      <rect width="24" height="36" fill="#E94B8E"/>
+      <circle cx="12" cy="36" r="9" fill="#FFFAF0"/>
+      <circle cx="0"  cy="14" r="3" fill="#FFFAF0"/>
+      <circle cx="24" cy="14" r="3" fill="#FFFAF0"/>
+      <rect x="11" y="0" width="2" height="10" fill="#FFFAF0"/>
+    </pattern>
+  </defs>
+  <rect width="240" height="36" fill="url(#papel)"/>
+</svg>
+
+<!-- ===== Colors ===== -->
+<section id="colors" class="section" style="background: var(--c-maiz);">
+  <div class="container">
+    <header class="section-head">
+      <div>
+        <span class="eyebrow">01 · Sistema cromático</span>
+        <h2>Una <em>paleta</em> de mercado, contada con voz baja.</h2>
+      </div>
+      <a class="more" href="#">Ver paleta completa →</a>
+    </header>
+
+    <h4 class="t-h4" style="margin-bottom: var(--s-4);">Núcleo</h4>
+    <div class="swatches" style="margin-bottom: var(--s-7);">
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-marigold)"></div><div class="swatch__meta"><div class="swatch__name">Marigold</div><div class="swatch__token">--c-marigold</div><div class="swatch__hex">#ECA825</div></div></div>
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-hibiscus)"></div><div class="swatch__meta"><div class="swatch__name">Hibiscus</div><div class="swatch__token">--c-hibiscus</div><div class="swatch__hex">#C8194A</div></div></div>
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-talavera)"></div><div class="swatch__meta"><div class="swatch__name">Talavera</div><div class="swatch__token">--c-talavera</div><div class="swatch__hex">#1B7FA8</div></div></div>
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-carbon)"></div><div class="swatch__meta"><div class="swatch__name">Carbón</div><div class="swatch__token">--c-carbon</div><div class="swatch__hex">#1C140E</div></div></div>
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-maiz)"></div><div class="swatch__meta"><div class="swatch__name">Maíz</div><div class="swatch__token">--c-maiz</div><div class="swatch__hex">#FBEFD8</div></div></div>
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-papel)"></div><div class="swatch__meta"><div class="swatch__name">Papel</div><div class="swatch__token">--c-papel</div><div class="swatch__hex">#FFFAF0</div></div></div>
+    </div>
+
+    <h4 class="t-h4" style="margin-bottom: var(--s-4);">Apoyos</h4>
+    <div class="swatches">
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-rosa)"></div><div class="swatch__meta"><div class="swatch__name">Rosa Mexicano</div><div class="swatch__token">--c-rosa</div><div class="swatch__hex">#E94B8E</div></div></div>
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-nopal)"></div><div class="swatch__meta"><div class="swatch__name">Nopal</div><div class="swatch__token">--c-nopal</div><div class="swatch__hex">#4A6B2E</div></div></div>
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-comal)"></div><div class="swatch__meta"><div class="swatch__name">Comal</div><div class="swatch__token">--c-comal</div><div class="swatch__hex">#6B4423</div></div></div>
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-cal)"></div><div class="swatch__meta"><div class="swatch__name">Cal</div><div class="swatch__token">--c-cal</div><div class="swatch__hex">#F2EAD3</div></div></div>
+      <div class="swatch"><div class="swatch__chip" style="background:var(--c-charro)"></div><div class="swatch__meta"><div class="swatch__name">Charro</div><div class="swatch__token">--c-charro</div><div class="swatch__hex">#2A1A14</div></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Typography ===== -->
+<section id="type" class="section">
+  <div class="container">
+    <header class="section-head">
+      <div>
+        <span class="eyebrow">02 · Tipografía</span>
+        <h2>Una voz <em>editorial</em>, no folclórica.</h2>
+      </div>
+      <a class="more" href="#">Especimen completo →</a>
+    </header>
+
+    <div class="specimen">
+      <div class="specimen-row">
+        <span class="label">Display XL · Fraunces</span>
+        <div class="t-display-xl">Cochinita <em style="font-style:italic;color:var(--c-hibiscus);">pibil</em></div>
+      </div>
+      <div class="specimen-row">
+        <span class="label">Display LG · Fraunces</span>
+        <div class="t-display-lg">Mole de mi madre, lunes en Oaxaca</div>
+      </div>
+      <div class="specimen-row">
+        <span class="label">Display MD · Fraunces</span>
+        <div class="t-display-md">El sabor del achiote tostado</div>
+      </div>
+      <div class="specimen-row">
+        <span class="label">H4 · Fraunces 500</span>
+        <div class="t-h4">Cómo elegir un buen jitomate</div>
+      </div>
+      <div class="specimen-row">
+        <span class="label">Body LG · DM Sans</span>
+        <div class="t-body-lg">Cocinar es contar dónde venimos. Cada salsa es un mapa: el chile que crece en la milpa de mi tía, la sal que viene del mar de Colima, el comal que heredé de mi abuela.</div>
+      </div>
+      <div class="specimen-row">
+        <span class="label">Body · DM Sans</span>
+        <div class="t-body">Cocinar es contar dónde venimos. Cada salsa es un mapa: el chile que crece en la milpa de mi tía, la sal que viene del mar de Colima, el comal que heredé de mi abuela y que sigue diciendo "presente" cada mañana sobre el fuego.</div>
+      </div>
+      <div class="specimen-row">
+        <span class="label">Eyebrow · DM Sans 12</span>
+        <div class="t-micro">Antojitos · Yucatán · Tiempo lento</div>
+      </div>
+      <div class="specimen-row">
+        <span class="label">Hand · Caveat</span>
+        <div class="t-hand">— hecho con cariño, Aurora</div>
+      </div>
+      <div class="specimen-row">
+        <span class="label">Wordmark · Rozha One</span>
+        <div style="font-family:var(--f-wordmark); font-size:48px; line-height:1;">avend<span style="color:var(--c-hibiscus);">aurora</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Recipe cards ===== -->
+<section id="recetas" class="section" style="background: var(--c-maiz);">
+  <div class="container">
+    <header class="section-head">
+      <div>
+        <span class="eyebrow">03 · Componentes — tarjetas</span>
+        <h2>Recetas <em>recientes</em></h2>
+      </div>
+      <a class="more" href="#">Todas las recetas →</a>
+    </header>
+
+    <div class="cards">
+      <article class="card">
+        <div class="card__media"><img alt="" loading="lazy" src="https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=900&q=80"/></div>
+        <div class="card__body">
+          <span class="t-micro">Antojitos · CDMX</span>
+          <h3 class="card__title">Esquites con epazote</h3>
+          <p class="card__desc">Maíz tatemado, chile piquín y un toque de limón.</p>
+          <div class="card__meta"><span><strong>20</strong>min</span><span><strong>4</strong>porciones</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card__media"><img alt="" loading="lazy" src="https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=900&q=80"/></div>
+        <div class="card__body">
+          <span class="t-micro">Carnes · Yucatán</span>
+          <h3 class="card__title">Cochinita pibil</h3>
+          <p class="card__desc">Cerdo en achiote, naranja agria, hoja de plátano.</p>
+          <div class="card__meta"><span><strong>11</strong>hr</span><span><strong>18</strong>porciones</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card__media"><img alt="" loading="lazy" src="https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=900&q=80"/></div>
+        <div class="card__body">
+          <span class="t-micro">Postres · Oaxaca</span>
+          <h3 class="card__title">Nicuatole de cacao</h3>
+          <p class="card__desc">Maíz nuevo, canela y un velo de cacao tostado.</p>
+          <div class="card__meta"><span><strong>2</strong>hr</span><span><strong>8</strong>porciones</span></div>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Editorial recipe sample ===== -->
+<section id="receta" class="section">
+  <div class="container">
+    <header class="section-head">
+      <div>
+        <span class="eyebrow">04 · Página de receta</span>
+        <h2>Receta <em>editorial</em> — composición de lectura</h2>
+      </div>
+    </header>
+
+    <div class="recipe">
+      <aside class="ingredients">
+        <h3>Ingredientes</h3>
+        <ul>
+          <li><span class="qty">1.5kg</span><span>lomo de cerdo</span></li>
+          <li><span class="qty">120g</span><span>pasta de achiote</span></li>
+          <li><span class="qty">200ml</span><span>jugo de naranja agria</span></li>
+          <li><span class="qty">3</span><span>dientes de ajo asado</span></li>
+          <li><span class="qty">1 cda</span><span>orégano yucateco</span></li>
+          <li><span class="qty">c/n</span><span>hoja de plátano para envolver</span></li>
+          <li><span class="qty">c/n</span><span>sal de mar</span></li>
+        </ul>
+      </aside>
+
+      <div class="steps">
+        <h3>Preparación</h3>
+        <ol>
+          <li>
+            <p>Diluí la pasta de achiote con el jugo de naranja agria hasta obtener una marinada lisa, color ladrillo profundo. Añadí el ajo asado machacado, el orégano y una cucharadita de sal.</p>
+          </li>
+          <li>
+            <p>Bañé el cerdo en la marinada, masajeando cada pliegue para que el color penetrara la carne. Tapé y dejé reposar en el refrigerador toda la noche — la prisa no acompaña a la cochinita.</p>
+          </li>
+          <li>
+            <p>A la mañana siguiente, envolví la carne en hoja de plátano apenas pasada por la flama (esto libera su perfume) y la asenté en una olla pesada. Tapé hermético y cociné a 140°C durante diez horas.</p>
+            <div class="chef-note">
+              <div class="label">Nota de Aurora</div>
+              <p>Si no tenés naranja agria, usá 2 partes de jugo de naranja con 1 parte de jugo de limón y un chorrito de vinagre blanco. No es lo mismo, pero es honesto.</p>
+            </div>
+          </li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Decorative motifs ===== -->
+<section id="motifs" class="section" style="background: var(--c-papel);">
+  <div class="container">
+    <header class="section-head">
+      <div>
+        <span class="eyebrow">05 · Motivos decorativos</span>
+        <h2>El <em>folclor</em>, en dosis pequeñas.</h2>
+      </div>
+    </header>
+
+    <div class="motif-grid">
+      <div class="motif">
+        <h4>Papel picado</h4>
+        <p class="t-body-sm" style="color:var(--c-comal);">Divisor entre secciones. Recortes semicirculares en SVG, repetidos como patrón.</p>
+        <div class="motif__demo" style="padding:0;">
+          <svg viewBox="0 0 240 36" preserveAspectRatio="none" style="width:100%;height:48px;display:block;">
+            <rect width="240" height="36" fill="url(#papel)"/>
+          </svg>
+        </div>
+      </div>
+
+      <div class="motif">
+        <h4>Mosaico talavera</h4>
+        <p class="t-body-sm" style="color:var(--c-comal);">Patrón geométrico azul sobre crema. Banda de pie de página, fondo de etiquetas.</p>
+        <div class="talavera-demo" style="margin-top: var(--s-4);"></div>
+      </div>
+
+      <div class="motif">
+        <h4>Sarape</h4>
+        <p class="t-body-sm" style="color:var(--c-comal);">Una sola franja diagonal multicolor. Una vez por página, máximo. Acento bajo títulos.</p>
+        <div class="sarape-demo" style="margin-top: var(--s-4);"></div>
+      </div>
+
+      <div class="motif">
+        <h4>Línea dibujada a mano</h4>
+        <p class="t-body-sm" style="color:var(--c-comal);">Divisor de párrafos. Trazo punteado en lugar de un &lt;hr&gt; plano.</p>
+        <div class="dashed-rule" style="margin-top: var(--s-5);"></div>
+      </div>
+
+      <div class="motif">
+        <h4>Marco washi</h4>
+        <p class="t-body-sm" style="color:var(--c-comal);">Foto sobre cartulina maíz, ligeramente rotada. Sombra cálida.</p>
+        <div style="margin-top: var(--s-4); display:flex; justify-content:center;">
+          <div class="photo-frame" style="width:180px; aspect-ratio:4/3; transform:rotate(-3deg);">
+            <img alt="" src="https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400&q=80" style="height:100%;"/>
+          </div>
+        </div>
+      </div>
+
+      <div class="motif">
+        <h4>Botones</h4>
+        <p class="t-body-sm" style="color:var(--c-comal);">Primario hibiscus, secundario contorno carbón, fantasma con subrayado.</p>
+        <div style="margin-top: var(--s-4); display:flex; gap:var(--s-3); flex-wrap:wrap;">
+          <a class="btn btn--primary" href="#">Reservar <span class="arrow">→</span></a>
+          <a class="btn btn--secondary" href="#">Saber más</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Footer ===== -->
+<footer class="site">
+  <div class="talavera-band"></div>
+  <div class="container foot">
+    <div>
+      <div class="wordmark" style="color:var(--c-maiz);">avend<em style="color:var(--c-marigold);">aurora</em></div>
+      <p class="tagline">Cocina mexicana de autora — recetas, diario y mesa privada en Montréal.</p>
+    </div>
+    <div>
+      <h5>Navegación</h5>
+      <a href="#">Recetas</a>
+      <a href="#">Mi historia</a>
+      <a href="#">Diario</a>
+      <a href="#">Servicios</a>
+    </div>
+    <div>
+      <h5>Contacto</h5>
+      <a href="mailto:hola@avendaurora.com">hola@avendaurora.com</a>
+      <a href="#">Instagram</a>
+      <a href="#">Pinterest</a>
+    </div>
+  </div>
+  <div style="border-top:1px solid rgba(251,239,216,0.12); padding: var(--s-4) 0; text-align:center; font-size:12px; letter-spacing:0.18em; text-transform:uppercase; color: rgba(251,239,216,0.6);">
+    © 2026 Aurora Avendaño Avendaño · Hecho con cariño en Montréal
+  </div>
+</footer>
+
+</body>
+</html>
