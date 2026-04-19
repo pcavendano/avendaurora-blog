@@ -1,0 +1,142 @@
+Title: À propos d'Aurora
+
+----
+
+Subtitle: Cheffe Professionnelle | Montréal, Québec
+
+----
+
+Portrait:
+
+----
+
+Intro: Avec plus de 15 ans d'expérience dans l'industrie culinaire, ma passion est de créer des expériences gastronomiques mémorables qui honorent à la fois les traditions et l'innovation.
+
+----
+
+Bio:
+
+Née à Veracruz, au Mexique, et établie à Montréal depuis plus de deux décennies, j'ai consacré ma vie à perfectionner l'art culinaire. Ma formation allie le riche héritage de la cuisine mexicaine aux techniques raffinées de la gastronomie française que j'ai acquises dans les meilleures écoles de Montréal.
+
+Mon parcours m'a menée des restaurants de haute gastronomie comme le Ritz-Carlton Montréal et le Fairmont Mont-Tremblant, jusqu'à des résidences où je cuisine avec le cœur pour celles et ceux qui en ont le plus besoin. Chaque plat que je prépare raconte une histoire, chaque ingrédient a un but.
+
+----
+
+Quote: La cuisine est l'amour rendu visible. Chaque recette est une lettre d'amour à celles et ceux qui nous entourent.
+
+----
+
+Education-title: Formation Professionnelle
+
+----
+
+Education:
+
+-
+  year: "2025"
+  title: ASP Cuisine du Marché
+  institution: École des Métiers de la Restauration et du Tourisme de Montréal
+  description: Spécialisation en produits locaux, charcuterie, boulangerie, desserts gastronomiques et menus dégustation (525 heures)
+-
+  year: "2025"
+  title: DEP en Cuisine
+  institution: École des Métiers de la Restauration et du Tourisme de Montréal
+  description: Diplôme d'études professionnelles en arts culinaires
+-
+  year: "2023"
+  title: Certification en Hygiène et Salubrité Alimentaires
+  institution: MAPAQ
+  description: Formation pour gestionnaires d'établissements alimentaires
+
+----
+
+Experience-title: Parcours Professionnel
+
+----
+
+Experience:
+
+-
+  period: "2024 - 2025"
+  position: Cheffe de Cuisine
+  place: Château Vincent d'Indy
+  description: Direction de la cuisine de cette prestigieuse résidence
+-
+  period: "2023 - 2024"
+  position: Cheffe de Cuisine
+  place: Héritage Plateau
+  description: Gestion complète de la cuisine, élaboration des menus, contrôle du budget et de l'équipe
+-
+  period: "2022 - 2023"
+  position: Cheffe de Cuisine
+  place: Fairmont Mont-Tremblant
+  description: Responsable de la cafétéria des employés et de la cuisine rotative
+-
+  period: "2017 - 2020"
+  position: Responsable de Cuisine
+  place: Le Jardin Nelson
+  description: Gestion d'équipe, préparation des plats et contrôle qualité
+-
+  period: "2015 - 2017"
+  position: Cuisinière
+  place: Marius et Fanny
+  description: Gestion de la cuisine, préparation des plats et supervision de la qualité
+
+----
+
+Notable-places-title: Lieux Remarquables
+
+----
+
+Notable-places: Ritz-Carlton Montréal, Le Château Bromont, Centre Bell, Air Canada, Centre Mont-Royal, Palais des Congrès de Montréal, Hôtel Sheraton Laval, La Grande Lodge Mont-Tremblant
+
+----
+
+Philosophy-title: Ma Philosophie Culinaire
+
+----
+
+Philosophy:
+
+Je crois fermement à l'utilisation d'ingrédients frais et locaux, à la réduction du gaspillage alimentaire et à la création de plats qui nourrissent autant le corps que l'âme. La cuisine mexicaine que je prépare honore les recettes traditionnelles de ma terre natale tout en intégrant des techniques modernes et des produits du Québec.
+
+Chaque recette sur ce site est une invitation dans ma cuisine, un morceau de mon histoire partagé avec vous.
+
+----
+
+Specialties-title: Spécialités
+
+----
+
+Specialties:
+
+- Cuisine Mexicaine Traditionnelle
+- Sauces et Condiments Artisanaux
+- Charcuterie et Conserves
+- Desserts Gastronomiques
+- Menus Dégustation
+- Cuisine de Marché avec Produits Locaux
+
+----
+
+Contact-title: Contact
+
+----
+
+Contact-intro: Avez-vous des questions sur une recette? Souhaitez-vous collaborer? J'aimerais beaucoup avoir de vos nouvelles.
+
+----
+
+Email: avendaurora@gmail.com
+
+----
+
+Seo-title: À propos d'Aurora Avendaño | Cheffe Professionnelle | Aurora
+
+----
+
+Seo-description: Découvrez Aurora Avendaño, cheffe professionnelle avec plus de 15 ans d'expérience dans l'industrie culinaire montréalaise. Cuisine mexicaine traditionnelle et techniques françaises.
+
+----
+
+Uuid: z0Dw1IWQdJg8bLNz
