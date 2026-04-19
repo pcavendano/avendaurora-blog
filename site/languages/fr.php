@@ -156,6 +156,6 @@ return [
         'footer.newsletter' => 'Abonnez-vous à notre newsletter',
         'footer.newsletter_placeholder' => 'Votre email',
         'footer.subscribe' => "S'abonner",
-        'footer.copyright' => '© 2026 Avenda Aurora. Tous droits réservés.',
+        'footer.copyright' => '© 2026 Aurora. Tous droits réservés.',
     ]
 ];
