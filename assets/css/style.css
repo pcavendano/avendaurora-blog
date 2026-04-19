@@ -2311,6 +2311,183 @@ input.form__input:focus {
 }
 
 /* ----------------------------------------
+   22b. Import wizard (admin /importar-receta)
+   ---------------------------------------- */
+.wizard { max-width: 680px; margin: 0 auto; }
+
+.wizard__progress {
+    display: flex;
+    gap: 0;
+    margin-bottom: var(--space-2xl);
+    border-bottom: 1px solid var(--c-line);
+}
+.wizard__step {
+    flex: 1;
+    padding: var(--space-md) var(--space-sm);
+    font-family: var(--font-body);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--c-comal);
+    text-align: center;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    transition: color var(--transition-fast), border-color var(--transition-fast);
+}
+.wizard__step.is-active {
+    color: var(--c-hibiscus);
+    border-bottom-color: var(--c-hibiscus);
+}
+.wizard__step.is-complete { color: var(--c-nopal); }
+
+/* Only the active panel renders — critical for step-gated UX */
+.wizard__panel { display: none; padding: var(--space-xl) 0; }
+.wizard__panel.is-active {
+    display: block;
+    animation: wizardFadeIn 260ms ease-out;
+}
+@keyframes wizardFadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: none; }
+}
+.wizard__panel h2 {
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-variation-settings: "opsz" 72, "SOFT" 30;
+    font-size: 2rem;
+    line-height: 1.1;
+    margin-bottom: var(--space-sm);
+}
+.wizard__help {
+    font-family: var(--font-body);
+    font-size: 14px;
+    line-height: 1.55;
+    color: var(--c-comal);
+    margin-bottom: var(--space-lg);
+}
+
+/* Drop zone */
+.wizard__drop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 240px;
+    padding: var(--space-2xl);
+    background: var(--c-cal);
+    border: 2px dashed rgba(28, 20, 14, 0.3);
+    cursor: pointer;
+    transition: background var(--transition-fast), border-color var(--transition-fast);
+}
+.wizard__drop:hover,
+.wizard__drop.is-dragover {
+    background: var(--c-maiz);
+    border-color: var(--c-hibiscus);
+}
+.wizard__drop-inner { text-align: center; color: var(--c-comal); }
+.wizard__drop-inner svg { color: var(--c-hibiscus); margin-bottom: var(--space-md); }
+.wizard__drop-inner p { font-family: var(--font-body); font-size: 14px; }
+
+/* Preview */
+.wizard__preview {
+    margin-top: var(--space-lg);
+    padding: var(--space-md);
+    background: var(--c-papel);
+    border: 1px solid var(--c-line);
+    display: flex;
+    gap: var(--space-md);
+    align-items: center;
+}
+.wizard__preview img {
+    width: 96px; height: 96px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+.wizard__preview-meta {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--space-md);
+    font-size: 14px;
+}
+
+/* Actions bar */
+.wizard__actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: var(--space-md);
+    margin-top: var(--space-xl);
+    flex-wrap: wrap;
+}
+.wizard__actions--center { justify-content: center; }
+
+/* Loading state */
+.wizard__loading { text-align: center; padding: var(--space-3xl) var(--space-md); }
+.wizard__loading p {
+    font-family: var(--font-display);
+    font-size: 1.125rem;
+    color: var(--c-carbon);
+    margin-bottom: var(--space-sm);
+}
+.wizard__loading p.wizard__help { font-family: var(--font-body); }
+.wizard__spinner {
+    width: 48px; height: 48px;
+    border: 3px solid var(--c-cal);
+    border-top-color: var(--c-hibiscus);
+    border-radius: 50%;
+    margin: 0 auto var(--space-lg);
+    animation: wizardSpin 800ms linear infinite;
+}
+@keyframes wizardSpin { to { transform: rotate(360deg); } }
+
+/* Saved state */
+.wizard__saved { text-align: center; padding: var(--space-2xl) var(--space-md); }
+.wizard__check {
+    width: 64px; height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--c-hibiscus);
+    color: var(--c-maiz);
+    border-radius: 50%;
+    margin: 0 auto var(--space-lg);
+    font-size: 32px;
+    line-height: 1;
+    font-weight: 700;
+}
+.wizard__saved h2 { margin-bottom: var(--space-sm); }
+
+/* Review form (populated by JS) */
+#reviewForm { margin-block: var(--space-lg); }
+#reviewForm .form__field { margin-bottom: var(--space-md); }
+#translationStatus:not(:empty) {
+    margin: var(--space-lg) 0;
+    padding: var(--space-md);
+    background: var(--c-cal);
+    font-size: 14px;
+    color: var(--c-charro);
+    text-align: center;
+}
+
+/* Ghost button — used for back/secondary actions in wizard */
+.btn--ghost {
+    background: transparent;
+    border: 0;
+    color: var(--c-comal);
+    padding: 12px 14px;
+    letter-spacing: 0.08em;
+}
+.btn--ghost:hover { color: var(--c-hibiscus); background: transparent; transform: none; }
+
+@media (max-width: 600px) {
+    .wizard__progress { flex-wrap: wrap; }
+    .wizard__step { flex: 0 0 50%; }
+    .wizard__actions { justify-content: stretch; }
+    .wizard__actions .btn { flex: 1; }
+}
+
+/* ----------------------------------------
    23. Print
    ---------------------------------------- */
 @media print {
