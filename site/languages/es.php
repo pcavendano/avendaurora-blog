@@ -14,9 +14,15 @@ return [
         'nav.mi_cocina' => 'Mi Cocina',
         'nav.ingredients' => 'Ingredientes',
         'nav.stores' => 'Tiendas',
-        'nav.about' => 'Aurora',
+        'nav.about' => 'Sobre Aurora',
         'nav.contact' => 'Contacto',
         'nav.search' => 'Buscar',
+
+        // Contact page
+        'contact.email' => 'Correo Electrónico',
+        'contact.phone' => 'Teléfono',
+        'contact.location' => 'Ubicación',
+        'contact.follow' => 'Sígueme en',
 
         // Home page
         'home.from_my_kitchen' => 'Desde Mi Cocina',

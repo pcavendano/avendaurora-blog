@@ -1,0 +1,62 @@
+Title: Aurora
+
+----
+
+Tagline: Authentic Mexican Cuisine
+
+----
+
+Description: Discover traditional Mexican recipes, learn about authentic ingredients, and find where to buy them near you.
+
+----
+
+Author: Chef Aurora
+
+----
+
+Email: hola@avendaurora.com
+
+----
+
+Social:
+-
+  platform: instagram
+  url: https://instagram.com/avendaurora
+-
+  platform: facebook
+  url: https://facebook.com/avendaurora
+-
+  platform: youtube
+  url: https://youtube.com/@avendaurora
+
+----
+
+Seo_title: Aurora | Authentic Mexican Recipes
+
+----
+
+Seo_description: Explore traditional Mexican recipes, learn about chiles, spices, and authentic ingredients. Ingredient kits available.
+
+----
+
+Seo_image:
+
+----
+
+Newsletter_enabled: true
+
+----
+
+Newsletter_title: Join Our Community
+
+----
+
+Newsletter_text: Receive new recipes, cooking tips, and special offers right in your inbox.
+
+----
+
+Newsletter_provider: mailchimp
+
+----
+
+Newsletter_api_key:

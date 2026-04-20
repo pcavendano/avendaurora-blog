@@ -20,6 +20,12 @@ return [
         'nav.account' => 'My Account',
         'nav.cart' => 'Cart',
 
+        // Contact page
+        'contact.email' => 'Email',
+        'contact.phone' => 'Phone',
+        'contact.location' => 'Location',
+        'contact.follow' => 'Follow me on',
+
         // Recipe categories
         'category.antojitos' => 'Street Food & Snacks',
         'category.platos-fuertes' => 'Main Dishes',

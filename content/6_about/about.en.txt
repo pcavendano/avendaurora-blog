@@ -1,0 +1,142 @@
+Title: About Aurora
+
+----
+
+Subtitle: Professional Chef | Montreal, Quebec
+
+----
+
+Portrait:
+
+----
+
+Intro: With over 15 years of experience in the culinary industry, my passion is creating memorable dining experiences that honor both tradition and innovation.
+
+----
+
+Bio:
+
+Born in Veracruz, Mexico, and based in Montreal for more than two decades, I have dedicated my life to perfecting the culinary arts. My training combines the rich heritage of Mexican cuisine with the refined techniques of French gastronomy that I acquired at Montreal's finest schools.
+
+My career has taken me from fine-dining restaurants like the Ritz-Carlton Montreal and the Fairmont Mont-Tremblant, to residences where I cook with all my heart for those who need it most. Every dish I prepare tells a story, every ingredient has a purpose.
+
+----
+
+Quote: Cooking is love made visible. Every recipe is a love letter to the people around us.
+
+----
+
+Education-title: Professional Training
+
+----
+
+Education:
+
+-
+  year: "2025"
+  title: ASP Cuisine du Marché
+  institution: École des Métiers de la Restauration et du Tourisme de Montréal
+  description: Specialization in local products, charcuterie, baking, gastronomic desserts, and tasting menus (525 hours)
+-
+  year: "2025"
+  title: DEP in Cooking
+  institution: École des Métiers de la Restauration et du Tourisme de Montréal
+  description: Professional diploma in culinary arts
+-
+  year: "2023"
+  title: Certification in Food Hygiene and Safety
+  institution: MAPAQ
+  description: Training for food establishment managers
+
+----
+
+Experience-title: Professional Career
+
+----
+
+Experience:
+
+-
+  period: "2024 - 2025"
+  position: Head Chef
+  place: Château Vincent D'Indy
+  description: Leading the kitchen at this prestigious residence
+-
+  period: "2023 - 2024"
+  position: Head Chef
+  place: Héritage Plateau
+  description: Full kitchen management, menu development, budget and team oversight
+-
+  period: "2022 - 2023"
+  position: Head Chef
+  place: Fairmont Mont-Tremblant
+  description: Responsible for the employee cafeteria and rotating kitchen
+-
+  period: "2017 - 2020"
+  position: Kitchen Manager
+  place: Le Jardin Nelson
+  description: Team management, dish preparation, and quality control
+-
+  period: "2015 - 2017"
+  position: Cook
+  place: Marius et Fanny
+  description: Kitchen management, dish preparation, and quality supervision
+
+----
+
+Notable-places-title: Notable Venues
+
+----
+
+Notable-places: Ritz-Carlton Montreal, Le Château Bromont, Centre Bell, Air Canada, Centre Mont-Royal, Palais des Congrès Montreal, Hôtel Sheraton Laval, La Grand Lodge Mont-Tremblant
+
+----
+
+Philosophy-title: My Culinary Philosophy
+
+----
+
+Philosophy:
+
+I strongly believe in using fresh, local ingredients, in reducing food waste, and in creating dishes that nourish both body and soul. The Mexican cuisine I prepare honors the traditional recipes of my homeland while incorporating modern techniques and Quebec products.
+
+Every recipe on this site is an invitation into my kitchen, a piece of my story shared with you.
+
+----
+
+Specialties-title: Specialties
+
+----
+
+Specialties:
+
+- Traditional Mexican Cuisine
+- Artisanal Sauces and Condiments
+- Charcuterie and Preserves
+- Gastronomic Desserts
+- Tasting Menus
+- Market Cuisine with Local Products
+
+----
+
+Contact-title: Contact
+
+----
+
+Contact-intro: Have questions about a recipe? Would you like to collaborate? I would love to hear from you.
+
+----
+
+Email: avendaurora@gmail.com
+
+----
+
+Seo-title: About Aurora Avendaño | Professional Chef | Aurora
+
+----
+
+Seo-description: Meet Aurora Avendaño, a professional chef with over 15 years of experience in Montreal's culinary industry. Traditional Mexican cuisine and French techniques.
+
+----
+
+Uuid: z0Dw1IWQdJg8bLNz

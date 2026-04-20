@@ -1,0 +1,65 @@
+Title: Accueil
+
+----
+
+Hero-title: Cheffe Aurora Avendaño
+
+----
+
+Hero-subtitle: Cuisine Mexicaine avec une Âme Veracruzaine à Montréal
+
+----
+
+Hero-description: Avec plus de 15 ans d'expérience dans l'industrie culinaire, ma passion est de créer des expériences gastronomiques mémorables qui honorent à la fois la tradition et l'innovation.
+
+----
+
+Hero-cta-text: Découvrez Mon Histoire
+
+----
+
+Hero-cta-link: about
+
+----
+
+Hero-image:
+
+----
+
+About-title: Mon Histoire
+
+----
+
+About-subtitle: Cheffe Professionnelle | Montréal, Québec
+
+----
+
+About-text: Née à Veracruz, au Mexique, et établie à Montréal depuis plus de deux décennies, j'ai consacré ma vie à perfectionner l'art culinaire. Ma formation allie le riche héritage de la cuisine mexicaine aux techniques raffinées de la gastronomie française. Chaque recette que je partage raconte une histoire — de tradition, de famille, de saveurs qui traversent les frontières.
+
+----
+
+About-image:
+
+----
+
+Featured-title: Depuis Ma Cuisine
+
+----
+
+Featured-recipes:
+
+----
+
+Featured-ingredient:
+
+----
+
+Categories-title: Explorer par Catégorie
+
+----
+
+Show-categories: true
+
+----
+
+Uuid: 1ydw4FcLRQLN9eZv

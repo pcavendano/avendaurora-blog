@@ -1,0 +1,65 @@
+Title: Home
+
+----
+
+Hero-title: Chef Aurora Avendaño
+
+----
+
+Hero-subtitle: Mexican Cuisine with a Veracruz Soul in Montreal
+
+----
+
+Hero-description: With over 15 years of experience in the culinary industry, my passion is creating memorable dining experiences that honor both tradition and innovation.
+
+----
+
+Hero-cta-text: Discover My Story
+
+----
+
+Hero-cta-link: about
+
+----
+
+Hero-image:
+
+----
+
+About-title: My Story
+
+----
+
+About-subtitle: Professional Chef | Montreal, Quebec
+
+----
+
+About-text: Born in Veracruz, Mexico, and based in Montreal for more than two decades, I have dedicated my life to perfecting the culinary arts. My training combines the rich heritage of Mexican cooking with the refined techniques of French gastronomy. Every recipe I share tells a story — of tradition, family, and flavors that cross borders.
+
+----
+
+About-image:
+
+----
+
+Featured-title: From My Kitchen
+
+----
+
+Featured-recipes:
+
+----
+
+Featured-ingredient:
+
+----
+
+Categories-title: Explore by Category
+
+----
+
+Show-categories: true
+
+----
+
+Uuid: 1ydw4FcLRQLN9eZv

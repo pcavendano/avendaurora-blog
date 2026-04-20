@@ -1,0 +1,35 @@
+Title: Contact
+
+----
+
+Slug: contact
+
+----
+
+Intro: Have questions about a recipe? Would you like to collaborate? I would love to hear from you.
+
+----
+
+Email: avendaurora@gmail.com
+
+----
+
+Phone:
+
+----
+
+Location: Montreal, Quebec, Canada
+
+----
+
+Body:
+
+I reply to most messages within 48 hours. For collaboration proposals, please include details about your project and your social media handles.
+
+----
+
+Seo-title: Contact | Aurora
+
+----
+
+Seo-description: Get in touch with Aurora Avendaño. Recipe questions, collaborations, and partnership inquiries.

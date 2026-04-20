@@ -49,7 +49,7 @@
             <ul class="nav">
                 <li class="nav__item">
                     <a href="<?= page('about')->url() ?>" class="nav__link <?= $page->is(page('about')) ? 'is-active' : '' ?>">
-                        Aurora
+                        <?= t('nav.about') ?>
                     </a>
                 </li>
                 <li class="nav__item">
@@ -62,8 +62,9 @@
                         Blog
                     </a>
                 </li>
+                <?php $contactPage = page('contacto') ?>
                 <li class="nav__item">
-                    <a href="<?= page('about')->url() ?>#contacto" class="nav__link">
+                    <a href="<?= $contactPage ? $contactPage->url() : page('about')->url() . '#contacto' ?>" class="nav__link <?= $contactPage && $page->is($contactPage) ? 'is-active' : '' ?>">
                         <?= t('nav.contact') ?>
                     </a>
                 </li>
