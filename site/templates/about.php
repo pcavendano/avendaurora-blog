@@ -13,10 +13,13 @@
 
         <div class="about-hero__photo">
             <?php if ($portrait = $page->portrait()->toFile()): ?>
-                <img src="<?= $portrait->thumb(['width' => 1440])->url() ?>"
-                     srcset="<?= $portrait->srcset([800, 1024, 1440, 2048]) ?>"
-                     sizes="100vw"
-                     alt="<?= $page->title() ?>">
+                <?php snippet('responsive-image', [
+                    'image' => $portrait,
+                    'widths' => [800, 1024, 1440, 2048],
+                    'sizes' => '100vw',
+                    'alt' => $portrait->alt()->or($page->title())->value(),
+                    'eager' => true,
+                ]) ?>
             <?php else: ?>
                 <div class="about-hero__photo-placeholder">
                     <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="0.8">
@@ -195,6 +198,19 @@
             <div class="about-philosophy__content">
                 <?= $page->philosophy()->kt() ?>
             </div>
+        </div>
+    </section>
+    <?php endif ?>
+
+    <!-- Gallery -->
+    <?php $galleryBlocks = $page->gallery_blocks()->toBlocks(); ?>
+    <?php if ($galleryBlocks->count() > 0): ?>
+    <section class="about-gallery section section--alt">
+        <div class="container">
+            <?php if ($page->gallery_title()->isNotEmpty()): ?>
+                <h2 class="section__title"><?= $page->gallery_title() ?></h2>
+            <?php endif ?>
+            <?= $galleryBlocks ?>
         </div>
     </section>
     <?php endif ?>

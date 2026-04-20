@@ -11,11 +11,14 @@
 
     <?php if ($heroImage = $page->hero_image()->toFile()): ?>
         <div class="hero__image-wrapper">
-            <img src="<?= $heroImage->thumb(['width' => 1440])->url() ?>"
-                 srcset="<?= $heroImage->srcset([800, 1024, 1440, 2048]) ?>"
-                 sizes="100vw"
-                 alt="<?= $page->hero_title() ?>"
-                 class="hero__fullwidth-image">
+            <?php snippet('responsive-image', [
+                'image' => $heroImage,
+                'widths' => [800, 1024, 1440, 2048],
+                'sizes' => '100vw',
+                'alt' => $heroImage->alt()->or($page->hero_title())->value(),
+                'class' => 'hero__fullwidth-image',
+                'eager' => true,
+            ]) ?>
         </div>
     <?php endif ?>
 
@@ -43,8 +46,12 @@
         <div class="about-preview">
             <?php if ($aboutImage = $page->about_image()->toFile()): ?>
                 <div class="about-preview__image">
-                    <img src="<?= $aboutImage->thumb(['width' => 500, 'height' => 500, 'crop' => true])->url() ?>"
-                         alt="<?= $page->about_title() ?>">
+                    <?php snippet('responsive-image', [
+                        'image' => $aboutImage,
+                        'widths' => [400, 600, 900],
+                        'sizes' => '(max-width: 600px) 100vw, 500px',
+                        'alt' => $aboutImage->alt()->or($page->about_title())->value(),
+                    ]) ?>
                 </div>
             <?php endif ?>
             <div class="about-preview__content">
@@ -211,8 +218,12 @@
             </div>
             <?php if ($cover = $featuredIngredient->cover()->toFile()): ?>
                 <div class="ingredient-highlight__image">
-                    <img src="<?= $cover->thumb(['width' => 300, 'height' => 300, 'crop' => true])->url() ?>"
-                         alt="<?= $featuredIngredient->title() ?>">
+                    <?php snippet('responsive-image', [
+                        'image' => $cover,
+                        'widths' => [300, 400, 600],
+                        'sizes' => '300px',
+                        'alt' => $cover->alt()->or($featuredIngredient->title())->value(),
+                    ]) ?>
                 </div>
             <?php endif ?>
         </div>

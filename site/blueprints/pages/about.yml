@@ -164,6 +164,23 @@ columns:
             translate: true
             size: medium
 
+      gallery:
+        type: fields
+        fields:
+          gallery_title:
+            label: Titulo de la Galeria
+            type: text
+            translate: true
+            default: Galería
+            help: Vacia para no mostrar un titulo
+
+          gallery_blocks:
+            label: Componentes de la Galeria
+            type: blocks
+            fieldsets:
+              - gallery
+            empty: Añade una galería para mostrar imágenes en esta página
+
   sidebar:
     width: 1/3
     sections:

@@ -1,0 +1,42 @@
+name: Galería
+icon: image
+label: "{{ block.images.count }} imagen(es)"
+preview: fields
+
+fields:
+  images:
+    label: Imágenes
+    type: files
+    multiple: true
+    layout: cards
+    image:
+      ratio: 1/1
+      cover: true
+    uploads:
+      parent: page
+      template: default
+
+  layout:
+    label: Diseño
+    type: select
+    options:
+      grid: Cuadrícula uniforme
+      masonry: Mosaico (alturas variables)
+      carousel: Carrusel horizontal
+    default: grid
+
+  columns:
+    label: Columnas (escritorio)
+    type: number
+    default: 3
+    min: 2
+    max: 6
+    when:
+      layout:
+        - grid
+        - masonry
+
+  show_captions:
+    label: Mostrar pies de foto
+    type: toggle
+    default: true
