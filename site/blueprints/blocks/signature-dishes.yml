@@ -1,0 +1,35 @@
+name: Platos Insignia
+icon: heart
+label: "{{ block.title }}"
+preview: fields
+
+fields:
+  title:
+    label: Título de la Sección
+    type: text
+    translate: true
+    default: Mis Platos Insignia
+
+  entries:
+    label: Platos
+    type: structure
+    max: 6
+    fields:
+      title:
+        label: Nombre del Plato
+        type: text
+        translate: true
+        width: 1/2
+      image:
+        label: Foto del Plato
+        type: files
+        max: 1
+        layout: cards
+        width: 1/2
+        uploads:
+          template: default
+      description:
+        label: Descripción
+        type: textarea
+        translate: true
+        size: small

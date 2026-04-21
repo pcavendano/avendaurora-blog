@@ -14,6 +14,95 @@ Intro: Avec plus de 15 ans d'expérience dans l'industrie culinaire, ma passion 
 
 ----
 
+Body:
+
+-
+  content:
+    text: |
+      <p>Née à Veracruz, au Mexique, et établie à Montréal depuis plus de deux décennies, j'ai consacré ma vie à perfectionner l'art culinaire. Ma formation allie le riche héritage de la cuisine mexicaine aux techniques raffinées de la gastronomie française que j'ai acquises dans les meilleures écoles de Montréal.</p>
+      <p>Mon parcours m'a menée des restaurants de haute gastronomie comme le Ritz-Carlton Montréal et le Fairmont Mont-Tremblant, jusqu'à des résidences où je cuisine avec le cœur pour celles et ceux qui en ont le plus besoin. Chaque plat que je prépare raconte une histoire, chaque ingrédient a un but.</p>
+  id: bio-text
+  isHidden: false
+  type: text
+-
+  content:
+    text: "La cuisine est l'amour rendu visible. Chaque recette est une lettre d'amour à celles et ceux qui nous entourent."
+    citation: ""
+  id: bio-quote
+  isHidden: false
+  type: quote
+-
+  content:
+    title: "Formation Professionnelle"
+    entries:
+      -
+        year: "2025"
+        title: "ASP Cuisine du Marché"
+        institution: "École des Métiers de la Restauration et du Tourisme de Montréal"
+        description: "Spécialisation en produits locaux, charcuterie, boulangerie, desserts gastronomiques et menus dégustation (525 heures)"
+      -
+        year: "2025"
+        title: "DEP en Cuisine"
+        institution: "École des Métiers de la Restauration et du Tourisme de Montréal"
+        description: "Diplôme d'études professionnelles en arts culinaires"
+      -
+        year: "2023"
+        title: "Certification en Hygiène et Salubrité Alimentaires"
+        institution: "MAPAQ"
+        description: "Formation pour gestionnaires d'établissements alimentaires"
+  id: education-block
+  isHidden: false
+  type: education
+-
+  content:
+    title: "Parcours Professionnel"
+    entries:
+      -
+        period: "2024 - 2025"
+        position: "Cheffe de Cuisine"
+        place: "Château Vincent d'Indy"
+        description: "Direction de la cuisine de cette prestigieuse résidence"
+      -
+        period: "2023 - 2024"
+        position: "Cheffe de Cuisine"
+        place: "Héritage Plateau"
+        description: "Gestion complète de la cuisine, élaboration des menus, contrôle du budget et de l'équipe"
+      -
+        period: "2022 - 2023"
+        position: "Cheffe de Cuisine"
+        place: "Fairmont Mont-Tremblant"
+        description: "Responsable de la cafétéria des employés et de la cuisine rotative"
+      -
+        period: "2017 - 2020"
+        position: "Responsable de Cuisine"
+        place: "Le Jardin Nelson"
+        description: "Gestion d'équipe, préparation des plats et contrôle qualité"
+      -
+        period: "2015 - 2017"
+        position: "Cuisinière"
+        place: "Marius et Fanny"
+        description: "Gestion de la cuisine, préparation des plats et supervision de la qualité"
+  id: experience-block
+  isHidden: false
+  type: experience
+-
+  content:
+    level: h2
+    text: "Ma Philosophie Culinaire"
+  id: philosophy-heading
+  isHidden: false
+  type: heading
+-
+  content:
+    text: |
+      <p>Je crois fermement à l'utilisation d'ingrédients frais et locaux, à la réduction du gaspillage alimentaire et à la création de plats qui nourrissent autant le corps que l'âme. La cuisine mexicaine que je prépare honore les recettes traditionnelles de ma terre natale tout en intégrant des techniques modernes et des produits du Québec.</p>
+      <p>Chaque recette sur ce site est une invitation dans ma cuisine, un morceau de mon histoire partagé avec vous.</p>
+  id: philosophy-text
+  isHidden: false
+  type: text
+
+----
+
 Bio:
 
 Née à Veracruz, au Mexique, et établie à Montréal depuis plus de deux décennies, j'ai consacré ma vie à perfectionner l'art culinaire. Ma formation allie le riche héritage de la cuisine mexicaine aux techniques raffinées de la gastronomie française que j'ai acquises dans les meilleures écoles de Montréal.

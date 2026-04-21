@@ -35,151 +35,23 @@ columns:
             size: small
             help: Texto breve que aparece junto a la foto
 
-      bio:
+      body:
         type: fields
         fields:
-          bio:
-            label: Biografía
-            type: textarea
-            translate: true
-            size: large
-            help: Historia completa del chef
-
-          quote:
-            label: Cita / Frase
-            type: text
-            translate: true
-            icon: quote
-            help: Una frase inspiradora que te defina
-
-      education:
-        type: fields
-        fields:
-          education_title:
-            label: Título de Sección
-            type: text
-            default: Formación Profesional
-
-          education:
-            label: Formación
-            type: structure
-            fields:
-              year:
-                label: Año
-                type: text
-                width: 1/4
-
-              title:
-                label: Título / Certificación
-                type: text
-                width: 3/4
-
-              institution:
-                label: Institución
-                type: text
-
-              description:
-                label: Descripción
-                type: textarea
-                size: small
-
-      experience:
-        type: fields
-        fields:
-          experience_title:
-            label: Título de Sección
-            type: text
-            default: Trayectoria Profesional
-
-          experience:
-            label: Experiencia Laboral
-            type: structure
-            fields:
-              period:
-                label: Período
-                type: text
-                width: 1/4
-                placeholder: "2023 - 2024"
-
-              position:
-                label: Puesto
-                type: text
-                width: 3/4
-
-              place:
-                label: Lugar / Empresa
-                type: text
-
-              description:
-                label: Descripción
-                type: textarea
-                size: small
-
-      signature_dishes:
-        type: fields
-        fields:
-          signature_dishes_title:
-            label: Titulo de Seccion
-            type: text
-            translate: true
-            default: Mis Platos Insignia
-
-          signature_dishes:
-            label: Platos Insignia
-            type: structure
-            max: 4
-            fields:
-              title:
-                label: Nombre del Plato
-                type: text
-                translate: true
-                width: 1/2
-
-              image:
-                label: Foto del Plato
-                type: files
-                max: 1
-                layout: cards
-                width: 1/2
-                help: Foto horizontal del plato (recomendado 1200x800px)
-
-              description:
-                label: Descripcion
-                type: textarea
-                translate: true
-                size: small
-                help: Breve descripcion del plato y su significado
-
-      philosophy:
-        type: fields
-        fields:
-          philosophy_title:
-            label: Titulo de Seccion
-            type: text
-            default: Mi Filosofia Culinaria
-
-          philosophy:
-            label: Filosofia
-            type: textarea
-            translate: true
-            size: medium
-
-      gallery:
-        type: fields
-        fields:
-          gallery_title:
-            label: Titulo de la Galeria
-            type: text
-            translate: true
-            default: Galería
-            help: Vacia para no mostrar un titulo
-
-          gallery_blocks:
-            label: Componentes de la Galeria
+          body:
+            label: Contenido
             type: blocks
+            translate: true
+            help: Arrastra los componentes para reordenarlos. Pulsa el botón **+** para añadir uno nuevo.
             fieldsets:
+              - heading
+              - text
+              - quote
+              - education
+              - experience
+              - signature-dishes
               - gallery
-            empty: Añade una galería para mostrar imágenes en esta página
+            empty: Añade componentes para construir esta página
 
   sidebar:
     width: 1/3

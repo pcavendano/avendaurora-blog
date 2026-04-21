@@ -46,7 +46,7 @@
             <!-- Social Media Links -->
             <?php if ($site->instagram()->isNotEmpty() || $site->facebook()->isNotEmpty()): ?>
             <div class="about-social">
-                <span class="about-social__label">Redes Sociales</span>
+                <span class="about-social__label"><?= t('contact.follow') ?></span>
                 <?php if ($site->instagram()->isNotEmpty()): ?>
                     <a href="<?= $site->instagram() ?>" target="_blank" rel="noopener" class="about-social__link">
                         Instagram
@@ -67,53 +67,10 @@
         </div>
     </section>
 
-    <!-- Biography (long-form text, left-aligned, readable width) -->
-    <?php if ($page->bio()->isNotEmpty()): ?>
-    <section class="about-bio section">
-        <div class="container container--narrow">
-            <div class="about-bio__content">
-                <?= $page->bio()->kt() ?>
-            </div>
-            <?php if ($page->quote()->isNotEmpty()): ?>
-                <blockquote class="about-bio__quote">
-                    <p>"<?= $page->quote() ?>"</p>
-                </blockquote>
-            <?php endif ?>
-        </div>
-    </section>
-    <?php endif ?>
+    <!-- Body: reorderable blocks (bio, quote, education, experience, dishes, gallery, headings, text) -->
+    <?= $page->body()->toBlocks() ?>
 
-    <!-- Signature Dishes (2 images side by side) -->
-    <?php if ($page->signature_dishes()->isNotEmpty()): ?>
-    <section class="about-dishes section section--alt">
-        <div class="container">
-            <h2 class="section__title text-center"><?= $page->signature_dishes_title()->or('Mis Platos Insignia') ?></h2>
-            <div class="about-dishes__grid">
-                <?php foreach ($page->signature_dishes()->toStructure() as $dish): ?>
-                <div class="about-dishes__item">
-                    <?php if ($img = $dish->image()->toFile()): ?>
-                    <div class="about-dishes__image">
-                        <img src="<?= $img->thumb(['width' => 700, 'height' => 500, 'crop' => true])->url() ?>"
-                             srcset="<?= $img->srcset([400, 600, 700, 1000]) ?>"
-                             sizes="(max-width: 768px) 100vw, 50vw"
-                             alt="<?= $dish->title() ?>"
-                             loading="lazy">
-                    </div>
-                    <?php endif ?>
-                    <div class="about-dishes__content">
-                        <h3 class="about-dishes__title"><?= $dish->title() ?></h3>
-                        <?php if ($dish->description()->isNotEmpty()): ?>
-                            <p class="about-dishes__description"><?= $dish->description() ?></p>
-                        <?php endif ?>
-                    </div>
-                </div>
-                <?php endforeach ?>
-            </div>
-        </div>
-    </section>
-    <?php endif ?>
-
-    <!-- Specialties -->
+    <!-- Specialties (sidebar field, always rendered at end) -->
     <?php if ($page->specialties()->isNotEmpty()): ?>
     <section class="about-specialties section">
         <div class="container">
@@ -135,83 +92,12 @@
     </section>
     <?php endif ?>
 
-    <!-- Education -->
-    <?php if ($page->education()->isNotEmpty()): ?>
-    <section class="about-education section section--alt">
-        <div class="container">
-            <h2 class="section__title"><?= $page->education_title()->or('Formacion') ?></h2>
-            <div class="about-timeline">
-                <?php foreach ($page->education()->toStructure() as $edu): ?>
-                    <div class="about-timeline__item">
-                        <div class="about-timeline__year"><?= $edu->year() ?></div>
-                        <div class="about-timeline__content">
-                            <h3 class="about-timeline__title"><?= $edu->title() ?></h3>
-                            <p class="about-timeline__institution"><?= $edu->institution() ?></p>
-                            <?php if ($edu->description()->isNotEmpty()): ?>
-                                <p class="about-timeline__description"><?= $edu->description() ?></p>
-                            <?php endif ?>
-                        </div>
-                    </div>
-                <?php endforeach ?>
-            </div>
-        </div>
-    </section>
-    <?php endif ?>
-
-    <!-- Experience -->
-    <?php if ($page->experience()->isNotEmpty()): ?>
-    <section class="about-experience section">
-        <div class="container">
-            <h2 class="section__title"><?= $page->experience_title()->or('Experiencia') ?></h2>
-            <div class="about-timeline">
-                <?php foreach ($page->experience()->toStructure() as $exp): ?>
-                    <div class="about-timeline__item">
-                        <div class="about-timeline__year"><?= $exp->period() ?></div>
-                        <div class="about-timeline__content">
-                            <h3 class="about-timeline__title"><?= $exp->position() ?></h3>
-                            <p class="about-timeline__institution"><?= $exp->place() ?></p>
-                            <?php if ($exp->description()->isNotEmpty()): ?>
-                                <p class="about-timeline__description"><?= $exp->description() ?></p>
-                            <?php endif ?>
-                        </div>
-                    </div>
-                <?php endforeach ?>
-            </div>
-        </div>
-    </section>
-    <?php endif ?>
-
     <!-- Notable Places -->
     <?php if ($page->notable_places()->isNotEmpty()): ?>
     <section class="about-notable section section--alt">
         <div class="container">
             <h2 class="section__title"><?= $page->notable_places_title()->or('Lugares Destacados') ?></h2>
             <p class="about-notable__list"><?= $page->notable_places() ?></p>
-        </div>
-    </section>
-    <?php endif ?>
-
-    <!-- Philosophy -->
-    <?php if ($page->philosophy()->isNotEmpty()): ?>
-    <section class="about-philosophy section">
-        <div class="container container--narrow">
-            <h2 class="section__title"><?= $page->philosophy_title()->or('Mi Filosofia') ?></h2>
-            <div class="about-philosophy__content">
-                <?= $page->philosophy()->kt() ?>
-            </div>
-        </div>
-    </section>
-    <?php endif ?>
-
-    <!-- Gallery -->
-    <?php $galleryBlocks = $page->gallery_blocks()->toBlocks(); ?>
-    <?php if ($galleryBlocks->count() > 0): ?>
-    <section class="about-gallery section section--alt">
-        <div class="container">
-            <?php if ($page->gallery_title()->isNotEmpty()): ?>
-                <h2 class="section__title"><?= $page->gallery_title() ?></h2>
-            <?php endif ?>
-            <?= $galleryBlocks ?>
         </div>
     </section>
     <?php endif ?>
@@ -229,7 +115,7 @@
                     <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
                     <polyline points="22,6 12,13 2,6"/>
                 </svg>
-                Enviar Email
+                <?= t('contact.email') ?>
             </a>
         </div>
     </section>

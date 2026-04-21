@@ -1,0 +1,35 @@
+name: Formación
+icon: graduation-cap
+label: "{{ block.title }}"
+preview: fields
+
+fields:
+  title:
+    label: Título de la Sección
+    type: text
+    translate: true
+    default: Formación Profesional
+
+  entries:
+    label: Entradas
+    type: structure
+    translate: true
+    fields:
+      year:
+        label: Año
+        type: text
+        width: 1/4
+      title:
+        label: Título / Certificación
+        type: text
+        translate: true
+        width: 3/4
+      institution:
+        label: Institución
+        type: text
+        translate: true
+      description:
+        label: Descripción
+        type: textarea
+        translate: true
+        size: small

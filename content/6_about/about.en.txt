@@ -14,6 +14,95 @@ Intro: With over 15 years of experience in the culinary industry, my passion is 
 
 ----
 
+Body:
+
+-
+  content:
+    text: |
+      <p>Born in Veracruz, Mexico, and based in Montreal for more than two decades, I have dedicated my life to perfecting the culinary arts. My training combines the rich heritage of Mexican cuisine with the refined techniques of French gastronomy that I acquired at Montreal's finest schools.</p>
+      <p>My career has taken me from fine-dining restaurants like the Ritz-Carlton Montreal and the Fairmont Mont-Tremblant, to residences where I cook with all my heart for those who need it most. Every dish I prepare tells a story, every ingredient has a purpose.</p>
+  id: bio-text
+  isHidden: false
+  type: text
+-
+  content:
+    text: "Cooking is love made visible. Every recipe is a love letter to the people around us."
+    citation: ""
+  id: bio-quote
+  isHidden: false
+  type: quote
+-
+  content:
+    title: "Professional Training"
+    entries:
+      -
+        year: "2025"
+        title: "ASP Cuisine du Marché"
+        institution: "École des Métiers de la Restauration et du Tourisme de Montréal"
+        description: "Specialization in local products, charcuterie, baking, gastronomic desserts, and tasting menus (525 hours)"
+      -
+        year: "2025"
+        title: "DEP in Cooking"
+        institution: "École des Métiers de la Restauration et du Tourisme de Montréal"
+        description: "Professional diploma in culinary arts"
+      -
+        year: "2023"
+        title: "Certification in Food Hygiene and Safety"
+        institution: "MAPAQ"
+        description: "Training for food establishment managers"
+  id: education-block
+  isHidden: false
+  type: education
+-
+  content:
+    title: "Professional Career"
+    entries:
+      -
+        period: "2024 - 2025"
+        position: "Head Chef"
+        place: "Château Vincent D'Indy"
+        description: "Leading the kitchen at this prestigious residence"
+      -
+        period: "2023 - 2024"
+        position: "Head Chef"
+        place: "Héritage Plateau"
+        description: "Full kitchen management, menu development, budget and team oversight"
+      -
+        period: "2022 - 2023"
+        position: "Head Chef"
+        place: "Fairmont Mont-Tremblant"
+        description: "Responsible for the employee cafeteria and rotating kitchen"
+      -
+        period: "2017 - 2020"
+        position: "Kitchen Manager"
+        place: "Le Jardin Nelson"
+        description: "Team management, dish preparation, and quality control"
+      -
+        period: "2015 - 2017"
+        position: "Cook"
+        place: "Marius et Fanny"
+        description: "Kitchen management, dish preparation, and quality supervision"
+  id: experience-block
+  isHidden: false
+  type: experience
+-
+  content:
+    level: h2
+    text: "My Culinary Philosophy"
+  id: philosophy-heading
+  isHidden: false
+  type: heading
+-
+  content:
+    text: |
+      <p>I strongly believe in using fresh, local ingredients, in reducing food waste, and in creating dishes that nourish both body and soul. The Mexican cuisine I prepare honors the traditional recipes of my homeland while incorporating modern techniques and Quebec products.</p>
+      <p>Every recipe on this site is an invitation into my kitchen, a piece of my story shared with you.</p>
+  id: philosophy-text
+  isHidden: false
+  type: text
+
+----
+
 Bio:
 
 Born in Veracruz, Mexico, and based in Montreal for more than two decades, I have dedicated my life to perfecting the culinary arts. My training combines the rich heritage of Mexican cuisine with the refined techniques of French gastronomy that I acquired at Montreal's finest schools.
