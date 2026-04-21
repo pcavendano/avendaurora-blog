@@ -10,6 +10,7 @@ return [
         // Navigation
         'nav.home' => 'Accueil',
         'nav.recipes' => 'Recettes',
+        'nav.mi_cocina' => 'Ma Cuisine',
         'nav.ingredients' => 'Ingrédients',
         'nav.stores' => 'Boutiques',
         'nav.shop' => 'Magasin',
@@ -27,7 +28,7 @@ return [
         'contact.follow' => 'Suivez-moi sur',
 
         // Recipe categories
-        'category.antojitos' => 'Street Food & Snacks',
+        'category.antojitos' => 'Cuisine de Rue & Collations',
         'category.platos-fuertes' => 'Plats Principaux',
         'category.sopas-caldos' => 'Soupes & Bouillons',
         'category.salsas' => 'Salsas & Condiments',
@@ -134,11 +135,24 @@ return [
         // Filters
         'filter.all' => 'Tous',
 
+        // Blog categories
+        'blog.category.ingredientes' => 'Ingrédients',
+        'blog.category.tecnicas' => 'Techniques',
+        'blog.category.cultura' => 'Culture',
+        'blog.category.consejos' => 'Astuces',
+        'blog.category.historias' => 'Histoires',
+        'blog.category.productos' => 'Produits',
+        'blog.featured_badge' => 'À la une',
+        'blog.reading_time_suffix' => 'min de lecture',
+        'blog.empty' => 'Aucun article publié pour le moment.',
+        'article.mentioned_ingredients' => 'Ingrédients Mentionnés',
+
         // Ingredient categories
         'ingredient.category.chiles' => 'Piments',
         'ingredient.category.especias' => 'Épices',
         'ingredient.category.hierbas' => 'Herbes',
         'ingredient.category.granos' => 'Grains & Graines',
+        'ingredient.category.maiz' => 'Maïs & Masa',
         'ingredient.category.lacteos' => 'Produits Laitiers',
         'ingredient.category.carnes' => 'Viandes',
         'ingredient.category.otros' => 'Autres',

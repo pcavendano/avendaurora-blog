@@ -1,56 +1,64 @@
 <?php PageStats::record($page->id()); ?>
 <?php snippet('header') ?>
 
-<article class="contact">
+<article class="contact-page">
 
-    <section class="about-hero">
-        <div class="about-hero__header">
-            <h1 class="about-hero__title"><?= $page->title() ?></h1>
+    <section class="contact-page__hero">
+        <div class="container container--narrow">
+            <h1 class="contact-page__title"><?= $page->title() ?></h1>
             <?php if ($page->intro()->isNotEmpty()): ?>
-                <p class="about-hero__subtitle"><?= $page->intro() ?></p>
+                <p class="contact-page__intro"><?= $page->intro() ?></p>
             <?php endif ?>
         </div>
     </section>
 
-    <section class="about-contact section section--alt" id="contacto">
+    <section class="contact-page__body" id="contacto">
         <div class="container container--narrow">
 
-            <?php if ($page->email()->isNotEmpty()): ?>
-                <p class="about-contact__intro"><?= t('contact.email') ?></p>
-                <a href="mailto:<?= $page->email() ?>" class="btn btn--primary btn--large">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-                        <polyline points="22,6 12,13 2,6"/>
-                    </svg>
-                    <?= $page->email() ?>
-                </a>
-            <?php endif ?>
+            <div class="contact-card">
+                <?php if ($page->email()->isNotEmpty()): ?>
+                    <a href="mailto:<?= $page->email() ?>" class="contact-card__primary">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+                            <polyline points="22,6 12,13 2,6"/>
+                        </svg>
+                        <?= $page->email() ?>
+                    </a>
+                <?php endif ?>
 
-            <?php if ($page->phone()->isNotEmpty()): ?>
-                <p class="about-contact__intro" style="margin-top: 2rem;"><?= t('contact.phone') ?>: <a href="tel:<?= $page->phone() ?>"><?= $page->phone() ?></a></p>
-            <?php endif ?>
-
-            <?php if ($page->location()->isNotEmpty()): ?>
-                <p class="about-contact__intro"><?= t('contact.location') ?>: <?= $page->location() ?></p>
-            <?php endif ?>
+                <dl class="contact-card__details">
+                    <?php if ($page->phone()->isNotEmpty()): ?>
+                        <div class="contact-card__row">
+                            <dt><?= t('contact.phone') ?></dt>
+                            <dd><a href="tel:<?= $page->phone() ?>"><?= $page->phone() ?></a></dd>
+                        </div>
+                    <?php endif ?>
+                    <?php if ($page->location()->isNotEmpty()): ?>
+                        <div class="contact-card__row">
+                            <dt><?= t('contact.location') ?></dt>
+                            <dd><?= $page->location() ?></dd>
+                        </div>
+                    <?php endif ?>
+                </dl>
+            </div>
 
             <?php if ($page->body()->isNotEmpty()): ?>
-                <div class="about-contact__intro" style="margin-top: 2rem;">
+                <div class="contact-page__note">
                     <?= $page->body()->kt() ?>
                 </div>
             <?php endif ?>
 
             <?php if ($site->instagram()->isNotEmpty() || $site->facebook()->isNotEmpty() || $site->youtube()->isNotEmpty()): ?>
-                <div class="about-social" style="margin-top: 2rem;">
-                    <span class="about-social__label"><?= t('contact.follow') ?></span>
+                <div class="contact-page__social">
+                    <span class="contact-page__social-label"><?= t('contact.follow') ?></span>
                     <?php if ($site->instagram()->isNotEmpty()): ?>
-                        <a href="<?= $site->instagram() ?>" target="_blank" rel="noopener" class="about-social__link">Instagram</a>
+                        <a href="<?= $site->instagram() ?>" target="_blank" rel="noopener">Instagram</a>
                     <?php endif ?>
                     <?php if ($site->facebook()->isNotEmpty()): ?>
-                        <a href="<?= $site->facebook() ?>" target="_blank" rel="noopener" class="about-social__link">Facebook</a>
+                        <a href="<?= $site->facebook() ?>" target="_blank" rel="noopener">Facebook</a>
                     <?php endif ?>
                     <?php if ($site->youtube()->isNotEmpty()): ?>
-                        <a href="<?= $site->youtube() ?>" target="_blank" rel="noopener" class="about-social__link">YouTube</a>
+                        <a href="<?= $site->youtube() ?>" target="_blank" rel="noopener">YouTube</a>
                     <?php endif ?>
                 </div>
             <?php endif ?>

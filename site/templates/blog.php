@@ -13,15 +13,15 @@
     <div class="container">
         <!-- Category Filter -->
         <div class="blog-filters">
-            <button class="filter-btn is-active" data-category="all">Todos</button>
+            <button class="filter-btn is-active" data-category="all"><?= t('filter.all') ?></button>
             <?php
             $categories = [
-                'ingredientes' => 'Ingredientes',
-                'tecnicas' => 'Técnicas',
-                'cultura' => 'Cultura',
-                'consejos' => 'Consejos',
-                'historias' => 'Historias',
-                'productos' => 'Productos'
+                'ingredientes' => t('blog.category.ingredientes'),
+                'tecnicas' => t('blog.category.tecnicas'),
+                'cultura' => t('blog.category.cultura'),
+                'consejos' => t('blog.category.consejos'),
+                'historias' => t('blog.category.historias'),
+                'productos' => t('blog.category.productos'),
             ];
             foreach ($categories as $slug => $name):
             ?>
@@ -50,7 +50,7 @@
                             </svg>
                         </div>
                     <?php endif ?>
-                    <span class="featured-article__badge">Destacado</span>
+                    <span class="featured-article__badge"><?= t('blog.featured_badge') ?></span>
                 </div>
                 <div class="featured-article__content">
                     <span class="featured-article__category"><?= $categories[$featured->category()->value()] ?? $featured->category() ?></span>
@@ -61,7 +61,7 @@
                     <div class="featured-article__meta">
                         <span class="featured-article__date"><?= $featured->date()->toDate('d M Y') ?></span>
                         <?php if ($featured->reading_time()->isNotEmpty()): ?>
-                            <span class="featured-article__reading-time"><?= $featured->reading_time() ?> min de lectura</span>
+                            <span class="featured-article__reading-time"><?= $featured->reading_time() ?> <?= t('blog.reading_time_suffix') ?></span>
                         <?php endif ?>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
 
         <?php if ($articles->isEmpty() && !$featured): ?>
             <div class="empty-state">
-                <p>No hay artículos publicados todavía.</p>
+                <p><?= t('blog.empty') ?></p>
             </div>
         <?php endif ?>
     </div>

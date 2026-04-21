@@ -135,11 +135,24 @@ return [
         // Filters
         'filter.all' => 'Todos',
 
+        // Blog categories
+        'blog.category.ingredientes' => 'Ingredientes',
+        'blog.category.tecnicas' => 'Técnicas',
+        'blog.category.cultura' => 'Cultura',
+        'blog.category.consejos' => 'Consejos',
+        'blog.category.historias' => 'Historias',
+        'blog.category.productos' => 'Productos',
+        'blog.featured_badge' => 'Destacado',
+        'blog.reading_time_suffix' => 'min de lectura',
+        'blog.empty' => 'No hay artículos publicados todavía.',
+        'article.mentioned_ingredients' => 'Ingredientes Mencionados',
+
         // Ingredient categories
         'ingredient.category.chiles' => 'Chiles',
         'ingredient.category.especias' => 'Especias',
         'ingredient.category.hierbas' => 'Hierbas',
         'ingredient.category.granos' => 'Granos y Semillas',
+        'ingredient.category.maiz' => 'Maíz y Masa',
         'ingredient.category.lacteos' => 'Lácteos',
         'ingredient.category.carnes' => 'Carnes',
         'ingredient.category.otros' => 'Otros',

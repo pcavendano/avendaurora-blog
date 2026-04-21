@@ -51,9 +51,9 @@
             <div class="footer__links">
                 <h4 class="footer__title"><?= t('nav.ingredients') ?></h4>
                 <ul>
-                    <li><a href="<?= url('ingredientes/chiles') ?>">Chiles</a></li>
-                    <li><a href="<?= url('ingredientes/hierbas') ?>">Hierbas</a></li>
-                    <li><a href="<?= url('ingredientes/maiz') ?>">Maíz y Masa</a></li>
+                    <li><a href="<?= url('ingredientes/chiles') ?>"><?= t('ingredient.category.chiles') ?></a></li>
+                    <li><a href="<?= url('ingredientes/hierbas') ?>"><?= t('ingredient.category.hierbas') ?></a></li>
+                    <li><a href="<?= url('ingredientes/maiz') ?>"><?= t('ingredient.category.maiz') ?></a></li>
                 </ul>
             </div>
 

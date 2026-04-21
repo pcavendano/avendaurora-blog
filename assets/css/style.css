@@ -683,16 +683,26 @@ p + p { margin-top: var(--space-md); }
     overflow: hidden;
 }
 .hero::before {
-    /* small petal scatter, top-left */
+    /* chile scatter, top-left */
     content: "";
     position: absolute;
-    top: 36px; left: 32px;
-    width: 60px; height: 36px;
-    background-image:
-        radial-gradient(circle at 10px 18px, var(--c-hibiscus) 4px, transparent 5px),
-        radial-gradient(circle at 30px 12px, var(--c-talavera) 4px, transparent 5px),
-        radial-gradient(circle at 50px 22px, var(--c-nopal) 3px, transparent 4px);
-    opacity: 0.85;
+    top: clamp(24px, 4vw, 48px);
+    left: clamp(16px, 3vw, 48px);
+    width: clamp(130px, 14vw, 200px);
+    height: clamp(90px, 10vw, 140px);
+    background-image: url('../images/hero-peppers.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    transform-origin: bottom center;
+    animation: hero-chile-sway 7s ease-in-out infinite;
+    pointer-events: none;
+}
+@keyframes hero-chile-sway {
+    0%, 100% { transform: rotate(-1.5deg) translateY(0); }
+    50%      { transform: rotate(1.5deg) translateY(-3px); }
+}
+@media (prefers-reduced-motion: reduce) {
+    .hero::before { animation: none; }
 }
 .hero__brand-section {
     max-width: 900px;
@@ -2605,6 +2615,129 @@ input.form__input:focus {
     .recipe-grid { grid-template-columns: 1fr; }
     .category-grid { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* Contact page */
+.contact-page { background: var(--c-cream, #faf7f1); }
+.contact-page__hero {
+    background: var(--c-marigold);
+    padding: clamp(48px, 8vw, 96px) var(--container-padding) clamp(32px, 5vw, 56px);
+    text-align: center;
+}
+.contact-page__title {
+    font-family: var(--font-display);
+    font-variation-settings: "opsz" 144, "SOFT" 70;
+    font-size: clamp(3rem, 7vw, 5rem);
+    line-height: 1;
+    letter-spacing: -0.02em;
+    color: var(--c-carbon);
+    margin: 0 0 1rem;
+}
+.contact-page__intro {
+    font-family: var(--font-serif, 'Fraunces', serif);
+    font-style: italic;
+    font-size: clamp(1.1rem, 1.6vw, 1.35rem);
+    color: var(--c-carbon);
+    max-width: 640px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+.contact-page__body {
+    padding: clamp(40px, 6vw, 72px) var(--container-padding);
+}
+.contact-card {
+    background: #fff;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 12px;
+    padding: clamp(24px, 4vw, 40px);
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.contact-card__primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.625rem;
+    background: var(--c-hibiscus);
+    color: #fff;
+    padding: 0.875rem 1.5rem;
+    border-radius: 999px;
+    font-weight: 500;
+    font-size: 1.05rem;
+    text-decoration: none;
+    transition: background .2s ease, transform .2s ease;
+}
+.contact-card__primary:hover {
+    background: var(--c-hibiscus-deep);
+    transform: translateY(-1px);
+}
+.contact-card__details {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 2.5rem;
+    justify-content: center;
+}
+.contact-card__row {
+    display: flex;
+    flex-direction: column;
+    gap: 0.125rem;
+    min-width: 140px;
+}
+.contact-card__row dt {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: rgba(0,0,0,0.55);
+    font-weight: 500;
+}
+.contact-card__row dd {
+    margin: 0;
+    font-size: 1rem;
+    color: var(--c-carbon);
+}
+.contact-card__row dd a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color .2s ease;
+}
+.contact-card__row dd a:hover { border-color: var(--c-hibiscus); }
+
+.contact-page__note {
+    max-width: 560px;
+    margin: 2rem auto 0;
+    text-align: center;
+    color: rgba(0,0,0,0.7);
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+.contact-page__note p { margin: 0.5rem 0; }
+
+.contact-page__social {
+    margin: 2rem auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    font-size: 0.9rem;
+}
+.contact-page__social-label {
+    color: rgba(0,0,0,0.55);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.75rem;
+}
+.contact-page__social a {
+    color: var(--c-hibiscus);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color .2s ease;
+}
+.contact-page__social a:hover { border-color: currentColor; }
 
 /* Gallery block */
 .gallery {

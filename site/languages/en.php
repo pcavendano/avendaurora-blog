@@ -10,6 +10,7 @@ return [
         // Navigation
         'nav.home' => 'Home',
         'nav.recipes' => 'Recipes',
+        'nav.mi_cocina' => 'My Kitchen',
         'nav.ingredients' => 'Ingredients',
         'nav.stores' => 'Stores',
         'nav.shop' => 'Shop',
@@ -134,11 +135,24 @@ return [
         // Filters
         'filter.all' => 'All',
 
+        // Blog categories
+        'blog.category.ingredientes' => 'Ingredients',
+        'blog.category.tecnicas' => 'Techniques',
+        'blog.category.cultura' => 'Culture',
+        'blog.category.consejos' => 'Tips',
+        'blog.category.historias' => 'Stories',
+        'blog.category.productos' => 'Products',
+        'blog.featured_badge' => 'Featured',
+        'blog.reading_time_suffix' => 'min read',
+        'blog.empty' => 'No articles published yet.',
+        'article.mentioned_ingredients' => 'Mentioned Ingredients',
+
         // Ingredient categories
         'ingredient.category.chiles' => 'Chiles',
         'ingredient.category.especias' => 'Spices',
         'ingredient.category.hierbas' => 'Herbs',
         'ingredient.category.granos' => 'Grains & Seeds',
+        'ingredient.category.maiz' => 'Corn & Masa',
         'ingredient.category.lacteos' => 'Dairy',
         'ingredient.category.carnes' => 'Meats',
         'ingredient.category.otros' => 'Other',

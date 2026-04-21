@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" width="200" height="140" fill="none" role="img" aria-hidden="true">
+  <!-- Chile ancho: broad, deep burgundy, heart-shaped -->
+  <g transform="translate(8 14) rotate(-14)">
+    <path d="M34 4 Q40 2 48 6 Q46 11 40 13 L36 12 Q32 9 32 5 Z" fill="#4A6B2E"/>
+    <path d="M36 12 Q23 18 18 38 Q16 68 38 82 Q58 74 58 50 Q58 26 48 14 Q42 10 36 12 Z" fill="#9B1B2F"/>
+    <path d="M28 22 Q22 42 28 66" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" fill="none" opacity="0.28"/>
+    <ellipse cx="44" cy="32" rx="3" ry="6" fill="#ffffff" opacity="0.22" transform="rotate(15 44 32)"/>
+  </g>
+
+  <!-- Chipotle: smaller, smoky brown, curled -->
+  <g transform="translate(92 8) rotate(22)">
+    <path d="M20 2 Q26 0 32 4 Q30 9 26 10 L22 10 Q18 8 18 4 Z" fill="#4A6B2E"/>
+    <path d="M22 9 Q12 16 10 34 Q10 52 24 60 Q40 50 36 30 Q34 14 28 8 Q24 6 22 9 Z" fill="#7A3418"/>
+    <path d="M16 18 Q13 36 18 52" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.2"/>
+  </g>
+
+  <!-- Chile serrano: slender, bright green, upright -->
+  <g transform="translate(150 38) rotate(-8)">
+    <path d="M14 2 Q20 0 26 4 Q24 9 20 10 L16 10 Q12 8 12 4 Z" fill="#2E4A1C"/>
+    <path d="M16 9 Q8 18 8 34 Q10 50 20 56 Q30 48 28 32 Q26 14 22 8 Q18 6 16 9 Z" fill="#5F9A3A"/>
+    <path d="M12 16 Q11 34 16 48" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.28"/>
+  </g>
+</svg>

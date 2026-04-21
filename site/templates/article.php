@@ -17,16 +17,10 @@
     <header class="article__header">
         <div class="container container--narrow">
             <?php
-            $categories = [
-                'ingredientes' => 'Ingredientes',
-                'tecnicas' => 'Técnicas Culinarias',
-                'cultura' => 'Cultura Mexicana',
-                'consejos' => 'Consejos del Chef',
-                'historias' => 'Historias y Tradiciones',
-                'productos' => 'Productos y Reseñas'
-            ];
+            $categoryKey = 'blog.category.' . $page->category()->value();
+            $categoryLabel = t($categoryKey, $page->category()->value());
             ?>
-            <span class="article__category"><?= $categories[$page->category()->value()] ?? $page->category() ?></span>
+            <span class="article__category"><?= $categoryLabel ?></span>
             <h1 class="article__title" itemprop="headline"><?= $page->title() ?></h1>
 
             <?php if ($page->subtitle()->isNotEmpty()): ?>
@@ -41,7 +35,7 @@
                 </time>
                 <?php if ($page->reading_time()->isNotEmpty()): ?>
                     <span class="article__separator">•</span>
-                    <span class="article__reading-time"><?= $page->reading_time() ?> min de lectura</span>
+                    <span class="article__reading-time"><?= $page->reading_time() ?> <?= t('blog.reading_time_suffix') ?></span>
                 <?php endif ?>
             </div>
         </div>
@@ -130,7 +124,7 @@
     <?php if ($page->related_ingredients()->isNotEmpty()): ?>
     <section class="article__ingredients section">
         <div class="container">
-            <h2 class="section__title">Ingredientes Mencionados</h2>
+            <h2 class="section__title"><?= t('article.mentioned_ingredients') ?></h2>
             <div class="ingredients-grid">
                 <?php foreach ($page->related_ingredients()->toPages() as $ingredient): ?>
                     <a href="<?= $ingredient->url() ?>" class="ingredient-card">
