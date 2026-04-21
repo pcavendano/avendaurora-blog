@@ -130,7 +130,7 @@ tabs:
             layout: list
             size: medium
             limit: 20
-            info: "{{ page.category }} | {{ page.status }}"
+            info: "{{ page.category }} | {{ page.status }} | 👁 {{ page.views }}"
             search: true
             query: page.children.filterBy('created_by', kirby.user.id)
             empty: No has creado ninguna receta aún.
@@ -150,7 +150,7 @@ tabs:
             layout: list
             size: medium
             limit: 20
-            info: "{{ page.category }} | {{ page.status }}"
+            info: "{{ page.category }} | {{ page.status }} | 👁 {{ page.views }}"
             search: true
             empty: No hay borradores. Cuando importes o crees una receta, aparecerá aquí.
 
@@ -169,7 +169,7 @@ tabs:
             layout: list
             size: medium
             limit: 20
-            info: "{{ page.category }} | {{ page.status }}"
+            info: "{{ page.category }} | {{ page.status }} | 👁 {{ page.views }}"
             search: true
             empty: No hay recetas en revisión.
 
@@ -188,7 +188,7 @@ tabs:
             layout: list
             size: medium
             limit: 20
-            info: "{{ page.category }} | {{ page.status }}"
+            info: "{{ page.category }} | {{ page.status }} | 👁 {{ page.views }}"
             search: true
             empty: Aún no hay recetas publicadas.
 
@@ -207,5 +207,5 @@ tabs:
             layout: list
             size: medium
             limit: 20
-            info: "{{ page.category }} | {{ page.status }}"
+            info: "{{ page.category }} | {{ page.status }} | 👁 {{ page.views }}"
             search: true

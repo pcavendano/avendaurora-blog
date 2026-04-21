@@ -1,3 +1,4 @@
+<?php PageStats::record($page->id()); ?>
 <?php snippet('header') ?>
 
 <!-- Hero Section (GBC-Style) -->

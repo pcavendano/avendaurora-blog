@@ -1,3 +1,4 @@
+<?php PageStats::record($page->id()); ?>
 <?php snippet('header') ?>
 
 <article class="ingredient-page">

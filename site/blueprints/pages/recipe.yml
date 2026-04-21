@@ -175,6 +175,11 @@ columns:
   sidebar:
     width: 1/3
     sections:
+      stats:
+        type: info
+        label: Estadísticas
+        text: "👁 **{{ page.views }}** visualizaciones"
+
       meta:
         type: fields
         fields:

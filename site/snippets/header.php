@@ -30,6 +30,17 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..900,0..100;1,9..144,300..900,0..100&family=Rozha+One&display=swap" rel="stylesheet">
+
+    <?php if (($gaId = $site->google_analytics()->value()) && !($kirby->user() && $kirby->user()->role()->name() === 'admin')): ?>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=<?= esc($gaId) ?>"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '<?= esc($gaId, 'js') ?>', { anonymize_ip: true });
+    </script>
+    <?php endif ?>
 </head>
 <body class="<?= $page->template() ?>">
 
