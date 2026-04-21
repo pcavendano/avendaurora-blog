@@ -171,6 +171,35 @@
     }
 
     // ========================================
+    // Language Switcher Dropdown
+    // ========================================
+    var langWrap = document.getElementById('languageSwitcher');
+    var langToggle = document.getElementById('languageSwitcherToggle');
+
+    if (langWrap && langToggle) {
+        langToggle.addEventListener('click', function(e) {
+            e.stopPropagation();
+            var isOpen = langWrap.classList.toggle('is-open');
+            langToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        });
+
+        document.addEventListener('click', function(e) {
+            if (!langWrap.contains(e.target)) {
+                langWrap.classList.remove('is-open');
+                langToggle.setAttribute('aria-expanded', 'false');
+            }
+        });
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && langWrap.classList.contains('is-open')) {
+                langWrap.classList.remove('is-open');
+                langToggle.setAttribute('aria-expanded', 'false');
+                langToggle.focus();
+            }
+        });
+    }
+
+    // ========================================
     // Favorite Button
     // ========================================
     document.querySelectorAll('[data-favorite-btn]').forEach(function(btn) {

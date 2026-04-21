@@ -524,24 +524,78 @@ p + p { margin-top: var(--space-md); }
 
 /* Language switcher */
 .language-switcher {
+    position: relative;
     display: inline-flex;
     align-items: center;
-    gap: 6px;
     font-size: 11px;
     letter-spacing: 0.18em;
     text-transform: uppercase;
     color: var(--c-comal);
 }
-.language-switcher a {
-    color: var(--c-comal);
-    padding: 4px 6px;
-    transition: color var(--transition-fast);
+.language-switcher__current {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 6px 8px;
+    background: transparent;
+    border: none;
+    color: inherit;
+    font: inherit;
+    letter-spacing: inherit;
+    text-transform: inherit;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background var(--transition-fast), color var(--transition-fast);
 }
-.language-switcher a:hover,
-.language-switcher .is-active {
+.language-switcher__current:hover,
+.language-switcher.is-open .language-switcher__current {
+    background: rgba(0,0,0,0.04);
+    color: var(--c-carbon);
+}
+.language-switcher__chevron {
+    transition: transform var(--transition-fast);
+}
+.language-switcher.is-open .language-switcher__chevron {
+    transform: rotate(180deg);
+}
+.language-switcher__dropdown {
+    position: absolute;
+    top: calc(100% + 6px);
+    right: 0;
+    min-width: 140px;
+    margin: 0;
+    padding: 4px;
+    list-style: none;
+    background: var(--c-maiz, #fff);
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 6px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-4px);
+    transition: opacity var(--transition-fast), transform var(--transition-fast), visibility var(--transition-fast);
+    z-index: 50;
+}
+.language-switcher.is-open .language-switcher__dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+.language-switcher__dropdown li { margin: 0; }
+.language-switcher__dropdown a {
+    display: block;
+    padding: 8px 12px;
+    color: var(--c-comal);
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background var(--transition-fast), color var(--transition-fast);
+}
+.language-switcher__dropdown a:hover,
+.language-switcher__dropdown .is-active {
+    background: rgba(200,25,74,0.06);
     color: var(--c-hibiscus);
 }
-.language-switcher .separator { opacity: 0.5; }
+.language-switcher__dropdown .is-active { font-weight: 600; }
 
 /* ----------------------------------------
    8. Footer
