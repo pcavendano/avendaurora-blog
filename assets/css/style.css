@@ -1015,7 +1015,7 @@ p + p { margin-top: var(--space-md); }
 .breadcrumb > .container > span:not(:has(a)) { color: var(--c-carbon); }
 
 .recipe__header {
-    padding-block: var(--space-2xl);
+    padding-block: var(--space-lg) var(--space-md);
     background: var(--c-papel);
     text-align: center;
 }
@@ -1094,7 +1094,7 @@ p + p { margin-top: var(--space-md); }
 }
 
 .recipe__hero {
-    padding-block: var(--space-md) var(--space-2xl);
+    padding-block: var(--space-sm) var(--space-lg);
 }
 .recipe__hero-image {
     width: 100%;

@@ -18,7 +18,6 @@
     <!-- Recipe Header -->
     <header class="recipe__header">
         <div class="container">
-            <span class="recipe__category"><?= t('category.' . $page->category()) ?></span>
             <h1 class="recipe__title" itemprop="name"><?= $page->title() ?></h1>
 
             <?php if ($page->description()->isNotEmpty()): ?>
