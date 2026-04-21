@@ -24,8 +24,35 @@
             <?php if ($page->description()->isNotEmpty()): ?>
                 <p class="recipe__description" itemprop="description"><?= $page->description() ?></p>
             <?php endif ?>
+        </div>
+    </header>
 
-            <!-- Recipe Actions -->
+    <!-- Hero Image -->
+    <?php if ($cover = $page->cover()->toFile()): ?>
+    <div class="recipe__hero">
+        <div class="container">
+            <img src="<?= $cover->thumb(['width' => 1200])->url() ?>"
+                 srcset="<?= $cover->srcset([600, 900, 1200, 1800]) ?>"
+                 sizes="(max-width: 1200px) 100vw, 1200px"
+                 alt="<?= $cover->alt()->or($page->title())->value() ?>"
+                 itemprop="image"
+                 class="recipe__hero-image">
+        </div>
+    </div>
+    <?php elseif ($page->original_image()->isNotEmpty()): ?>
+    <div class="recipe__hero">
+        <div class="container">
+            <img src="<?= $page->original_image() ?>"
+                 alt="<?= $page->title() ?>"
+                 itemprop="image"
+                 class="recipe__hero-image">
+        </div>
+    </div>
+    <?php endif ?>
+
+    <!-- Recipe Actions -->
+    <div class="recipe__actions-wrap">
+        <div class="container">
             <div class="recipe__actions">
                 <?php
                 $isFavorite = false;
@@ -65,30 +92,7 @@
                 </button>
             </div>
         </div>
-    </header>
-
-    <!-- Hero Image -->
-    <?php if ($cover = $page->cover()->toFile()): ?>
-    <div class="recipe__hero">
-        <div class="container">
-            <img src="<?= $cover->thumb(['width' => 1200])->url() ?>"
-                 srcset="<?= $cover->srcset([600, 900, 1200, 1800]) ?>"
-                 sizes="(max-width: 1200px) 100vw, 1200px"
-                 alt="<?= $page->title() ?>"
-                 itemprop="image"
-                 class="recipe__hero-image">
-        </div>
     </div>
-    <?php elseif ($page->original_image()->isNotEmpty()): ?>
-    <div class="recipe__hero">
-        <div class="container">
-            <img src="<?= $page->original_image() ?>"
-                 alt="<?= $page->title() ?>"
-                 itemprop="image"
-                 class="recipe__hero-image">
-        </div>
-    </div>
-    <?php endif ?>
 
     <!-- Recipe Meta -->
     <div class="recipe__meta">

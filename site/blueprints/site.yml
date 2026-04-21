@@ -25,6 +25,33 @@ tabs:
               - interview
               - default
 
+  media:
+    label: Medios
+    icon: image
+    columns:
+      main:
+        width: 1/1
+        sections:
+          media_intro:
+            type: info
+            label: Biblioteca de Imágenes
+            text: |
+              Sube imágenes aquí para reutilizarlas en cualquier página del sitio. Haz clic en una imagen para editar su texto alternativo, pie de foto, renombrarla o eliminarla.
+
+              **Consejo:** rellena siempre el campo **Texto alternativo** — mejora el SEO y la accesibilidad.
+          media_library:
+            type: files
+            headline: Biblioteca
+            template: default
+            layout: cards
+            image:
+              ratio: 1/1
+              cover: true
+            info: "{{ file.dimensions }} · {{ file.niceSize }}"
+            sortBy: sort asc filename asc
+            size: small
+            search: true
+
   general:
     label: General
     icon: settings

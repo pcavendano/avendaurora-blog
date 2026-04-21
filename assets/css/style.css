@@ -1062,11 +1062,13 @@ p + p { margin-top: var(--space-md); }
     margin-inline: auto;
 }
 
+.recipe__actions-wrap {
+    padding-block: var(--space-md) var(--space-xl);
+}
 .recipe__actions {
     display: flex;
     justify-content: center;
     gap: var(--space-md);
-    margin-top: var(--space-xl);
     flex-wrap: wrap;
 }
 .recipe__action {
@@ -2512,7 +2514,7 @@ input.form__input:focus {
    23. Print
    ---------------------------------------- */
 @media print {
-    .header, .footer, .recipe__actions,
+    .header, .footer, .recipe__actions-wrap, .recipe__actions,
     .recipe__sidebar, .related-recipes,
     .breadcrumb, .recipe-filters, .blog-filters {
         display: none !important;
