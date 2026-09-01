@@ -1,6 +1,7 @@
 # Claude Code: share the plugin/marketplace config, keep local overrides private
 .claude/*
 !.claude/settings.json
+!.claude/skills/
 
 # IDE
 .idea/
