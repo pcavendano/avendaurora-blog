@@ -1,5 +1,6 @@
-# Claude Code local config
-.claude/
+# Claude Code: share the plugin/marketplace config, keep local overrides private
+.claude/*
+!.claude/settings.json
 
 # IDE
 .idea/
